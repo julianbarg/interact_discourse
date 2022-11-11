@@ -1,0 +1,145 @@
+---
+date: "2022-11-08"
+output: markdown
+---
+
+## Functions
+
+```{r load, include=F}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(here)
+library(glue)
+options(max.print = 1000)
+util_folder <- c("util")
+beep <- function(){
+  system(str_c("notify-send 'Task complete.'",
+               "&& paplay /usr/share/sounds/Yaru/stereo/message.oga"))
+}
+```
+
+## Input
+
+```{r input}
+metadata <- yaml::read_yaml(here("input", "metadata.yaml"))
+known_entities <- yaml::read_yaml(here("input", "known_entities.yaml")) %>%
+  map_dfr(flatten_dfc) %>%
+  {set_names(.$token, .$regex)}
+```
+
+## Loader
+
+```{r load}
+source(here(util_folder, "load_data.R"))
+source(here("input", "load_fixes.R"))
+data <- metadata$index %>%
+    map(read_data) %>%
+    map(~ fixes[[.x$group]](.x))
+glimpse(data[[11]])
+```
+
+## Entities
+
+```{r entities}
+z_cutoff <- 25
+source(here(util_folder, "get_compound_candidates.R"))
+
+entities <- data %>%
+  map(~ .x$document$content) %>%
+  flatten_chr() %>%
+  get_compound_candidates(known_entities) %>%
+  select(collocation, count, lambda, z)
+entities %>%
+  arrange(desc(z))
+collocations <- entities %>%
+  filter(str_length(collocation) > 5) %>%
+  filter(z > z_cutoff)
+beep()
+```
+
+```{r entities_2}
+collocations %>%
+  arrange(desc(lambda))
+```
+
+## Tokenize
+
+```{r tokenize}
+source(here(util_folder, "tokenize.R"))
+data_tokens <- data %>%
+  map(~ list_modify(.x, tokens = 
+                      tokenize(.x$document, 
+                               known_entities, 
+                               collocations$collocation)))
+glimpse(data_tokens[1:2])
+beep()
+```
+
+# Frequency
+
+1. Infrequent
+
+```{r infrequent}
+low_freq_cutoff <- 0.015
+source(here(util_folder, "count_by_doc.R"))
+source(here(util_folder, "get_frequency.R"))
+frequency <- data_tokens %>%
+  map_dfr(count_by_doc) %>%
+  get_frequency()
+infrequent <- frequency %>%
+  filter(share < 0.015) 
+infrequent %>%
+  arrange(desc(frequency), token)
+data_frequent <- data_tokens %>%
+  map(~ modify_at(.x, "tokens", ~ anti_join(.x, infrequent, by = "token")))
+```
+
+2. tfidf 
+
+```{r tfidf}
+tfidf_cutoff <- 0.09
+source(here(util_folder, "prop_tfidf.R"))
+source(here(util_folder, "remove_tfidf.R"))
+tfidf <- data_frequent %>%
+  map_dfr(count_by_doc) %>%
+  prop_tfidf(tfidf_cutoff)
+arrange(tfidf, desc(tf_idf))
+high_tfidf_data <- data_frequent  %>%
+  map(remove_tfidf, tfidf)
+glimpse(high_tfidf_data[1:2])
+```
+
+Too frequent
+
+```{r frequent_tokens}
+too_frequent_cutoff <- 0.3
+frequency_2 <- high_tfidf_data %>%
+  map_dfr(count_by_doc) %>%
+  get_frequency()
+frequency_2 %>%
+  arrange(desc(frequency))
+frequent <- frequency_2 %>%
+  filter(share > too_frequent_cutoff)
+trimmed_data <- high_tfidf_data %>%
+  map(~ modify_at(.x, "tokens", ~ anti_join(.x, frequent, by = "token")))
+glimpse(trimmed_data[1:2])
+```
+
+## Count tokens
+
+```{r count}
+count_tokens <- function(df){
+  df %>%
+    group_by(order) %>%
+    summarize(total_tokens = sum(n), .groups = "drop")
+}
+data_counted <- trimmed_data %>%
+  map(~ list_modify(.x, token_counts = count_tokens(.x$tokens)))
+glimpse(data_counted[[11]])
+```
+
+## Save
+
+```{r save}
+write_rds(data_counted, here("output", "trimmed_data.rds"))
+```

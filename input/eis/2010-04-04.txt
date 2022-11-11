@@ -1,0 +1,156 @@
+## Greenhouse Gases and Climate Change
+
+The principal GHGs are carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), ozone, and water vapor.
+CO2 is the reference gas for climate change; therefore, measures of non-CO2 GHGs are converted into CO2-equivalent values based on their potential to absorb heat in the atmosphere.
+The principal GHG of concern related to crude oil pipeline construction and operation is CO2, which enters the atmosphere through the burning of fossil fuels (e.g., oil, natural gas, and coal), solid waste, and trees and wood products, and as a result of other chemical reactions (e.g., manufacture of cement).
+CO2 is removed from the atmosphere (or "sequestered") when it is absorbed by plants as part of the biological carbon cycle.
+
+Climate change is defined by the United Nations Framework Convention on Climate Change as "a change of climate which is attributed directly or indirectly to human activity that alters the composition of the global atmosphere and which is in addition to natural climate variability observed over comparable time periods" (EPA 2008).
+Natural processes (including changes in the sun's intensity, slow changes in the Earth's orbit around the sun, or changes in ocean circulation) and human activities (including fossil fuel combustion, deforestation, reforestation, and urbanization) emit GHGs.
+The accumulation of GHGs in the atmosphere affects the Earth's temperature; however, emissions from human activities have caused the concentrations of heat-trapping GHGs to increase significantly in the atmosphere.
+These gases prevent heat from escaping to space, somewhat like the glass panels of a greenhouse.
+This accumulation has contributed to an increase in the temperature of the Earth's atmosphere and to climate change.
+If GHGs continue to increase, climate models predict that the average temperature at the Earth's surface could increase from 3.2 to 7.2 ºF above 1990 levels by the end of this century.
+Most scientists agree that human activities are changing the composition of the atmosphere, and that increasing the concentration of GHGs affects climate change.
+The rate, intensity, and effects of climate change continue to be assessed.
+
+The increased concentration of CO2 in the atmosphere has also increased ocean acidity since pre-industrial times (EPA 2009).
+The extent of ocean acidification is correlated with atmospheric CO2 concentration.
+Ocean acidification affects future climate change by diminishing the ocean's capacity to absorb increasing atmospheric CO2.
+
+### Regulations relating to Greenhouse Gases
+
+On September 22, 2009 the EPA promulgated the first comprehensive national system for reporting emissions of carbon dioxide and other GHGs produced by major sources in the United States.
+Through this new reporting, EPA will have comprehensive and accurate data about the production of GHGs in order to confront climate change.
+Approximately 13,000 facilities, accounting for about 85 to 90 percent of GHGs emitted in the United States, would be covered under the proposed reporting system.
+The new reporting requirements would apply to suppliers of fossil fuel and industrial chemicals, manufacturers of motor vehicles and engines, and large direct emitters of greenhouse gases with emissions equal to or greater than a threshold of 25,000 metric tons per year.
+This threshold is roughly equivalent to the annual GHG emissions from just over 4,500 passenger vehicles.
+The direct emission sources covered under the reporting requirement would include energy intensive sectors such as cement production, iron and steel production, and electricity generation, among others.
+The gases covered by the proposed rule are carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFC), perfluorocarbons (PFC), sulfur hexafluoride (SF6), and other fluorinated gases, including nitrogen trifluoride (NF3) and hydrofluorinated ethers (HFE).
+The first annual report would be submitted to EPA in 2011 for the calendar year 2010, except for vehicle and engine manufacturers, which would begin reporting for model year 2011.
+
+According to the preamble of the rule, the U.S. petroleum and natural gas industry encompasses hundreds of thousands of wells, hundreds of processing facilities, and over a million miles of transmission and distribution pipelines.
+Crude oil is commonly transported by barge, tanker, rail, truck, and pipeline from production operations and import terminals to petroleum refineries or export terminals.
+Typical equipment associated with these operations includes storage tanks and pumping stations.
+The major sources of CH4 and CO2 fugitive emissions include releases from tanks and marine vessel loading operations.
+EPA does not propose to include the crude oil transportation segment of the petroleum and natural gas industry in this rulemaking due to its small contribution to total petroleum and natural gas fugitive emissions, accounting for much less than 1 percent, and the difficulty in defining a facility.
+The responsibility for reporting will instead be placed on the processing plants and refineries.
+
+In addition, on September 30, 2009, EPA announced a proposal that is focused on large facilities emitting over 25,000 tons of greenhouse gases a year.
+These facilities would be required to obtain permits that would demonstrate they are using the best practices and technologies to minimize GHG emissions.
+The rule proposes new thresholds for GHG emissions that define when the Clean Air Act (CAA) permits under the New Source Review (NSR) and the Title V operating permits programs would be required for new or existing industrial facilities.
+The proposed thresholds would "tailor" the permit programs to limit the facilities that would be required to obtain NSR and Title V permits.
+The program would cover nearly 70 percent of the national GHG emissions that come from stationary sources, including those from the nation's largest emitters (e.g., power plants, refineries, and cement production facilities).
+
+On April 2, 2007, in Massachusetts v. EPA, 549 U.S. 497 (2007), the Supreme Court found that GHGs are air pollutants covered by the CAA.
+The Court held that the EPA Administrator must determine whether or not emissions of GHGs from new motor vehicles cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare, or whether the science is too uncertain to make a reasoned decision.
+In making these decisions, the Administrator is required to follow the language of section 202(a) of the CAA.
+The Supreme Court decision resulted from a petition for rulemaking under section 202(a) filed by more than a dozen environmental, renewable energy, and other organizations.
+As a result of this decision, on April 24, 2009, the EPA proposed the Endangerment and Cause or Contribute Findings for Greenhouse Gases under the CAA to find that the current and projected concentrations of the mix of six key GHGs (CO2, CH4, N2O, HFCs, PFCs, and SF6) in the atmosphere threaten the public health and welfare of current and future generations.
+This is referred to as the endangerment finding.
+The Administrator is further proposing to find that the combined emissions of CO2, CH4, N2O, and HFCs from new motor vehicles and motor vehicle engines contribute to the atmospheric concentrations of these key greenhouse gases and hence to the threat of climate change.
+This is referred to as the cause or contribute finding.
+This proposed action, as well as any final action in the future, would not itself impose any requirements on industry or other entities.
+An endangerment finding under one provision of the CAA would not by itself automatically trigger regulation under the entire Act.
+
+Programs for GHG emissions are being adopted by some states along the Project corridor.
+Montana is a member of the Western Climate Initiative (WCI).
+The WCI is a collaborative effort of seven U.S.
+states and four Canadian provinces to identify, evaluate, and implement measures to reduce GHG emissions in participating jurisdictions.
+The WCI has a regional GHG target of 15 percent below 2005 levels by 2020 that will be met through a regional market-based multi-sector mechanism, as well as other policies.
+The recommended cap-and-trade program has a broad scope that includes six GHGs (CO2, CH4, N2O, HFCs, PFCs, and SF6) and will cover 90 percent of GHG emissions from the region when fully implemented.
+The cap-and-trade program will begin January 1, 2012.
+
+The Governor of Nebraska, along with ten other Midwestern Governors and one Canadian province Premier, is a member of the Energy Security and Climate Stewardship Platform for the Midwest.
+The Platform lists goals for energy efficiency improvements, low-carbon transportation fuel availability, renewable electricity production, and carbon capture and storage development.
+In addition to goals related to energy efficiency, renewable energy sources, and biofuel production, the Platform lays out objectives with respect to carbon capture and storage (CCS).
+Members agree to have in place a regional regulatory framework for CCS by 2010, and by 2012 to have sited and permitted a multi-jurisdiction CO2 transport pipeline and have in operation at least one commercial-scale coal-powered integrated gasification combined cycle (IGCC) power plant with CCS, with additional plants to follow in succeeding years.
+By 2020, all new coal plants in the region will capture and store CO2 emissions.
+Numerous policy options are described for states to consider as they work towards these goals.
+The Platform also lays out six cooperative regional agreements.
+These resolutions establish a Carbon Management Infrastructure Partnership, a Midwestern Biobased Product Procurement System, coordination across the region for biofuels development, and a working group to pursue a collaborative, multi-jurisdictional transmission initiative.
+States adopting all or part of the Platform include Wisconsin, Minnesota, South Dakota, Illinois, Indiana, Iowa, Kansas, Michigan, Missouri, Nebraska, North Dakota, and Ohio, as well as the Canadian Province of Manitoba.
+
+Kansas, on November 15, 2007, joined five other states and one Canadian province to establish the Midwestern Regional Greenhouse Gas Reduction Accord.
+Under the Accord, members agree to establish regional GHG reduction targets, including a long-term target of 60 to 80 percent below current emissions levels, and develop a multi-sector cap-and-trade system to help meet the targets.
+Participants also establish a GHG emissions reductions tracking system and implement other policies, such as low-carbon fuel standards, to aid in reducing emissions.
+
+In South Dakota, on February 21, 2008, Governor Mike Rounds signed into law HB 1272, which established a voluntary Renewable Portfolio objective of 10 percent by 2015.
+Oklahoma and Texas currently do not have state initiatives addressing the reduction in greenhouse gases, although Senate Bill 184 calls on the Texas Commission on Environmental Quality (TCEQ) to develop and present a report to the legislature by December 31, 2010, recommending strategies to reduce the greenhouse gas emissions by businesses and consumers of the state.
+
+### Environmental Consequences and Mitigation
+
+Neither the federal government nor states crossed by the proposed Project have established thresholds for determining the significance of GHG emissions.
+While no thresholds currently exist, this assessment of GHG emissions was conducted in accordance with CEQ guidance including CEQ's draft guidance for GHG (CEQ 2010).
+
+There is a general scientific consensus that the cumulative effects of GHG have led to climate change on a global scale, which is considered a significant cumulative effect.
+As demonstrated in Table 3.14.3-2, GHG emissions during construction of the Project would total approximately 235,378.0 tons of CO2- equivalent over the 3-year construction period, primarily associated with the operation of diesel-powered equipment (indirect emissions cannot be meaningfully quantified).
+GHG construction emissions estimates for each state that would be crossed by the Project are presented in Table 3.14.3-6.
+
+As demonstrated in Table 3.14.3-2, direct GHG emissions during operation of the Project would total approximately 85 tons per year of CO2-equivalent.
+
+**TABLE 3.14.3-6 Estimated GHG Emissions for the Project**
+
+**State 3-Year Construction CO2-e a (tons)**
+
+Montana 67787.85
+
+South Dakota 93419.58
+
+Nebraska 22251.18
+
+Oklahoma 7417.06
+
+Texas 44502.36
+
+**Total 235378.02** a CO2 equivalent is conservatively estimated by assuming all total organic compounds are methane and multiplying by 21 for the global warming potential (GWP) for methane.
+
+CO2-e = Carbon dioxide equivalents.
+
+Source: Keystone 2009
+
+Indirect GHG-related emissions during operation would be associated with electrical generation for the pump stations (approximately 2.6 to 4.4 million tons of CO2 per year for a proposed initial capacity of 700,000 bpd and a potential capacity of 900,000 bpd, respectively, as calculated using EPA's AP-42 emission factor for large diesel engines and assuming 30 pump stations with 79 to 132 pumps rated at 6,500 hp).
+
+Refining of the oil transported by the Project would also indirectly emit GHGs.
+Refining at existing refineries that are not upgrading to increase their capacity for processing heavy crude oil would not be expected to cause a substantial increase in GHG emissions relative to those associated with currently permitted heavy crude oil refining.
+GHG emissions from upgraded refineries or new refineries would represent an incremental increase in GHG.
+Comprehensive information on GHG emissions from refineries in general is not available, but there is some information on the relative magnitude of incremental GHG emissions associated with refinery upgrades and literature on the carbon emissions for refining a barrel of oil.
+
+For the BP Whiting Indiana Refinery in PADD II, BP reports that the 260,000 bpd upgrade project will result in a 30- to 40-percent increase in CO2 emissions for the refinery, resulting in an incremental increase in CO2 emissions up to 0.5 million tons per year.
+The Motiva Refinery in PADD III is expanding to increase its capacity by an additional 325,000 bpd.
+Although specific emissions would vary among refinery expansions, the expansion of the Motiva Refinery could be expected to increase emissions by 0.6 million tons per year if it resulted in the same rate of emissions per barrel as the BP Whiting refinery upgrade.
+Further, applying this value to the volume transported by the Project (initial capacity of 700,000 bpd and a potential capacity of 900,000 bpd) indicates that the incremental increase in GHG emissions represented by the Project could be approximately 1.3 to 1.7 million tons of CO2 per year.
+This also assumes that the entire volume of oil transported by the Project would be heavy crude oil.
+As mentioned previously, emission estimates are refinery specific, and emission rates at different refineries could vary broadly.
+
+Information is also available on the total GHG emissions associated with refining a single barrel of heavy crude oil independent of a specific refinery.
+A report by the University of Toronto (2008) estimates that refining one barrel of heavy crude oil from oil sands emits a total of 47.4 kilograms of CO2, including the refining process itself and energy generation for the refining process.
+Applying these values to the volume transported by the Project indicates that CO2 emissions from refining could total 13.3 to 17.2 million tons per year.
+Similarly, preliminary estimates by the Natural Resources Defense Council (NRDC 2008) indicate that GHG emissions from refining heavy crude oil from oil sands would range from approximately 9.4 to 31.5 kilograms per barrel.
+Applying these values to the Project and assuming that the entire volume was heavy crude oil indicates that total GHG emissions for refining the volume transported by the Project could range from 2.6 to 8.9 million tons of CO2 per year at 700,000 bpd and from 3.4 to 11.4 million tons of CO2 per year at 900,000 bpd.
+As a third example, Marathon reports that GHG emissions for all their refining operations total approximately 33 kilograms per barrel of oil (Marathon 2006), which falls between the range of values reported by the University of Toronto and NRDC.
+Applying the Marathon value to the Project volume indicates that GHG emissions could total 9.3 to 11.9 million tons of CO2 per year.
+
+Based on these values, refining the oil transported by the Project would result in total emissions in the range of 1.3 to 17.2 million tons of CO2 per year.
+In reality, the incremental increase in GHG emissions due to refining the oil transported by the Project would likely be much less since it is expected to be primarily replacing the existing supply of heavy crude oil from other sources as the availability of oil from those sources continues to diminish.
+If, however, the heavy crude oil transported by the project replaced existing light crude oil, there could be some incremental increases in emissions and emission rates would be dependent on refinery-specific permitted thresholds, potential upgrades, and implementation of BACT.
+From a global perspective, it is expected that the oil sands in Canada would continue to be developed and the refinery emissions from that oil would still occur whether the oil was refined or used in the Canada, the United States, or overseas even if the Project were not built.
+In that case, the Canadian oil would produce emissions during transportation whether by rail, ship, or truck.
+The impacts associated with oil transportation and refining outside the United States would not be regulated by the United States nor analyzed under NEPA.
+
+The total GHG emissions for the United States (CO2 equivalents from anthropogenic activities) totaled 7,054 million tons in 2006, and global CO2 emissions totaled 28,193 million tons in 2005 (CO2 equivalents from fuel combustion) (EPA 2008).
+Indirect and direct annual operations activities associated with the proposed Project represent 0.06 to 0.31 percent of the national and 0.01 to 0.08 percent of the global GHG emissions.
+Construction activities associated with the proposed Project for each year represent less than 0.002 percent and 0.0005 percent of the national and global GHG emissions, respectively.
+While the EPA has released proposed regulations that would require approximately 13,000 facilities nationwide to monitor and report their carbon dioxide and other greenhouse gas emissions, the proposed Project would not satisfy the definition of these regulated facilities and there are no federal regulations or guidance to definitively identify the significance of the GHG emissions associated with operation of the Project.
+It is estimated that the amount of GHG emissions from Project construction and operations should not constitute a substantial contribution to the U.S. or global emissions due to the low percentage emission presented above, as compared with national and global emissions.
+
+The mitigation measures implemented as part of the Project as discussed in the draft CMR Plan (Appendix B) would serve to offset some of the GHG emissions associated with the proposed Project.
+These measures would include revegetation of the construction work areas, restoration of wetland functions, and compensatory wetland mitigation for wetland impacts.
+Specific revegetation measures would be coordinated with land managers, NRCS, and landowners.
+Minimal direct GHG emissions would be associated with operation (e.g., vehicle operation and fugitive emissions), and indirect emissions would be associated with electrical generation for the pump stations and refineries.
+
+The potential impacts of climate change would not be expected to affect the proposed Project.
+An increase in temperatures may increase wildfires in the Project area.
+An increased intensity of storm events, should this occur, may result in additional flooding in some areas near the Project, particularly in the Gulf Coast Segment and Houston Lateral should hurricane activity increase as a result of oceanic temperature conditions.
+The Project would be designed and constructed to be consistent with applicable federal, state, and local standards, and therefore should be resistant to forces associated with reasonably likely climate conditions during the lifetime of the pipeline system.
+Other effects of climate change, such as air quality degradation, health effects, reduced snow pack, and agricultural issues, would not likely impact the proposed Project.

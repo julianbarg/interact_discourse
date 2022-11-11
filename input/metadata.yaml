@@ -1,0 +1,394 @@
+index:
+  # Nebraska legislature
+  - file: ne_legislature/2010-02-17.txt
+    description: Nebraska Legislature Natural Resources Committee public hearing on February 17, 2010.
+    source: https://www.nebraskalegislature.gov/FloorDocs/101/PDF/Transcripts/Natural/2010-02-17.pdf
+    title: ne_2010-02-17
+    type: arena
+    group: ne_legislature
+    date: 2010-02-17
+  - file: ne_legislature/2010-12-01.txt
+    description: Nebraska Legislature Natural Resources Committee public hearing on December 1, 2010.
+    source: https://www.nebraskalegislature.gov/FloorDocs/101/PDF/Transcripts/Natural/2010-12-01.pdf
+    title: ne_2010-12-01
+    type: arena
+    group: ne_legislature
+    date: 2010-12-01
+  - file: ne_legislature/2011-02-09.txt
+    description: Nebraska Legislature Natural Resources Committee public hearing on February 9, 2011.
+    source: https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Natural/2011-02-09.pdf
+    title: ne_2011-02-09
+    type: arena
+    group: ne_legislature
+    date: 2011-02-09
+  - file: ne_legislature/2011-05-19.txt
+    description: Nebraska Legislature Floor Debate May 19, 2011.
+    source: https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/FloorDebate/r1day82.pdf
+    title: ne_2011-05-19
+    type: arena
+    group: ne_legislature
+    date: 2011-05-19
+  - file: ne_legislature/2011-11-07.txt
+    description: Nebraska Legislature Natural Resources Committee public hearing on November 7, 2011.
+    source: https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Natural/2011-11-07.pdf
+    title: ne_2011-11-07
+    type: arena
+    group: ne_legislature
+    date: 2011-11-07
+  - file: ne_legislature/2011-11-08.txt
+    description: Nebraska Legislature Natural Resources Committee public hearing on November 8, 2011.
+    source: https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Natural/2011-11-08.pdf
+    title: ne_2011-11-08
+    type: arena
+    group: ne_legislature
+    date: 2011-11-08
+  - file: ne_legislature/2011-11-08_judiciary.txt
+    description: Nebraska Legislature Judiciary Committee public hearing on November 8, 2011.
+    source: https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Judiciary/2011-11-08.pdf
+    title: ne_2011-11-08_judiciary
+    type: arena
+    group: ne_legislature
+    date: 2011-11-08
+  - file: ne_legislature/2011-11-09.txt
+    description: Nebraska Legislature Natural Resources Committee public hearing on November 9, 2011.
+    source: https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Natural/2011-11-09.pdf
+    title: ne_2011-11-09
+    type: arena
+    group: ne_legislature
+    date: 2011-11-09
+  - file: ne_legislature/2011-11-14.txt
+    description: Nebraska Legislature Natural Resources Committee public hearing on November 14, 2011.
+    source: https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Natural/2011-11-14.pdf
+    title: ne_2011-11-14
+    type: arena
+    group: ne_legislature
+    date: 2011-11-14
+  - file: ne_legislature/2011-11-15.txt
+    description: Nebraska Legislature Natural Resources Committee public hearing on November 15, 2011.
+    source: https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Natural/2011-11-15.pdf
+    title: ne_2011-11-15
+    type: arena
+    group: ne_legislature
+  # Reports
+  - file: reports/nwf_2010-06-09.txt
+    description: "Report by the National Wildlife Federation 'Staying Hooked on a Dirty Fuel'."
+    source: https://web.archive.org/web/20110506065138/https://www.nwf.org/News-and-Magazines/Media-Center/Reports/Archive/2010/~/media/PDFs/Global%20Warming/Reports/NWF_TarSands_final.ashx
+    title: nwf_2010-06-09
+    type: report
+    group: other
+    stance:
+      - National Wildlife Federation
+  - file: reports/anti_2010-05-01.txt
+    description: Brief report about Keystone XL and tar sands.
+    source: https://www.nrdc.org/sites/default/files/TarSandsInvasion.pdf
+    title: anti_2010-05-01
+    type: report
+    group: other
+    date: 2010-05-01
+    stance:
+      - Sierra Club
+      - EARTHWORKS
+      - Corporate Ethics International
+      - NRDC
+  - file: reports/anti_2010-05-01_full.txt
+    description: Report about tar sands and Keystone XL by national environmental organizations.
+    source: https://www.nrdc.org/sites/default/files/TarSandsInvasion-full.pdf
+    title: anti_2010-05-01_full
+    type: report
+    group: other
+    date: 2010-05-01
+  - file: reports/foe_2010-05-26.txt
+    description: "Friends of the Earth memorandum--'RE: Why oil from Canada’s tar sands is another false solution to our nation’s energy needs'"
+    source: https://web.archive.org/web/20100707062842/http://www.foe.org/sites/default/files/Resourcesforjournalists-tarsandspipeline.pdf
+    title: foe_2010-05-26
+    type: report
+    group: other
+    date: 2010-05-26
+    stance:
+      - Friends of the Earth
+  - file: reports/njei_2011-11-03_01.txt
+    description: First blog post by Nebraskans for Jobs and Energy Independence on November 3, 2011.
+    source: https://web.archive.org/web/20160329073456/http://jobsandenergy.org/Facts/SandhillsNativeRangeland.html
+    title: njei_2011-11-03_01
+    type: report
+    group: other
+    date: 2011-11-03
+  - file: reports/njei_2011-11-03_02.txt
+    description: Second blog post by Nebraskans for Jobs and Energy Independence on November 3, 2011.
+    source: https://web.archive.org/web/20160329075028/http://jobsandenergy.org/Facts/EnergySecurity.html
+    title: njei_2011-11-03_02
+    type: report
+    group: other
+    date: 2011-11-03
+  - file: reports/njei_2011-11-03_03.txt
+    description: Third blog post by Nebraskans for Jobs and Energy Independence on November 3, 2011.
+    source: https://web.archive.org/web/20160329075028/http://jobsandenergy.org/Facts/EnergySecurity.html
+    title: njei_2011-11-03_03
+    type: report
+    group: other
+    date: 2011-11-03
+  # State Department hearings
+  - file: dos_hearings/2011-09-27.txt
+    description: State Department public hearing on Keystone XL in Lincoln, Nebraska on September 27, 2011.
+    source: https://2012-keystonepipeline-xl.state.gov/documents/organization/181176.pdf
+    title: dos_2011-09-27
+    type: arena
+    group: dos_hearings
+    date: 2011-09-27
+  - file: dos_hearings/2011-09-29.txt
+    description: State Department public hearing on Keystone XL in Atkinson, Nebraska on September 29, 2011.
+    source: https://2012-keystonepipeline-xl.state.gov/documents/organization/181178.pdf
+    title: dos_2011-09-29
+    type: arena
+    group: dos_hearings
+    date: 2011-09-29
+  - file: dos_hearings/2011-09-29_sd.txt
+    description: State Department public hearing on Keystone XL in Pierre, South Dakota on September 29, 2011.
+    source: https://2012-keystonepipeline-xl.state.gov/documents/organization/181179.pdf
+    title: dos_2011-09-29_sd
+    type: arena
+    group: dos_hearings
+    date: 2011-09-29
+  - file: dos_hearings/2011-10-07.txt
+    description: State Department public hearing on Keystone XL in Washington, DC on October 7, 2011.
+    source: https://2012-keystonepipeline-xl.state.gov/documents/organization/181183.pdf
+    title: dos_2011-10-07
+    type: arena
+    group: dos_hearings
+    date: 2011-10-07
+  # Congress
+  - file: congress/2011-03-31.txt
+    description: House hearing on Keystone XL on March 31, 2011.
+    source: https://www.govinfo.gov/content/pkg/CHRG-112hhrg65494/html/CHRG-112hhrg65494.htm
+    title: congress_2011-03-31
+    type: arena
+    group: congress
+    date: 2011-03-31
+  - file: congress/2011-05-23.txt
+    description: House hearing on Keystone XL on May 23, 2011.
+    source: https://www.govinfo.gov/content/pkg/CHRG-112hhrg70748/html/CHRG-112hhrg70748.htm
+    title: congress_2011-05-23
+    type: arena
+    group: congress
+    date: 2011-05-23
+  # Environmental Impact Statement
+  - file: eis/2008-01-11.txt
+    description: Climate impacts as described in the Final Environmental Impact Statement (FEIS) for the Keystone Oil Pipeline Project on January 11, 2008.
+    source: https://www.energy.gov/nepa/eis-0410-keystone-oil-pipeline-project
+    title: eis_2008_01-11
+    type: report
+    group: other
+    date: 2008-01-11
+  - file: eis/2008-11.txt
+    description: Climate impacts as described in the KXL Project Environmental Report in November 2008.
+    source: https://2012-keystonepipeline-xl.state.gov/archive/proj_docs/env/index.htm
+    title: eis_2008-11
+    type: report
+    group: other
+    date: 2008-11-01
+  - file: eis/2010-04-04.txt
+    description: Climate impacts as described in the KXL Draft EIS on April 4, 2010.
+    source: https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/deis/index.htm
+    title: eis_2010-04-04
+    type: report
+    group: other
+    date: 2010-04-04
+  - file: eis/2011-04-15.txt
+    description: Climate impacts as described in the KXL Supplemental Draft EIS on April 15, 2011.
+    source: https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/sdeis/index.htm
+    title: eis_2011-04-15
+    type: report
+    group: other
+    date: 2011-04-15
+  - file: eis/2011-08-26.txt
+    description: Climate impacts as described in the KXL Final EIS on August 26, 2011.
+    source: https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/feis/index.htm
+    title: eis_2011-08-26.txt
+    type: report
+    group: other
+    date: 2011-08-26
+  - file: eis/2013-03-01.txt
+    description: Climate impacts as described in the KXL Draft Supplemental EIS on March 1, 2013.
+    source: https://2012-keystonepipeline-xl.state.gov/draftseis/index.htm
+    title: eis_2013-03-01.txt
+    type: report
+    group: other
+    date: 2013-03-01
+  - file: eis/2014-01.txt
+    description: Climate impacts as described in the KXL Final Supplemental EIS in January 2014.
+    source: https://2012-keystonepipeline-xl.state.gov/finalseis/index.htm
+    title: eis_2014-01
+    type: report
+    group: other
+    date: 2014-01-01
+  # Letters
+  - file: letters/science_2011-06-06.txt
+    description: Prof. Gates and Prof Wolds letter to Secretary of State Clinton on June 6, 2011.
+    source: https://foia.state.gov/Search/Results.aspx?caseNumber=F-2011-02141
+    title: science_2011-06-06
+    type: report
+    group: letters
+    date: 2011-06-06
+    stance: 
+      - Gates
+      - Woldt
+  - file: letters/bn_2011-06-06.txt
+    description: Letter by Bold Nebraska founder Kleeb to Secretary of State Clinton on Jule 6, 2011.
+    source: https://boldnebraska.org/from-nebraska-with-concern-our-letter-to-sec-clinton/#letter
+    title: bn_2011-06-06
+    type: report
+    group: letters
+    date: 2011-06-06
+    stance:
+      - Bold Nebraska
+  - file: letters/dems_2010-10-29.txt
+    description: Letter by Senate democrats to President Clinton from October 29, 2010.
+    source: https://www.leahy.senate.gov/imo/media/doc/102910KeystoneFinal.pdf
+    title: dems_2010-10-29
+    type: report
+    group: letters
+    date: 2010-10-29
+    stance:
+      - Democrats
+  - file: reports/domina_2011-10-26.txt
+    description: "'Green paper' by Domina Law Group, prepared for Bold Nebraska from October 26, 2011."
+    source: https://www.dominalaw.com/documents/Green-Paper.pdf
+    title: domina_2011-10-26
+    type: report
+    group: other
+    date: 2011-10-26
+    stance:
+      - Domina Law Group
+  - file: letters/anti_2010-04-23.txt
+    description: Letter by national environmental organizations to Secretary of State Clinton from April 23, 2010.
+    source: https://web.archive.org/web/20100708144505/http://www.foe.org/sites/default/files/Clinton-Keystone-XL-Letter-4-23-10.pdf
+    title: anti_2010-04-23
+    type: report
+    group: letters
+    date: 2010-04-23
+    stance: 
+      - Corporate Ethics International
+      - Dakota Rural Action
+      - Earthjustice
+      - EARTHWORKS
+      - Friends of the Earth
+      - Greenpeace
+      - League of Conservation Voters
+      - National Wildlife Federation
+      - NRDC
+      - Northern Plains Resource Council
+      - Sierra Club
+      - Union of Concerned Scientists
+      - Western Organization of Resource Concils
+      - World Wildlife Fund
+  - file: letters/anti_2010-09-08.txt
+    description: Letter by national environmental organizations to Pelosy and Markey from September 8, 2010.
+    source: https://web.archive.org/web/20120513233909/http://dirtyoilsands.org/files/PelosiMarkeyLetterFINAL.pdf
+    title: anti_2010-09-08
+    type: report
+    group: letters
+    date: 2010-09-23
+    stance: 
+      - EARTHWORKS
+      - NRDC
+      - Corporate Ethics International
+      - Oil Change International
+      - National Wildlife Federation
+      - Sierra Club
+      - Dakota Resource Council
+      - Rainforest Action Network
+      - Honor the Earth
+      - Indigenous Environmental Network
+      - Greenpeace Canada
+  - file: letters/anti_2010-11-24.txt
+    description: Letter by national environmental organizations to Secretary of State Clinton from November 24, 2010.
+    source: https://web.archive.org/web/20110929171132/http://dirtyoilsands.org/files/GreenSupplementalEISltr-20101124.pdf
+    title: anti_2010-11-24
+    type: report
+    group: letters
+    date: 2010-11-24
+    stance:
+      - Corporate Ethics International
+      - Earthjustice
+      - EARTHWORKS
+      - Friends of the Earth
+      - Greenpeace
+      - Indigenous Environmental Network
+      - League of Conservation Voters
+      - National Wildlife Federation
+      - NRDC
+      - Northern Plains Pipeline Landowners Group
+      - Plains Justice
+      - Union of Concerned Scientists
+      - Western Organization of Resource Councils
+      - Sierra Club
+  - file: letters/goeke_2011-10-04.txt
+    description: Op-ed by Prof. Goeke in NYT on October 4, 2011.
+    source: https://www.nytimes.com/roomfordebate/2011/10/03/what-are-the-risks-of-the-keystone-xl-pipeline-project/the-pipeline-poses-minimal-risk-to-the-ogallala-aquifer
+    title: goeke_2011-10-04
+    type: report
+    group: letters
+    date: 2011-10-04
+    stance: 
+      - Goeke
+  - file: letters/science_2011-06-03.txt
+    description: Open letter by James Hansen.
+    source: http://www.columbia.edu/~jeh1/mailings/2011/20110603_SilenceIsDeadly.pdf
+    title: science_2011-06-03
+    type: report
+    group: letters
+    date: 2011-06-03
+    stance:
+      - Hansen
+  - file: letters/liuna_2011-11-09.txt
+    description: Op-ed by Terry O'Sullivan, General President of LIUNA from June 3, 2011.
+    source: https://journalstar.com/news/opinion/editorial/columnists/local-view-keystone-xl-opponents-have-let-down-americas-workers/article_a001d329-2869-5275-acd1-5347f79cadf6.html
+    title: liuna_2011-11-09
+    type: report
+    group: letters
+    date: 2011-11-09
+    stance:
+      - LIUNA
+  - file: letters/anti_2011-09-07.txt
+    description: Letter by Nobel Peace Laureates to President Obama.
+    source: https://fathertheo.wordpress.com/2011/09/09/9-nobel-peace-laureates-urge-obama-nix-tar-sands-pipeline/
+    title: anti_2011-09-27
+    type: report
+    group: letters
+    date: 2011-09-27
+  - file: letters/science_2011-08-03.txt
+    description: Letter by twenty top American scientists to President Obama on August 3, 2011.
+    source: http://tarsandsaction.org/2011/08/03/scientists-keystone-xl-obama/
+    title: science_2011-08-03
+    type: report
+    group: letters
+    date: 2011-08-03
+    stance:
+      - Hansen
+  - file: letters/seacrest_2010-06-24.txt
+    description: Op-ed by Susan Seacrest, founder of the Groundwater Foundation in the Lincoln Journal Star on June 24, 2010.
+    source: https://journalstar.com/news/opinion/editorial/columnists/article_01903f1c-7f26-11df-92ca-001cc4c03286.html
+    title: seacrest_2010-06-24
+    type: report
+    group: letters
+    date: 2010-06-24
+    stance:
+      - Seacrest
+  - file: reports/science_2011-07.txt
+    description: "Report by Prof. Stansbury 'Analysis of Worst-Case Spills From the Proposed Keystone XL Pipeline'."
+    source: https://www.motherjones.com/files/stansbury-worst-case-keystone-spills-report-summary-key-findings.pdf
+    title: science_2011-07
+    type: report
+    group: other
+    date: 2011-07-01
+    stance:
+     - Stansbury
+  - file: letters/ua_2010-06-11.txt
+    description: United Association letter to President Obama on June 11, 2010.
+    source: https://foia.state.gov/Search/Results.aspx?searchText=(clinton)%20AND%20(keystone%20xl)
+    title: ua_2010-06-11 
+    type: report
+    group: other
+    date: 2010-06-11
+    stance:
+      - UA

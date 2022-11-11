@@ -1,0 +1,356 @@
+**Analysis of Worst-Case Spills From the Proposed Keystone XL
+Pipeline**
+
+**John Stansbury, Ph.D., P.E. 1**
+
+**Summary of Key Findings**
+
+A major spill from the proposed Keystone XL tar sands pipeline on
+the Platte River in Nebraska could spill 5.9 million gallons of
+toxic, corrosive tar sands oil and spread pollutants such as car-
+cinogenic benzene in excess of federal health standards hundreds
+of miles downstream, contami- nating drinking water for hundreds of
+thousands of people as far south as Kansas City, Mo. Even a small,
+undetected leak from an underground rupture of the pipeline in
+the Nebraska Sandhills could pollute almost 5 billion gallons of
+groundwater with benzene at concentrations exceeding safe drinking
+water levels -- enough water to form a plume 15 miles long, posing
+serious health threats to anyone using the underlying Ogallala
+Aquifer for drinking water or agriculture. And a worst-case spill
+at the pipeline's crossing of the Missouri or Yellowstone Rivers in
+Montana could spill well over 5 million gallons of tar sands oil,
+contaminating drinking and recreational water in North Dakota with
+harmful levels of benzene and other chemicals.
+
+An independent analysis of worst-case spill scenarios for four
+locations along the proposed Keystone XL pipeline route through
+Montana, South Dakota, Nebraska, Kansas, Oklahoma and Texas found that
+the pipeline's operator, TransCanada Corp., made significant flawed
+and inap- propriate assumptions about the frequency and severity of
+expected spills from its pipelines.
+
+Although the federal Clean Water Act requires pipeline builders to
+analyze and make public worst-case spill scenarios and resulting
+environmental impacts for their projects before beginning operation,
+TransCanada has yet to adequately do so for the Keystone XL,
+and the pipeline could be approved before regulators see the
+conclusions. However, in comparison to the methods the company used to
+calculate worst-case scenarios for the existing Keystone I pipeline,
+to which the XL would connect, this independent analysis found:
+
+• While TransCanada estimates that the Keystone XL will have
+11 significant spills (more than 50 barrels of crude oil) over 50
+years, a more realistic assessment is 91 significant spills over the
+pipeline's operational lifetime.
+
+• TransCanada arbitrarily and improperly adjusted spill factors to
+produce an estimate of one major spill on the 1,673 miles of pipeline
+about every five years, but federal data on the actual incidence of
+spills on comparable pipelines indicate a more likely average of almost
+two major spills per year. (The existing Keystone I pipeline has had
+one major spill and 11 smaller spills in its first year of operation.)
+
+• Analysis of the time needed to shut down the pipeline shows that
+response to a leak at a river crossing could conservatively take
+more than ten times longer than the 11 min- utes and 30 seconds
+that TransCanada assumes. (After the June 2010 spill of more than
+800,000 gallons of crude oil into a tributary of the Kalamazoo River,
+an Enbridge tar
+
+1 John S. Stansbury is Associate Professor of Environmental/Water
+Resources Engineering at the University of Nebraska, Lincoln. The
+author of numerous studies on water resources and hazardous waste
+management published in peer-reviewed journals, he has also been
+an instructor for the U.S. Army Corps of Engineers risk assessment
+program. The full study with complete refer- ences is available at
+http://watercenter.unl.edu. Contact Dr. Stansbury at (402) 554-3896
+or jstansbury2@unl.edu.
+
+sands pipeline -- a 30 inch pipe compared to the 36-inch Keystone XL --
+was not complete- ly shut down for 12 hours.)
+
+• Realistic calculations yield worst-case spill estimates of more
+than 180,000 barrels (about 7.9 million gallons) in the Nebraska
+Sandhills above the Ogallala Aquifer, more than 160,000 barrels
+(about 6.9 million gallons) of crude oil at the Yellowstone River
+cross- ings, more than 140,000 barrels (about 5.9 million gallons)
+at the Platte River crossing and more than 120,000 barrels (about
+5.2 million gallons) at the Missouri River crossing.
+
+**Key Chemicals in a Keystone XL Pipeline Spill**
+
+Chemical Impacts Benzene Benzene poses threats as an airborne and
+water-
+
+borne pollutant. It can form gaseous clouds around a spill site and
+dissolve into a toxic plume that extends downstream. Health impacts
+(according to the EPA): Anemia; decrease in blood platelets; increased
+risk of can- cer.
+
+Polycyclic Aromatic Hydrocarbons (e.g., benz(a)pyrene)
+
+Most PAHs will remain close to the site of a spill, forming a toxic
+plume. PAHs are a particular threat to aquatic life. Health impacts
+(according to the EPA): Reproduc- tive difficulties; increased risk
+of cancer.
+
+Hydrogen Sulfide Hydrogen sulfide is very volatile, meaning that it
+will vaporize quickly. Most impacts, which in- clude acute toxicity
+via inhalation and toxic effects to aquatic life, will be close to
+the spill site.
+
+Bitumen (raw tar sands oil) Bitumen is denser than water and will
+sink to the riverbed, smothering aquatic animals and plants close to
+the spill site and making clean up difficult. These impacts are of
+particular concern in the habitats of endangered species.
+
+**Worst-case Scenarios**
+
+Although a major spill could occur on any part of the pipeline, the
+most likely failure points are welds, valve connections and pumping
+stations. River crossings are especially vulnerable because the
+pipeline, which must include valves on either side of the river, is
+underground but relatively shallow. At river crossings the pipeline is
+more susceptible to corrosion because it is below ground and pressures
+are relatively high. Small initial leaks from corroded pipe, accord-
+ing to estimates made by TransCanada, could go undetected for up to
+90 days, a prescription for catastrophic failure during a pressure
+spike. Areas with shallow groundwater overlain by perme- able soils
+(such as the Ogallala Aquifer in the Sandhills), where, according to
+estimates made by TransCanada, slow leaks could go undetected for up
+to 90 days, also pose risks of special con- cern.
+
+**Missouri River, Mont.**
+
+The Keystone XL would cross the Missouri River just downstream of Fort
+Peck Dam in northern Montana. The worst-case scenario would be for the
+upstream pipeline valve, closest to the river, to fail. An estimated
+75,000 barrels of crude oil would be released from the leak in the two
+hours assumed for the response time. In addition, 47,867 barrels would
+drain from the pipeline from elevations above the rupture resulting
+in a total worst-case release of 122,867 barrels (5.2 million gallons).
+
+Benzene and other contaminants from a worst-case spill at the
+Missouri River crossing would enter Lake Sakakawea in North Dakota
+where they would adversely affect drinking water, aquatic wildlife,
+and recreation. A spill would pose a significant threat to a number of
+threatened or endangered species in the river and lake. Concentrations
+of benzene and hydrogen sulfide in the air near the spill site could
+also be a serious health threat to emergency workers, remediation
+workers and local residents.
+
+**Yellowstone River, Mont.**
+
+The pipeline would cross the Yellowstone River approximately 20 miles
+upstream of Glendive in eastern Montana. This crossing is between two
+high points 17 miles apart. The worst-case scenario would be failure
+of the valve two miles upstream from the crossing, which could release
+90,416 barrels of crude oil in the pipe between the elevations. Adding
+75,000 barrels for the two- hour response time, the worst-case spill
+would be 165,416 barrels, or almost 6.9 million gallons.
+
+Benzene and other contaminants from a worst-case spill at the
+Yellowstone River crossing, as at the Missouri river crossing, would
+enter Lake Sakakawea in North Dakota where they would
+
+Heavy crude smothers plants and animals on land and in the river.
+
+Benzene, hydrogen sulde and oil evaporate into the air, causing
+a toxic cloud above the river that can drift and contaminate
+surrounding human and animal habitats, and can be dangerous for clean
+up workers. Hydrogen sulde, benzene, polycyclic aromatic hydrocarbons
+and crude oil dissolve in the water, potentially contaminating drinking
+water, harming aquatic species and creating a toxic benzene plume
+that could reach hundreds of miles downstream.
+
+Possible e?ects of a worst-case spill near a river.
+
+adversely affect drinking water, aquatic wildlife, and recreation. A
+spill would pose a significant threat to a number of threatened or
+endangered species in the river and lake. Airborne concen- trations
+of benzene and hydrogen sulfide at the spill site could also be a
+serious health threat to emergency workers, remediation workers and
+local residents.
+
+**Platte River, Neb.**
+
+The pipeline would cross the Platte River approximately three
+miles downstream of Central City, Nebraska. If the valve 8.5 miles
+downstream failed, 65,950 barrels of crude oil could be released
+between the nearest high point and the closest upstream valve. With
+the additional oil pumped during the response time, the worst-case
+spill could total 140,950 barrels, or more than 5.9 mil- lion gallons.
+
+A spill of this magnitude at this location could create a plume of
+water contaminated with ben- zene at a level over 10 times higher than
+the EPA's Maximum Contamination Level (MCL) for drinking water. The
+benzene concentration would decrease as the plume spread, but it
+would have to travel hundreds of miles downstream before the level
+dropped below the MCL and be- came safe to drink. The plume could
+flow down the Platte River into the Missouri River, threat- ening
+drinking water intakes for hundreds of thousands of people in cities
+including Lincoln, Omaha and Nebraska City, Neb., and St. Joseph and
+Kansas City, Mo. Other constituents from the spill would pose serious
+health risks to aquatic species in the river.
+
+Nashua Wolf Point
+
+Williston
+
+Glendive
+
+**Montana**
+
+**North Dakota**
+
+Keystone XL
+
+Lake SakakaweaLittle Missouri
+
+National Grassland
+
+Worst-case spill at the Missouri River or Yellowstone River crossing.
+
+A spill at either crossing could release millions of gallons of crude
+oil into the rivers and extending downstream as far as Lake Sakakawea,
+polluting drinking water, and threatening endangered species and
+recreation areas.
+
+**Sandhills, Neb.**
+
+The worst-case spill from a small leak, as opposed to a valve failure,
+would be a remote location where the pipeline is buried above a source
+of groundwater and where direct observation is in- frequent, such
+as the Sandhills. TransCanada acknowledges that a slow leak could go
+undetected for up to 90 days, but a reasonable assumption is that a
+leak would be detected within 14 days, the interval between aircraft
+inspections. Such a spill across 14 days would result in a release
+of 189,000 barrels of crude oil, or 7.9 million gallons.
+
+The benzene released by the worst-case spill to groundwater in the
+Sandhills would be enough to contaminate 4.9 billion gallons of water
+at concentrations exceeding the MCL. This water could form a plume 40
+feet thick by 500 feet wide by 15 miles long. This plume would pose
+serious health risks to people using that groundwater for drinking
+water and irrigation.
+
+**Ogallala Aquifer**
+
+Kansas
+
+Platte Rive r
+
+Omaha - approx. 420K
+
+Lincoln - approx. 241K
+
+St. Joseph - approx. 73K
+
+Kansas City - approx. 447K
+
+Missouri
+
+Iowa
+
+Overland Park- approx. 167K
+
+Council Blu‚s - approx. 60K
+
+Bellevue - approx. 48K
+
+Missouri River
+
+Populations aected by a worst-case spill at the Platte River
+
+Keystone XL
+
+Nebraska Omaha
+
+Kansas City
+
+St. Joseph
+
+Council Blu‚s
+
+Lincoln
+
+Overland Park
+
+Bellevue
+
+Population estimates based on available data from the U.S. Census
+Bureau, http://quickfacts.census.gov. Circles representing these
+cities are for illustrative purposes and are not to scale.
+
+**TransCanada's Flawed Assumptions**
+
+According to TransCanada, significant spills (more than 50 barrels)
+are expected to be very rare (0.00013 spills/year/mile, or 11 major
+spills over a 50-year design life). However, TransCanada made several
+highly questionable assumptions, including:
+
+• TransCanada ignored historical data on almost one-fourth of
+pipeline spills by excluding all spills for which the cause is
+not known.
+
+• TransCanada assumed, without supporting data, that Keystone XL will
+be constructed so well that it will have only half as many spills as
+existing pipelines, even though the tar sands crude to be transported
+through the pipeline is more likely to leak than the conven- tional
+crude in other pipelines.
+
+Therefore, a more realistic assessment of expected frequency of
+significant spills, based on his- torical data, is 0.00109 spills
+per year per mile, resulting in 91 significant spills over a 50-year
+design life of the pipeline (including more than 12 spills from holes
+greater than 10 inches).
+
+TransCanada consistently states the frequency of spills in terms of
+spills per year per mile. This is misleading; a more appropriate way
+to state the frequency would be the frequency of a spill somewhere
+along the length of the pipeline. Stating the spill frequency in terms
+of spills per mile is comparable to acknowledging that, although some
+33,000 deaths from automobile accidents
+
+Permeable soil of the Ogallala Aquifer
+
+Contaminated water plume 40 feet thick x 500 feet wide x 15 miles
+long feet feet
+
+0 100
+
+200 300
+
+400 500
+
+600 700
+
+10 20 30 40 50 60 70 80 90
+
+151413121110987654321 miles
+
+Worst-case spill above the Nebraska Sandhills.
+
+A spill over 14 days, releasing 7.9 million gallons of crude oil
+could contaminate 4.9 billion gallons of water and form a plume 40
+feet thick by 500 feet wide by 15 miles long. By comparison:
+
+The length of the plume is equal to 264 football Šelds. Manhattan
+is 13.4 miles long. The volume of the plume (1,584,000,000 feet3)
+is equal to that of 19,631 Olympic sized pools.
+
+occur annually in the U.S., the average annual fatality rate across
+350 million people is only 0.000094; therefore, fatalities from
+automobile accidents are so rare as to be unimportant.
+
+TransCanada's other major flawed assumption -- again, unsupported by
+any data -- is that in case of an accident, the Keystone XL can be
+shut down in 11.5 minutes. This is wildly optimistic. In the June
+2010 spill on the very similar Enbridge pipeline in Michigan, the
+time to finally shut down the pipeline was approximately 12 hours, and
+during that time the pumps operated for at least two hours. Therefore,
+a more realistic estimate of shutdown time is two hours. When ap-
+plied to a hypothetical spill at the Keystone's pumping station in
+Hardisty, Alberta, the difference between TransCanada's assumptions
+and the appropriate values is a spill of 41,504 barrels vs. one of
+87,964 barrels.
