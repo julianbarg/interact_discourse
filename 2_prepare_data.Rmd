@@ -10,6 +10,10 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(here)
 library(glue)
+# library(SnowballC)
+library(textstem)
+library(tidytext)
+library(tm)
 options(max.print = 1000)
 util_folder <- c("util")
 beep <- function(){
@@ -22,9 +26,14 @@ beep <- function(){
 
 ```{r input}
 metadata <- yaml::read_yaml(here("input", "metadata.yaml"))
-known_entities <- yaml::read_yaml(here("input", "known_entities.yaml")) %>%
+known_entities <- yaml::read_yaml(here("input", "nlp_input.yaml")) %>%
+  pluck("known_entities") %>%
   map_dfr(flatten_dfc) %>%
-  {set_names(.$token, .$regex)}
+  {set_names(.$token, regex(.$regex, ignore_case = T))}
+custom_stopwords <- yaml::read_yaml(here("input", "nlp_input.yaml")) %>%
+  pluck("custom_stopwords")
+known_entities
+custom_stopwords
 ```
 
 ## Loader
@@ -38,41 +47,23 @@ data <- metadata$index %>%
 glimpse(data[[11]])
 ```
 
-## Entities
-
-```{r entities}
-z_cutoff <- 25
-source(here(util_folder, "get_compound_candidates.R"))
-
-entities <- data %>%
-  map(~ .x$document$content) %>%
-  flatten_chr() %>%
-  get_compound_candidates(known_entities) %>%
-  select(collocation, count, lambda, z)
-entities %>%
-  arrange(desc(z))
-collocations <- entities %>%
-  filter(str_length(collocation) > 5) %>%
-  filter(z > z_cutoff)
-beep()
-```
-
-```{r entities_2}
-collocations %>%
-  arrange(desc(lambda))
-```
-
 ## Tokenize
 
 ```{r tokenize}
 source(here(util_folder, "tokenize.R"))
 data_tokens <- data %>%
-  map(~ list_modify(.x, tokens = 
-                      tokenize(.x$document, 
-                               known_entities, 
-                               collocations$collocation)))
+  map( ~ list_modify(.x, tokens = mutate(
+    tokenize(.x$document, custom_stopwords, known_entities)
+  )))
 glimpse(data_tokens[1:2])
 beep()
+```
+
+Sanity check
+
+```{r test}
+data_tokens[[11]]$tokens %>%
+  filter(str_detect(token, "^tar sand|^oil sand"))
 ```
 
 # Frequency
@@ -80,14 +71,14 @@ beep()
 1. Infrequent
 
 ```{r infrequent}
-low_freq_cutoff <- 0.015
+low_freq <- 0.005
 source(here(util_folder, "count_by_doc.R"))
 source(here(util_folder, "get_frequency.R"))
 frequency <- data_tokens %>%
   map_dfr(count_by_doc) %>%
   get_frequency()
 infrequent <- frequency %>%
-  filter(share < 0.015) 
+  filter(share < low_freq)
 infrequent %>%
   arrange(desc(frequency), token)
 data_frequent <- data_tokens %>%
@@ -97,7 +88,7 @@ data_frequent <- data_tokens %>%
 2. tfidf 
 
 ```{r tfidf}
-tfidf_cutoff <- 0.09
+tfidf_cutoff <- 0.001
 source(here(util_folder, "prop_tfidf.R"))
 source(here(util_folder, "remove_tfidf.R"))
 tfidf <- data_frequent %>%
@@ -112,7 +103,7 @@ glimpse(high_tfidf_data[1:2])
 Too frequent
 
 ```{r frequent_tokens}
-too_frequent_cutoff <- 0.3
+too_frequent_cutoff <- 0.9
 frequency_2 <- high_tfidf_data %>%
   map_dfr(count_by_doc) %>%
   get_frequency()

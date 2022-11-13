@@ -1,35 +1,28 @@
-tokenize <- function(df, known_entities, compounds){
+tokenize <- function(df, custom_stopwords, known_entities){
   stopwords <- tidytext::get_stopwords() %>%
-    mutate(word = str_remove_all(word, regex("[^ [:alpha:]]"))) %>%
-    filter(! word == "no") %>%
-    {.$word}
+    filter(! word %in% c("no")) %>%
+    mutate(word = str_replace_all(word, "'", "[']?")) %>%
+    add_row(word = "[a-z]{1,2}", .before = 1) %>%
+    bind_rows(tibble(word = custom_stopwords)) %>%
+    {str_c(" ", .$word, " ", collapse = "|")}
 
-  count_compounds <- function(df, compounds){
-    df %>%
-      tidytext::unnest_ngrams("token", "content", n = 2) %>%
-      filter(token %in% compounds) %>%
-      count(order, person, token)
-  }
-
-  remove_compounds <- function(df, compounds){
-    compound_regex <- regex(str_c(compounds, collapse = "|"),
-                            ignore_case = T)
-    df %>%
-      mutate(content = str_remove_all(content, compound_regex))
-  }
-
-  document_clean <- df %>%
-    mutate(content = str_remove_all(content, "[^ -[[:alpha:]]]")) %>%
-    mutate(content = str_replace_all(content, known_entities))
-  compound_counts <- count_compounds(document_clean, compounds)
-
-  document_clean %>%
-    remove_compounds(compounds) %>%
-    tidytext::unnest_tokens(token, content) %>%
-    count(order, person, token) %>%
-    filter(! token %in% stopwords) %>%
-    mutate(token = SnowballC::wordStem(token)) %>%
-    filter(str_length(token) > 4) %>%
-    mutate(token = str_replace_all(token, "_", " ")) %>%
-    bind_rows(compound_counts)
+  df_clean <- df %>%
+    mutate(content = str_remove_all(
+      content, regex("\\([^\\)]*\\)|\\[[^\\]]*\\]"))) %>%
+    mutate(content = str_remove_all(content, regex(
+"Senator [A-Z][a-z]*|[Cc]hairman [A-Z][a-z]*|[Ss]peaker [A-Z][a-z]*"))) %>%
+    mutate(content = str_remove_all(content, regex("[^-.,' [:alpha:]]"))) %>%
+    mutate(content = str_to_lower(content)) %>%
+    mutate(content = str_replace_all(content, known_entities)) %>%
+    tidytext::unnest_ngrams("token", "content", n = 3, n_min = 2) %>%
+    # tidytext::unnest_ngrams("token", "content", n = 3, n_min = 1) %>%
+    mutate(token = str_glue(" {token} ")) %>%
+    filter(! str_detect(token, regex(stopwords, ignore_case = T))) %>%
+    mutate(token = str_trim(token)) %>%
+    mutate(token = str_replace(token, "_", " ")) %>%
+    mutate(token = str_remove_all(token, regex("[^ [:alpha:]]"))) %>%
+    mutate(token = tm::stemDocument(token)) %>%
+    count(order, person, token)
+    # count(order, person, token) %>%
+    # mutate(n = if_else(str_detect(token, " "), as.integer(3 * n), n))
 }

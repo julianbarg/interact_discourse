@@ -1,0 +1,38 @@
+---
+date: "2022-11-11"
+output: markdown
+---
+
+## Load
+
+```{r load, include=F}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(here)
+library(glue)
+library(topicmodels)
+options(max.print = 1000)
+util_folder <- c("util")
+beep <- function(){
+  system(str_c("notify-send 'Task complete.'",
+               "&& paplay /usr/share/sounds/Yaru/stereo/message.oga"))
+}
+```
+
+```{r data}
+kxl_data <- read_rds(here("output", "data_betas.rds"))
+glimpse(kxl_data[[11]])
+```
+
+```{r model}
+kxl_model <- read_rds(here("output", "topic_model.rds"))
+glimpse(kxl_model)
+```
+
+## Show topics
+
+```{r terms}
+source(here(util_folder, "check_topic.R"))
+walk(1:kxl_model@k, ~ show_topic(kxl_model, .x, kxl_data, 30, 8))
+```
+
