@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(here)
 library(glue)
-library(ldatuning)
+library(topicmodels)
 options(max.print = 1000)
 util_folder <- c("util")
 beep <- function(){
@@ -21,77 +21,162 @@ beep <- function(){
 
 ```{r read}
 data <- read_rds(here("output", "trimmed_data.rds"))
-glimpse(data[1:2])
-```
-
-```{r corpus}
 source(here(util_folder, "count_by_doc.R"))
-corpus <- data %>%
-  map_dfr(count_by_doc)
-glimpse(corpus)
-```
-
-```{r dtm}
-kxl_dtm <- corpus %>%
-    tidytext::cast_dtm(document = id,
-                       term = token,
-                       value = n)
+kxl_dtm <- data %>%
+  map_dfr(count_by_doc) %>%
+  tidytext::cast_dtm(document = id, term = token, value = n)
 kxl_dtm
 ```
 
-## Run function
+```{r data}
+glimpse(data[[1]])
+```
 
-```{r run}
-run_models <- function(data, run, k, seed, overwrite_cache = F){
-  if (overwrite_cache){
-    results <- ldatuning::FindTopicsNumber(
-      kxl_dtm,
-      topics = k,
-      metrics = c("Griffiths2004", "CaoJuan2009",
-                  "Arun2010", "Deveaud2014"),
-      method = "Gibbs",
-      control = list(seed = seed))
-    beep()
-    saveRDS(results,
-          file = here(".cache", glue("results_{run}.rds")))
-  } else {
-    results <- read_rds(here(".cache", glue("results_{run}.rds")))
+## Model function
+
+```{r function}
+run_model <- function(dtm_input, k_input, seed_input){
+  model <- topicmodels::LDA(
+    dtm_input,
+    k_input,
+    method = "Gibbs",
+    control = list(seed = seed_input))
+  beep()
+  saveRDS(model, here(".cache", glue("model_{k_input}.rds")))
+  model
+}
+
+show_terms <- function(input_model) {
+  betas <- tidytext:::tidy.LDA(input_model, matrix = "beta")
+  n_topics <- pluck(input_model, "k")
+  show_terms_1 <- function(k){
+     betas %>%
+      filter(topic == k) %>%
+      slice_max(beta, n = 20) %>%
+      mutate(term = str_trunc(term, 22)) %>%
+      print()
   }
-  results
+  walk(1:n_topics, show_terms_1)
 }
 ```
 
-### Run 1
+## Model 1
 
-```{r test_model_1}
-results_1 <- run_models(kxl_dtm, "1", c(5, 10, 20, 40, 80, 120), seed = 16869)
-ldatuning::FindTopicsNumber_plot(results_1)
+```{r model_1, eval = F}
+model_40 <- run_model(kxl_dtm, 40, 222224)
+show_terms(model_40)
 ```
 
-### Run 2
+## Model 2
 
-```{r test_model_2}
-results_2 <- run_models(data, "2", seq(10, 50, 10), seed = 222222)
-ldatuning::FindTopicsNumber_plot(results_2)
+```{r model_2, eval = F}
+model_30 <- run_model(kxl_dtm, 30, 222224)
+show_terms(model_30)
 ```
 
-### Run 3
+## Model 3
 
-```{r test_model_3}
-results_3 <- run_models(data, "3", seq(25, 55, 6), seed = 222226, T)
-ldatuning::FindTopicsNumber_plot(results_3)
+```{r model_3, eval = F}
+model_25 <- run_model(kxl_dtm, 25, 222224)
+show_terms(model_25)
 ```
 
-### Run 4
+## Model 4
 
-```{r test_model_4}
-results_4 <- run_models(data, "4", seq(38, 50, 3), seed = 222223)
-ldatuning::FindTopicsNumber_plot(results_4)
+```{r model_4, eval = F}
+model_20 <- run_model(kxl_dtm, 20, 222224)
+show_terms(model_20)
 ```
 
-### Run 5
+## Model 4.4
 
-```{r test_model_5}
-results_5 <- run_models(data, "5", seq(37, 43), seed = 222224)
-ldatuning::FindTopicsNumber_plot(results_5)
+```{r model_4.4, eval=F}
+model_17 <- run_model(kxl_dtm, 17, 222224)
+show_terms(model_17)
 ```
+
+## Model 4.5
+
+```{r model_4.5, eval=F}
+model_16 <- run_model(kxl_dtm, 16, 222224)
+show_terms(model_16)
+```
+
+## Model 5
+
+```{r model_5, eval=F}
+model_15 <- run_model(kxl_dtm, 15, 222224)
+show_terms(model_15)
+```
+
+## Model 6
+
+```{r model_6, eval = F}
+model_14 <- run_model(kxl_dtm, 14, 222224)
+show_terms(model_14)
+```
+
+## Model 7
+
+```{r model_7}
+model_13 <- run_model(kxl_dtm, 13, 222224)
+show_terms(model_13)
+```
+
+## Model 8
+
+```{r model_8, eval = F}
+model_12 <- run_model(kxl_dtm, 12, 222224)
+show_terms(model_12)
+```
+
+## Model 9
+
+```{r model_9, eval = F}
+model_11 <- run_model(kxl_dtm, 11, 222224)
+show_terms(model_11)
+```
+
+## Final model
+
+```{r gamma}
+final_model <- model_13
+
+betas <- tidytext:::tidy.LDA(final_model, matrix = "beta")
+glimpse(betas)
+
+get_gammas <- function(tokens, betas){
+  tokens %>%
+    left_join(betas, by = c("token" = "term")) %>%
+    mutate(beta = beta * n) %>%
+    group_by(order, person, topic) %>%
+    summarize(beta = sum(beta),  .groups = "drop") %>%
+    group_by(order, person) %>%
+    mutate(total_beta = sum(beta)) %>%
+    ungroup() %>%
+    mutate(gamma = beta / total_beta) %>%
+    select(-c(beta, total_beta, person))
+}
+
+complete_entry <- function(entry){
+  combinations <- entry$gammas %>%
+    full_join(select(entry$document, order), 
+              by = c("order")) %>%
+    expand(topic, order) %>%
+    filter(! is.na(topic)) %>%
+    arrange(order)
+  entry$gammas <- left_join(combinations, entry$gammas, 
+                            by = c("order", "topic")) %>%
+    select(order, topic, gamma)
+  entry
+}
+
+data_betas <- data %>%
+  map(~ list_modify(.x, gammas = get_gammas(.x$tokens, betas))) %>%
+  map(complete_entry)
+glimpse(data_betas[[1]])
+
+write_rds(data_betas, here("output", "data_betas.rds"))
+write_rds(final_model, here("output", "topic_model.rds"))
+```
+ 
