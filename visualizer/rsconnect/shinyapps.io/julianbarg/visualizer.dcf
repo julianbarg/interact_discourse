@@ -1,0 +1,13 @@
+name: visualizer
+title: visualizer
+username:
+account: julianbarg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7634722
+bundleId: 6516775
+url: https://julianbarg.shinyapps.io/visualizer/
+when: 1668529405.66007
+lastSyncTime: 1668529405.66008
+asMultiple: FALSE
+asStatic: FALSE
