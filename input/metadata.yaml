@@ -127,6 +127,15 @@ index:
     type: report
     group: other
     date: 2011-11-03
+  - file: reports/science_2011-07.txt
+    description: "Report by Prof. Stansbury 'Analysis of Worst-Case Spills From the Proposed Keystone XL Pipeline'."
+    source: https://www.motherjones.com/files/stansbury-worst-case-keystone-spills-report-summary-key-findings.pdf
+    title: science_2011-07
+    type: report
+    group: other
+    date: 2011-07-01
+    stance:
+     - Stansbury
   # State Department hearings
   - file: dos_hearings/2011-09-27.txt
     description: State Department public hearing on Keystone XL in Lincoln, Nebraska on September 27, 2011.
@@ -203,14 +212,14 @@ index:
   - file: eis/2011-08-26.txt
     description: Climate impacts as described in the KXL Final EIS on August 26, 2011.
     source: https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/feis/index.htm
-    title: eis_2011-08-26.txt
+    title: eis_2011-08-26
     type: report
     group: other
     date: 2011-08-26
   - file: eis/2013-03-01.txt
     description: Climate impacts as described in the KXL Draft Supplemental EIS on March 1, 2013.
     source: https://2012-keystonepipeline-xl.state.gov/draftseis/index.htm
-    title: eis_2013-03-01.txt
+    title: eis_2013-03-01
     type: report
     group: other
     date: 2013-03-01
@@ -374,15 +383,6 @@ index:
     date: 2010-06-24
     stance:
       - Seacrest
-  - file: reports/science_2011-07.txt
-    description: "Report by Prof. Stansbury 'Analysis of Worst-Case Spills From the Proposed Keystone XL Pipeline'."
-    source: https://www.motherjones.com/files/stansbury-worst-case-keystone-spills-report-summary-key-findings.pdf
-    title: science_2011-07
-    type: report
-    group: other
-    date: 2011-07-01
-    stance:
-     - Stansbury
   - file: letters/ua_2010-06-11.txt
     description: United Association letter to President Obama on June 11, 2010.
     source: https://foia.state.gov/Search/Results.aspx?searchText=(clinton)%20AND%20(keystone%20xl)
@@ -392,3 +392,242 @@ index:
     date: 2010-06-11
     stance:
       - UA
+  - file: letters/ne_2011-08-07.txt
+    description: Lincoln Journal-Star letter to the editor August 7, 2011.
+    source: https://journalstar.com/news/opinion/mailbag/letter-8-8-head-in-tar-sands/article_9cbef760-3b65-534b-ad47-13aa703db075.html
+    title: le_2011-08-07
+    type: report
+    group: other
+    date: 2011-08-07
+  - file: letters/ne_2011-08-17.txt
+    description: Lincoln Journal-Star letter to the editor August 17, 2011.
+    source: https://journalstar.com/news/opinion/mailbag/article_3f348ef4-2c15-50f0-b2f1-0a0831e31ba7.htmlarticle_9cbef760-3b65-534b-ad47-13aa703db075.html
+    title: ne_2011-08-17
+    type: report
+    group: other
+    date: 2011-08-17
+  - file: letters/ne_2011-09-04.txt
+    description: Lincoln Journal-Star letter to the editor September 4, 2011.
+    source: https://journalstar.com/news/opinion/mailbag/letter-9-4-call-special-session-on-keystone/article_ae4134d7-6777-5f63-ab19-2f4d26ed0217.html
+    title: ne_2011-09-04
+    type: report
+    group: other
+    date: 2011-09-04
+  - file: letters/ne_2011-09-06.txt
+    description: Lincoln Journal-Star letter to the editor September 6, 2011.
+    source: https://journalstar.com/news/opinion/mailbag/letter-9-6-special-session-needed/article_f90ee29b-c8c5-530c-a0cc-520e569c2def.html
+    title: ne_2011-09-06
+    type: report
+    group: other
+    date: 2011-09-06
+  - file: letters/ne_2011-09-07.txt
+    description: Lincoln Journal-Star letter to the editor September 7, 2011.
+    source: https://journalstar.com/news/opinion/mailbag/letter-9-7-heineman-should-call-session/article_d6378c5c-5261-516c-af6b-21e058e6eeb4.html
+    title: ne_2011-09-07
+    type: report
+    group: other
+    date: 2011-09-07
+  - file: letters/ne_2011-09-09.txt
+    description: Lincoln Journal-Star letter to the editor September 9, 2011.
+    source: https://journalstar.com/news/opinion/article_8b9715f6-5240-5018-a90e-856ff55c4d38.html
+    title: ne_2011-09-09
+    type: report
+    group: other
+    date: 2011-09-09
+  - file: letters/ne_2011-09-25.txt
+    description: Lincoln Journal-Star editorial published September 25, 2011.
+    source: https://journalstar.com/news/opinion/editorial/editorial-9-25-its-time-to-stand-up-for-the-sandhills/article_a90197df-27ca-568e-bf2c-23758f0459f7.html
+    title: ne_2011-09-25
+    type: report
+    group: other
+    date: 2011-09-25
+  - file: letters/ne_2011-09-28.txt
+    description: Lincoln Journal-Star letter to the editor September 28, 2011.
+    source: "-"
+    title: ne_2011-09-28
+    type: report
+    group: other
+    date: 2011-09-28
+  - file: letters/ne_2011-09-30.txt
+    description: Lincoln Journal-Star letter to the editor September 30, 2011.
+    source: "-"
+    title: ne_2011-09-30
+    type: report
+    group: other
+    date: 2011-09-30
+  - file: letters/ne_2011-10-04.txt
+    description: Lincoln Journal-Star letter to the editor October 4, 2011.
+    source: https://journalstar.com/news/opinion/mailbag/letter-10-4-heineman-needs-to-act/article_9cf367fc-e929-578a-9b80-d9de09b87f71.html
+    title: ne_2011-10-04
+    type: report
+    group: other
+    date: 2011-10-04
+  - file: letters/ne_2011-10-05.txt
+    description: Lincoln Journal-Star letter to the editor October 5, 2011.
+    source: "-"
+    title: ne_2011-10-05
+    type: report
+    group: other
+    date: 2011-10-05
+  - file: letters/ne_2011-10-07.txt
+    description: Lincoln Journal-Star letter to the editor October 7, 2011.
+    source: https://journalstar.com/news/opinion/mailbag/article_ff87f7ca-218f-5647-966e-055aa774f5c7.html
+    title: ne_2011-10-07
+    type: report
+    group: other
+    date: 2011-10-07
+  - file: letters/ne_2011-10-08.txt
+    description: Lincoln Journal-Star letter to the editor October 8, 2011.
+    source: "-"
+    title: ne_2011-10-08
+    type: report
+    group: other
+    date: 2011-10-08
+  - file: letters/ne_2011-10-09.txt
+    description: Lincoln Journal-Star letter to the editor October 9, 2011.
+    source: https://journalstar.com/news/opinion/mailbag/letter-10-9-urge-special-session/article_9f424700-dd45-5e46-b4d8-c0ecad5ca72f.html
+    title: ne_2011-10-09
+    type: report
+    group: other
+    date: 2011-10-09
+  - file: letters/ne_2011-10-15.txt
+    description: Lincoln Journal-Star letter to the editor October 15, 2011.
+    source: https://journalstar.com/news/opinion/mailbag/letter-10-15-pass-pipeline-bill/article_8011220f-b16d-5fde-ba25-6af4a9d0de6d.html
+    title: ne_2011-10-15
+    type: report
+    group: other
+    date: 2011-10-15
+  - file: letters/ne_2011-10-16.txt
+    description: Lincoln Journal-Star letter to the editor October 16, 2011.
+    source: "-"
+    title: ne_2011-10-16
+    type: report
+    group: other
+    date: 2011-10-16
+  - file: letters/ne_2011-10-25.txt
+    description: Lincoln Journal-Star letter to the editor October 25, 2011.
+    source: "-"
+    title: ne_2011-10-25
+    type: report
+    group: other
+    date: 2011-10-25
+  - file: letters/heineman_2010-10-12.txt
+    description: Nebraska Governor Heineman letter to Secretary of State dated October 12, 2010.
+    source: https://motherjones.com/wp-content/uploads/heineman.pdf
+    title: heineman_2010-10-12
+    type: report
+    group: other
+    date: 2010-10-12
+  - file: letters/heineman_2011-08-31.txt
+    description: Nebraska Governor Heineman letter to President Obama dated August 31, 2011.
+    source: https://web.archive.org/web/20111229221512/https://governor.nebraska.gov/news/2011/08/pdf/0831_President_Obama_Secretary_Clinton_Keystone_XL_Pipeline_LETTER.pdf
+    title: heineman_2011-08-31
+    type: report
+    group: other
+    date: 2011-08-31
+  - file: letters/heineman_2011-10-07.txt
+    description: Nebraska Governor Heineman letter to Assistant Secretary of State Jones dated October 7, 2011.
+    source: https://web.archive.org/web/20120101200312/https://governor.nebraska.gov/news/2011/10/07_pipeline_clarification.html
+    title: heineman_2011-10-07
+    type: report
+    group: other
+    date: 2011-10-07
+  - file: letters/ljs_2010-06-07.txt
+    description: Lincoln Journal-Star editorial on June 7, 2010
+    source: https://journalstar.com/news/opinion/editorial/article_3d230896-70ff-11df-9640-001cc4c002e0.html
+    title: ljs_2010-06-07
+    type: report
+    group: other
+    date: 2010-06-07
+  - file: letters/johanns_2010-08-11.txt
+    description: US Senator Johanns letter to TransCanada CEO Girling.
+    source: https://web.archive.org/web/20140411225555/http://johanns.senate.gov/public/?a=Files.Serve&File_id=be22829c-6703-4e78-b654-873ba8400894
+    title: johanns_2010-08-11
+    type: report
+    group: other
+    date: 2010-08-11
+  - file: letters/johanns_2010-10-14.txt
+    description: US Senator Johanns letter Secretary of State Clinton on October 14, 2010.
+    source: https://web.archive.org/web/20140419010556/http://www.johanns.senate.gov/public/?a=Files.Serve&File_id=d6fe5c4e-a598-4086-a64e-f4881ba35c2a
+    title: johanns_2010-10-14
+    type: report
+    group: other
+    date: 2010-10-14
+  - file: letters/johanns_2010-10-21.txt
+    description: US Senator Johanns letter Secretary of State Clinton on October 21, 2010.
+    source: https://foia.state.gov/Search/Results.aspx?searchText=johanns&caseNumber=F-2011-02141
+    title: johanns_2010-10-21
+    type: report
+    group: other
+    date: 2010-10-21
+  - file: letters/johanns_2010-11-01.txt
+    description: US Senator Johanns letter Secretary of State Clinton on November 1, 2010.
+    source: https://foia.state.gov/Search/Results.aspx?caseNumber=F-2011-02141
+    title: johanns_2010-11-01
+    type: report
+    group: other
+    date: 2010-11-01
+  - file: letters/johanns_2010-11-04.txt
+    description: US Senator Johanns letter Secretary of State Clinton on November 4, 2010.
+    source: https://foia.state.gov/Search/Results.aspx?caseNumber=F-2011-02141
+    title: johanns_2010-11-04
+    type: report
+    group: other
+    date: 2010-11-04
+  - file: letters/johanns_2011-05-09.txt
+    description: US Senator Johanns letter Secretary of State Clinton on May 9, 2011.
+    source: https://foia.state.gov/Search/Results.aspx?searchText=(johanns)%20AND%20(mike)
+    title: johanns_2011-05-09
+    type: report
+    group: other
+    date: 2011-05-09
+  - file: letters/johanns_2011-11-10.txt
+    description: US Senator Johanns letter Secretary of State Clinton on May 9, 2011.
+    source: https://foia.state.gov/Search/Results.aspx?caseNumber=F-2011-26740
+    title: johanns_2011-11-10
+    type: report
+    group: other
+    date: 2011-11-10
+  - file: letters/nelson_2010-07-27.txt
+    description: US Senator Nelson letter Secretary of State Clinton on July 27, 2011.
+    source: https://foia.state.gov/Search/Results.aspx?searchText=(keystone%20xl)&beginDate=&endDate=&publishedBeginDate=&publishedEndDate=&caseNumber=
+    title: johanns_2010-07-27
+    type: report
+    group: other
+    date: 2010-07-27
+  - file: letters/nyt_2011-08-22.txt
+    description: New York Times Editorial on October 27, 2011
+    source: https://www.nytimes.com/2011/08/22/opinion/tar-sands-and-the-carbon-numbers.html
+    title: nyt_2011-08-22
+    type: report
+    group: other
+    date: 2011-08-22
+  # TC
+  - file: letters/tc_2010-11-03.txt
+    description: "TransCanada CEO Girling letter to Secretary Clinton on November 3, 2010."
+    source: "https://foia.state.gov/Search/Results.aspx?caseNumber=F-2010-07741"
+    title: tc_2010-11-03
+    type: report
+    group: other
+    date: 2010-11-03
+  - file: tc/tc_2011-03-15.txt
+    description: "TransCanada press release published on March 15, 2011."
+    source: "https://web.archive.org/web/20120503043607/http://www.transcanada.com/5852.html"
+    title: tc_2011-03-15
+    type: report
+    group: other
+    date: 2011-03-15
+  - file: tc/tc_2011-08-26.txt
+    description: "TransCanada press release published on August 26, 2011."
+    source: "https://web.archive.org/web/20120503043607/http://www.transcanada.com/5852.html"
+    title: tc_2011-08-26
+    type: report
+    group: other
+    date: 2011-08-26
+  - file: tc/tc_2011-09-09.txt
+    description: "TransCanada press release published on September 9, 2011."
+    source: "https://www.keystonexl.com/project-updates/updates-feed/2020/Keystone-XL-Route-Through-Nebraska-Safest-Choice/"
+    title: tc_2011-09-09
+    type: report
+    group: other
+    date: 2011-09-09
