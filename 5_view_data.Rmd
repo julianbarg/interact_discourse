@@ -35,4 +35,3 @@ glimpse(kxl_model)
 source(here(util_folder, "check_topic.R"))
 walk(1:kxl_model@k, ~ show_topic(kxl_model, .x, kxl_data, 30, 8))
 ```
-

@@ -1,19 +1,20 @@
-get_compound_candidates <- function(documents, known_entities){
+get_compound_candidates <- function(content,
+                                    known_entities,
+                                    custom_stopwords,
+                                    min_count,
+                                    size){
+  source(here("util", "clean_document.R"))
   stopwords <- tidytext::get_stopwords() %>%
-    mutate(word = str_remove_all(word, regex("[^ [:alpha:]]"))) %>%
-    filter(! word == "no") %>%
-    {.$word}
+    filter(! word %in% c("no")) %>%
+    mutate(word = str_replace_all(word, "'", "[']?")) %>%
+    add_row(word = "[a-z]{1,2}", .before = 1) %>%
+    bind_rows(tibble(word = custom_stopwords)) %>%
+    {str_c(" ", .$word, " ", collapse = "|")}
 
-  documents %>%
-    str_remove_all(regex("[^ [:alpha:]]")) %>%
-    str_replace_all(regex(" .{1} "), " ") %>%
-    str_replace_all(known_entities) %>%
-    str_to_lower() %>%
-    quanteda.textstats::textstat_collocations(size = 3) %>%
-    separate(collocation,
-             into = c("word_1", "word_2", "word_3"),
-             sep = " ") %>%
-    filter(!(word_1 %in% stopwords | word_2 %in% stopwords
-             | word_3 %in% stopwords)) %>%
-    unite(word_1, word_2, word_2, col = "collocation", sep = " ")
+  content %>%
+    quanteda.textstats::textstat_collocations(size = size,
+                                              min_count = min_count) %>%
+    mutate(collocation = str_glue(" {collocation} ")) %>%
+    filter(! str_detect(collocation, regex(stopwords, ignore_case = T))) %>%
+    mutate(collocation = str_trim(collocation))
 }

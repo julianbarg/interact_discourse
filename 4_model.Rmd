@@ -90,28 +90,28 @@ show_terms(model_20)
 
 ## Model 4.4
 
-```{r model_4.4}
+```{r model_4.4, eval=F}
 model_17 <- run_model(kxl_dtm, 17, 222224)
 show_terms(model_17)
 ```
 
 ## Model 4.5
 
-```{r model_4.5}
+```{r model_4.5, eval=F}
 model_16 <- run_model(kxl_dtm, 16, 222224)
 show_terms(model_16)
 ```
 
 ## Model 5
 
-```{r model_5}
+```{r model_5, eval=F}
 model_15 <- run_model(kxl_dtm, 15, 222224)
 show_terms(model_15)
 ```
 
 ## Model 6
 
-```{r model_6}
+```{r model_6, eval = F}
 model_14 <- run_model(kxl_dtm, 14, 222224)
 show_terms(model_14)
 ```
@@ -125,7 +125,7 @@ show_terms(model_13)
 
 ## Model 8
 
-```{r model_8}
+```{r model_8, eval = F}
 model_12 <- run_model(kxl_dtm, 12, 222224)
 show_terms(model_12)
 ```
@@ -140,25 +140,40 @@ show_terms(model_11)
 ## Final model
 
 ```{r gamma}
-final_model <- model_14
+final_model <- model_13
 
 betas <- tidytext:::tidy.LDA(final_model, matrix = "beta")
 glimpse(betas)
 
 get_gammas <- function(tokens, betas){
   tokens %>%
-  left_join(betas, by = c("token" = "term")) %>%
-  mutate(beta = beta * n) %>%
-  group_by(order, person, topic) %>%
-  summarize(beta = sum(beta),  .groups = "drop") %>%
-  group_by(order, person) %>%
-  mutate(total_beta = sum(beta)) %>%
-  ungroup() %>%
-  mutate(gamma = beta / total_beta) %>%
-  select(-c(beta, total_beta))
+    left_join(betas, by = c("token" = "term")) %>%
+    mutate(beta = beta * n) %>%
+    group_by(order, person, topic) %>%
+    summarize(beta = sum(beta),  .groups = "drop") %>%
+    group_by(order, person) %>%
+    mutate(total_beta = sum(beta)) %>%
+    ungroup() %>%
+    mutate(gamma = beta / total_beta) %>%
+    select(-c(beta, total_beta, person))
 }
+
+complete_entry <- function(entry){
+  combinations <- entry$gammas %>%
+    full_join(select(entry$document, order), 
+              by = c("order")) %>%
+    expand(topic, order) %>%
+    filter(! is.na(topic)) %>%
+    arrange(order)
+  entry$gammas <- left_join(combinations, entry$gammas, 
+                            by = c("order", "topic")) %>%
+    select(order, topic, gamma)
+  entry
+}
+
 data_betas <- data %>%
-  map(~ list_modify(.x, gammas = get_gammas(.x$tokens, betas)))
+  map(~ list_modify(.x, gammas = get_gammas(.x$tokens, betas))) %>%
+  map(complete_entry)
 glimpse(data_betas[[1]])
 
 write_rds(data_betas, here("output", "data_betas.rds"))

@@ -41,10 +41,74 @@ custom_stopwords
 ```{r load}
 source(here(util_folder, "load_data.R"))
 source(here("input", "load_fixes.R"))
+source(here("util", "clean_document.R"))
+
 data <- metadata$index %>%
-    map(read_data) %>%
-    map(~ fixes[[.x$group]](.x))
+  map(read_data) %>%
+  map(~ fixes[[.x$group]](.x)) %>%
+  map(~ list_modify(.x, preprocessing = 
+                      clean_document(.x$document, known_entities)))
 glimpse(data[[11]])
+```
+
+## Compounds
+
+5
+
+```{r compounds}
+source(here("util", "get_compound_candidates.R"))
+source(here("util", "fix_collocations.R"))
+compounds_5<- data %>%
+  map(~ .x$preprocessing$content) %>%
+  flatten_chr() %>%
+  get_compound_candidates(known_entities, custom_stopwords, 
+                          size = 5, min_count = 10)
+compounds_5
+data <- data %>%
+  map(~ modify_at(.x, "preprocessing",
+                  ~ fix_collocations(.x, compounds_5$collocation)))
+```
+
+4
+
+```{r compounds}
+compounds_4 <- data %>%
+  map(~ .x$preprocessing$content) %>%
+  flatten_chr() %>%
+  get_compound_candidates(known_entities, custom_stopwords, 
+                          size = 4, min_count = 10)
+compounds_4
+data <- data %>%
+  map(~ modify_at(.x, "preprocessing",
+                  ~ fix_collocations(.x, compounds_4$collocation)))
+```
+
+3
+
+```{r compounds}
+compounds_3 <- data %>%
+  map(~ .x$preprocessing$content) %>%
+  flatten_chr() %>%
+  get_compound_candidates(known_entities, custom_stopwords, 
+                          size = 3, min_count = 10)
+compounds_3
+data <- data %>%
+  map(~ modify_at(.x, "preprocessing",
+                  ~ fix_collocations(.x, compounds_3$collocation)))
+```
+
+2
+
+```{r compounds}
+compounds_2 <- data %>%
+  map(~ .x$preprocessing$content) %>%
+  flatten_chr() %>%
+  get_compound_candidates(known_entities, custom_stopwords, 
+                          size = 2, min_count = 10)
+compounds_2
+data <- data %>%
+  map(~ modify_at(.x, "preprocessing",
+                  ~ fix_collocations(.x, compounds_2$collocation)))
 ```
 
 ## Tokenize
@@ -53,9 +117,9 @@ glimpse(data[[11]])
 source(here(util_folder, "tokenize.R"))
 data_tokens <- data %>%
   map( ~ list_modify(.x, tokens = mutate(
-    tokenize(.x$document, custom_stopwords, known_entities)
+    tokenize(.x$preprocessing, custom_stopwords)
   )))
-glimpse(data_tokens[1:2])
+glimpse(data_tokens[[1]])
 beep()
 ```
 
@@ -71,7 +135,7 @@ data_tokens[[11]]$tokens %>%
 1. Infrequent
 
 ```{r infrequent}
-low_freq <- 0.005
+low_freq <- 0.01
 source(here(util_folder, "count_by_doc.R"))
 source(here(util_folder, "get_frequency.R"))
 frequency <- data_tokens %>%
@@ -103,8 +167,9 @@ glimpse(high_tfidf_data[1:2])
 Too frequent
 
 ```{r frequent_tokens}
-too_frequent_cutoff <- 0.9
+too_frequent_cutoff <- 0.15
 frequency_2 <- high_tfidf_data %>%
+# frequency_2 <- data_frequent %>%
   map_dfr(count_by_doc) %>%
   get_frequency()
 frequency_2 %>%
@@ -112,8 +177,8 @@ frequency_2 %>%
 frequent <- frequency_2 %>%
   filter(share > too_frequent_cutoff)
 trimmed_data <- high_tfidf_data %>%
+# trimmed_data <- data_frequent %>%
   map(~ modify_at(.x, "tokens", ~ anti_join(.x, frequent, by = "token")))
-glimpse(trimmed_data[1:2])
 ```
 
 ## Count tokens
