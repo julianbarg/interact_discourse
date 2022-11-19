@@ -1,0 +1,71 @@
+---
+date: "2022-11-17"
+output:
+  powerpoint_presentation:
+    reference_doc: $HOME/Templates/ivey-powerpoint-template.pptx
+---
+
+```{r load_4, include=F}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(here)
+library(glue)
+library(topicmodels)
+library(knitr)
+library(gt)
+library(htmltools)
+library(patchwork)
+options(max.print = 1000)
+util_folder <- c("util")
+beep <- function(){
+  system(str_c("notify-send 'Task complete.'",
+               "&& paplay /usr/share/sounds/Yaru/stereo/message.oga"))
+}
+kxl_data <- read_rds(here("output", "data_betas.rds"))
+kxl_model <- read_rds(here("output", "topic_model.rds"))
+topics <- yaml::read_yaml(here("input", "topics.yaml")) %>%
+  map_dfr(flatten)
+people <- yaml::read_yaml(here("input", "people.yaml")) %>%
+  map_dfr(flatten)
+```
+
+```{r admin_effect_topics, include = F}
+source(here("util", "bind_leads.R"))
+prepare_data <- function(entry){
+  entry$gammas %>%
+    group_by(order) %>%
+    slice_max(gamma, n = 1) %>%
+    ungroup() %>%
+    mutate(title = entry$title) %>%
+    left_join(entry$document, by = "order") %>%
+    mutate(senator = str_detect(person, "^Senator"), 
+           n_words = str_count(content, regex("\\s\\S*")))
+}
+conversations <- kxl_data %>%
+  keep(~ "analyze" %in% names(.x)) %>%
+  map(prepare_data) %>%
+  map_dfr(~bind_cols(.x, bind_leads(.x, max_lead = 50))) %>%
+  left_join(people, by = c("person" = "name"))
+# glimpse(conversations)
+```
+
+## How much do groups talk? Does it depend on topic?
+
+```{r 4_groups, message=FALSE, warning=FALSE}
+groups_2 <- conversations %>%
+  mutate(testimony = n_words > 50, 
+         group = if_else(senator, "senator", group)) %>%
+  group_by(person, title, testimony) %>%
+  mutate(first = ! senator & testimony & (order == first(order)) ) %>%
+  ungroup() %>%
+  filter(first & ! group %in% c("senator", "other")) %>%
+  left_join(topics, by = "topic") %>%
+  filter(short %in% c("Climate change", "Environmentalism", "Oil sand", "Energy economics", "Land aquisition", "Legal questions", "Pipeline industry", "Legislative process")) %>%
+  mutate(remain_words = remain_words + 0.1) %>%
+  ggplot(aes(group, remain_words)) + 
+    geom_violin() + 
+    theme(axis.text.x = element_text(angle = 90)) + 
+    facet_wrap( ~ short, ncol = 4)
+ggsave(here("5_demonstrate", "resources", "groups_2.png"), groups_2, width = 8, height = 4.5)
+include_graphics(here("5_demonstrate", "resources", "groups_2.png"))
+```

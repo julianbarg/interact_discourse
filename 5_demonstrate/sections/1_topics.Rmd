@@ -1,0 +1,74 @@
+---
+date: "2022-11-16"
+output:
+  powerpoint_presentation:
+    reference_doc: $HOME/Templates/ivey-powerpoint-template.pptx
+---
+
+```{r load_1, include=F}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(here)
+library(glue)
+library(topicmodels)
+library(knitr)
+library(gt)
+library(htmltools)
+options(max.print = 1000)
+util_folder <- c("util")
+beep <- function(){
+  system(str_c("notify-send 'Task complete.'",
+               "&& paplay /usr/share/sounds/Yaru/stereo/message.oga"))
+}
+kxl_data <- read_rds(here("output", "data_betas.rds"))
+kxl_model <- read_rds(here("output", "topic_model.rds"))
+topics <- yaml::read_yaml(here("input", "topics.yaml")) %>%
+  map_dfr(flatten)
+```
+
+## Underlying model
+
+* Topic model with 13 topics
+  * Two related to procedural issues
+  * Eleven related to Keystone XL
+
+```{r overview, message=FALSE}
+relabel <- c("ghg emiss" = "GHG emissions", 
+             "propos project" = "Proposed project", 
+             "crude oil" = "Crude oil", "climat chang" = "Climate change", 
+             "oil sand" = "Oil sand", "emiss" = "Emission", 
+             "estim" = "Estimate", "report" = "Report", "crude" = "Crude", 
+             "ghg" = "GHG")
+source(here("util", "visualize_topic.R"))
+visualize_topic(kxl_model, 6, 10, relabel) +
+  labs(title = "Example: Topic 'Greenhouse Gas'")
+```
+
+### Topics
+
+```{r topics}
+include_gt_table <- function(df, file_basename){
+  html_file <- here("5_demonstrate", "resources", glue("{file_basename}.html"))
+  png_file <- here("5_demonstrate", "resources", glue("{file_basename}.png"))
+  save_html(html(as_raw_html(gt(df))), html_file, background = "white")
+  webshot2::webshot(url = html_file, 
+                    file = png_file)
+  include_graphics(png_file)
+}
+topics %>%
+  rename("Topic #" = "topic", 
+         "Title" = "short", 
+         "Description" = "long") %>%
+  include_gt_table("topics")
+```
+
+### Topic of interest #1--admin
+
+```{r admin_topic_labels, message=FALSE}
+relabel_admin <- c("testifi" = "Testify", "minut" = "Minutes",
+                   "recogn" = "Recognized", "see none" = "Seeing none", 
+                   "record" = "Record", "welcom" = "Welcome", 
+                   "natur resourc committe" = "NRC", "next" = "Next", 
+                   "opposit" = "Opposition", "propon" = "Proponent")
+visualize_topic(kxl_model, 3, 10, relabel_admin)
+```

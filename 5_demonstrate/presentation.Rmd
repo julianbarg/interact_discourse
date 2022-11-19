@@ -1,0 +1,77 @@
+---
+date: "2022-11-16"
+output:
+  powerpoint_presentation:
+    reference_doc: $HOME/Templates/ivey-powerpoint-template.pptx
+---
+
+```{r load, include=F}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(here)
+library(glue)
+library(topicmodels)
+library(rmarkdown)
+options(max.print = 1000)
+util_folder <- c("util")
+beep <- function(){
+  system(str_c("notify-send 'Task complete.'",
+               "&& paplay /usr/share/sounds/Yaru/stereo/message.oga"))
+kxl_data <- read_rds(here("output", "data_betas.rds"))
+kxl_model <- read_rds(here("output", "topic_model.rds"))
+}
+```
+
+```{r data, include = F, eval = F}
+prepare_data <- function(entry){
+  entry$gammas %>%
+    filter(topic == 3) %>%
+    mutate(title = entry$title) %>%
+    left_join(entry$document, by = "order") %>%
+    mutate(senator = str_detect(person, "^Senator"), 
+           n_words = str_count(content, regex("\\s\\S*")))
+}
+test_data <- kxl_data %>%
+  keep(~ "analyze" %in% names(.x)) %>%
+  map(prepare_data)
+```
+
+<!-- ### Remaining comments -->
+
+```{r remaining, include = F, eval = F}
+source(here("util", "bind_leads.R"))
+test_remaining <- test_data %>%
+  map_dfr(~bind_cols(.x, bind_leads(.x)))
+test_admin <- function(df, sd_n = 1){
+  cutoff <- mean(df$gamma, na.rm = T) + sd_n * sd(df$gamma, na.rm = T)
+  df %>%
+    mutate(
+      admin = case_when(senator ~ "senator", 
+                        lead(senator, 1) & lead(gamma, 1) > cutoff ~ "admin")
+      )
+      
+      
+      # admin = ! senator 
+      #      & (lead(gamma, 1) > cutoff) %in% T 
+      #      & lead(senator, 1))
+}
+test_admin(test_remaining)
+```
+
+```{r child='sections/1_topics.Rmd'}
+```
+
+```{r child='sections/2_flow.Rmd'}
+```
+
+```{r child='sections/3_topics.Rmd'}
+```
+
+```{r child='sections/4_groups.Rmd'}
+```
+
+```{r child='sections/5_survival_analysis.Rmd'}
+```
+
+```{r child='sections/6_regression_model.Rmd'}
+```

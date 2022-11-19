@@ -1,0 +1,32 @@
+---
+date: "2022-11-17"
+output:
+  powerpoint_presentation:
+    reference_doc: $HOME/Templates/ivey-powerpoint-template.pptx
+---
+
+```{r load_5, include=F}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(here)
+library(glue)
+library(topicmodels)
+library(knitr)
+library(gt)
+library(htmltools)
+library(patchwork)
+options(max.print = 1000)
+util_folder <- c("util")
+beep <- function(){
+  system(str_c("notify-send 'Task complete.'",
+               "&& paplay /usr/share/sounds/Yaru/stereo/message.oga"))
+}
+kxl_data <- read_rds(here("output", "data_betas.rds"))
+kxl_model <- read_rds(here("output", "topic_model.rds"))
+topics <- yaml::read_yaml(here("input", "topics.yaml")) %>%
+  map_dfr(flatten)
+people <- yaml::read_yaml(here("input", "people.yaml")) %>%
+  map_dfr(flatten)
+```
+
+# Survival analysis

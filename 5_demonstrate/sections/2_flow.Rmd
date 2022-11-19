@@ -1,0 +1,169 @@
+---
+date: "2022-11-17"
+output:
+  powerpoint_presentation:
+    reference_doc: $HOME/Templates/ivey-powerpoint-template.pptx
+---
+
+```{r load_2, include=F}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(here)
+library(glue)
+library(topicmodels)
+library(knitr)
+library(gt)
+library(htmltools)
+library(patchwork)
+options(max.print = 1000)
+util_folder <- c("util")
+beep <- function(){
+  system(str_c("notify-send 'Task complete.'",
+               "&& paplay /usr/share/sounds/Yaru/stereo/message.oga"))
+}
+kxl_data <- read_rds(here("output", "data_betas.rds"))
+kxl_model <- read_rds(here("output", "topic_model.rds"))
+topics <- yaml::read_yaml(here("input", "topics.yaml")) %>%
+  map_dfr(flatten)
+```
+
+## Flow of conversation
+
+Is the 'admin' topic a good placeholder for disinterest?
+
+---
+
+```{r admin_effect, include = F}
+source(here("util", "bind_leads.R"))
+prepare_data <- function(entry){
+  entry$gammas %>%
+    filter(topic == 3) %>%
+    mutate(title = entry$title) %>%
+    left_join(entry$document, by = "order") %>%
+    mutate(senator = str_detect(person, "^Senator"), 
+           n_words = str_count(content, regex("\\s\\S*")))
+}
+conversations <- kxl_data %>%
+  keep(~ "analyze" %in% names(.x)) %>%
+  map(prepare_data) %>%
+  map_dfr(~bind_cols(.x, bind_leads(.x, max_lead = 50)))
+# glimpse(conversations)
+
+cutoff <- mean(conversations$gamma, na.rm = T) + 
+  1 * sd(conversations$gamma, na.rm = T)
+
+conversations_1 <- conversations %>%
+  group_by(title, person) %>%
+  mutate(first = order == first(order) & n() > 1) %>%
+  ungroup() %>%
+  arrange(title, order) %>%
+  mutate(group = case_when(
+    senator ~ "senator", 
+    first ~ "first",
+    lead(senator) & lead(gamma) > cutoff ~ "admin", 
+    lead(senator, 2) & lead(gamma, 2) > cutoff ~ "admin",
+    T ~ "remark"
+  ))
+```
+
+## Can we predict the end of the conversation?
+
+```{r admin_remain}
+fix_names <- c("admin" = "After 'admin' topic", 
+               "remark" = "Other remarks")
+remainder_plot <- conversations_1 %>%
+  filter(group %in% c("admin", "remark")) %>%
+  mutate(group = recode(group, !!! fix_names)) %>%
+  ggplot(aes(group, remain_remarks)) +
+    geom_violin() +
+    labs(title = "Remaining remarks", 
+         subtitle = "By witness after 'admin' topic") +
+    ylab("Number of remarks by witness after") + 
+  theme(axis.title.x = element_blank())
+length_plot <- conversations_1 %>%
+  filter(group %in% c("admin", "remark")) %>%
+  mutate(remain_words = remain_words + 0.1) %>%
+  mutate(group = recode(group, !!! fix_names)) %>%
+  ggplot(aes(group, remain_words)) +
+    geom_violin() +
+    scale_y_log10() +
+    labs(title = "Remaining words", 
+         subtitle = "By witness after 'admin' topic") +
+    ylab("Number of words spoken by witness after") + 
+  theme(axis.title.x = element_blank())
+
+admin_plot <- remainder_plot + plot_spacer() + length_plot + 
+  plot_layout(widths = c(3, 1 ,3))
+ggsave(here("5_demonstrate", "resources", "admin_plot.png"), 
+       admin_plot, width = 10, height = 5)
+include_graphics(here("5_demonstrate", "resources", "admin_plot.png"))
+```
+
+## T-test--remaining remarks
+
+```{r t-test}
+admin <- subset(conversations_1, group == "admin", remain_remarks)
+other <- subset(conversations_1, group == "remark", remain_remarks)
+t.test(admin, other)
+```
+
+## T-test--remaining words
+
+```{r t-test_2}
+admin <- subset(conversations_1, group == "admin", remain_words)
+other <- subset(conversations_1, group == "remark", remain_words)
+t.test(admin, other)
+```
+
+## Robustness check
+
+Two standard deviations above mean for topic loading
+
+```{r st_2}
+cutoff <- mean(conversations$gamma, na.rm = T) + 
+  2 * sd(conversations$gamma, na.rm = T)
+
+conversations_2 <- conversations %>%
+  group_by(title, person) %>%
+  mutate(first = order == first(order) & n() > 1) %>%
+  ungroup() %>%
+  arrange(title, order) %>%
+  mutate(group = case_when(
+    senator ~ "senator", 
+    first ~ "first",
+    lead(senator) & lead(gamma) > cutoff ~ "admin", 
+    lead(senator, 2) & lead(gamma, 2) > cutoff ~ "admin",
+    T ~ "remark"
+  ))
+```
+
+```{r admin_remain_2_sd}
+fix_names <- c("admin" = "After 'admin' topic", 
+               "remark" = "Other remarks")
+remainder_plot <- conversations_2 %>%
+  filter(group %in% c("admin", "remark")) %>%
+  mutate(group = recode(group, !!! fix_names)) %>%
+  ggplot(aes(group, remain_remarks)) +
+    geom_violin() +
+    labs(title = "Remaining remarks", 
+         subtitle = "By witness after 'admin' topic") +
+    ylab("Number of remarks by witness after") + 
+  theme(axis.title.x = element_blank())
+length_plot <- conversations_2 %>%
+  filter(group %in% c("admin", "remark")) %>%
+  mutate(remain_words = remain_words + 0.1) %>%
+  mutate(group = recode(group, !!! fix_names)) %>%
+  ggplot(aes(group, remain_words)) +
+    geom_violin() +
+    scale_y_log10() +
+    labs(title = "Remaining words", 
+         subtitle = "By witness after 'admin' topic") +
+    ylab("Number of words spoken by witness after") + 
+  theme(axis.title.x = element_blank())
+
+admin_plot <- remainder_plot + plot_spacer() + length_plot + 
+  plot_layout(widths = c(3, 1 ,3))
+ggsave(here("5_demonstrate", "resources", "admin_plot_2.png"), 
+       admin_plot, width = 10, height = 5)
+include_graphics(here("5_demonstrate", "resources", "admin_plot_2.png"))
+```

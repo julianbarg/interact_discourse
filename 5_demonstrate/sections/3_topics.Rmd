@@ -1,0 +1,178 @@
+---
+date: "2022-11-17"
+output:
+  powerpoint_presentation:
+    reference_doc: $HOME/Templates/ivey-powerpoint-template.pptx
+---
+
+```{r load_3, include=F}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(here)
+library(glue)
+library(topicmodels)
+library(knitr)
+library(gt)
+library(htmltools)
+library(patchwork)
+options(max.print = 1000)
+util_folder <- c("util")
+beep <- function(){
+  system(str_c("notify-send 'Task complete.'",
+               "&& paplay /usr/share/sounds/Yaru/stereo/message.oga"))
+}
+kxl_data <- read_rds(here("output", "data_betas.rds"))
+kxl_model <- read_rds(here("output", "topic_model.rds"))
+topics <- yaml::read_yaml(here("input", "topics.yaml")) %>%
+  map_dfr(flatten)
+people <- yaml::read_yaml(here("input", "people.yaml")) %>%
+  map_dfr(flatten)
+```
+
+# Topics
+
+```{r admin_effect_topics+1, include = F}
+source(here("util", "bind_leads.R"))
+prepare_data <- function(entry){
+  entry$gammas %>%
+    group_by(order) %>%
+    slice_max(gamma, n = 1) %>%
+    ungroup() %>%
+    mutate(title = entry$title) %>%
+    left_join(entry$document, by = "order") %>%
+    mutate(senator = str_detect(person, "^Senator"), 
+           n_words = str_count(content, regex("\\s\\S*")))
+}
+conversations <- kxl_data %>%
+  keep(~ "analyze" %in% names(.x)) %>%
+  map(prepare_data) %>%
+  map_dfr(~bind_cols(.x, bind_leads(.x, max_lead = 50))) %>%
+  left_join(people, by = c("person" = "name"))
+# glimpse(conversations)
+```
+
+## Keystone XL opponent testifying on different aspects
+
+```{r plot_words}
+additional_words <- conversations %>%
+  mutate(testimony = n_words > 50, 
+         group = if_else(senator, "senator", group)) %>%
+  group_by(person, title, testimony) %>%
+  mutate(first = ! senator & testimony & (order == first(order)) ) %>%
+  ungroup() %>%
+  filter(first & group == "anti") %>%
+  left_join(topics, by = "topic") %>%
+  mutate(remain_words = remain_words + 0.1) %>%
+  filter(!short %in% c("Presidential permit", "Meeting admin.")) %>%
+  ggplot(aes(short, remain_words)) + 
+    geom_violin() + 
+    theme(axis.text.x = element_text(angle = 90)) + 
+    labs(title = "Additional words response to questions", 
+         subtitle = "After opening testimony on topic") + 
+    xlab("Topic of opening testimony") + 
+    ylab("Additional words response to questions")
+ggsave(here("5_demonstrate", "resources", "additional_words.png"), additional_words, width = 8, height = 4.5)
+include_graphics(here("5_demonstrate", "resources", "additional_words.png"))
+```
+
+## Alternative measure--additional remarks
+
+```{r plot_remarks}
+additional_remarks <- conversations %>%
+  mutate(testimony = n_words > 50, 
+         group = if_else(senator, "senator", group)) %>%
+  group_by(person, title, testimony) %>%
+  mutate(first = ! senator & testimony & (order == first(order)) ) %>%
+  ungroup() %>%
+  filter(first & group == "anti") %>%
+  left_join(topics, by = "topic") %>%
+  mutate(remain_words = remain_words + 0.1) %>%
+  filter(!short %in% c("Presidential permit", "Meeting admin.")) %>%
+  ggplot(aes(short, remain_remarks)) + 
+    geom_violin() + 
+    theme(axis.text.x = element_text(angle = 90)) + 
+    labs(title = "Additional remarks in response to questions", 
+         subtitle = "After opening testimony on topic") + 
+    xlab("Topic of opening testimony") + 
+    ylab("Additional remarks in response to questions")
+ggsave(here("5_demonstrate", "resources", "additional_remarks.png"), additional_remarks, width = 8, height = 4.5)
+include_graphics(here("5_demonstrate", "resources", "additional_remarks.png"))
+```
+
+## Alternative construction--outliers I
+
+```{r kxl_data_2}
+topic_cutoffs <- kxl_data %>%
+  keep(~ "analyze" %in% names(.x)) %>%
+  map_dfr( ~.x$gammas) %>%
+  group_by(topic) %>%
+  summarize(mean = mean(gamma, na.rm = T), 
+         sd = sd(gamma, na.rm = T)) %>%
+  mutate(cutoff = mean + 1 * sd)
+```
+
+```{r plot_words_2, message=FALSE, warning=FALSE}
+additional_words_2 <- conversations %>%
+  mutate(testimony = n_words > 50, 
+         group = if_else(senator, "senator", group)) %>%
+  group_by(person, title, testimony) %>%
+  mutate(first = ! senator & testimony & (order == first(order)) ) %>%
+  ungroup() %>%
+  filter(first & group == "anti") %>%
+  left_join(topic_cutoffs, by = "topic") %>%
+  filter(gamma > cutoff) %>%
+  left_join(topics, by = "topic") %>%
+  mutate(remain_words = remain_words + 0.1) %>%
+  filter(!short %in% c("Energy economics")) %>%
+  # filter(!short %in% c("Presidential permit", "Meeting admin.")) %>%
+  ggplot(aes(short, remain_words)) + 
+    geom_violin() + 
+    theme(axis.text.x = element_text(angle = 90)) + 
+    labs(title = "Additional words spoken in response to questions", 
+         subtitle = paste("After opening testimony on topic,", 
+                          " one standard deviation above mean")) + 
+    xlab("Topic of opening testimony") + 
+    ylab("Additional words spoken in response to questions")
+ggsave(here("5_demonstrate", "resources", "additional_words_2.png"),
+       additional_words_2, width = 8, height = 4.5)
+include_graphics(here("5_demonstrate", "resources", "additional_words_2.png"))
+```
+
+## Alternative construction--outliers II
+
+```{r kxl_data}
+topic_cutoffs <- kxl_data %>%
+  keep(~ "analyze" %in% names(.x)) %>%
+  map_dfr( ~.x$gammas) %>%
+  group_by(topic) %>%
+  summarize(mean = mean(gamma, na.rm = T), 
+         sd = sd(gamma, na.rm = T)) %>%
+  mutate(cutoff = mean + 2 * sd)
+```
+
+```{r plot_words_3, message=FALSE, warning=FALSE}
+additional_words_3 <- conversations %>%
+  mutate(testimony = n_words > 50, 
+         group = if_else(senator, "senator", group)) %>%
+  group_by(person, title, testimony) %>%
+  mutate(first = ! senator & testimony & (order == first(order)) ) %>%
+  ungroup() %>%
+  filter(first & group == "anti") %>%
+  left_join(topic_cutoffs, by = "topic") %>%
+  filter(gamma > cutoff) %>%
+  left_join(topics, by = "topic") %>%
+  mutate(remain_words = remain_words + 0.1) %>%
+  filter(!short %in% c("Energy economics")) %>%
+  # filter(!short %in% c("Presidential permit", "Meeting admin.")) %>%
+  ggplot(aes(short, remain_words)) + 
+    geom_violin() + 
+    theme(axis.text.x = element_text(angle = 90)) + 
+    labs(title = "Additional words in response to questions", 
+         subtitle = paste("After opening testimony on topic,", 
+                          "two standard deviations above mean")) + 
+    xlab("Topic of opening testimony") + 
+    ylab("Additional words in response to questions")
+ggsave(here("5_demonstrate", "resources", "additional_words_3.png"),
+       additional_words_3, width = 8, height = 4.5)
+include_graphics(here("5_demonstrate", "resources", "additional_words_3.png"))
+```
