@@ -1,5 +1,5 @@
-clean_document <- function(entry, known_entities){
-  entry %>%
+clean_document <- function(df, known_entities){
+  df %>%
     mutate(content = str_remove_all(content,
                                     regex("\\([^\\)]*\\)|\\[[^\\]]*\\]"))) %>%
     mutate(content = str_remove_all(content, regex(
