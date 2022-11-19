@@ -67,6 +67,10 @@ compounds_5
 data <- data %>%
   map(~ modify_at(.x, "preprocessing",
                   ~ fix_collocations(.x, compounds_5$collocation)))
+file.remove(here("output", "compounds.txt"))
+file.create(here("output", "compounds.txt"))
+cat(compounds_5$collocation, file = here("output", "compounds.txt"),
+    sep = "\n", append = T)
 ```
 
 4
@@ -81,6 +85,8 @@ compounds_4
 data <- data %>%
   map(~ modify_at(.x, "preprocessing",
                   ~ fix_collocations(.x, compounds_4$collocation)))
+cat(compounds_4$collocation, file = here("output", "compounds.txt"),
+    sep = "\n", append = T)
 ```
 
 3
@@ -95,6 +101,8 @@ compounds_3
 data <- data %>%
   map(~ modify_at(.x, "preprocessing",
                   ~ fix_collocations(.x, compounds_3$collocation)))
+cat(compounds_3$collocation, file = here("output", "compounds.txt"),
+    sep = "\n", append = T)
 ```
 
 2
@@ -109,6 +117,8 @@ compounds_2
 data <- data %>%
   map(~ modify_at(.x, "preprocessing",
                   ~ fix_collocations(.x, compounds_2$collocation)))
+cat(compounds_2$collocation, file = here("output", "compounds.txt"),
+    sep = "\n", append = T)
 ```
 
 ## Tokenize
@@ -147,6 +157,11 @@ infrequent %>%
   arrange(desc(frequency), token)
 data_frequent <- data_tokens %>%
   map(~ modify_at(.x, "tokens", ~ anti_join(.x, infrequent, by = "token")))
+
+file.remove(here("output", "infrequent.txt"))
+file.create(here("output", "infrequent.txt"))
+cat(infrequent$token, file = here("output", "infrequent.txt"),
+    sep = "\n")
 ```
 
 2. tfidf 
@@ -179,6 +194,11 @@ frequent <- frequency_2 %>%
 trimmed_data <- high_tfidf_data %>%
 # trimmed_data <- data_frequent %>%
   map(~ modify_at(.x, "tokens", ~ anti_join(.x, frequent, by = "token")))
+
+file.remove(here("output", "frequent.txt"))
+file.create(here("output", "frequent.txt"))
+cat(frequent$token, file = here("output", "frequent.txt"),
+    sep = "\n")
 ```
 
 ## Count tokens
