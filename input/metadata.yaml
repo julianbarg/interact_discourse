@@ -21,6 +21,7 @@ index:
     type: arena
     group: ne_legislature
     date: 2011-02-09
+    analyze: yes
   - file: ne_legislature/2011-05-19.txt
     description: Nebraska Legislature Floor Debate May 19, 2011.
     source: https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/FloorDebate/r1day82.pdf
@@ -35,6 +36,7 @@ index:
     type: arena
     group: ne_legislature
     date: 2011-11-07
+    analyze: yes
   - file: ne_legislature/2011-11-08.txt
     description: Nebraska Legislature Natural Resources Committee public hearing on November 8, 2011.
     source: https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Natural/2011-11-08.pdf
@@ -42,6 +44,7 @@ index:
     type: arena
     group: ne_legislature
     date: 2011-11-08
+    analyze: yes
   - file: ne_legislature/2011-11-08_judiciary.txt
     description: Nebraska Legislature Judiciary Committee public hearing on November 8, 2011.
     source: https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Judiciary/2011-11-08.pdf
@@ -49,6 +52,7 @@ index:
     type: arena
     group: ne_legislature
     date: 2011-11-08
+    analyze: yes
   - file: ne_legislature/2011-11-09.txt
     description: Nebraska Legislature Natural Resources Committee public hearing on November 9, 2011.
     source: https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Natural/2011-11-09.pdf
@@ -56,6 +60,7 @@ index:
     type: arena
     group: ne_legislature
     date: 2011-11-09
+    analyze: yes
   - file: ne_legislature/2011-11-14.txt
     description: Nebraska Legislature Natural Resources Committee public hearing on November 14, 2011.
     source: https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Natural/2011-11-14.pdf
@@ -69,6 +74,8 @@ index:
     title: ne_2011-11-15
     type: arena
     group: ne_legislature
+    date: 2011-11-15
+    analyze: yes
   # Reports
   - file: reports/nwf_2010-06-09.txt
     description: "Report by the National Wildlife Federation 'Staying Hooked on a Dirty Fuel'."
@@ -238,7 +245,7 @@ index:
     type: report
     group: letters
     date: 2011-06-06
-    stance: 
+    stance:
       - Gates
       - Woldt
   - file: letters/bn_2011-06-06.txt
@@ -275,7 +282,7 @@ index:
     type: report
     group: letters
     date: 2010-04-23
-    stance: 
+    stance:
       - Corporate Ethics International
       - Dakota Rural Action
       - Earthjustice
@@ -297,7 +304,7 @@ index:
     type: report
     group: letters
     date: 2010-09-23
-    stance: 
+    stance:
       - EARTHWORKS
       - NRDC
       - Corporate Ethics International
@@ -338,7 +345,7 @@ index:
     type: report
     group: letters
     date: 2011-10-04
-    stance: 
+    stance:
       - Goeke
   - file: letters/science_2011-06-03.txt
     description: Open letter by James Hansen.
@@ -386,7 +393,7 @@ index:
   - file: letters/ua_2010-06-11.txt
     description: United Association letter to President Obama on June 11, 2010.
     source: https://foia.state.gov/Search/Results.aspx?searchText=(clinton)%20AND%20(keystone%20xl)
-    title: ua_2010-06-11 
+    title: ua_2010-06-11
     type: report
     group: other
     date: 2010-06-11
