@@ -5,8 +5,9 @@ args <- commandArgs(trailingOnly=TRUE)
 options(tidyverse.quiet = TRUE)
 library(tidyverse)
 library(yaml)
-library(here)
+suppressPackageStartupMessages(library(here))
 
+cat("Loading data\n")
 text <- clipr::read_clip(allow_non_interactive = T)
 
 known_entities <- yaml::read_yaml(here("input", "nlp_input.yaml")) %>%
@@ -24,6 +25,8 @@ topics <- yaml::read_yaml(here("input", "topics.yaml")) %>%
 source(here("util", "clean_document.R"))
 source(here("util", "fix_collocations.R"))
 source(here("util", "tokenize.R"))
+
+cat("Starting analysis\n")
 tibble(document = "doc", content = text,
                order = "1", person = "-") %>%
   clean_document(known_entities) %>%
