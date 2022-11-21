@@ -1,0 +1,291 @@
+**ES.5 ALTERNATIVES CONSIDERED**
+
+The following alternatives were assessed by DOS:
+
+• No Action Alternative − the proposed Project would not be built;
+
+• System Alternatives − use of other pipeline systems or other
+methods of providing crude oil supplies to the U.S. Gulf Coast market;
+
+• Major Route Alternatives − other pipeline routes for transporting
+crude oil from the U.S./Canada border near Morgan, Montana to the
+Port Arthur and the east Houston areas of Texas; and
+
+• Alternative Routes for the Electrical Transmission Line −
+preliminary alternative routings for the proposed 230-kV transmission
+line in South Dakota that is needed to ensure power system stability
+given the loads required for providing electrical power to the pump
+stations in South
+
+In addition, MDEQ evaluated alternatives and variations in Montana
+as part of its analysis of Keystone's application for a Certificate
+of Compliance under the state's Major Facility Siting Act (MFSA). MDEQ
+
+also evaluated the alternatives and variations in accordance with
+the requirements of the Montana
+
+Environmental Policy Act (MEPA) as reported in Appendix I of the EIS.
+
+**ES.5.1 No Action Alternative**
+
+Under the No Action Alternative, the Project would not be constructed
+and would not require issuance of a DOS Presidential Permit. The
+increasing demand for crude oil in the U.S. cannot be entirely met by
+efforts to conserve use of refined petroleum products or the increased
+use of renewable energy. As crude oil demand increases, the overall
+domestic supplies of crude oil are declining. At the same time, only
+a small volume of WCSB crude oil can be shipped to PADD III through a
+single pipeline, and a substantial portion of the oil imported from
+outside of North America originates in countries with decreasing or
+undependable oil supplies. Under the No Action Alternative, it is
+likely that other projects would be proposed to meet the increased
+demand. Although it is not possible to identify the specific impacts
+of such projects, it is likely that they would be similar in nature
+to those of the proposed Project and either smaller, greater than,
+or equal to the magnitude of impacts of the proposed Project.
+
+Under the No Action Alternative, the U.S. would not receive a reliable
+and cost efficient source of crude oil from the WSCB region and would
+remain dependent upon unstable foreign oil supplies from the
+
+Mideast, Africa, Mexico, and South America. Further, the WCSB crude
+oil would likely be shipped to
+countries outside of North America, which would require new
+infrastructure that would result in environmental impacts at least as
+great as those of the proposed Project. In addition, the transport
+of crude oil by tanker and other means such as truck and rail would
+likely result in greater GHG emissions than those that would occur as
+a result of the proposed Project. Finally, the No Action Alternative
+would not meet the purpose and need of the proposed Project.
+
+**ES.5.2 System Alternatives**
+
+System alternatives to the proposed Project would make use of
+other existing, modified, or proposed pipeline systems as well as
+non-pipeline systems - to meet the purpose and need of the proposed
+Project.
+
+**ES.5.2.1 Existing Pipeline Systems**
+
+There is currently only one existing pipeline system that extends
+from the Midwest to the Gulf region.
+
+The ExxonMobil Pegasus pipeline is a system that transports crude
+oil from Patoka, Illinois to Nederland,
+
+Texas. Since the committed pipeline capacity is 50,000 bpd and the
+total capacity is 66,000 bpd, Pegasus is considering an expansion of
+up to 30,000 bpd to PADD III as early as 2009. Even with the proposed
+expansion, the Exxon Pegasus proposal would not meet the service
+capacity needs of the PADD III
+
+**ES.5.2.2 New Pipeline System Alternatives**
+
+Four alternative new proposed pipeline system alternatives were
+analyzed: The Altex Pipeline System;
+
+The Chinook-Maple Leaf Pipeline System; Trailbreaker Transportation
+System; and the Enbridge -- BP
+
+Delivery System all of which at this time are speculative. None of
+the proposed system alternatives would provide the delivery capacity
+of the proposed Project and none could provide WCSB crude oil to
+
+PADD III in the same timeframe as the proposed Project. Therefore,
+none of the system alternatives considered can meet the Project
+purpose and need and none of them offer a significant environmental
+
+**ES.5.2.3 Alternative Modes of Transportation**
+
+Surface crude oil delivery transportation modes from the U.S./Canada
+border near Morgan, Montana to the Port Arthur and the east Houston
+areas of Texas were considered as an alternative to the proposed
+
+Project. Modes considered include delivery by truck, railroad cars,
+and barges. Truck transportation would not be a practical way to meet
+the Project's purpose and need since crude oil transport equivalent to
+that of the proposed Project would require 4,000 trucks per day. There
+is not an existing direct rail line from Morgan, Montana, to Port
+Arthur, Texas and the east Houston areas of Texas. Barging the oil
+would not be feasible due to the lack of a large waterway system
+between Morgan, Montana, and the
+
+PADD III area capable of supporting barge traffic.
+
+The alternative modes considered would be less safe, would require
+construction of substantially more infrastructure, have greater
+atmospheric emissions (including GHG), and/or pose greater safety
+hazards than the proposed Project. Therefore, none of the alternative
+modes of transportation have been evaluated
+
+**ES.5.3 Pipeline Route Alternatives**
+
+DOS identified alternatives to the proposed Project for the Steele
+City Segment (SCS), the Gulf Coast
+
+Segment (GCS), and the Houston Lateral (HL). In addition DOS considered
+an alternative that would avoid using the Cushing Extension.
+
+**ES.5.3.1 Steele City Segment Alternatives**
+
+For the Steele City Segment, five alternatives were considered:
+Express-Platte Alternative; SCS
+
+Alternative A; SCS Alternative A1A; SCS Alternative B (the proposed
+Project); and Baker Alternative.
+
+The initial assessment of the Steele City Segment Alternatives
+indicates that the alternatives considered do not offer an
+environmental advantage over the Applicant's proposed route
+(Alternative SCS-B), and are eliminated from further consideration.
+
+**ES.5.3.2 Alternative to Using the Cushing Extension**
+
+One alternative was identified that would avoid using the Cushing
+Extension, the Western Alternative.
+
+The Western Alternative does not offer an environmental advantage
+over the proposed Project and was eliminated from further analysis.
+
+**ES.5.3.3 Gulf Coast Segment Alternatives**
+
+Two geographical alternatives were assessed for the Gulf Coast Segment:
+Gulf Coast Segment (GCS)-A
+
+(proposed Project) and GCS-B. While GSC-A would cross more wetlands
+as compared to GCS-B, it would affect less overall agricultural land,
+developed land, and crosses less streams/rivers. GCS-A was therefore
+determined to be the environmentally preferred alternative and GCS-B
+was eliminated from further analysis.
+
+**ES.5.3.4 Houston Lateral Alternatives**
+
+Alternatives identified for the Houston Lateral include Alternative
+HL-A (the proposed Project) and
+
+Alternative HL-B. Alternative HL-A, the environmentally preferred
+alternative is the shorter route and would require fewer miles of
+new pipeline and would have a lesser area of impact. Alternative HL-B
+
+does not offer an environmental advantage over the Alternative HL-A,
+and was eliminated from further
+
+**ES.5.3.5 Summary of Pipeline Route Alternatives Analysis**
+
+Based on the assessment of alternatives conducted, DOS determined
+that none of the identified alternatives offered an environmental
+advantage over the Applicant's preferred route. Therefore, the
+
+DOS preferred route consists of the following alternatives by segment:
+
+• Steele City Segment Alternative B (SCS-B);
+
+• Gulf Coast Segment Alternative A (GCS-A); and
+
+• Houston Lateral Alternative A (HL-A).
+
+**ES.5.4 Alternative 230-kV Electrical Transmission Line Routes**
+
+The 230-kV Lower Brule to Witten transmission line would be needed to
+ensure transmission system reliability with the expected load demands
+at full pipeline operational capacity in southern South Dakota.
+
+Western and Basin Electric Power Cooperative (BEPC) have identified
+two alternative transmission corridors (Alternative Corridors A and B)
+for the Project and have identified five alternative routes in
+
+Corridor A and four alternative routes in Corridor B. The corridors
+extend from the Big Bend Dam and include the site of a proposed new
+substation at Lower Brule and the existing Witten Substation.
+
+The transmission line would transfer electricity from the proposed
+Lower Brule Substation near Big Bend
+
+Dam in Lyman County, to an existing substation near Witten in Tripp
+County. The existing Big Bend-
+
+Fort Thompson No. 2, 230-kV transmission line turning structure would
+be converted to a double-circuit structure. Western would construct
+2.1 miles of new double-circuit transmission line south of the dam and
+construct the new Lower Brule Substation. The new transmission line
+from the dam would connect to the Lower Brule Substation. Western
+would own and operate the 2.1 mile transmission line but would
+transfer ownership and operation of the Lower Brule Substation to
+BEPC. BEPC would construct and operate the new, 70-mile-long, 230-kV
+transmission line between the Lower Brule Substation and the existing
+Witten Substation, which is owned by Rosebud Electric Cooperative. The
+five alternative routes for the transmission line that were identified
+within Corridor A and the four alternative routes identified within
+Corridor B are all between the two substations.
+
+Both of the alternative corridors cross the Lower Brule Reservation,
+but the Corridor A has a shorter path through the Lower Brule
+Reservation. The key impacts of the transmission line alternatives
+are listed in the listed in EIS for comparison purposes. In addition,
+the impacts of construction and operation of the transmission line
+alternatives are generally addressed in Section 3.0 the EIS. However,
+DOS, Western,
+
+and the other cooperating agencies do not have sufficient design and
+construction information to establish an agency preferred alternative
+for the proposed transmission line project. An additional and separate
+
+NEPA environmental review of the alternatives to the proposed
+transmission line will be conducted after the alternative routes
+are further defined. The design and environmental review of the
+proposed 230-kV
+
+transmission line are on a different schedule than the pipeline system
+itself. Regional transmission system reliability concerns are not
+associated with the initial operation of the proposed pipeline pump
+stations, but rather with later stages of proposed pipeline operation
+at higher levels of crude oil throughput.
+
+**ES.5.5 Montana Major Facility Siting Act and Montana Environmental
+Policy Act Environmental Review**
+
+Keystone applied to MDEQ for a Certificate of Compliance under MFSA
+for the portions of the proposed
+
+Project in Montana. Prior to issuing a certificate, MDEQ must find and
+determine the basis of the need for the facility and determine whether
+or not the facility would serve the public interest, convenience,
+and necessity. Under the law, it must also identify the route that
+minimizes adverse environmental impacts and uses public land whenever
+the use of public lands is as economically practicable as the use of
+private land to include use of federal lands. As a cooperating agency
+in the preparation of the EIS, MDEQ
+
+considered and eliminated the Project alternatives described above
+under the federal NEPA process.
+
+MDEQ also required Keystone to identify and provide assessments of
+two additional alternative routes in
+
+Montana that increased the use of public lands in comparison to
+Alternative SCS-B (proposed route).
+
+Although both of the new alternatives were eliminated in the initial
+screening process, portions of one of the alternatives cross more
+public land as compared to the proposed route segments in those areas.
+
+MDEQ identified those portions of the alternative as variations to
+Alternative SCS-B and evaluated them along with other variations
+it developed to avoid or minimize impacts to specific resources,
+to minimize conflicts with existing or proposed residential and
+agricultural land uses, and in response to requests submitted by
+concerned landowners.
+
+MDEQ identified and evaluated a total of 19 variations in
+Montana. Descriptions of the variations and the evaluations are
+presented in Appendix I along with environmental assessments of
+Alternative SCS-B
+
+in Montana that are specific to the needs of MEPA. MDEQ preliminarily
+selected 9 variations as preferable to the segments of Alternative
+SCS-B they would replace. DOS has determined that
+
+Alternative SCS-B in Montana (the proposed route) and the variations
+to Alternative SCS-B selected by
+
+MDEQ have been evaluated sufficiently to meet the requirements of NEPA.

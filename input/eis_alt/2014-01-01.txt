@@ -1,0 +1,683 @@
+**ES.5.0 ALTERNATIVES**
+
+Detailed analysis was conducted on three broad categories of
+alternatives to the proposed Project, consistent with NEPA:
+
+• No Action Alternative---which addresses potential market responses
+that could result if the Presidential Permit is denied or the proposed
+Project is not otherwise implemented;
+
+• Major Route Alternatives---which includes other potential pipeline
+routes for transporting WCSB and Bakken crude oil to Steele City,
+Nebraska; and
+
+• Other Alternatives---which include minor route variations,
+alternative pipeline designs, and alternative sites for aboveground
+facilities.
+
+Several alternatives exist for the transport of WCSB and Bakken
+crude oil to Gulf Coast refineries, including many that were
+not carried forward for detailed analysis. This Supplemental EIS
+provides a detailed description of the categories of alternatives,
+the alternative screening process, and the detailed alternatives
+identified for further evaluation.
+
+**ES.5.1 No Action Alternative**
+
+The No Action Alternative analysis considers what would likely
+happen if the Presidential Permit is denied or the proposed Project
+is not otherwise implemented. It includes the Status Quo Baseline,
+which serves as a benchmark against which other alternatives are
+evaluated. Under the Status Quo Baseline, the proposed Project
+would not be constructed and the resulting direct, indirect, and
+cumulative impacts that are described in this Supplemental EIS would
+not occur. The Status Quo Baseline is a snapshot of the crude oil
+production and delivery systems at current levels -- in other words,
+no change at all -- irrespective of likely alternative transport
+scenarios to transport WCSB and Bakken crude.
+
+The No Action Alternative includes analysis of three alternative
+transport scenarios that, based on the findings of the market analysis,
+are believed to meet the proposed Project's purpose (i.e., providing
+WCSB and Bakken crude oil to meet refinery demand in the Gulf Coast
+area) if the Presidential Permit for the proposed Project were
+denied, or if the pipeline were otherwise not constructed. Under
+the alternative transport scenarios, other environmental impacts
+would occur in lieu of the proposed Project. This Supplemental EIS
+includes analysis of various combinations of transportation modes
+for oil, including truck, barge, tanker, and rail. These scenarios
+are considered representative of the crude oil transport alternatives
+with which the market would respond in absence of the
+
+Keystone XL pipeline. These three alternative transport scenarios
+(i.e., the Rail and Pipeline Scenario, Rail and Tanker Scenario,
+and Rail Direct to the Gulf Coast Scenario) are described below and
+illustrated on Figure ES-14.
+
+**ES.5.1.1 Rail and Pipeline Scenario**
+
+Under this scenario, WCSB and Bakken crude oil (in the form of dilbit
+or synbit) would be shipped via rail from Lloydminster, Saskatchewan
+(the nearest rail terminal served by two Class I rail companies),
+to Stroud, Oklahoma, where it would be temporarily stored and then
+transported via existing and expanded pipelines approximately 17
+miles to Cushing, Oklahoma, where the crude oil would interconnect
+with the interstate oil pipeline system.
+
+This scenario would require the construction of two new or expanded
+rail loading terminals in Lloydminster, Saskatchewan (the possible
+loading point for WCSB crude oil), one new terminal in Epping, North
+Dakota (the representative loading point for Bakken crude oil),
+seven new terminals in Stroud, and up to 14 unit trains (consisting
+of approximately 100 cars carrying the same material and destined
+for the same delivery location) per day (12 from Lloydminster and
+two from Epping) to transport the equivalent volume of crude oil as
+would be transported by the proposed Project.
+
+**ES.5.1.2 Rail and Tanker Scenario**
+
+The second transportation scenario assumes crude oil (as dilbit or
+synbit) would be transported by rail from Lloydminster to a western
+Canada port (assumed to be Prince Rupert, British Columbia), where it
+would be loaded onto Suezmax tankers (capable of carrying approximately
+986,000 barrels of WCSB crude oil) for transport to the U.S. Gulf Coast
+(Houston and/or Port Arthur) via the Panama Canal. Bakken crude would
+be shipped from Epping to Stroud via BNSF Railway or Union Pacific
+rail lines, similar to the method described under the Rail and
+Pipeline Scenario. This scenario would require up to 12 unit trains
+per day between Lloydminster and Prince Rupert, and up to two unit
+trains per day between Epping and Stroud. This scenario would require
+the construction of two new or expanded rail loading facilities in
+Lloydminster with other existing terminals in the area handling the
+majority of the WCSB for shipping to Prince Rupert. Facilities in
+Prince Rupert would include a new rail unloading and storage facility
+and a new marine terminal encompassing approximately 4,200 acres and
+capable of accommodating two Suezmax tankers. For the Bakken crude
+portion of this Scenario, one new rail terminal would be necessary
+in both Epping, North Dakota, and Stroud, Nebraska.
+
+**Figure ES-14 Representative No Action Alternative Scenarios**
+
+**ES.5.1.3 Rail Direct to the Gulf Coast**
+
+**Scenario**
+
+The third transportation scenario assumes that WCSB and Bakken
+crude oil (as dilbit) would be shipped by rail from Lloydminster,
+Saskatchewan, and Epping, North Dakota, directly to existing rail
+facilities in the Gulf Coast region capable of off-loading up to
+14 unit trains per day. These existing facilities would then either
+ship the crude oil by pipeline or barge the short distance to nearby
+refineries. It would largely rely on existing rail terminals in
+Lloydminster, but would likely require construction of up to two new
+or expanded terminals to accommodate the additional WCSB shipments out
+of Canada. One new rail loading terminal would be needed in Epping
+to ship Bakken crude oil. Sufficient off-loading rail facilities
+currently exist or are proposed in the Gulf Coast area such that no
+new terminals would need to be built under this scenario.
+
+**ES.5.2 Major Pipeline Route Alternatives**
+
+The Department considered potential alternative pipeline routes
+to assess whether or not route alternatives could avoid or reduce
+impacts to environmentally sensitive resources while also meeting the
+proposed Project's purpose. Consistent with NEPA, a two-phase screening
+process was used to evaluate prospective alternatives using a set of
+criteria to determine their technical, environmental, and economic
+viability. Alternatives that failed to meet the screening criteria
+were not brought forward for detailed analysis in this Supplemental
+EIS. The initial (Phase I) screening of other major route alternatives
+considered the following criteria:
+
+• Meeting the proposed Project's purpose and need, including whether
+the alternative would require additional infrastructure such as a
+pipeline to access Bakken crude oil;
+
+• Availability;
+
+• Reliability;
+
+• Length within the United States;
+
+• Total length of the pipeline, including both the United States
+and Canada;
+
+• Estimated number of aboveground facilities;
+
+• Length co-located within an existing corridor;
+
+• Acres of land directly affected during construction; and
+
+• Acres of land directly affected permanently.
+
+Pipeline length was used as an important screening criterion because
+it has a relatively direct relationship with:
+
+• System reliability, in that the longer the pipeline the greater
+risk that some portion may become inoperable at some point, thereby
+delaying shipments.
+
+• Environmental impacts, including:
+
+− Risk of spills and leaks, which represent the greatest potential
+threat to water and aquatic resources;
+
+− Temporary construction-related disturbance to natural habitat
+(e.g., wetlands, forests, native prairie); and
+
+− Permanent habitat fragmentation.
+
+• Construction and operational costs, which generally increase in
+proportion to overall pipeline length.
+
+All other factors being equal, longer pipelines are less desirable
+because they represent greater risks to system reliability,
+environmental impacts, and project costs.
+
+As a result of this Phase I screening process, the following
+alternatives were eliminated because they would not meet the project
+purpose and/or were significantly longer than other viable options
+(see Figure ES-15):
+
+• Western Alternative (to Cushing);
+
+• Express Platte Alternative; and
+
+• Existing Keystone Corridor
+
+− Option 1: Proposed Border Crossing (near Morgan, Montana)
+
+− Option 2: Existing Keystone Pipeline Border Crossing (at Pembina,
+North Dakota).
+
+Several commenters recommended that the proposed Project parallel
+the existing Keystone Pipeline rather than the proposed route. The
+Department considered these comments, but ultimately concluded that
+the existing Keystone Pipeline Route was not a reasonable alternative
+because it would not meet the proposed Project's purpose and need
+(i.e., would not meet Keystone's contractual obligations to transport
+100,000 bpd of Bakken crude oil). Further, the existing Keystone
+Pipeline Corridor would be longer (taking into consideration pipeline
+length in both Canada and the United States), which represents an
+increased spill risk. The 2011 Steele City Segment, the I-90 Corridor,
+and the Steele City Segment A1A alternatives, however, were retained
+for further screening.
+
+The Phase II screening used a desktop data review of key environmental
+and other features (e.g., wetlands and waterbodies crossed, total
+acreage affected). After this Phase II screening, the Steele City
+Segment A1A Alternative was eliminated because this route would
+be longer with an associated increased risk for spills and leaks,
+would cross more miles of principal aquifer and wetlands, and would
+require a second major crossing of the Missouri River, relative to the
+proposed Project. For these reasons, the Steele City A1A Alternative
+would not offer any offsetting environmental advantages relative
+to the proposed Project to warrant further consideration. However,
+both the 2011 Steele City Segment and I-90 Corridor alternatives
+were considered reasonable alternatives and were retained for full
+evaluation in this Supplemental EIS. These two route alternatives are
+described below and depicted in Figure ES-15. Table ES-4 summarizes
+key aspects of the major pipeline route alternatives.
+
+**Table ES-4 Summary of Major Pipeline Route Alternatives**
+
+**Proposed**
+
+**Project**
+
+**2011 Steele City**
+
+**Segment Alternative**
+
+**I-90 Corridor**
+
+**Alternative**
+
+New Pipeline Length (miles) 875 854 927
+
+Number of Aboveground Facilitiesa 73 71 77
+
+Length Co-Located with Existing Keystone Pipeline (miles) 0 0 254
+
+NDEQ-Identified Sand Hills Region Crossed (miles) 0 89 0
+
+Highly Erodible Soil (Wind) Crossed (miles) 73 116 36
+
+Perennial Waterbody Crossings 56 53 61
+
+Wetlands Affected during Construction (acres) 262 544 223
+
+Average Annual Employment During Construction 3,900 3,900 4,100
+
+Property Tax Revenues (millions) $55.6 $53.7 $59.3
+
+Construction Land Area Affected (acres) 11,593 11,387 12,360
+
+Operations (Permanent) Land Area Required (acres) 5,569 5,176 4,818
+
+a Does not include 2 pump stations for the Cushing Extension in Kansas
+
+**Figure ES-15 Preliminary Pipeline Route Alternatives**
+
+**ES.5.2.1 Keystone XL 2011 Steele City**
+
+**Segment Alternative**
+
+The Keystone XL 2011 Steele City Segment Alternative evaluates the
+impacts of constructing the route proposed in the 2011 Final EIS as
+a comparison against which other route alternatives, including the
+proposed Project, can be made. This alternative would follow Keystone's
+proposed Project route from the Canadian border, designated Milepost
+(MP) 0, south to approximately MP 204, where it would connect with the
+Bakken Marketlink Project onramp at the same location as the proposed
+Project and continue to approximately MP 615 in northern Nebraska near
+the South Dakota state line. At that location, the Keystone XL 2011
+Steele City Segment Alternative would divert from the current proposed
+Project and would continue southeasterly for another 240 miles to the
+southern terminus at Steele City, Nebraska. For approximately 89 miles,
+the Keystone XL 2011 Steele City Segment Alternative would cross the
+NDEQ-identified Sand Hills Region.
+
+**ES.5.2.2 I-90 Corridor Alternative**
+
+Keystone's proposed Project route starts at the Canadian Border
+(MP 0) and stretches south through Montana and into South Dakota to
+approximately MP 516, where the proposed pipeline route intersects
+Interstate 90 (I-90). From this point, this alternative pipeline
+route would diverge from the proposed Project route, following the
+ROW of I-90 and State Highway 262 for 157 miles, where it would then
+intersect and follow the ROW of the existing Keystone pipeline to
+Steele City, Nebraska.
+
+The I-90 Corridor would avoid crossing the NDEQ- identified Sand
+Hills Region, and would reduce the length of pipeline crossing the
+NHPAQ system, which includes the Ogallala Aquifer.
+
+**ES.5.3 Other Alternatives Considered**
+
+In addition to the major route alternatives, the Department reviewed
+proposed variations---relatively short deviations---to the proposed
+route that were designed to avoid or minimize construction impacts
+to specific resources (e.g., cultural resource sites, wetlands,
+recreational lands, residences) or that minimize constructability
+issues (e.g., shallow bedrock, difficult waterbody crossings,
+steep terrain).
+
+The Department also considered two alternative pipeline designs in
+response to public comments: an aboveground pipeline and an alternative
+using a smaller-diameter pipe. The Department determined that both
+alternative designs were not reasonable alternatives for the proposed
+Project because they would not meet the proposed Project purpose
+and need and/or because of safety and security reasons; therefore,
+they were not considered further in this Supplemental EIS.
+
+This Supplemental EIS considered renewable energy sources and energy
+conservation as alternatives to the proposed Project. As noted in
+Section 1.4, Market Analysis, the crude oil would be used largely for
+transportation fuels and, therefore, any alternatives to the crude
+oil would need to fulfill the same purpose. The analysis found that
+even with renewable energy and conservation, there would still be
+a demand for oil sands-derived crude oil. Based on this evaluation,
+these alternatives were not carried forward for further analysis as
+alternatives to the proposed Project.
+
+**ES.5.4 Comparison of Alternatives**
+
+Consistent with NEPA and the CEQ regulations, the Department compared
+the proposed Project with the alternatives that met the proposed
+Project's purpose and need, and that were carried forward for detailed
+analysis in this Supplemental EIS. The alternatives carried forward
+for detailed analysis were: the 2011 Steele City Segment Alternative,
+the I-90 Corridor Alternative, and the three identified No Action
+Alternative scenarios (i.e., the Rail and Pipeline Scenario, the Rail
+and Tanker Scenario, and the Rail Direct to the Gulf Coast Scenario).
+
+The two pipeline alternatives compare different routes that meet
+the purpose and need of the proposed Project, and the No Action
+Alternative scenarios describe the likely potential impacts associated
+with transport of crude oil from the WCSB and the Bakken formations if
+the Presidential Permit is denied or if the proposed Project is not
+otherwise implemented. The comparison focuses on three categories of
+impacts: physical disturbance, GHG emissions, and potential releases.
+
+**ES.5.4.1 Physical Disturbance Impacts**
+
+**Alternatives Comparison**
+
+The primary differences between the proposed Project and the
+alternatives related to physical disturbance are summarized in
+Table ES-5.
+
+**Table ES-5 Physical Disturbance Impacts Associated with New
+Construction and Operations for the Proposed Project and Alternatives**
+
+**Status Quo**
+
+**Baseline**
+
+**Proposed**
+
+**Project**
+
+**2011 Steele City**
+
+**Segment**
+
+**Alternative**
+
+**Corridor**
+
+**Alternative**
+
+**No Action**
+
+**Rail/Pipeline**
+
+**Scenario**
+
+**No Action**
+
+**Rail/Tanker**
+
+**Scenario**
+
+**No Action**
+
+**Rail Direct**
+
+**to the Gulf**
+
+**Scenario**
+
+New Pipeline Length (miles) 0 875 854 927 17 32 0
+
+Number of New Aboveground Facilities 0 73 71 77 33 33 19
+
+Length Co-located with Existing Keystone Pipeline (miles) 0 0 0 254
+NA NA NA
+
+NDEQ-Identified Sand Hills Region Crossed (miles) 0 0 89 0 0 0 0
+
+New Highly Erodible Soil (Wind) Crossed (miles) 0 73 116 36 0 0 0
+
+Perennial Waterbody Crossings 0 56 53 61 1,216 330 711
+
+Major Water Crossingsa 0 62 60 61 42 14 40
+
+Number of Shallow Wells in Proximity b 0 113 97 42 NA NA NA
+
+New NHPAQ Crossed (miles) 0 294 247 145 NA NA NA
+
+Wetland Affected during Construction (acres) 0 262 544 223 193 351 NQc
+
+Communities within 2 Miles 0 17 16 37 350 182 669
+
+Construction (Temporary) Land Area Affected (acres) 0 11,599 11,387
+12,360 5,227 6,427 1,500
+
+Operations (Permanent) Land Area Required (acres) 0 5,309 5,176 4,818
+5,103 6,303 1,500
+
+Notes: This table does not include Canadian impacts for pipeline
+alternatives. NA = not applicable NQ = not quantified; insufficient
+design data NDEQ = Nebraska Department of Environmental Quality
+NHPAQ = Northern High Plains Aquifer a This is defined as channel
+crossings of waterbodies that delineate U.S. Geological Survey National
+Hydrography Dataset Level 4 (HUC4) Hydrologic Unit watershed basins. b
+A shallow well is defined as a well with a depth of 50 feet or less,
+but does not include wells with zero depth; proximity is defined as
+within ¼ mile of the centerline. c Specific facility footprints for
+this scenario are not known at this time. However, impacts would be
+generally similar to the other rail scenarios.
+
+**ES.5.4.2 Greenhouse Gas Emissions**
+
+**Alternatives Comparison**
+
+To facilitate comparison of GHG emissions across all alternatives
+for operational GHG emissions, an assessment was made for all
+alternatives along the entire route from Hardisty, Alberta, to the
+Gulf Coast (including pipelines in Canada and from Steele City to the
+Gulf Coast). GHG emissions from the two pipeline route alternatives
+would be similar in scale to those of the proposed Project. The
+direct emissions during the operation phase of the 2011 Steele City
+Segment Alternative would be essentially the same as those generated
+by the proposed Project because they would have the same number of
+pump stations (20). The I-90 Corridor Alternative is expected to have
+similar but slightly higher GHG emissions because it would have one
+more pump station than the proposed Project and could generate slightly
+higher amounts of indirect GHG emissions from electricity consumption.
+
+During operation of all No Action rail scenarios, the increased number
+of unit trains along the scenario routes would result in GHG emissions
+from both diesel fuel combustion and electricity generation to support
+rail terminal operations (as well as for pump station operations for
+the Rail/Pipeline Scenario). The total annual GHG emissions (direct
+and indirect) attributed to the No Action scenarios range from 28 to
+42 percent greater than for the proposed Project (see Table ES-6).
+
+The indirect GHG emissions over the lifecycle of oil sands crude oil
+production, transportation, refining, and product use are compared
+between the proposed Project and the evaluated alternatives in Section
+ES.4.1.2, Lifecycle Analysis.
+
+**Table ES-6 Annual Greenhouse Gas Emissions from Crude Transport
+(from Hardisty/Lloydminster,**
+
+**Alberta, to the Gulf Coast Area) Associated with the Proposed
+Project and Alternatives**
+
+**(per 100,000 bpd)**
+
+**Overall**
+
+**Proposed**
+
+**Project**
+
+**Route a**
+
+**Overall 2011**
+
+**Steele City**
+
+**Segment**
+
+**Alternative**
+
+**Route b**
+
+**Overall I-90**
+
+**Corridor**
+
+**Alternative Route c**
+
+**No Action**
+
+**Rail/Pipeline**
+
+**Scenario**
+
+**No Action**
+
+**Rail/Tanker**
+
+**Scenario**
+
+**Direct to**
+
+**the Gulf**
+
+**Scenario**
+
+**Operation (direct and indirect)---Transportation, Not Extraction**
+
+MTCO2e/Year per 830,000 bpd 3,123,859 3,123,844 3,211,946 4,428,902
+4,364,611 3,991,472
+
+MTCO2e/Year per 100,000 bpd 376,369 376,367 386,981 533,603 525,857
+480,900
+
+% Difference from Proposed Project NA 0.0% 2.8% 41.8% 39.7% 27.8%
+
+a Canadian, Proposed Project, and Gulf Coast b Canadian, Steele City
+Segment, and Gulf Coast c Canadian, I-90, and Gulf Coast Notes: The
+emissions shown for the overall proposed Project differ from those
+shown for the proposed Project in Section ES.4.1.1, Greenhouse
+Gas Emissions from the Proposed Project, in order to present a
+full comparison of the overall proposed Project route to the other
+alternatives. All data include train emissions for return trips as
+well. MTCO2e = metric tons of CO2 equivalents NA = not applicable bpd =
+barrels per day
+
+**ES.5.4.3 Potential Spill Risk Alternatives**
+
+**Comparison**
+
+Similar to the GHG emissions comparison, potential spill risk was
+evaluated for alternatives along the entire route from Hardisty,
+Alberta, to the Gulf Coast (including portions of the route in
+Canada and including existing pipelines from Steele City to the
+Gulf Coast). Table ES-7 provides a summary of calculated potential
+release impacts for the various alternatives analyzed in terms of
+the number of potential releases per year and the potential volume
+of oil released per year.
+
+Both of the major route alternatives would begin at the same border
+crossing as the proposed Project (near Morgan, Montana) and end at the
+same location as the proposed Project (near Steele City, Nebraska);
+as such, the pipelines in Canada north of the border crossing and
+the pipelines south of Steele City down to the Gulf Coast would
+be identical for all three overall pipeline routes. Compared to the
+proposed Project, the two major pipeline route alternatives would have
+similar potential spill risks (see Table ES-7). In addition, both of
+these major route alternatives would require aboveground facilities
+that are similar to those for the proposed Project; therefore,
+potential releases impact areas would be similar. Because the I-90
+Corridor Alternative is slightly longer than the proposed Project,
+it would carry a slightly higher spill risk (with an estimated 533
+bbl released per year compared to 518 annual bbl released for the
+proposed Project).
+
+The three No Action Alternative scenarios differ from the proposed
+Project in that they would use alternative modes of transportation
+to deliver crude oil to refinery markets in the Gulf Coast rather
+than just a pipeline (although one of the three scenarios includes a
+pipeline as a significant part of its delivery system). Potential spill
+risks for these alternative modes differ from the proposed Project
+in terms of both average spill frequency and average spill size.
+
+Volume of crude oil transportation by rail in the No Action Alternative
+scenarios would generally be limited to the volume contained within
+individual railcars. This volume constrains the total volume of crude
+oil that could potentially impact groundwater relative to the proposed
+Project in the event of a release. This constraint is offset by the
+increased statistical likelihood of spills associated with these
+alternative modes of crude oil transport relative to pipelines.
+
+Historical rail incident data were analyzed to evaluate potential
+releases associated with rail transport in the United States. The
+results help provide insight into what could potentially occur with
+respect to spill volume, incident cause, and incident frequency for
+the No Action Alternative scenarios that involve rail transport. In
+addition, rail incident frequencies were compared to frequencies for
+other modes of transport (i.e., pipeline, marine tanker). Although
+the product to be transported by the proposed Project is crude oil,
+incidents for petroleum products were also analyzed to provide a
+comparison to a larger dataset. In order to make comparisons between
+the modes of transportation, the statistics regarding releases are
+expressed in terms of *ton-miles* (1 ton-mile is transporting 1 ton
+of product 1 mile; to calculate total ton-miles in a given year,
+one multiplies the total tons transported by the total number of
+miles transported).
+
+The rates of releases and average size of releases vary between modes
+of transportation. For instance, rail transport has more reported
+releases of crude oil per ton-mile than pipeline or marine transport
+but, overall, pipeline transport has the highest number of barrels
+released per ton-mile. Comprehensive data from 2010 to 2013 are not
+yet available and therefore this analysis does not include incidents
+subsequent to 2009 such as the 2013 Lac-Mégantic rail tragedy or the
+Tesoro Logistics pipeline incident. The number of barrels released per
+year for the No Action scenarios is higher than what is projected for
+the proposed Project or the other pipeline alternatives (as detailed
+in Table ES-7) because of the alternate modes of transport in the No
+Action scenarios.
+
+There is also a greater potential for injuries and fatalities
+associated with rail transport relative to pipelines. Adding 830,000
+bpd to the yearly transport mode volume would result in an estimated
+49 additional injuries and six additional fatalities for the No Action
+rail scenarios compared to one additional injury and no fatalities
+for the proposed Project on an annual basis.
+
+**Table ES-7 Potential Releases Impacts (Full Pathway) Associated
+with the Proposed Project and Alternatives**
+
+**Overall**
+
+**Proposed Project**
+
+**Route a**
+
+**Overall 2011**
+
+**Steele City**
+
+**Segment**
+
+**Alternative**
+
+**Route b**
+
+**Overall I-90**
+
+**Corridor**
+
+**Alternative**
+
+**Route c**
+
+**No Action**
+
+**Rail/Pipeline**
+
+**Scenario**
+
+**No Action**
+
+**Rail/Tanker**
+
+**Scenario**
+
+**No Action Rail Direct**
+
+**to the Gulf Coast**
+
+**Scenario**
+
+**Option 1**g **Option 2**g
+
+Miles for Transport (Overall Route) 1,938 1,917 1,990 3,902 14,014
+4,624 5,375
+
+Releases per Yeard,e 0.46 0.46 0.48 294 276 383 455
+
+Barrels Released per Year f 518 513 533 1,227 4,633 1,335 1,606
+
+a Canadian, Proposed Project, and Gulf Coast b Canadian, Steele
+City Segment, and Gulf Coast c Canadian, I-90, and Gulf Coast d
+Releases per year frequency was calculated using databases from the
+U.S. Department of Transportation covering U.S. transportation in
+the years 2002 to 2009. The pipeline spill frequency was based on a
+16-inch diameter crude oil pipeline. e Releases per Year = (16-inch
+U.S. crude pipeline spill frequency * total pipeline ton-miles) +
+(U.S. rail spill frequency * total rail ton-miles) + (U.S. marine
+spill frequency * total rail ton-miles) + (U.S. truck spill frequency *
+total truck ton-miles). f Barrels Released per Year = (average 16-inch
+U.S. crude pipeline barrels (bbl) released * total pipeline ton-miles)
++ (average rail bbl released * total rail ton-miles) + (average marine
+bbl) released * total rail ton-miles) + (average truck bbl released *
+total truck ton-miles). g The Option 1 route goes through Lloydminster
+while Option 2 routes through Fort McMurray.

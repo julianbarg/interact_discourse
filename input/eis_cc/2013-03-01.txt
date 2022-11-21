@@ -1,0 +1,137 @@
+**ES.5.5 Greenhouse Gas Emissions and Climate Change**
+
+The draft Supplemental EIS evaluates the GHG emissions associated
+with the proposed Project from several distinct perspectives. The
+construction and operation of the proposed Project and its connected
+actions (the pipeline, pump stations, electrical transmission lines,
+etc.) would generate GHG emissions. In addition, concerns have been
+raised that extracting the crude oil that would be transported by
+the proposed Project produces more GHG emissions compared to other
+types of crude oil. Finally, climate change considerations---which
+are influenced by GHG emissions---could affect the construction and
+operation of the proposed Project. GHG and climate change issues
+were the subject of many comments received during the public scoping
+process for the proposed Project.
+
+*ES.5.5.1 Greenhouse Gas Emissions*
+
+Construction and operation of the proposed Project would generate
+GHG emissions from several sources or activities, as described below.
+
+*Construction-Phase Sources*
+
+• Clearing of land in the proposed ROW via open burning;
+
+• Electricity usage and emergency generators at construction
+camps; and
+
+• Construction vehicles, worker transports, and other mobile sources.
+
+*Operations-Phase Sources*
+
+• Fugitive methane emissions at connections;
+
+• Maintenance vehicles (two or more times per year);
+
+• Aircraft used for aerial inspection (biweekly); and
+
+• Electrical generation for pump station power. During the
+construction period, GHG emissions from these sources and activities
+would be approximately 240,423 metric tons of carbon dioxide
+equivalents (CO2e). Emissions during operation of the proposed Project
+would be approximately 3.19 million metric tons of CO2e per year,
+almost entirely due to electrical generation needed to power the
+proposed Project's pump stations.
+
+The annual CO2e emissions from the proposed Project is equivalent to
+CO2e emissions from approximately 626,000 passenger vehicles operating
+for one year or 398,000 homes using electricity for one year.
+
+*ES.5.5.2 Life Cycle Analysis*
+
+Combustion of fossil fuels, including petroleum- based products
+such as crude oil, is a major source of global GHG emissions, which
+contribute to human- induced climate change. WCSB crudes are more
+GHG-intensive than the other heavy crudes they would replace or
+displace in U.S. refineries, and emit an estimated 17 percent more
+GHGs on a life-cycle basis than the average barrel of crude oil
+refined in the United States in 2005. If the proposed Project were
+to induce growth in the rate of extraction in the oil sands, then it
+could cause GHG emissions greater than just its direct emissions.
+
+Based on information and analysis about the North American crude
+transport infrastructure (particularly the proven ability of rail
+to transport substantial quantities of crude oil profitably under
+current market conditions, and to add capacity relatively rapidly)
+and the global crude oil market, the draft Supplemental EIS concludes
+that approval or denial of the proposed
+
+Project is unlikely to have a substantial impact on the rate of
+development in the oil sands, or on the amount of heavy crude oil
+refined in the Gulf Coast area.
+
+As discussed in the market analysis, if the proposed Project were
+denied but other proposed new and expanded pipelines go forward,
+production could decrease by approximately 0.4 to 0.6 percent of total
+WCSB production by 2030. If all pipeline capacity were restricted,
+oil sands production could decrease by approximately 2 to 4 percent
+by 2030.
+
+The incremental indirect life-cycle emissions associated with those
+decreases in oil sands production are estimated to be in the range of
+0.07 to 0.83 million metric tons CO2 equivalent (MMTCO2e) annually
+if the proposed Project were not built, and in the range of 0.35 to
+5.3 MMTCO2e annually if all pipeline projects were denied.
+
+As WCSB and Bakken crudes replace crudes from other
+sources---independent of whether the proposed Project exists---the
+life-cycle GHG emissions associated with transportation fuels produced
+in U.S. refineries would likely increase. The GHG intensity of
+reference crudes may also increase in the future as more of the world
+crude supply requires extraction by increasingly energy-intensive
+techniques, such as those used to extract oil-sands crude, although
+regulatory pressures and technological advances could counter this
+trend.
+
+*ES.5.5.3 Climate Change Effects on the Project*
+
+Changes in climate have been observed both globally and within
+the proposed Project study area over the past century. These
+changes include direct effects, such as increases and decreases
+in temperature and precipitation, and indirect effects, such as
+increases in freeze-thaw cycles, increased occurrences of flooding
+and drought, and wind erosion of soil, and resultant changes to the
+natural environment, such as vegetation changes.
+
+As part of the preparation of this draft Supplemental EIS, an analysis
+was performed to evaluate the potential impacts of climate change
+on the proposed Project construction and operations. Using future
+climate scenarios developed by the Intergovernmental Panel on Climate
+Change and peer-reviewed downscaled models, the draft Supplemental
+EIS evaluates the range of impacts that climate change could have on
+the proposed Project.
+
+Assuming construction of the proposed Project begins as planned in
+2015, climate conditions during the 1- to 2-year construction period
+would not differ substantially from current conditions. During the
+operations period, climate change projections suggest the following
+changes:
+
+• Warmer winter temperatures;
+
+• A shorter cool season;
+
+• A longer duration of frost-free periods;
+
+• More freeze-thaw cycles per year (which could lead to an increased
+number of episodes of soil contraction and expansion);
+
+• Warmer summer temperatures;
+
+• Increased number of hot days and consecutive hot days; and
+
+• Longer summers (which could lead to impacts associated with heat
+stress and wildfire risks).
+
+The pipeline would be buried deep enough to avoid surface impacts of
+climate changes (freeze-thaw cycles, fires, and temperature extremes).

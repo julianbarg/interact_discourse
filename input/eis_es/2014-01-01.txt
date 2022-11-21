@@ -1,0 +1,2382 @@
+**ES.1.0 OVERVIEW OF REVIEW**
+
+**PROCESS**
+
+The Keystone XL Pipeline (the proposed Project) is a proposed
+875-mile pipeline project that would extend from Morgan, Montana,
+to Steele City, Nebraska. The pipeline would allow delivery of up to
+830,000 barrels per day (bpd) of crude oil from the Western Canadian
+Sedimentary Basin (WCSB) in Canada and the Bakken Shale Formation
+in the United States to Steele City, Nebraska, for onward delivery
+to refineries in the Gulf Coast area (see Figure ES-1). TransCanada
+Keystone Pipeline, LP (Keystone) has applied for a Presidential Permit
+that, if granted, would authorize the proposed pipeline to cross the
+United States-Canadian border at Morgan, Montana.
+
+The proposed route differs from the route analyzed in the 2011 Final
+Environmental Impact Statement (2011 Final EIS) in that it would avoid
+the environmentally sensitive Nebraska Department of Environmental
+Quality (NDEQ)-identified Sand Hills Region and no longer includes
+a southern segment from Cushing, Oklahoma, to the Gulf Coast area.
+
+The U.S. Department of State (the Department) prepared this Final
+Supplemental Environmental Impact Statement (the Supplemental EIS)
+to assess the potential impacts associated with the proposed Project
+and its alternatives. The Supplemental EIS takes into consideration
+over 400,000 comments received during the scoping period and 1.5
+million comments received on the Draft Supplemental EIS issued in
+March 2013. Notable changes since the Draft Supplemental EIS include:
+
+• Expanded analysis of potential oil releases;
+
+• Expanded climate change analysis;
+
+• Updated oil market analysis incorporating new economic modeling;
+and
+
+• Expanded analysis of rail transport as part of the No Action
+Alternative scenarios.
+
+**ES.1.1 Presidential Permit Process**
+
+For proposed petroleum pipelines that cross international borders
+of the United States, the President, through Executive Order (EO)
+13337, directs the Secretary of State to decide whether a project
+serves the national interest before granting a Presidential Permit.
+
+To make this decision (i.e., the National Interest Determination),
+the Secretary of State, through the Department, considers many
+factors, including energy security; environmental, cultural, and
+economic impacts; foreign policy; and compliance with relevant state
+and federal regulations. This Supplemental EIS was produced consistent
+with the National Environmental Policy Act (NEPA) and will help inform
+that determination. Before making such a decision, the Department also
+asks for the views of eight federal agencies identified in EO 13337:
+the Departments of Energy, Defense, Transportation, Homeland Security,
+Justice, Interior, and Commerce, as well as the U.S. Environmental
+Protection Agency (USEPA).
+
+If the proposed Project is determined to serve the national interest,
+it will be granted a Presidential Permit that authorizes the
+construction, connection, operation, and maintenance of the facilities
+at the border between the United States and Canada. The applicant would
+be required to abide by certain conditions listed in this Supplemental
+EIS and the Presidential Permit. The Department's primary role is
+to make a National Interest Determination. Its jurisdiction does not
+include selection of specific pipeline routes within the United States.
+
+In addition, the Department acts consistent with the National Historic
+Preservation Act (NHPA) and the Endangered Species Act (ESA) as part
+of its comprehensive NEPA consistent review.
+
+**ES.1.2 Background**
+
+Keystone's first application for the Keystone XL pipeline was submitted
+on September 19, 2008, and a Final EIS was published on August 26,
+2011. The route proposed included the same U.S.-Canada border crossing
+as the currently proposed Project but a different pipeline route in
+the United States. The 2011 Final EIS route traversed a substantial
+portion of the Sand Hills Region of Nebraska, as identified by
+the NDEQ. Moreover, the 2011 Final EIS route went from Montana to
+Steele City, Nebraska, and then from Cushing, Oklahoma, to the Gulf
+Coast area.
+
+**Figure ES-1 Proposed Keystone XL Project Route**
+
+In November 2011, the Department determined that additional
+information was needed to fully evaluate the application---in
+particular, information about alternative routes within Nebraska
+that would avoid the NDEQ- identified Sand Hills Region. In late
+December 2011, Congress adopted a provision of the Temporary Payroll
+Tax Cut Continuation Act that sought to require the President to make
+a decision on the Presidential Permit for the 2011 Final EIS route
+within 60 days. That deadline did not allow sufficient time to prepare
+a rigorous, transparent, and objective review of an alternative route
+through Nebraska. As such, the Presidential Permit was denied.
+
+In February 2012, Keystone informed the Department that it considered
+the Gulf Coast portion of the originally proposed pipeline project
+(from Cushing, Oklahoma, to the Gulf Coast area) to have independent
+economic utility, and indicated that it intended to proceed with
+construction of that pipeline as a separate project, the Gulf Coast
+Project (see Figure ES-2). The Gulf Coast Project did not require
+a Presidential Permit because it does not cross an international
+border. Construction on the Gulf Coast Project was recently completed.
+
+On May 4, 2012, Keystone filed a new Presidential Permit application
+for the Keystone XL Project. The proposed Project has a new route and
+a new stated purpose and need. The new proposed route differs from the
+2011 Final EIS Route in two significant ways: 1) it would avoid the
+environmentally sensitive NDEQ- identified Sand Hills Region and 2) it
+would terminate at Steele City, Nebraska. From Steele City, existing
+pipelines would transport the crude oil to the Gulf Coast area. In
+other words, the proposed Project no longer includes a southern
+segment and instead runs from Montana to Steele City, Nebraska.
+
+In addition to the NDEQ-identified Sand Hills Region, the proposed
+Project route would avoid other areas in Nebraska (including portions
+of Keya Paha County) that have been identified by the NDEQ as having
+soil and topographic characteristics similar to the Sand Hills
+Region. The proposed Project route would also avoid or move further
+away from water wellhead protection areas for the villages of Clarks
+and Western, Nebraska. Figure ES-3 compares the 2011 Final EIS route
+and the proposed Project route.
+
+The proposed route in Montana and South Dakota is largely unchanged
+from the route analyzed in the 2011 Final EIS except for minor
+modifications that Keystone made to improve constructability and in
+response to landowner requests (see Figure ES-3).
+
+The Department, after discussions with the USEPA and the Council on
+Environmental Quality (CEQ), determined consistent with NEPA that
+issuance of the new Presidential Permit would constitute a major
+federal action that may have significant environmental impact, and
+that it would prepare a supplement to the 2011 Final EIS for the
+new application. This Supplemental EIS provides a thorough analysis
+of the environmental impacts from the proposed Project; it has been
+revised, expanded, and updated to include a comprehensive review of
+the new route in Nebraska as well as any significant new circumstances
+or information that is now available and relevant to the overall
+proposed Project.
+
+To assist in preparing this Supplemental EIS, the Department retained
+an environmental consulting firm, Environmental Resources Management
+(ERM). ERM was selected pursuant to the Department's interim guidance
+on the selection of independent third-party contractors. This guidance
+is designed to ensure that no conflicts of interest exist between the
+contractor and the applicant and that any perceived conflicts that
+would impair the public's confidence in the integrity of the work are
+mitigated or removed. ERM works at the sole and exclusive instruction
+of the Department and is not permitted to communicate with Keystone
+unless specifically directed to do so by Department officials.
+
+On June 15, 2012, through a Notice of Intent, the Department solicited
+public comments for consideration in establishing the scope and content
+of this Supplemental EIS. The scoping period extended from June 15 to
+July 30, 2012. In total, an estimated 406,712 letters, cards, emails,
+e-comments, or telephone conversation records (henceforth referred
+to as submissions) were received from the public, agencies, and other
+interested groups and stakeholders during the scoping period. In March
+2013, the Department issued a Draft Supplemental EIS that included
+new analysis and analysis built upon the work completed in the 2011
+Final EIS, as well as the estimated 406,712 submissions mentioned
+above that were received during the 2012 scoping process.
+
+**Figure ES-2 Gulf Coast Project Route**
+
+Note: The 2011 Final EIS route is also referred to in this Final
+Supplemental EIS as the 2011 Steele City Segment Alternative.
+
+**Figure ES-3 Comparison of Proposed Project to 2011 Final EIS Route**
+
+**ES.1.3 Public Comments Received**
+
+**Regarding the Draft**
+
+**Supplemental EIS**
+
+Following publication of the 2013 Draft Supplemental EIS, the
+Department invited the public to comment on the document. Electronic
+versions were made available for download, and hard copies were made
+available in public libraries along the proposed pipeline route. Hard
+and electronic copies of the Draft Supplemental EIS were sent to
+interested Indian tribes, agencies, elected and appointed officials,
+non-governmental organizations (NGOs), and other parties. The
+Department also solicited input at a public meeting held on April 18,
+2013 in Grand Island, Nebraska. In total, the Department received
+an estimated 1,513,249 submissions during the public comment period
+for the Draft Supplemental EIS. Submissions were made by federal,
+state, and local representatives, members of the public, government
+agencies, Indian tribes, NGOs, and other interested groups and
+stakeholders. Submissions made by the public on the Draft Supplemental
+EIS were posted on www.regulations.gov.
+
+Of this total number of submissions, an estimated 1,496,396 submissions
+(99 percent of the total) were form letters sponsored by NGOs. The
+remaining 16,853 submissions were identified as unique submissions. All
+submissions were evaluated and addressed, as appropriate, in this
+Supplemental EIS. Some of the most frequent comment topics included:
+
+• Concerns that the 2013 Draft Supplemental EIS did not adequately
+address the greenhouse gas (GHG) and climate change effects of the
+extraction, processing, and use of the crude oil that the proposed
+Project would carry;
+
+• Concerns that potential releases from the proposed Project (i.e.,
+spills) could pollute major groundwater resources such as the Ogallala
+Aquifer;
+
+• Concerns that the 2013 Draft Supplemental EIS did not adequately
+address the impacts of bitumen extraction in Canada;
+
+• Concerns about the contractor and subcontractor selection process
+for preparing this Supplemental EIS;
+
+• Concerns that the crude oil transportation market was not
+adequately analyzed;
+
+• Suggestions that the existing Keystone Pipeline right-of-way (ROW)
+be considered in lieu of the currently proposed pipeline route; and
+
+• Questions about the accuracy of job creation estimates for
+construction and operation of the proposed Project, as well as the
+types, locations, and hiring preferences of those jobs.
+
+**ES.1.4 About the Final Supplemental EIS**
+
+This Supplemental EIS for the proposed Keystone XL pipeline project
+builds on the analysis provided in the 2011 Final EIS and the 2013
+Draft Supplemental EIS and is now available for download by the
+public. Moreover, this Supplemental EIS has been distributed to
+participating federal and state agencies, elected officials, media
+organizations, Indian tribes, private landowners, and other interested
+parties. Printed copies have also been distributed to public libraries
+along the proposed pipeline route.
+
+In completing this Supplemental EIS, the Department took into
+consideration the over 1.5 million submissions received. In response
+to these comments, the Department has revised the text from the
+2013 Draft Supplemental EIS for the proposed Project. This Final
+Supplemental EIS includes the latest available information on the
+proposed Project resulting from ongoing discussions with federal,
+state, and local agencies. It also describes updated analysis of the
+potential effects (including direct, indirect, and cumulative effects)
+of the proposed Project and alternatives on various resources. The
+analysis reflects inputs from other U.S. government agencies and was
+reviewed through an interagency process.
+
+**ES.2.0 OVERVIEW OF PROPOSED**
+
+**PROJECT**
+
+**ES.2.1 Proposed Project Purpose and Need**
+
+According to the application submitted by Keystone, the primary
+purpose of the proposed Project is to provide the infrastructure to
+transport crude oil from the border with Canada to delivery points in
+the United States (primarily to the Gulf Coast area) by connecting to
+existing pipeline facilities near Steele City, Nebraska. The proposed
+Project is meant to respond to the market demand of refineries for
+crude oil of the kind found in Western Canada (often called *heavy*
+crude oil). The proposed Project would also provide transportation
+for the kind of crude oil found within the Bakken formation of North
+Dakota and Montana (often called *light* crude oil).
+
+The proposed Project would have the capacity to deliver up to 830,000
+bpd, of which 730,000 bpd of capacity has been set aside for WCSB
+crude oil and the remaining 100,000 bpd of capacity set aside for
+Williston Basin (Bakken) crude oil. Keystone has represented that
+it has firm commitments to transport approximately 555,000 bpd of
+heavy crude oil from producers in the WCSB, as well as 65,000 bpd of
+crude oil from the Bakken. The ultimate mixture and quantity of crude
+oils transported by the proposed Project over its lifetime would be
+determined by market demand.
+
+There is existing demand for crude oil---particularly heavy crude
+oil---at refiners in the Gulf Coast area, but the ultimate disposition
+of crude oil that would be transported by the proposed Project,
+as well as any refined products produced from that crude oil, would
+also be determined by market demand and applicable law.
+
+**ES.2.2 Proposed Project Description**
+
+The proposed Project would consist of approximately 875 miles of
+new 36-inch-diameter pipeline and related facilities for transport
+of WCSB and Bakken crude oil, the latter from an oil terminal near
+Baker, Montana. Crude oil carried in the proposed Project would be
+delivered to existing pipeline facilities near Steele City, Nebraska,
+for onward delivery to refineries in the Gulf Coast area. The proposed
+Project would also include two pump stations (one new and one expanded)
+along the existing Keystone Pipeline in Kansas (see Figure ES-5).
+
+Construction of the proposed Project would include the pipeline itself
+plus various aboveground ancillary facilities (e.g., access roads,
+pump stations, and construction camps) and connected actions. Figure
+ES-4 illustrates the construction sequence that would be followed
+for the proposed Project.
+
+Construction of the proposed Project would generally require
+a 110-foot-wide temporary ROW and is expected to last 1 to 2
+years. After construction, the proposed Project would generally
+maintain a 50-foot- wide permanent ROW easement over the pipeline in
+Montana (approximately 285 miles), South Dakota (approximately 316
+miles), and Nebraska (approximately 274 miles).
+
+Keystone would have access to property within the easement, but
+property owners would retain the ability to farm and conduct other
+limited activities within the easement. The permanent aboveground
+ancillary facilities would include electrically operated pump stations,
+mainline valves, and permanent access roads.
+
+**Figure ES-4 Keystone XL, Typical Pipeline Construction Sequence**
+
+**Figure ES-5 Proposed Project Overview**
+
+The U.S. portion of the proposed Project is estimated to cost
+approximately $3.3 billion, and would be paid for by Keystone. If
+permitted, the pipeline would begin operation approximately 2 years
+after final approvals were received, with the actual in-service date
+dependent on construction as well as obtaining any additional permits,
+approvals, and authorizations necessary before operations can commence.
+
+**ES.2.2.1 The Bakken Marketlink Project**
+
+Keystone Marketlink, LLC, a wholly owned subsidiary of TransCanada
+Pipelines Limited, would construct and operate the Bakken Marketlink
+Project. This project would include a 5-mile pipeline, pumps,
+meters, and storage tanks to supply Bakken crude oil to the proposed
+pipeline from the Bakken Marketlink pipeline system in North Dakota
+and Montana. Two crude oil storage tanks would be built near Baker,
+Montana, as part of this project. This project would be able to deliver
+up to 100,000 bpd of crude oil, and has commitments for approximately
+65,000 bpd.
+
+**ES.2.2.2 Big Bend to Witten 230-kV**
+
+**Electrical Transmission Line**
+
+The Western Area Power Administration (Western) has determined that
+providing reliable electricity for operation of the proposed Project
+requires the construction of a new 230-kilovolt (kV) transmission line
+originating at the Fort Thompson/Big Bend Dam area in South Dakota
+and extending south to the existing Witten Substation, near Pump
+Stations 20 and 21. To meet these demands, Western would repurpose
+existing transmission infrastructure and construct new infrastructure
+between the Big Bend Dam and a proposed Big Bend Substation. The
+Basin Electric Power Cooperative would construct a new 76-mile, 230-kV
+transmission line from the Big Bend Substation to the existing Witten
+Substation, and would operate both the transmission line and the Big
+Bend Substation.
+
+**ES.2.2.3 Electrical Distribution Lines and**
+
+**Substations**
+
+Electrical power for the proposed Project would be obtained from local
+power providers. These power providers would construct the necessary
+substations and transformers, and would either use existing service
+lines or construct new service lines to deliver electrical power to
+the specified point of use (e.g., pump stations and mainline valves),
+which would be located at intervals along the proposed Project route.
+
+**ES.3.0 OVERVIEW OF PETROLEUM**
+
+**MARKETS**
+
+The scope and content of the market analysis in this Supplemental
+EIS were informed by public and interagency comments as well as new
+information that was not previously available. Among the notable
+updates to this analysis are revised modeling to incorporate evolving
+market conditions, more extensive information on the logistics and
+economics of crude by rail, and a more detailed analysis of supply
+costs to inform conclusions about production implications.
+
+The updated market analysis in this Supplemental EIS---similar to
+the market analysis sections in the 2011 Final EIS and 2013 Draft
+Supplemental EIS--- concludes that the proposed Project is unlikely
+to significantly affect the rate of extraction in oil sands areas
+(based on expected oil prices, oil-sands supply costs, transport costs,
+and supply-demand scenarios). The Department conducted this analysis,
+drawing on a wide variety of data and leveraging external expertise.
+
+**ES.3.1 Summary of Market Analysis**
+
+The 2011 Final EIS was developed contemporaneously with the start of
+strong growth in domestic light crude oil supply from so-called *tight*
+oil formations, such as those formations found in North Dakota's Bakken
+region. Domestic production of crude oil has increased significantly,
+from approximately 5.5 million bpd in 2010 to 6.5 million bpd in 2012
+and 7.5 million bpd by mid-2013. Rising domestic crude production
+is predominantly light crude, and it has replaced foreign imports
+of light crude oil. However, demand persists for imported heavy
+crude by U.S. refineries that are optimized to process that kind of
+oil. Meanwhile, Canadian production of bitumen from the oil sands
+continues to grow, the vast majority of which is currently exported to
+the United States to be processed by U.S. refineries that want heavy
+crude oil. North American production growth and logistics constraints
+have contributed to significant discounts on the price of landlocked
+crude and have led to growing volumes of crude shipped by rail in
+the United States and, more recently, Canada.
+
+Both the 2011 Final EIS and the Draft Supplemental EIS published in
+March 2013 discussed the transportation of Canadian crude by rail as a
+possibility. Due to market developments since then, this Supplemental
+EIS notes that the transportation of Canadian crude by rail is already
+occurring in substantial volumes. It is estimated that approximately
+180,000 bpd of Canadian crude oil is already traveling by rail (see
+Figure ES-6).
+
+200,000 **B**
+
+**Figure ES-6 Estimated Crude Oil Transported by Rail from WCSB, bpd**
+
+The industry has been making significant investments in increasing
+rail transport capacity for crude oil out of the WCSB. Figure ES-7
+illustrates the increase in rail loading and unloading terminals
+between 2010 and 2013. Rail loading facilities in the WCSB are
+estimated to have a capacity of approximately 700,000 bpd of crude
+oil, and by the end of 2014 this will likely increase to more than
+1.1 million bpd. Most of this capacity (approximately 900,000 to
+1 million bpd) is in areas that produce primarily heavy crude oil
+(both conventional and oil sands), or is being connected by pipelines
+to those oil production areas.
+
+Various uncertainties underlie the projections upon which this
+Supplemental EIS partially relies. In recognition of the uncertainty
+of future market conditions, the analysis included updated modeling
+about the sensitivity of the market to some of these elements.
+
+Updated information on rail transportation and oil market trends,
+particularly rising U.S. oil production, was incorporated in oil
+market modeling. This modeling was developed in response to comments
+received on the Draft Supplemental EIS. To help account for key
+uncertainties about oil production, consumption, and transportation,
+the modeling examined 16 different scenarios that combine various
+supply-demand assumptions and pipeline constraints. Modeled cases
+test supply and demand projections based on the official energy
+forecasts of independent U.S. Energy Information Administration's
+(EIA) 2013 Annual Energy Outlook that correspond to uncertainties
+raised in public comments, including potential higher- than-expected
+U.S. supply, lower-than-expected U.S. demand, and higher-than-expected
+oil production in Latin America.
+
+Note: These estimates do not include a facility being constructed
+in Edmonton, Canada, with a design capacity of 250,000 bpd (100,000
+bpd expected to be operational by the end of 2014) that was announced
+shortly before this Supplemental EIS was completed. In addition, Altex
+Energy has plans for a 55,000 bpd loading facility in Vermillion,
+Alberta.
+
+**Figure ES-7 Crude by Train Loading and Off-Loading Facilities in 2010
+(top map) and 2013**
+
+**(bottom map)**
+
+The supply-demand cases were paired with four pipeline configuration
+scenarios: an unconstrained scenario that allows pipelines to be
+built without restrictions; a scenario in which no new cross-border
+pipeline capacity to U.S. markets is permitted, but pipelines from
+the WSCB to Canada's east and west coasts are built; a scenario
+where new cross-border capacity between the United States and Canada
+is permitted, but Canadian authorities do not permit new east-west
+pipelines; and a constrained scenario that assumes no new or expanded
+pipelines carrying WCSB crude are built in any direction.
+
+Updated model results indicated that cross-border pipeline constraints
+have a limited impact on crude flows and prices. If additional
+east-west pipelines were built to the Canadian coasts, such pipelines
+would be heavily utilized to export oil sands crude due to relatively
+low shipping costs to reach growing Asian markets. If new east-west
+and cross-border pipelines were both completely constrained, oil
+sands crude could reach U.S. and Canadian refineries by rail.
+
+Varying pipeline availability has little impact on the prices that
+U.S. consumers pay for refined products such as gasoline or for heavy
+crude demand in the Gulf Coast. When this demand is not met by heavy
+Canadian supplies in the model results, it is met by heavy crude from
+Latin America and the Middle East.
+
+Conclusions about the potential effects of pipeline constraints on
+production levels were informed by comparing modeled oil prices to the
+prices that would be required to support expected levels of oil sands
+capacity growth. Figure ES-8 illustrates existing oil sands capacity,
+the estimated supply costs of announced capacity, and the capacity
+growth that will be required to meet EIA and Canadian Association of
+Petroleum Producers production projections. Projected prices generally
+exceed supply costs for the projects responsible for future oil sands
+production growth. Modeling results indicate that severe pipeline
+constraints reduce the prices received by bitumen producers by up to
+$8/bbl, but not enough to curtail most oil sands growth plans or to
+shut-in existing production (based on expected oil prices, oil-sands
+supply costs, transport costs, and supply-demand scenarios). These
+conclusions are based on conservative assumptions about rail costs,
+which likely overstate the cost penalty producers pay for shipping
+by rail if more economic methods currently under consideration to
+ship bitumen by rail are utilized.
+
+Several analysts and financial institutions have stated that denying
+the proposed Project would have significant impacts on oil sands
+production. To the extent that other assessments appear to differ from
+the analysis in this report, they typically do so because they have
+different focuses, near-term time scales, or production expectations,
+and/or include less detailed data and analysis about rail than this
+report. While short-term physical transportation constraints introduce
+uncertainty to industry outlooks over the next decade, new data and
+analysis in Section 1.4, Market Analysis, indicate that rail will
+likely be able to accommodate new production if new pipelines are
+delayed or not constructed.
+
+Over the long term, lower-than-expected oil prices could affect the
+outlook for oil sands production, and in certain scenarios higher
+transportation costs resulting from pipeline constraints could
+exacerbate the impacts of low prices. The primary assumptions required
+to create conditions under which production growth would slow due
+to transportation constraints include: 1) that prices persist below
+current or most projected levels in the long run; and 2) that all new
+and expanded Canadian and cross-border pipeline capacity, beyond just
+the proposed Project, is not constructed.
+
+Above approximately $75 per barrel for West Texas Intermediate
+(WTI)-equivalent oil, revenues to oil sands producers are likely to
+remain above the long-run supply costs of most projects responsible
+for expected levels of oil sands production growth. Transport
+penalties could reduce the returns to producers and, as with any
+increase in supply costs, potentially affect investment decisions
+about individual projects on the margins. However, at these prices,
+enough relatively low-cost *in situ* projects are under development
+that baseline production projections would likely be met even with
+constraints on new pipeline capacity. Oil sands production is expected
+to be most sensitive to increased transport costs in a range of prices
+around $65 to $75 per barrel. Assuming prices fell in this range,
+higher transportation costs could have a substantial impact on oil
+sands production levels--- possibly in excess of the capacity of the
+proposed Project---because many *in situ* projects are estimated to
+break even around these levels. Prices below this range would challenge
+the supply costs of many projects, regardless of pipeline constraints,
+but higher transport costs could further curtail production.
+
+Note: The green shaded areas in the *Current and Announced Project Peak
+Capacity* represent the capacity of projects that are operating or
+already under construction, which are expected to continue producing
+and/or remain under development as long as oil prices are above
+operating costs. The purple shaded areas represent the capacity of
+potential projects that would likely only go forward with oil prices
+above the stated ranges.
+
+**Figure ES-8 Oil Sands Supply Costs (West Texas
+Intermediate-Equivalent Dollars per Barrel),**
+
+**Project Capacity, and Production Projections**
+
+Oil prices are volatile, particularly over the short-term. In addition,
+long-term trends, which drive investment decisions, are difficult
+to predict. Specific supply cost thresholds, Canadian production
+growth forecasts, and the amount of new capacity needed to meet them
+are uncertain. As a result, the price threshold above which pipeline
+constraints are likely to have a limited impact on future production
+levels could change if supply costs or production expectations prove
+different than estimated in this analysis.
+
+The dominant drivers of oil sands development are more global than
+any single infrastructure project. Oil sands production and investment
+could slow or accelerate depending on oil price trends, regulations,
+and technological developments, but the potential effects of those
+factors on the industry's rate of expansion should not be conflated
+with the more limited effects of individual pipelines.
+
+**ES.4.0 ENVIRONMENTAL**
+
+**ANALYSIS OF THE**
+
+**PROPOSED PROJECT**
+
+The Department evaluated the potential construction and operational
+impacts of the proposed Project and alternatives across a wide range
+of environmental resources. The analysis discusses public and agency
+interests and concerns as reflected in the submissions received
+during the scoping period and on the 2013 Draft Supplemental EIS,
+and includes:
+
+• Climate change, including lifecycle (well-to- wheels [WTW])
+GHG emissions associated with oil sands development, refining,
+and consumption;
+
+• Potential releases or spills of oil;
+
+• Socioeconomics, including the potential job and revenue benefits of
+the proposed Project, as well as concerns about environmental justice;
+
+• Water resources, including potential effects on groundwater
+aquifers (e.g., Ogallala Aquifer) and surface waters;
+
+• Wetlands;
+
+• Threatened and endangered species;
+
+• Potential effects on geology, soils, other biological resources
+(e.g., vegetation, fish, and wildlife), air quality, noise, land use,
+recreation, and visual resources; and
+
+• Cultural resources, including tribal consultation.
+
+**ES.4.1 Climate Change**
+
+Changes to the Earth's climate have been observed over the past century
+with a global temperature increase of 1.5 degrees Fahrenheit between
+1880 and 2012. This warming has coincided with increased levels of
+GHGs in the atmosphere. In order for the Earth's heat and energy
+to remain at a steady state, the solar energy that is incoming must
+equal the energy that is radiated into space (see Figure ES-9). GHGs
+contribute to trapping outbound radiation within the troposphere
+(the layer of the atmosphere closest to the Earth's surface), and
+this is called the greenhouse effect.
+
+**Figure ES-9 The Greenhouse Effect**
+
+Since the beginning of the Industrial Revolution, the rate and amount
+of GHGs have increased as a result of human activity. The additional
+GHGs intensify the greenhouse effect, resulting in a greater amount of
+heat being trapped within the atmosphere. The Intergovernmental Panel
+on Climate Change, a group of 1,300 independent scientific experts
+from countries around the world, in its Fifth Assessment Report
+concludes that global warming in the climate system is unequivocal
+based on measured increases in temperature, decrease in snow cover,
+and higher sea levels.
+
+This Supplemental EIS evaluates the relationship between the proposed
+Project with respect to GHG emissions and climate change from the
+following perspectives:
+
+• The GHG emissions associated with the construction and operation
+of the proposed Project and its connected actions;
+
+• The potential increase in indirect lifecycle (wells- to-wheels)
+GHG emissions associated with the WCSB crude oil that would be
+transported by the proposed Project;
+
+• How the GHG emissions associated with the proposed Project
+cumulatively contribute to climate change; and
+
+• An assessment of the effects that future projected climate change
+could have in the proposed Project area and on the proposed Project.
+
+**ES.4.1.1 Greenhouse Gas Emissions from the**
+
+**Proposed Project**
+
+The proposed Project would emit approximately 0.24 million metric
+tons of carbon dioxide (CO2) equivalents (MMTCO2e) per year during
+the construction period. These emissions would be emitted directly
+through fuel use in construction vehicles and equipment, as well as,
+land clearing activities including open burning, and indirectly from
+electricity usage.
+
+During operations, approximately 1.44 MMTCO2e would be emitted per
+year, largely attributable to electricity use for pump station power,
+fuel for vehicles and aircraft for maintenance and inspections,
+and fugitive methane emissions at connections. The 1.44 MMTCO2e
+emissions would be equivalent to GHG emissions from approximately
+300,000 passenger vehicles operating for 1 year, or 71,928 homes
+using electricity for 1 year.
+
+**ES.4.1.2 Lifecycle Analysis**
+
+To enable a more comprehensive understanding of the potential indirect
+GHG impact of the proposed Project, it is important to also consider
+the wider GHG emissions associated with the crude oil being transported
+by the proposed Project. A lifecycle approach was used to evaluate
+the GHG implications of the WCSB crudes that would be transported by
+the proposed Project compared to other crude oils that would likely
+be replaced or displaced by those WCSB crudes in U.S. refineries. A
+lifecycle analysis is a technique used to evaluate the environmental
+aspects and impacts (in this case GHGs) that are associated with a
+product, process, or service from raw materials acquisition through
+production, use, and end-of-life. The lifecycle analysis considered
+wells-to-wheels GHG emissions, including extraction, processing,
+transportation, refining, and refined product use (such as combustion
+of gasoline in cars) of WCSB crudes compared to other reference
+heavy crudes. The lifecycle analysis also considered the implications
+associated with other generated products during the lifecycle stages
+(so-called *co-products*) such as petroleum coke. WCSB crudes are
+generally more GHG intensive than other heavy crudes they would
+replace or displace in U.S. refineries, and emit an estimated 17
+percent more GHGs on a lifecycle basis than the average barrel of
+crude oil refined in the United States in 2005. The largest single
+source of GHG emissions in the lifecycle analysis is the finished-fuel
+combustion of refined petroleum fuel products, which is consistent
+for different crude oils, as shown in Figure ES-10.
+
+The total lifecycle emissions associated with production, refining, and
+combustion of 830,000 bpd of oil sands crude oil transported through
+the proposed Project is approximately 147 to 168 MMTCO2e per year. The
+annual lifecycle GHG emissions from 830,000 bpd of the four reference
+crudes examined in this Supplemental EIS are estimated to be 124 to
+159 MMTCO2e. The range of incremental GHG emissions for crude oil that
+would be transported by the proposed Project is estimated to be 1.3 to
+27.4 MMTCO2e annually. The estimated range of potential emissions is
+large because there are many variables such as which reference crude
+is used for the comparison and which study is used for the comparison.
+
+2013 Current Baseline, 830,000 bpd of reference crude(s)
+
+Incremental Emissions (excluding consideration of Market Analysis)
+
+830,000 bpd oil sands production
+
+Incremental GHG
+
+Emissions **
+
+Coproducts & net petroleum coke
+
+Extraction and mining
+
+Combustion and transportation
+
+** Note: The orange bar represents incremental emissions. The bar
+itself is for a single crude (Mexican Maya) from the TIAX study. The
+range bar*
+
+*is representative of all studies and reflects the 1.3 to 27.4 MMTCO2e
+annual incremental emissions presented in the Final Supplemental EIS.*
+
+*** Incremental Emissions: This represents the difference between the
+2013 Current Baseline and the 830,000 bpd Oil Sands Production, and*
+
+*excludes consideration of the Market Analysis. These Incremental
+Emissions represent the potential increase in emissions attributable
+to the*
+
+*proposed Project if one assumed that approval or denial of the
+proposed Project would directly result in a change in production of
+830,000 bpd*
+
+*of oil sands crudes in Canada. However, as set forth in Section 1.4,
+Market Analysis, such a change is not likely to occur.*
+
+Note: See Figure 4.14.3-7 in Section 4.14.3.5, Incremental GHG
+Emissions, for a full description of the information presented in
+this figure.
+
+**Figure ES-10 Incremental Well-to-Wheels GHG Emissions from WCSB
+Oil Sands Crudes**
+
+**Compared to Well-to-Wheels GHG Emissions from Displacing Reference
+Crudes**
+
+The above estimates represent the total incremental emissions
+associated with production and consumption of 830,000 bpd of oil sands
+crude compared to the reference crudes. These estimates represent the
+potential increase in emissions attributable to the proposed Project
+if one assumed that approval or denial of the proposed Project would
+directly result in a change in production of 830,000 bpd of oil
+sands crudes in Canada (See Section 4.14.4.2, Emissions and Impacts
+in Context, for additional information on emissions associated with
+increases in oil sands production). However, as set forth in Section
+1.4, Market Analysis, such a change is not likely to occur under
+expected market conditions. Section 1.4 notes that approval or denial
+of any one crude oil transport project, including the proposed Project,
+is unlikely to significantly impact the rate of extraction in the oil
+sands or the continued demand for heavy crude oil at refineries in the
+United States based on expected oil prices, oil-sands supply costs,
+transport costs, and supply-demand scenarios.
+
+The 2013 Draft Supplemental EIS estimated how oil sands production
+would be affected by long-term constraints on pipeline capacity (if
+such constraints resulted in higher transportation costs) if long-term
+WTI-equivalent oil prices were less than $100 per barrel. The Draft
+Supplemental EIS also estimated a change in GHG emissions associated
+with such changes in production. The additional data and analysis
+included in this Supplemental EIS provide greater insights into
+supply costs and the range of prices in which pipeline constraints
+would be most likely to impact production. If WTI-equivalent prices
+fell to around approximately $65 to $75 per barrel, if there were
+long-term constraints on any new pipeline capacity, and if such
+constraints resulted in higher transportation costs, then there could
+be a substantial impact on oil sands production levels. As noted in
+E.S.3.1, Summary of Market Analysis, this estimated price threshold
+could change if supply costs or production expectations prove different
+than estimated in this analysis. This is discussed in Section 1.4.5.4,
+Implications for Production.
+
+**ES.4.1.3 Climate Change Effects**
+
+The total direct and indirect emissions associated with the proposed
+Project would contribute to cumulative global GHG emissions. However,
+emissions associated with the proposed Project are only one source of
+relevant GHG emissions. In that way, GHG emissions differ from other
+impact categories discussed in this Supplemental EIS in that all GHG
+emissions of the same magnitude contribute to global climate change
+equally, regardless of the source or geographic location where they
+are emitted.
+
+As part of this Supplemental EIS, future climate change scenarios
+and projections developed by the Intergovernmental Panel on Climate
+Change and peer- reviewed downscaled models were used to evaluate
+the effects that climate change could have on the proposed Project,
+as well as the environmental consequences from the proposed Project.
+
+Assuming construction of the proposed Project were to occur in the
+next few years, climate conditions during the construction period
+would not differ substantially from current conditions. However,
+during the subsequent operational time period, the following climate
+changes are anticipated to occur regardless of any potential effects
+from the proposed Project:
+
+• Warmer winter temperatures;
+
+• A shorter cool season;
+
+• A longer duration of frost-free periods;
+
+• More freeze-thaw cycles per year (which could lead to an increased
+number of episodes of soil contraction and expansion);
+
+• Warmer summer temperatures;
+
+• Increased number of hot days and consecutive hot days; and
+
+• Longer summers (which could lead to impacts associated with heat
+stress and wildfire risks).
+
+This Supplemental EIS assessed whether the projected changes in the
+climate could further influence the impacts and effects attributable to
+the proposed Project. Elevated effects due to projected climate change
+could occur to water resources, wetlands, terrestrial vegetation,
+fisheries, and endangered species, and could also contribute to air
+quality impacts. In addition, the statistical risk of a pipeline spill
+could be increased by secondary effects brought on by climatic change
+such as increased flooding and drought. However, this increased risk
+would still be much less than the risk of spills from other causes
+(such as third-party damage). Climate change could have an effect
+on the severity of a spill such that it could be reduced in drought
+conditions but increased during periods of increased precipitation
+and flooding.
+
+**ES.4.2 Potential Releases**
+
+The proposed Project would include processes, procedures, and systems
+to prevent, detect, and mitigate potential oil spills.
+
+Many commenters raised concerns regarding the potential environmental
+effects of a pipeline release, leak, and/or spill. Impacts from
+potential releases from the proposed Project were evaluated by
+analyzing historical spill data. The analysis identified the types of
+pipeline system components that historically have been the source of
+spills, the sizes of those spills, and the distances those spills would
+likely travel. The resulting potential impacts to natural resources,
+such as surface waters and groundwater, were also evaluated as well
+as planned mitigation measures designed to prevent, minimize, and
+respond to spills.
+
+**ES.4.2.1 Historical Pipeline Performance**
+
+In response to numerous comments regarding pipeline performance,
+the Department analyzed historical incident data within the PHMSA
+and National Response Center incident databases to understand what
+has occurred with respect to crude oil pipelines and the existing
+Keystone Pipeline system.
+
+Table ES-1 summarizes hazardous liquid pipeline incidents reported
+to the PHMSA across the United States from January 2002 through July
+2012 and shows the breakdown of incidents by pipeline component. A
+total of 1,692 incidents occurred, of which 321 were pipe incidents
+and 1,027 were involving different equipment components such as tanks,
+valves, or pumps.
+
+**Table ES-1 Summary of PHMSA Database Incidents a (January 2002 to
+July 2012)**
+
+**Incident Category Incidents Incident Sub-Category Incidents**
+
+Crude oil pipeline 1,692
+
+Crude oil mainline pipe incidents 321
+
+Crude oil pipeline, equipment incidents (not mainline pipe) 1,027
+
+Crude oil pipeline system, unspecified elements 344
+
+Crude oil mainline pipe
+
+16-inch or greater diameter 71
+
+8-inch or 15-inch diameter 154
+
+Less than 8-inch diameter 52
+
+Diameter not provided 44
+
+Crude oil pipeline, equipment (not mainline pipe)
+
+Other discrete elements (pumps, fittings, etc.) 909
+
+a *Incident* as used in the Final Supplemental EIS is in reference
+to a PHMSA and/or a National Response Center record of a reportable
+spill or accident found within their respective databases.
+
+To assess the likelihood of releases from the proposed Project, risk
+assessments were conducted addressing both the potential frequency of
+releases and the potential crude oil spill volumes associated with
+the releases. The assessments used three hypothetical spill volumes
+(small, medium, and large scenarios) to represent the range of reported
+spills in the PHMSA's spills database. Table ES-2 shows these spill
+volumes and the probabilities of such volumes.
+
+Most spills are small. Of the 1,692 incidents between 2002 and 2012
+(shown in Table ES-1), 79 percent of the incidents were in the small
+(zero to 50 bbl) range, equivalent to a spill of up to 2,100 gallons
+(see Table ES-2). Four percent of the incidents were in the large
+(greater than 1,000 bbl) range.
+
+***ES.4.2.1.1* Small and Medium Spills**
+
+The potential impacts from small spills of oil would typically be
+confined to soil immediately surrounding the spill, and would have
+little effect on nearby natural resources. These types of spills
+would generally be detected by maintenance or operations personnel and
+addressed through repair of the leak and remediation of the impacted
+area by removal of impacted soil and cleaning of stained concrete or
+containment areas.
+
+With medium spills, a release could occur as a subsurface or surface
+event depending upon the cause. Similar to a small spill, a slow
+subsurface leak could potentially reach a groundwater resource and,
+if the leak is faster than the soil can absorb the oil, could seep to
+the ground surface. Once the migrating oil leaves the release site,
+impacts to soil, vegetation, wildlife, and surface water along the flow
+path would occur. Depending on how quickly it is remediated, some of
+the oil might tend to pool in low areas and potentially infiltrate back
+into the soil and to groundwater depending on the depth to groundwater.
+
+***ES.4.2.1.2* Large Spills**
+
+With a large spill, the majority of the spill volume would migrate
+away from the release site. The potential impacts from a large spill
+would be similar to the impacts from the medium-sized spill, but on
+a much larger scale. More oil would seep into the soil over a larger
+area and could infiltrate deeper into the soil. Once the spill reaches
+the surface, the oil would flow following topographic gradient or lows
+(e.g., gullies, roadside drainage ditches, culverts, or storm sewers)
+and eventually to surface water features.
+
+**Table ES-2 Spill Scenarios Evaluated in Supplemental EIS**
+
+**Spill Volume Scenario Frequency a**
+
+Small: Less than 50 bbl (2,100 gallons) 79%
+
+Medium: 50--1,000 bbl (2,100--42,000 gallons) 17%
+
+Large: >1,000 bbl (>42,000 gallons) 4%
+
+a Indicates the share of all releases reported in the PHMSA database
+that fit each spill volume scenario.
+
+If the release enters flowing water or other surface water features,
+the extent of the release could become very large, potentially
+affecting soil, wildlife, and vegetation along miles of river and
+shoreline. As has been seen in recent large spills, sinking oil can
+be deposited in river or stream bottoms and become a continual source
+of oil release over time.
+
+**ES.4.2.2 Prevention and Mitigation**
+
+In order to reduce the risk of spills, if permitted Keystone has
+agreed to incorporate additional mitigation measures in the design,
+construction, and operation of the proposed Keystone XL Project,
+in some instances above what is normally required, including:
+
+• 59 Special Conditions recommended by PHMSA;
+
+• 25 mitigation measures recommended in the Battelle and Exponent
+risk reports; and
+
+• 11 additional mitigation measures.
+
+Many of these mitigation measures relate to reductions in the
+likelihood of a release occurring. Other measures provide mitigation
+that reduces the consequences and impact of a spill should such
+an event occur. Mitigation measures are compiled in Appendix Z,
+Compiled Mitigation Measures, of this Supplemental EIS. Mitigation
+measures are actions that, if the proposed Project is determined to
+be in the national interest, Keystone would comply with as conditions
+of a Presidential Permit.
+
+If a spill occurred, the degree of impact to water, people, livestock,
+soil, and other natural resources would depend on the distance from
+the spill source. A large spill of 20,000 bbl, for example, could
+have a combined overland and groundwater spreading of up to 2,264 feet
+(or 0.42 miles) from a release point. Oil could spread on flat ground
+up to 1,214 feet from the proposed pipeline, depending on the volume
+spilled. If oil reached groundwater, components in the oil, such as
+benzene, could spread in groundwater up to an additional 1,050 feet
+downgradient (essentially, downhill underground and on land) of the
+spill point.
+
+The proposed Project would, if permitted, include processes,
+procedures, and systems to prevent, detect, and mitigate potential
+oil spills that could occur during construction and operation of
+the pipeline. These would include a Spill Prevention, Control,
+and Countermeasure Plan as well as a Construction, Mitigation, and
+Reclamation Plan (CMRP). In the event of a large leak, Supervisory
+Control and Data Acquisition sensors would automatically detect
+noticeable changes in pipeline pressure and flow rates. Leaks and
+spills could also be identified during routine aerial surveillance
+along the pipeline ROW. In addition, Keystone would be required,
+if permitted, to prepare an Emergency Response Plan that would
+contain further detail on response procedures and would be reviewed
+by the PHMSA prior to granting permission to operate the proposed
+pipeline. Keystone would incorporate into these plans lessons learned
+from past spills such as the pipeline rupture in 2010 that affected
+the Kalamazoo River (Marshall, Michigan). For example, Keystone would,
+if permitted, procure equipment required to respond to sunken and
+submerged oil and ensure personnel are appropriately trained.
+
+**ES.4.3 Socioeconomics**
+
+**ES.4.3.1 Economic Activity Overview**
+
+During construction, proposed Project spending would support
+approximately 42,100 jobs (direct, indirect, and induced), and
+approximately $2 billion in earnings throughout the United States. Of
+these jobs, approximately 3,900 would be direct construction jobs
+in the proposed Project area in Montana, South Dakota, Nebraska,
+and Kansas (3,900 over 1 year of construction, or 1,950 per year
+if construction took 2 years). Construction of the proposed Project
+would contribute approximately $3.4 billion (or 0.02 percent) to the
+U.S. gross domestic product (GDP). The proposed Project would generate
+approximately 50 jobs during operations. Property tax revenue during
+operations would be substantial for many counties, with an increase
+of 10 percent or more in 17 of the 27 counties with proposed Project
+facilities.
+
+The jobs and earnings analysis recognizes three distinct components
+of economic activity and job creation: direct, indirect, and induced.
+
+• Direct economic activity associated with construction includes
+all jobs and earnings at firms that are awarded contracts for goods
+and services, including construction, directly by Keystone.
+
+• Indirect economic activity includes all goods and services
+purchased by these construction contractors in the conduct of
+their services to the proposed Project. Examples of these types
+of activities related to pipeline construction include the goods
+and services purchased to produce inputs such as concrete, fuel,
+surveying, welding materials, and earth-moving equipment.
+
+• Induced economic activity includes the spending of earnings
+received by employees working for either the construction contractor
+or for any supplier of goods and services required in the construction
+process. Examples of induced activities include spending by access
+road construction crews, welders, employees of pipe manufacturers,
+and ranchers providing beef for restaurants and construction camps.
+
+**ES.4.3.2 Pipeline Geography, Population**
+
+Of the land area near the proposed pipeline route, approximately 17
+percent intersects areas with low- income or minority populations,
+including Indian tribes. Such populations could potentially be
+disproportionately affected by the proposed Project.
+
+The proposed pipeline route would go through 27 counties: six in
+Montana, nine in South Dakota, and 12 in Nebraska. These counties
+are referred to as the *pipeline corridor counties* and would be
+expected to experience most of the direct socioeconomic effects of
+the proposed Project.
+
+The 27 pipeline corridor counties are predominantly rural and sparsely
+populated, with a total population of approximately 263,300 (2010
+Census). Population density (number of persons per square mile) is low.
+
+**ES.4.3.3 Economic Activity During**
+
+**Construction**
+
+Construction contracts, materials, and support purchased in the United
+States would total approximately $3.1 billion. Another approximately
+$233 million would be spent on construction camps for workers in
+remote locations of Montana, South Dakota, and northern Nebraska.
+
+Construction of the proposed Project would contribute approximately
+$3.4 billion to the U.S. GDP. This figure includes not only earnings
+by workers, but all other income earned by businesses and individuals
+engaged in the production of goods and services demanded by the
+proposed Project, such as profits, rent, interest, and dividends. When
+compared with the GDP in 2012, the proposed Project's contribution
+represents approximately 0.02 percent of annual economic activity
+across the nation.
+
+Construction spending would support a combined total of approximately
+42,100 jobs throughout the United States for the up to 2-year
+construction period. A *job* consists of one position that is filled
+for one year. The term *support* means jobs ranging from new jobs
+(i.e., not previously existing) to the continuity of existing jobs in
+current or new locations. The specific number of jobs at any location
+would result from the individual decisions of employers across the
+country affected by the proposed Project based on their labor needs,
+work backlog, and local hiring conditions. Of these jobs, approximately
+16,100 would be direct jobs at firms that are awarded contracts for
+goods and services, including construction, by Keystone. The other
+approximately 26,000 jobs would result from indirect and induced
+spending; this would consist of goods and services purchased by the
+construction contractors and spending by employees working for either
+the construction contractor or for any supplier of goods and services
+required in the construction process.
+
+About 12,000 jobs, or 29 percent of the total 42,100 jobs, would
+be supported in Montana, South Dakota, Nebraska, and Kansas. Also,
+of the 42,100 jobs, approximately 3,900 (or 1,950 per year if
+construction took 2 years) would comprise a direct, temporary,
+construction workforce in the proposed Project area.
+
+Employment supported by construction of the proposed Project would
+translate to approximately $2.05 billion in employee earnings. Of
+this, approximately 20 percent ($405 million in earnings) would
+be allocated to workers in the proposed Project area states. The
+remaining 80 percent, or $1.6 billion, would occur in other locations
+around the country.
+
+**ES.4.3.4 Economic Activity During**
+
+**Operations**
+
+Once the proposed Project enters service, operations would require
+approximately 50 total employees in the United States: 35 permanent
+employees and 15 temporary contractors. This small number would result
+in negligible impacts on population, housing, and public services in
+the proposed Project area.
+
+The total estimated property tax from the proposed Project in the first
+full year of operations would be approximately $55.6 million spread
+across 27 counties in three states. This impact to local property tax
+revenue receipts would be substantial for many counties, constituting
+a property tax revenue benefit of 10 percent or more in 17 of these
+27 counties. Operation of the proposed Project is not expected to
+have an impact on residential or agricultural property values.
+
+**ES.4.4 Environmental Justice**
+
+EO 12898, *Federal Actions to Address Environmental*
+
+*Justice in Minority Populations and Low-Income*
+
+*Populations,* directs federal agencies to identify and address,
+as appropriate, disproportionately high and adverse health or
+environmental effects of their programs, policies, and activities
+on minority populations and low-income populations. Environmental
+justice refers to the "fair treatment and meaningful involvement
+of all people regardless of race, color, national origin, or income
+with respect to the development, implementation, and enforcement of
+environmental laws, regulations, and policies" (USEPA 2007). The CEQ
+has provided guidance for addressing environmental justice.
+
+Within the socioeconomic analysis area identified for the proposed
+Project, 16 census groupings contain minority populations that are
+meaningfully greater (equal or greater than 120 percent) than the share
+in the surrounding state, and five census tracts have larger shares
+of low-income populations. Four of these areas contain meaningfully
+greater populations of both minority and low income residents. Two
+minority populations are located on Indian lands: the Cheyenne River
+Indian Reservation and the Rosebud Indian Reservation.
+
+Impacts during construction could include exposure to construction dust
+and noise, disruption to traffic patterns, and increased competition
+for medical or health services. Typical proposed Project operations
+are unlikely to disproportionately adversely impact the environmental
+justice populations present. Because the risk of a potential release is
+roughly equal at all points along the pipeline, the risks associated
+with such releases would not be disproportionately borne by minority
+or low-income populations. However, such populations could be more
+vulnerable should a release occur.
+
+If permitted, Keystone has agreed to avoidance and mitigation measures
+to minimize negative impacts to all populations in the proposed Project
+area. Specific mitigation for environmental justice communities during
+construction would involve ensuring that adequate communication in
+the form of public awareness materials regarding the construction
+schedule and construction activities is provided.
+
+**ES.4.5 Water Resources**
+
+The proposed Project route would avoid surface water whenever possible,
+but would cross approximately 1,073 surface waterbodies including
+56 perennial rivers and streams as well as approximately 24 miles
+of mapped floodplains. If permitted, Keystone would drill underneath
+major rivers to mitigate construction impacts as described below and
+in Section 4.3, Water Resources.
+
+The proposed pipeline would cross important aquifers such as the
+Northern High Plains Aquifer (NHPAQ) (which includes the Ogallala
+Aquifer) and the Great Plains Aquifer (GPA). Modeling indicates that
+aquifer characteristics would inhibit the spread of released oil,
+and impacts from a release on water quality would be limited.
+
+Nevertheless, within 1 mile of the proposed Project route are 2,537
+wells, including 39 public water supply wells. Wells that are in the
+vicinity could be affected by a release from the proposed Project.
+
+**ES.4.5.1 Surface Water**
+
+***ES.4.5.1.1* Construction**
+
+Construction of the proposed Project could result in temporary and
+permanent impacts such as:
+
+• Stream sedimentation;
+
+• Changes in stream channel morphology (shape) and stability;
+
+• Temporary reduction in stream flow; and
+
+• Potential for hazardous material spills.
+
+Open-cut methods would be used at most waterbody crossings. However,
+impacts to surface waterbodies would be mitigated through various
+means. Horizontal directional drill (HDD) methods would be used at 14
+major and sensitive waterbody crossings (see Figure ES-11). Waterbody
+banks would be restored to preconstruction contours or to a stable
+slope. Seeding, erosion control fabric, and other erosion control
+measures would be installed, as specified in the CMRP and permit
+documents.
+
+***ES.4.5.1.2* Operations**
+
+Surface water impacts associated with potential releases of crude
+oil and other hazardous liquid spills are addressed in detail in
+the Potential Releases section. Other potential impacts during the
+operations phase would include:
+
+• Channel migration or streambed degradation that exposes the
+pipeline;
+
+• Channel incision that increases bank heights to the point where
+slopes are destabilized, ultimately widening the stream; and
+
+• Sedimentation within a channel that triggers lateral bank erosion.
+
+Mitigation measures to address these impacts would include those
+specified in the CMRP. The proposed pipeline would be at least 5
+feet below the bottom of waterbodies and at least 3 to 4 feet below
+the bottom of waterbodies in rocky areas, and that depth would be
+maintained at least 15 feet from either waterbody edge.
+
+Where an HDD method is used, the crossing depth would be up to 55
+feet below the stream bed. Potential bank protection measures could
+include installing rock, wood, or other materials keyed into the bank
+to provide protection from further erosion or regrading the banks to
+reduce the bank slope.
+
+**Figure ES-11 Cross Section of the Horizontal Directional Drilling
+Method**
+
+**ES.4.5.2 Floodplains**
+
+The proposed pipeline would cross mapped and unmapped floodplains in
+Montana, South Dakota, and Nebraska. In floodplain areas adjacent
+to waterbody crossings, contours would be restored to as close to
+previously existing contours as practical, and the disturbed area would
+be revegetated during construction of the ROW in accordance with the
+CMRP. After construction, the proposed pipeline would not obstruct
+flows over designated floodplains, and any changes to topography
+would be minimal and thus would not affect local flood elevations.
+
+**ES.4.5.3 Groundwater**
+
+The primary source of groundwater impacts from the proposed Project
+would be potential releases of petroleum during pipeline operation and,
+to a lesser extent, from fuel spills from equipment. Any petroleum
+releases from construction or operation could potentially impact
+groundwater where the overlying soils are permeable and/or the depth
+to groundwater is shallow. Table ES-3 summarizes the anticipated
+effects of potential releases from the proposed Project on aquifers
+along the proposed Project route.
+
+**ES.4.6 Wetlands**
+
+The proposed Project would affect approximately 383 acres of
+wetlands. Potential impacts include:
+
+• Impacts to wetland functions and values;
+
+• Conversion from one wetland type to another; and
+
+• Permanent loss of wetlands due to fill for permanent
+project-related facilities.
+
+An estimated 2 acres of permanent wetland loss is
+anticipated. Remaining wetlands affected by the proposed Project would
+remain as functioning wetlands, provided that impact minimization
+and restoration efforts described in the CMRP are successful.
+
+Wetlands are regulated primarily by Section 404 of the Clean Water
+Act, but other regulations could apply if, for example, a wetland
+area provides important habitat for federally listed species and
+species protected by the Migratory Bird Treaty Act and Bald and Golden
+Eagle Protection Act. Section 404 requires that wetland impacts are
+avoided, minimized, and mitigated to the greatest practicable extent
+possible. Keystone has made route modifications to avoid wetland areas
+(such as the NDEQ-identified Sand Hills Region) and has prepared a
+CMRP that summarizes the proposed wetland avoidance, minimization,
+and mitigation measures. In addition, various agencies, such as
+U.S. Army Corps of Engineers, could require additional mitigation
+in accordance with American Indian tribal, local, state, and federal
+permits and regulations.
+
+**Table ES-3 Effects of Potential Releases on Aquifers**
+
+**Aquifer Effects**
+
+Alluvial Aquifers and Northern High Plains Aquifer (NHPAQ), including
+the Ogallala Aquifer
+
+Aquifer conditions in the NHPAQ in the proposed Project area indicate
+that shallow groundwater generally discharges to local surface
+waterbodies, and typically does not flow downward in significant
+amounts or flow horizontally over long distances. Analysis of historic
+spills and groundwater modeling indicate that contaminant plumes
+from a large-scale release that reaches groundwater in the NHPAQ and
+alluvial aquifers could be expected to affect groundwater quality up
+to approximately 1,000 feet downgradient of the source. This localized
+effect indicates that petroleum releases from the proposed Project
+is unlikely to extensively affect water quality in this aquifer group.
+
+Great Plains Aquifer (GPA)
+
+Across most of the proposed pipeline area where the GPA is present,
+it is very unlikely that any releases from the proposed pipeline
+would affect groundwater quality in the aquifer because the aquifer
+is typically deeply buried beneath younger, water-bearing sediments
+and/or aquitard units. The exception is in southern Nebraska, where
+the aquifer is closer to the surface. Water quality in the GPA could
+be affected by releases in this area, but groundwater flow patterns
+in the vicinity of the proposed Project route make such effects
+unlikely. Overall, it is very unlikely that the proposed pipeline area
+would affect water quality in the GPA due to weak downward gradients
+(downward groundwater flows) in the aquifers overlying the GPA.
+
+Northern Great Plains Aquifer System (NGPAS)
+
+As with the GPA, petroleum releases from the proposed Project would
+only affect water quality in portions of the NGPAS near the ground
+surface. In the case of a large-scale release, these impacts would
+typically be limited to within several hundred feet of the source,
+and would not affect groundwater within areas that provide groundwater
+recharge to large portions of the NGPAS.
+
+Western Interior Plains Aquifer
+
+The depth to this aquifer is several hundred feet below the ground
+surface in the proposed Project area; therefore, there is an extremely
+low probability that a petroleum release from the proposed Project
+would affect water quality in this aquifer.
+
+Shallow Groundwater and Water Wells
+
+There are 2,537 wells within 1 mile of the proposed Project, including
+39 public water supply wells and 20 private wells within 100 feet of
+the pipeline ROW. The majority of these wells are in Nebraska. Those
+wells that are in the vicinity of a petroleum release from the proposed
+Project may be affected.
+
+**ES.4.7 Threatened and Endangered**
+
+**Species**
+
+Consultation and coordination with the U.S. Fish and Wildlife
+Service (USFWS) identified 14 federally protected, proposed, and
+candidate species that could be affected by the proposed Project:
+11 federally-listed threatened or endangered species, as defined
+under the ESA, one proposed species for listing as endangered, and
+two candidate species for listing as threatened or endangered. Of
+the federally listed, proposed, and candidate species, the endangered
+American buying beetle (*Nicrophorus americanus*) is the only species
+that is likely to be adversely affected by the proposed Project (see
+Figure ES-12). Other species could potentially be affected by the
+proposed Project; among these are whooping cranes (*Grus americana*),
+greater sage-grouse (*Centrocercus urophasianus*), and Western prairie
+fringed orchids (*Platanthera praeclara*).
+
+In consultation with the USFWS, the Department prepared a Biological
+Assessment to evaluate the proposed Project's potential impacts
+to federally listed and candidate species and designated critical
+habitat. In addition, USFWS has developed a Biological Opinion
+for the proposed Project, which includes recommended conservation
+measures and compensatory mitigation for unavoidable impacts that
+were assessed during the formal consultation process. The Biological
+Opinion is attached in Appendix H, 2012 Biological Assessment, 2013
+USFWS Biological Opinion, and Associated Documents.
+
+**Figure ES-12 American Burying Beetle**
+
+Approximately 83 miles of the proposed Project Route in South
+Dakota and Nebraska would affect suitable American burying beetle
+habitat. Consultation between the Department and USFWS resulted in
+development of conservation measures and compensatory mitigation,
+such as trapping and relocating beetles, special lighting restrictions
+(the beetles are attracted to light), and establishment of a habitat
+conservation trust.
+
+Even with these measures, the proposed Project would be likely to
+adversely affect the American burying beetle, resulting in incidental
+take (such as unintended death or harm of individual beetles) during
+construction or operation. The combination of Keystone's American
+burying beetle monitoring program and Reclamation Performance Bond
+would provide assurances that the acres disturbed by the proposed
+Project would be restored appropriately. The USFWS concluded in the
+2013 USFWS Biological Opinion that the proposed Project is not likely
+to jeopardize the continued existence of the American burying beetle.
+
+**ES.4.8 Geology and Soils**
+
+The proposed route extends through relatively flat and stable areas,
+and the potential for seismic hazards (earthquakes), landslides,
+or subsidence (sink holes), is low. The pipeline would not cross any
+known active faults. During construction, land clearing could increase
+the risk of landslides and erosion. Keystone would, if permitted,
+construct temporary erosion control systems and restore the ROW
+after construction.
+
+The proposed Project route would avoid the NDEQ- identified Sand
+Hills Region, where soils are particularly susceptible to damage from
+pipeline construction. Potential impacts to soils resources in other
+areas associated with construction or operation of the proposed Project
+and connected actions could include soil erosion, loss of topsoil,
+soil compaction, an increase in the proportion of large rocks in
+the topsoil, soil mixing, soil contamination, and related reductions
+in the productivity of desirable vegetation or crops. Construction
+also could result in damage to existing tile drainage systems (an
+agriculture practice that removes excess water from soil subsurface),
+irrigation systems, and shelterbelts.
+
+To mitigate and minimize these impacts, Keystone would, if permitted,
+put in place procedures for construction and operation that are
+designed to reduce the likelihood and severity of proposed Project
+impacts to soils and sediments, including topsoil segregation methods,
+and to mitigate impacts to the extent practicable. After construction,
+areas of erosion or settling would be monitored.
+
+**ES.4.9 Terrestrial Vegetation**
+
+Potential construction- and operations-related impacts to general
+terrestrial vegetation resources associated with the proposed Project
+include impacts to cultivated crops, developed land, grassland/pasture,
+upland forest, open water, forested wetlands, emergent herbaceous
+wetlands, and shrub-scrub communities. In addition, the proposed
+Project route would result in impacts to biologically unique landscapes
+and vegetation communities of conservation concern.
+
+Keystone would, if permitted, restore topsoil, slopes, contours,
+and drainage patterns to preconstruction conditions as practicable
+and to reseed disturbed areas to restore vegetation cover, prevent
+erosion, and control noxious weeds. Because disturbed prairie areas
+are difficult to restore to existing (pre-disturbance) conditions,
+Keystone would, if permitted, use specific best management practices
+and procedures to minimize and mitigate the potential impacts to
+native prairie areas and coordinate with appropriate agencies as
+necessary to monitor progress.
+
+**ES.4.10 Wildlife**
+
+Potential impacts to wildlife associated with construction of
+the proposed Project could include habitat loss, alteration, and
+fragmentation; direct mortality during construction and operation
+(e.g., vehicle collisions, power line/power pole collisions,
+etc.); indirect mortality because of stress or avoidance of
+feeding due to exposure to construction and operations noise,
+low-level helicopter or airplane monitoring overflights, and from
+increased human activity; reduced breeding success from exposure to
+construction and operations noise and from increased human activity;
+reduced survival or reproduction due to decreased availability of
+edible plants, reduced cover, and increased exotics and invasives;
+and increased predation (i.e., nest parasitism, creation of predator
+travel corridors, and poaching).
+
+To reduce potential construction- and operations-related effects where
+habitat is crossed, Keystone would, if permitted, implement measures to
+minimize adverse effects to wildlife habitats, including shelterbelts,
+windbreaks, and living snow fences. Pipeline construction would be
+conducted in accordance with required permits.
+
+**ES.4.11 Fisheries**
+
+The proposed route would cross rivers and streams, including perennial
+streams that support recreational or commercial fisheries. Most
+potential impacts to fisheries resources would occur during
+construction and would be temporary or short term. Potential impacts
+from construction of stream crossings include siltation, sedimentation,
+bank erosion, sediment deposition, short-term delays in movements
+of fish, and transport and spread of aquatic invasive animals and
+plants. Keystone would, if permitted, minimize vehicle contact with
+surface waters and clean equipment to prevent transportation of aquatic
+invasive animals and plants. Impacts associated with potential releases
+of oil are described in Section 4.13, Potential Releases.
+
+Most streams would be crossed using one of several open-cut (trenching)
+methods. Most stream crossings would be completed in less than 2
+days, grading and disturbance to waterbody banks would be minimized,
+and crossings would be timed to avoid sensitive spawning periods,
+such that resulting steam bed disturbance and sediment impacts would
+be temporary and minimized.
+
+Most large rivers would be crossed using HDD methods, which would
+install the pipeline well below the active river bed. As a result,
+direct disturbance to the river bed, fish, aquatic animals and plants,
+and river banks would be avoided. If permitted, Keystone has agreed
+to develop site-specific contingency plans to address unintended
+releases of drilling fluids that include preventative measures and
+a spill response plan.
+
+**ES.4.12 Land Use**
+
+Construction of the proposed Project would disturb approximately
+15,427 acres of land. Approximately 90 percent of that land is
+privately owned while the remaining is owned by federal, state,
+or local governments. Rangeland (approximately 9,695 acres) and
+agriculture (approximately 4,975 acres) comprise the vast majority
+of land use types that would be affected by construction.
+
+After construction, approximately 5,569 acres would be retained within
+permanent easements or acquired for operation of the proposed Project;
+this includes the pipeline ROW and aboveground facilities. Nearly
+all agricultural land and rangeland along the ROW would be allowed
+to return to production with little impact on production levels in
+the long term. However, there would be restrictions on growing woody
+vegetation and installing structures within the 50-foot-wide permanent
+ROW. Keystone has agreed to compensate landowners for crop losses on
+a case-by-case basis.
+
+Keystone would if permitted use construction measures designed to
+reduce impacts to existing land uses such as topsoil protection,
+avoiding interference with irrigation systems, repairing or restoring
+drain tiles, assisting with livestock access and safety, and restoring
+disturbed areas with custom native seed mixes.
+
+**ES.4.13 Air Quality and Noise**
+
+Dust and emissions from construction equipment would impact air
+quality. Construction emissions typically would be localized,
+intermittent, and temporary since proposed pipeline construction would
+move through an area relatively quickly. Mitigation measures would
+be employed and enforced by an environmental inspector assigned to
+each construction spread.
+
+All pump stations would be electrically powered by local utility
+providers. As a result, during normal operation there would be
+only minor emissions from valves and pumping equipment at the
+pump stations. The proposed Project would not be expected to cause
+or contribute to a violation of any federal, state, or local air
+quality standards, and it would not require a Clean Air Act Title V
+operating permit.
+
+Construction activities would result in intermittent, temporary,
+and localized increases in noise levels. To reduce construction noise
+impacts, Keystone would, if permitted, limit the hours during which
+activities with high-decibel noise levels are conducted in residential
+areas, require noise mitigation procedures, monitor sound levels,
+and develop site-specific mitigation plans to comply with regulations.
+
+**ES.4.14 Cultural Resources**
+
+The proposed Project route would cross various private, state, and
+federal lands in Montana, South Dakota, and Nebraska where cultural
+resources would be encountered. Literature searches were conducted to
+locate previously identified cultural resources within the designated
+area of potential effects. Field studies were conducted between 2008
+and 2013 to identify cultural resources and assess archaeological
+resources (i.e., sites), historic resources (i.e., buildings,
+structures, objects, and districts), and properties of religious and
+cultural significance, including traditional cultural properties.
+
+As of December 2013, most of the proposed Project area has been
+surveyed for cultural resources. The proposed Project area of potential
+effects is approximately 39,500 acres, of which approximately
+1,038 acres remain unsurveyed and are the subject of ongoing
+field studies. As part of this Supplemental EIS route evaluation
+process, consistent with the National Historic Preservation Act, the
+Programmatic Agreement (PA) that was signed in 2011 has been amended,
+finalized, and re-signed. Signatory parties to this agreement were
+the Department, Advisory Council on Historic Preservation, Bureau
+of Land Management, U.S. Army Corps of Engineers, U.S. Bureau of
+Reclamation, National Park Service, Western, Rural Utilities Service,
+Natural Resources Conservation Service, Farm Service Agency, Bureau
+of Indian Affairs, and the State Historic Preservation Offices of
+Montana, South Dakota, Nebraska, and Kansas. Invited signatories
+included the Montana Department of Natural Resources and Conservation,
+Montana Department of Environmental Quality, and Keystone. Indian
+tribes that participated in consultation were asked in 2013 to sign
+as Concurring Parties, consistent with 36 Code of Federal Regulations
+§§ 800.2(c)(2) and 800.6(c)(3).
+
+Pursuant to the stipulations outlined in the PA, Keystone is required
+to complete cultural resources surveys on all areas that would be
+potentially impacted by the proposed Project, make recommendations on
+National Register of Historic Places eligibility, provide information
+on potential effects of the proposed Project, and provide adequate
+mitigation in consultation with the Department, state and federal
+agencies, and Indian tribes. Construction would not be allowed to
+commence on any areas of the proposed Project until these stipulations
+are met. The PA, therefore, would ensure that appropriate consultation
+procedures are followed and that cultural resources surveys would be
+completed prior to construction. If unanticipated cultural materials
+or human remains were encountered during the construction phase of
+the proposed Project, Keystone would implement Unanticipated Discovery
+Plans pursuant to the PA.
+
+**ES.4.14.1 Tribal Consultation**
+
+Upon receiving a new application, the Department reached out directly
+to 84 Indian tribes throughout the United States with potential
+interest in the cultural resources potentially affected by the proposed
+Project (see Figure ES-13). Of the 84 Indian tribes, 67 tribes notified
+the Department that they would like to consult or were undecided as to
+whether they would become consulting parties. All Indian tribes that
+participated in consultation were asked in 2013 to sign the amended PA.
+
+The Department has conducted a broad range of tribal consultations,
+ranging from group meetings involving many Indian tribes and discussion
+topics to individual discussions on specific topics via letter, phone,
+and email. In addition to communication by phone, email, and letter,
+high-level Department officials travelled to areas near the proposed
+Project route to hold four face- to-face consultations, to which
+all Indian tribes were invited and whose participation was funded
+by Keystone, and one teleconference. Tribal meetings were held in
+October 2012 (three meetings), May 2013 (one meeting), and July 2013
+(teleconference). Face-to-face meetings were held in four locations:
+Billings, Montana; Pierre, South Dakota; Rapid City, South Dakota;
+and Lincoln, Nebraska.
+
+The Department engaged in discussions with the tribes and Tribal
+Historic Preservation Officers on issues relating to cultural
+resources. Consultations included discussions of cultural resources,
+in general, as well as cultural resources surveys, Traditional
+Cultural Properties surveys, effects to cultural resources, and
+mitigation. The Department has continued government- to-government
+consultations to build on previous work, to ensure that tribal issues
+of concern are addressed in the consultation process, and to amend
+and incorporate comments and modifications to the PA, as appropriate,
+in consultation with the tribes to conclude the Section 106 consistent
+process for the proposed Project. Additionally, tribes were provided
+proposed Project cultural resources survey reports and opportunities
+to conduct Traditional Cultural Property surveys funded by Keystone.
+
+**ES.4.15 Cumulative Effects**
+
+The cumulative effects analysis evaluates the way that the proposed
+Project's impacts interact with the impact of other past, present,
+or reasonably foreseeable future actions or projects. The goal of the
+cumulative impacts analysis is to identify situations where sets of
+comparatively small individual impacts, taken together, constitute
+a larger collective impact.
+
+Cumulative impacts associated with the proposed Project and
+connected actions vary among individual environmental resources and
+locations. Generally, where long-term or permanent impacts from the
+proposed Project are absent, the potential for additive cumulative
+effects with other past, present, and reasonably foreseeable future
+projects is negligible.
+
+Keystone's CMRP and planned mitigation measures, individual federal
+and state agency permitting conditions, and/or existing laws and
+regulations would, if permitted, work to control potential impacts
+and reduce the proposed Project's contribution to cumulative effects.
+
+**Figure ES-13 Indian Tribes Consulted**
+
+**ES.4.16 Environmental Impacts in Canada**
+
+While the proposed Project analyzed in this Supplemental EIS begins
+at the international boundary where the pipeline would exit at
+Saskatchewan, Canada, and enter the United States through Montana,
+the origination point of the pipeline system would be in Alberta,
+Canada. In addition to the environmental analysis of the proposed
+Project in the United States, the Department monitored and obtained
+information from the environmental analysis of the Canadian portion
+of the proposed Project. The Canadian government, not the Department,
+conducted an environmental review of the portion of the proposed
+Project within Canada. However, the Department has included information
+from the Canadian government's assessment in this Supplemental EIS
+and has continued to monitor information from Canada as it becomes
+available.
+
+On March 11, 2010, the Canadian National Energy Board issued its
+168-page Reasons for Decision granting Keystone's application to build
+the Canadian portion of the proposed Project. This document provided
+a rationale for the approval of the pipeline by Canadian regulatory
+authorities and a description of the National Energy Board's analysis
+of the following topics: economic feasibility, commercial impacts,
+tolls and tariffs, engineering, land matters, public consultation,
+aboriginal consultation, and environmental and socioeconomic matters.
+
+Moreover, analysis and mitigation of environmental impacts in Canada
+more generally are ongoing by Canadian officials. For example,
+on September 1, 2012, the Government of Alberta's development plan
+for the Lower Athabascan oil sands region became effective. The
+plan requires cancellation of about 10 oil sands leases, sets aside
+nearly 20,000 square kilometers (7,700 square miles) for conservation,
+and sets new environmental standards for the region in an effort to
+protect sensitive habitat, wildlife, and forest land.
+
+**ES.5.0 ALTERNATIVES**
+
+Detailed analysis was conducted on three broad categories of
+alternatives to the proposed Project, consistent with NEPA:
+
+• No Action Alternative---which addresses potential market responses
+that could result if the Presidential Permit is denied or the proposed
+Project is not otherwise implemented;
+
+• Major Route Alternatives---which includes other potential pipeline
+routes for transporting WCSB and Bakken crude oil to Steele City,
+Nebraska; and
+
+• Other Alternatives---which include minor route variations,
+alternative pipeline designs, and alternative sites for aboveground
+facilities.
+
+Several alternatives exist for the transport of WCSB and Bakken
+crude oil to Gulf Coast refineries, including many that were
+not carried forward for detailed analysis. This Supplemental EIS
+provides a detailed description of the categories of alternatives,
+the alternative screening process, and the detailed alternatives
+identified for further evaluation.
+
+**ES.5.1 No Action Alternative**
+
+The No Action Alternative analysis considers what would likely
+happen if the Presidential Permit is denied or the proposed Project
+is not otherwise implemented. It includes the Status Quo Baseline,
+which serves as a benchmark against which other alternatives are
+evaluated. Under the Status Quo Baseline, the proposed Project
+would not be constructed and the resulting direct, indirect, and
+cumulative impacts that are described in this Supplemental EIS would
+not occur. The Status Quo Baseline is a snapshot of the crude oil
+production and delivery systems at current levels -- in other words,
+no change at all -- irrespective of likely alternative transport
+scenarios to transport WCSB and Bakken crude.
+
+The No Action Alternative includes analysis of three alternative
+transport scenarios that, based on the findings of the market analysis,
+are believed to meet the proposed Project's purpose (i.e., providing
+WCSB and Bakken crude oil to meet refinery demand in the Gulf Coast
+area) if the Presidential Permit for the proposed Project were
+denied, or if the pipeline were otherwise not constructed. Under
+the alternative transport scenarios, other environmental impacts
+would occur in lieu of the proposed Project. This Supplemental EIS
+includes analysis of various combinations of transportation modes
+for oil, including truck, barge, tanker, and rail. These scenarios
+are considered representative of the crude oil transport alternatives
+with which the market would respond in absence of the
+
+Keystone XL pipeline. These three alternative transport scenarios
+(i.e., the Rail and Pipeline Scenario, Rail and Tanker Scenario,
+and Rail Direct to the Gulf Coast Scenario) are described below and
+illustrated on Figure ES-14.
+
+**ES.5.1.1 Rail and Pipeline Scenario**
+
+Under this scenario, WCSB and Bakken crude oil (in the form of dilbit
+or synbit) would be shipped via rail from Lloydminster, Saskatchewan
+(the nearest rail terminal served by two Class I rail companies),
+to Stroud, Oklahoma, where it would be temporarily stored and then
+transported via existing and expanded pipelines approximately 17
+miles to Cushing, Oklahoma, where the crude oil would interconnect
+with the interstate oil pipeline system.
+
+This scenario would require the construction of two new or expanded
+rail loading terminals in Lloydminster, Saskatchewan (the possible
+loading point for WCSB crude oil), one new terminal in Epping, North
+Dakota (the representative loading point for Bakken crude oil),
+seven new terminals in Stroud, and up to 14 unit trains (consisting
+of approximately 100 cars carrying the same material and destined
+for the same delivery location) per day (12 from Lloydminster and
+two from Epping) to transport the equivalent volume of crude oil as
+would be transported by the proposed Project.
+
+**ES.5.1.2 Rail and Tanker Scenario**
+
+The second transportation scenario assumes crude oil (as dilbit or
+synbit) would be transported by rail from Lloydminster to a western
+Canada port (assumed to be Prince Rupert, British Columbia), where it
+would be loaded onto Suezmax tankers (capable of carrying approximately
+986,000 barrels of WCSB crude oil) for transport to the U.S. Gulf Coast
+(Houston and/or Port Arthur) via the Panama Canal. Bakken crude would
+be shipped from Epping to Stroud via BNSF Railway or Union Pacific
+rail lines, similar to the method described under the Rail and
+Pipeline Scenario. This scenario would require up to 12 unit trains
+per day between Lloydminster and Prince Rupert, and up to two unit
+trains per day between Epping and Stroud. This scenario would require
+the construction of two new or expanded rail loading facilities in
+Lloydminster with other existing terminals in the area handling the
+majority of the WCSB for shipping to Prince Rupert. Facilities in
+Prince Rupert would include a new rail unloading and storage facility
+and a new marine terminal encompassing approximately 4,200 acres and
+capable of accommodating two Suezmax tankers. For the Bakken crude
+portion of this Scenario, one new rail terminal would be necessary
+in both Epping, North Dakota, and Stroud, Nebraska.
+
+**Figure ES-14 Representative No Action Alternative Scenarios**
+
+**ES.5.1.3 Rail Direct to the Gulf Coast**
+
+**Scenario**
+
+The third transportation scenario assumes that WCSB and Bakken
+crude oil (as dilbit) would be shipped by rail from Lloydminster,
+Saskatchewan, and Epping, North Dakota, directly to existing rail
+facilities in the Gulf Coast region capable of off-loading up to
+14 unit trains per day. These existing facilities would then either
+ship the crude oil by pipeline or barge the short distance to nearby
+refineries. It would largely rely on existing rail terminals in
+Lloydminster, but would likely require construction of up to two new
+or expanded terminals to accommodate the additional WCSB shipments out
+of Canada. One new rail loading terminal would be needed in Epping
+to ship Bakken crude oil. Sufficient off-loading rail facilities
+currently exist or are proposed in the Gulf Coast area such that no
+new terminals would need to be built under this scenario.
+
+**ES.5.2 Major Pipeline Route Alternatives**
+
+The Department considered potential alternative pipeline routes
+to assess whether or not route alternatives could avoid or reduce
+impacts to environmentally sensitive resources while also meeting the
+proposed Project's purpose. Consistent with NEPA, a two-phase screening
+process was used to evaluate prospective alternatives using a set of
+criteria to determine their technical, environmental, and economic
+viability. Alternatives that failed to meet the screening criteria
+were not brought forward for detailed analysis in this Supplemental
+EIS. The initial (Phase I) screening of other major route alternatives
+considered the following criteria:
+
+• Meeting the proposed Project's purpose and need, including whether
+the alternative would require additional infrastructure such as a
+pipeline to access Bakken crude oil;
+
+• Availability;
+
+• Reliability;
+
+• Length within the United States;
+
+• Total length of the pipeline, including both the United States
+and Canada;
+
+• Estimated number of aboveground facilities;
+
+• Length co-located within an existing corridor;
+
+• Acres of land directly affected during construction; and
+
+• Acres of land directly affected permanently.
+
+Pipeline length was used as an important screening criterion because
+it has a relatively direct relationship with:
+
+• System reliability, in that the longer the pipeline the greater
+risk that some portion may become inoperable at some point, thereby
+delaying shipments.
+
+• Environmental impacts, including:
+
+− Risk of spills and leaks, which represent the greatest potential
+threat to water and aquatic resources;
+
+− Temporary construction-related disturbance to natural habitat
+(e.g., wetlands, forests, native prairie); and
+
+− Permanent habitat fragmentation.
+
+• Construction and operational costs, which generally increase in
+proportion to overall pipeline length.
+
+All other factors being equal, longer pipelines are less desirable
+because they represent greater risks to system reliability,
+environmental impacts, and project costs.
+
+As a result of this Phase I screening process, the following
+alternatives were eliminated because they would not meet the project
+purpose and/or were significantly longer than other viable options
+(see Figure ES-15):
+
+• Western Alternative (to Cushing);
+
+• Express Platte Alternative; and
+
+• Existing Keystone Corridor
+
+− Option 1: Proposed Border Crossing (near Morgan, Montana)
+
+− Option 2: Existing Keystone Pipeline Border Crossing (at Pembina,
+North Dakota).
+
+Several commenters recommended that the proposed Project parallel
+the existing Keystone Pipeline rather than the proposed route. The
+Department considered these comments, but ultimately concluded that
+the existing Keystone Pipeline Route was not a reasonable alternative
+because it would not meet the proposed Project's purpose and need
+(i.e., would not meet Keystone's contractual obligations to transport
+100,000 bpd of Bakken crude oil). Further, the existing Keystone
+Pipeline Corridor would be longer (taking into consideration pipeline
+length in both Canada and the United States), which represents an
+increased spill risk. The 2011 Steele City Segment, the I-90 Corridor,
+and the Steele City Segment A1A alternatives, however, were retained
+for further screening.
+
+The Phase II screening used a desktop data review of key environmental
+and other features (e.g., wetlands and waterbodies crossed, total
+acreage affected). After this Phase II screening, the Steele City
+Segment A1A Alternative was eliminated because this route would
+be longer with an associated increased risk for spills and leaks,
+would cross more miles of principal aquifer and wetlands, and would
+require a second major crossing of the Missouri River, relative to the
+proposed Project. For these reasons, the Steele City A1A Alternative
+would not offer any offsetting environmental advantages relative
+to the proposed Project to warrant further consideration. However,
+both the 2011 Steele City Segment and I-90 Corridor alternatives
+were considered reasonable alternatives and were retained for full
+evaluation in this Supplemental EIS. These two route alternatives are
+described below and depicted in Figure ES-15. Table ES-4 summarizes
+key aspects of the major pipeline route alternatives.
+
+**Table ES-4 Summary of Major Pipeline Route Alternatives**
+
+**Proposed**
+
+**Project**
+
+**2011 Steele City**
+
+**Segment Alternative**
+
+**I-90 Corridor**
+
+**Alternative**
+
+New Pipeline Length (miles) 875 854 927
+
+Number of Aboveground Facilitiesa 73 71 77
+
+Length Co-Located with Existing Keystone Pipeline (miles) 0 0 254
+
+NDEQ-Identified Sand Hills Region Crossed (miles) 0 89 0
+
+Highly Erodible Soil (Wind) Crossed (miles) 73 116 36
+
+Perennial Waterbody Crossings 56 53 61
+
+Wetlands Affected during Construction (acres) 262 544 223
+
+Average Annual Employment During Construction 3,900 3,900 4,100
+
+Property Tax Revenues (millions) $55.6 $53.7 $59.3
+
+Construction Land Area Affected (acres) 11,593 11,387 12,360
+
+Operations (Permanent) Land Area Required (acres) 5,569 5,176 4,818
+
+a Does not include 2 pump stations for the Cushing Extension in Kansas
+
+**Figure ES-15 Preliminary Pipeline Route Alternatives**
+
+**ES.5.2.1 Keystone XL 2011 Steele City**
+
+**Segment Alternative**
+
+The Keystone XL 2011 Steele City Segment Alternative evaluates the
+impacts of constructing the route proposed in the 2011 Final EIS as
+a comparison against which other route alternatives, including the
+proposed Project, can be made. This alternative would follow Keystone's
+proposed Project route from the Canadian border, designated Milepost
+(MP) 0, south to approximately MP 204, where it would connect with the
+Bakken Marketlink Project onramp at the same location as the proposed
+Project and continue to approximately MP 615 in northern Nebraska near
+the South Dakota state line. At that location, the Keystone XL 2011
+Steele City Segment Alternative would divert from the current proposed
+Project and would continue southeasterly for another 240 miles to the
+southern terminus at Steele City, Nebraska. For approximately 89 miles,
+the Keystone XL 2011 Steele City Segment Alternative would cross the
+NDEQ-identified Sand Hills Region.
+
+**ES.5.2.2 I-90 Corridor Alternative**
+
+Keystone's proposed Project route starts at the Canadian Border
+(MP 0) and stretches south through Montana and into South Dakota to
+approximately MP 516, where the proposed pipeline route intersects
+Interstate 90 (I-90). From this point, this alternative pipeline
+route would diverge from the proposed Project route, following the
+ROW of I-90 and State Highway 262 for 157 miles, where it would then
+intersect and follow the ROW of the existing Keystone pipeline to
+Steele City, Nebraska.
+
+The I-90 Corridor would avoid crossing the NDEQ- identified Sand
+Hills Region, and would reduce the length of pipeline crossing the
+NHPAQ system, which includes the Ogallala Aquifer.
+
+**ES.5.3 Other Alternatives Considered**
+
+In addition to the major route alternatives, the Department reviewed
+proposed variations---relatively short deviations---to the proposed
+route that were designed to avoid or minimize construction impacts
+to specific resources (e.g., cultural resource sites, wetlands,
+recreational lands, residences) or that minimize constructability
+issues (e.g., shallow bedrock, difficult waterbody crossings,
+steep terrain).
+
+The Department also considered two alternative pipeline designs in
+response to public comments: an aboveground pipeline and an alternative
+using a smaller-diameter pipe. The Department determined that both
+alternative designs were not reasonable alternatives for the proposed
+Project because they would not meet the proposed Project purpose
+and need and/or because of safety and security reasons; therefore,
+they were not considered further in this Supplemental EIS.
+
+This Supplemental EIS considered renewable energy sources and energy
+conservation as alternatives to the proposed Project. As noted in
+Section 1.4, Market Analysis, the crude oil would be used largely for
+transportation fuels and, therefore, any alternatives to the crude
+oil would need to fulfill the same purpose. The analysis found that
+even with renewable energy and conservation, there would still be
+a demand for oil sands-derived crude oil. Based on this evaluation,
+these alternatives were not carried forward for further analysis as
+alternatives to the proposed Project.
+
+**ES.5.4 Comparison of Alternatives**
+
+Consistent with NEPA and the CEQ regulations, the Department compared
+the proposed Project with the alternatives that met the proposed
+Project's purpose and need, and that were carried forward for detailed
+analysis in this Supplemental EIS. The alternatives carried forward
+for detailed analysis were: the 2011 Steele City Segment Alternative,
+the I-90 Corridor Alternative, and the three identified No Action
+Alternative scenarios (i.e., the Rail and Pipeline Scenario, the Rail
+and Tanker Scenario, and the Rail Direct to the Gulf Coast Scenario).
+
+The two pipeline alternatives compare different routes that meet
+the purpose and need of the proposed Project, and the No Action
+Alternative scenarios describe the likely potential impacts associated
+with transport of crude oil from the WCSB and the Bakken formations if
+the Presidential Permit is denied or if the proposed Project is not
+otherwise implemented. The comparison focuses on three categories of
+impacts: physical disturbance, GHG emissions, and potential releases.
+
+**ES.5.4.1 Physical Disturbance Impacts**
+
+**Alternatives Comparison**
+
+The primary differences between the proposed Project and the
+alternatives related to physical disturbance are summarized in
+Table ES-5.
+
+**Table ES-5 Physical Disturbance Impacts Associated with New
+Construction and Operations for the Proposed Project and Alternatives**
+
+**Status Quo**
+
+**Baseline**
+
+**Proposed**
+
+**Project**
+
+**2011 Steele City**
+
+**Segment**
+
+**Alternative**
+
+**Corridor**
+
+**Alternative**
+
+**No Action**
+
+**Rail/Pipeline**
+
+**Scenario**
+
+**No Action**
+
+**Rail/Tanker**
+
+**Scenario**
+
+**No Action**
+
+**Rail Direct**
+
+**to the Gulf**
+
+**Scenario**
+
+New Pipeline Length (miles) 0 875 854 927 17 32 0
+
+Number of New Aboveground Facilities 0 73 71 77 33 33 19
+
+Length Co-located with Existing Keystone Pipeline (miles) 0 0 0 254
+NA NA NA
+
+NDEQ-Identified Sand Hills Region Crossed (miles) 0 0 89 0 0 0 0
+
+New Highly Erodible Soil (Wind) Crossed (miles) 0 73 116 36 0 0 0
+
+Perennial Waterbody Crossings 0 56 53 61 1,216 330 711
+
+Major Water Crossingsa 0 62 60 61 42 14 40
+
+Number of Shallow Wells in Proximity b 0 113 97 42 NA NA NA
+
+New NHPAQ Crossed (miles) 0 294 247 145 NA NA NA
+
+Wetland Affected during Construction (acres) 0 262 544 223 193 351 NQc
+
+Communities within 2 Miles 0 17 16 37 350 182 669
+
+Construction (Temporary) Land Area Affected (acres) 0 11,599 11,387
+12,360 5,227 6,427 1,500
+
+Operations (Permanent) Land Area Required (acres) 0 5,309 5,176 4,818
+5,103 6,303 1,500
+
+Notes: This table does not include Canadian impacts for pipeline
+alternatives. NA = not applicable NQ = not quantified; insufficient
+design data NDEQ = Nebraska Department of Environmental Quality
+NHPAQ = Northern High Plains Aquifer a This is defined as channel
+crossings of waterbodies that delineate U.S. Geological Survey National
+Hydrography Dataset Level 4 (HUC4) Hydrologic Unit watershed basins. b
+A shallow well is defined as a well with a depth of 50 feet or less,
+but does not include wells with zero depth; proximity is defined as
+within ¼ mile of the centerline. c Specific facility footprints for
+this scenario are not known at this time. However, impacts would be
+generally similar to the other rail scenarios.
+
+**ES.5.4.2 Greenhouse Gas Emissions**
+
+**Alternatives Comparison**
+
+To facilitate comparison of GHG emissions across all alternatives
+for operational GHG emissions, an assessment was made for all
+alternatives along the entire route from Hardisty, Alberta, to the
+Gulf Coast (including pipelines in Canada and from Steele City to the
+Gulf Coast). GHG emissions from the two pipeline route alternatives
+would be similar in scale to those of the proposed Project. The
+direct emissions during the operation phase of the 2011 Steele City
+Segment Alternative would be essentially the same as those generated
+by the proposed Project because they would have the same number of
+pump stations (20). The I-90 Corridor Alternative is expected to have
+similar but slightly higher GHG emissions because it would have one
+more pump station than the proposed Project and could generate slightly
+higher amounts of indirect GHG emissions from electricity consumption.
+
+During operation of all No Action rail scenarios, the increased number
+of unit trains along the scenario routes would result in GHG emissions
+from both diesel fuel combustion and electricity generation to support
+rail terminal operations (as well as for pump station operations for
+the Rail/Pipeline Scenario). The total annual GHG emissions (direct
+and indirect) attributed to the No Action scenarios range from 28 to
+42 percent greater than for the proposed Project (see Table ES-6).
+
+The indirect GHG emissions over the lifecycle of oil sands crude oil
+production, transportation, refining, and product use are compared
+between the proposed Project and the evaluated alternatives in Section
+ES.4.1.2, Lifecycle Analysis.
+
+**Table ES-6 Annual Greenhouse Gas Emissions from Crude Transport
+(from Hardisty/Lloydminster,**
+
+**Alberta, to the Gulf Coast Area) Associated with the Proposed
+Project and Alternatives**
+
+**(per 100,000 bpd)**
+
+**Overall**
+
+**Proposed**
+
+**Project**
+
+**Route a**
+
+**Overall 2011**
+
+**Steele City**
+
+**Segment**
+
+**Alternative**
+
+**Route b**
+
+**Overall I-90**
+
+**Corridor**
+
+**Alternative Route c**
+
+**No Action**
+
+**Rail/Pipeline**
+
+**Scenario**
+
+**No Action**
+
+**Rail/Tanker**
+
+**Scenario**
+
+**Direct to**
+
+**the Gulf**
+
+**Scenario**
+
+**Operation (direct and indirect)---Transportation, Not Extraction**
+
+MTCO2e/Year per 830,000 bpd 3,123,859 3,123,844 3,211,946 4,428,902
+4,364,611 3,991,472
+
+MTCO2e/Year per 100,000 bpd 376,369 376,367 386,981 533,603 525,857
+480,900
+
+% Difference from Proposed Project NA 0.0% 2.8% 41.8% 39.7% 27.8%
+
+a Canadian, Proposed Project, and Gulf Coast b Canadian, Steele City
+Segment, and Gulf Coast c Canadian, I-90, and Gulf Coast Notes: The
+emissions shown for the overall proposed Project differ from those
+shown for the proposed Project in Section ES.4.1.1, Greenhouse
+Gas Emissions from the Proposed Project, in order to present a
+full comparison of the overall proposed Project route to the other
+alternatives. All data include train emissions for return trips as
+well. MTCO2e = metric tons of CO2 equivalents NA = not applicable bpd =
+barrels per day
+
+**ES.5.4.3 Potential Spill Risk Alternatives**
+
+**Comparison**
+
+Similar to the GHG emissions comparison, potential spill risk was
+evaluated for alternatives along the entire route from Hardisty,
+Alberta, to the Gulf Coast (including portions of the route in
+Canada and including existing pipelines from Steele City to the
+Gulf Coast). Table ES-7 provides a summary of calculated potential
+release impacts for the various alternatives analyzed in terms of
+the number of potential releases per year and the potential volume
+of oil released per year.
+
+Both of the major route alternatives would begin at the same border
+crossing as the proposed Project (near Morgan, Montana) and end at the
+same location as the proposed Project (near Steele City, Nebraska);
+as such, the pipelines in Canada north of the border crossing and
+the pipelines south of Steele City down to the Gulf Coast would
+be identical for all three overall pipeline routes. Compared to the
+proposed Project, the two major pipeline route alternatives would have
+similar potential spill risks (see Table ES-7). In addition, both of
+these major route alternatives would require aboveground facilities
+that are similar to those for the proposed Project; therefore,
+potential releases impact areas would be similar. Because the I-90
+Corridor Alternative is slightly longer than the proposed Project,
+it would carry a slightly higher spill risk (with an estimated 533
+bbl released per year compared to 518 annual bbl released for the
+proposed Project).
+
+The three No Action Alternative scenarios differ from the proposed
+Project in that they would use alternative modes of transportation
+to deliver crude oil to refinery markets in the Gulf Coast rather
+than just a pipeline (although one of the three scenarios includes a
+pipeline as a significant part of its delivery system). Potential spill
+risks for these alternative modes differ from the proposed Project
+in terms of both average spill frequency and average spill size.
+
+Volume of crude oil transportation by rail in the No Action Alternative
+scenarios would generally be limited to the volume contained within
+individual railcars. This volume constrains the total volume of crude
+oil that could potentially impact groundwater relative to the proposed
+Project in the event of a release. This constraint is offset by the
+increased statistical likelihood of spills associated with these
+alternative modes of crude oil transport relative to pipelines.
+
+Historical rail incident data were analyzed to evaluate potential
+releases associated with rail transport in the United States. The
+results help provide insight into what could potentially occur with
+respect to spill volume, incident cause, and incident frequency for
+the No Action Alternative scenarios that involve rail transport. In
+addition, rail incident frequencies were compared to frequencies for
+other modes of transport (i.e., pipeline, marine tanker). Although
+the product to be transported by the proposed Project is crude oil,
+incidents for petroleum products were also analyzed to provide a
+comparison to a larger dataset. In order to make comparisons between
+the modes of transportation, the statistics regarding releases are
+expressed in terms of *ton-miles* (1 ton-mile is transporting 1 ton
+of product 1 mile; to calculate total ton-miles in a given year,
+one multiplies the total tons transported by the total number of
+miles transported).
+
+The rates of releases and average size of releases vary between modes
+of transportation. For instance, rail transport has more reported
+releases of crude oil per ton-mile than pipeline or marine transport
+but, overall, pipeline transport has the highest number of barrels
+released per ton-mile. Comprehensive data from 2010 to 2013 are not
+yet available and therefore this analysis does not include incidents
+subsequent to 2009 such as the 2013 Lac-Mégantic rail tragedy or the
+Tesoro Logistics pipeline incident. The number of barrels released per
+year for the No Action scenarios is higher than what is projected for
+the proposed Project or the other pipeline alternatives (as detailed
+in Table ES-7) because of the alternate modes of transport in the No
+Action scenarios.
+
+There is also a greater potential for injuries and fatalities
+associated with rail transport relative to pipelines. Adding 830,000
+bpd to the yearly transport mode volume would result in an estimated
+49 additional injuries and six additional fatalities for the No Action
+rail scenarios compared to one additional injury and no fatalities
+for the proposed Project on an annual basis.
+
+**Table ES-7 Potential Releases Impacts (Full Pathway) Associated
+with the Proposed Project and Alternatives**
+
+**Overall**
+
+**Proposed Project**
+
+**Route a**
+
+**Overall 2011**
+
+**Steele City**
+
+**Segment**
+
+**Alternative**
+
+**Route b**
+
+**Overall I-90**
+
+**Corridor**
+
+**Alternative**
+
+**Route c**
+
+**No Action**
+
+**Rail/Pipeline**
+
+**Scenario**
+
+**No Action**
+
+**Rail/Tanker**
+
+**Scenario**
+
+**No Action Rail Direct**
+
+**to the Gulf Coast**
+
+**Scenario**
+
+**Option 1**g **Option 2**g
+
+Miles for Transport (Overall Route) 1,938 1,917 1,990 3,902 14,014
+4,624 5,375
+
+Releases per Yeard,e 0.46 0.46 0.48 294 276 383 455
+
+Barrels Released per Year f 518 513 533 1,227 4,633 1,335 1,606
+
+a Canadian, Proposed Project, and Gulf Coast b Canadian, Steele
+City Segment, and Gulf Coast c Canadian, I-90, and Gulf Coast d
+Releases per year frequency was calculated using databases from the
+U.S. Department of Transportation covering U.S. transportation in
+the years 2002 to 2009. The pipeline spill frequency was based on a
+16-inch diameter crude oil pipeline. e Releases per Year = (16-inch
+U.S. crude pipeline spill frequency * total pipeline ton-miles) +
+(U.S. rail spill frequency * total rail ton-miles) + (U.S. marine
+spill frequency * total rail ton-miles) + (U.S. truck spill frequency *
+total truck ton-miles). f Barrels Released per Year = (average 16-inch
+U.S. crude pipeline barrels (bbl) released * total pipeline ton-miles)
++ (average rail bbl released * total rail ton-miles) + (average marine
+bbl) released * total rail ton-miles) + (average truck bbl released *
+total truck ton-miles). g The Option 1 route goes through Lloydminster
+while Option 2 routes through Fort McMurray.

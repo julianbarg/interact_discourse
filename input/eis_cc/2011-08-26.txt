@@ -1,0 +1,52 @@
+**Greenhouse Gas Emissions**
+
+DOS commissioned a detailed study of greenhouse gas life-cycle
+emissions that compared Canadian oil sands crude with other selected
+reference crudes. This study was a thorough review of recent scientific
+literature on greenhouse gas life-cycle emissions for Canadian oil
+sands crude including extraction, upgrading, transportation, refining,
+and combustion.
+
+The study's major conclusion was that, throughout its life cycle,
+oil sands crude is, on average, more greenhouse gas intensive than the
+crude oil it would replace in the U.S. However, the relative greenhouse
+gas intensity varies depending on (1) study design factors, such as
+the reference crudes selected for comparison with Canadian oil sands
+crudes (e.g., 2005 U.S. average crude oil, Venezuelan Bachaquero,
+Middle East Sour, and Mexican Heavy) and the timeframe selected, and
+(2) study assumptions, such as the extraction method and the mix of
+crudes that would be transported by the pipeline.
+
+For example, the Department of Energy's National Environmental
+Technology Lab (NETL) study indicated that the life-cycle greenhouse
+gas emissions of gasoline produced from Canadian oil sands crude are
+approximately 17 percent higher than gasoline from the 2005 average
+mix of crude oil consumed in the U.S. The NETL study serves as a key
+input for analyses conducted by EPA and DOE. In comparison, a study
+conducted by TIAX, LLC, found that the greenhouse gas emissions from
+gasoline produced from Canadian oil sands crude are only 2 percent
+higher when compared to gasoline from Venezuelan heavy crude, a type of
+crude oil that is similar to the crude oil that would be transported
+by the proposed Project and is currently refined in large quantities
+by Gulf Coast refineries.
+
+The proposed Project is not likely to impact the amount of crude
+oil produced from the oil sands. However, for illustrative purposes,
+the DOS- commissioned study estimated that incremental life- cycle
+U.S. greenhouse gas emissions from displacing reference crude oils with
+Canadian oil sands crude oils imported through the proposed Project
+would be between 3 and 21 million metric tons of carbon dioxide
+emissions annually. This range is equivalent to annual greenhouse
+gas emissions from the combustion of fuels in 588,000 to 4,061,000
+passenger vehicles.
+
+In addition, current projections suggest that the amount of energy
+required to extract all crude oils is projected to increase over
+time due to the need to extract oil from ever deeper reservoirs using
+more energy intensive techniques. However, while the greenhouse gas
+intensity of reference crude oils may trend upward, the projections
+for the greenhouse gas intensity of Canadian oil sands crude oils
+suggests that they may stay relatively constant. Although there is
+some uncertainty in the trends for both reference crude oils and
+oil sands derived crude oils, on balance it appears that the gap in
+greenhouse gas intensity may decrease over time.

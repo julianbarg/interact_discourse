@@ -1,0 +1,77 @@
+**ES.2.1 Pipeline System**
+
+The Project includes three new pipeline segments plus additional
+pumping capacity on the previously permitted Cushing Extension Segment
+of the Keystone Pipeline Project (Keystone Cushing Extension):
+
+• Steele City Segment (from Morgan, Montana to Steele City, Nebraska)
+that connects to the northern end of the previously approved, and
+currently under construction, Keystone Cushing
+
+• Gulf Coast Segment (from Cushing, Oklahoma to Nederland, Texas)
+that connects to the southern end of the Keystone Cushing Extension;
+and
+
+• Houston Lateral (from the Gulf Coast Segment, in Liberty County,
+Texas to Moore Junction, in
+
+Harris County, Texas).
+
+Table ES.2.1-1 lists the miles of new pipeline by state for the
+proposed Keystone XL Project.
+
+**TABLE ES.2.1-1 Miles of Pipeline by State for the Proposed Project**
+
+**MT SD NE OK TX Total**
+
+Steele City Segment 282.5 314.1 254.1 0.0 0.0 850.7
+
+Gulf Coast Segment 0.0 0.0 0.0 155.4 324.8 480.2
+
+Houston Lateral 0.0 0.0 0.0 0.0 48.6 48.6
+
+**Project total 282.5** **314.1** **254.1** **155.4 373.4 1,379.5**
+
+The Project components would include 30 new pump stations, 74 mainline
+valves (MLVs), approximately
+
+50 permanent access roads, one tank farm, and two crude oil delivery
+sites. Additional access roads,
+
+stockpile sites, railroad sidings and construction camps would be
+required during Project construction.
+
+The pipeline would require a 110-foot wide construction right-of-way
+(ROW), consisting of a 60-foot temporary easement and a 50-foot
+permanent easement. In certain sensitive areas, which may include
+wetlands, cultural sites, shelterbelts, residential areas, or
+commercial/industrial areas, the construction
+
+ROW would be reduced to 85 feet.
+
+**ES.2.2 Connected Actions**
+
+Pump stations, remotely operated valves and densitometers1 for
+the Project would be electrically powered. The necessary electric
+power lines and associated facility upgrades would be constructed
+by local electrical service companies to provide power for these
+facilities. Those companies would be responsible for obtaining the
+necessary approvals or authorizations from federal, state, and local
+agencies for such facilities. Although the permitting process for
+the electrical facilities is an independent process,
+
+construction and operation of these facilities are considered connected
+actions under NEPA and were evaluated as part of the NEPA review
+process reported in this EIS. Additionally, Western has determined
+that due to load forecasts associated with proposed pump stations in
+South Dakota, a new 230-kV
+
+transmission line would need to be added to the existing electrical
+grid system; as a result Western has proposed construction and
+operation of the 80-mile-long Lower Brule to Witten transmission
+line. Two potential corridors and several route options within each
+of those corridors were identified for the transmission line; the
+potential impacts of construction and operation of the transmission
+line are generally addressed in this EIS. An additional and separate
+NEPA environmental assessment of the alternatives for the proposed
+transmission line will be conducted in the future.

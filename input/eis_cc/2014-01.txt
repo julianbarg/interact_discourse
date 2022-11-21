@@ -1,0 +1,233 @@
+**ES.4.1 Climate Change**
+
+Changes to the Earth's climate have been observed over the past century
+with a global temperature increase of 1.5 degrees Fahrenheit between
+1880 and 2012. This warming has coincided with increased levels of
+GHGs in the atmosphere. In order for the Earth's heat and energy
+to remain at a steady state, the solar energy that is incoming must
+equal the energy that is radiated into space (see Figure ES-9). GHGs
+contribute to trapping outbound radiation within the troposphere
+(the layer of the atmosphere closest to the Earth's surface), and
+this is called the greenhouse effect.
+
+**Figure ES-9 The Greenhouse Effect**
+
+Since the beginning of the Industrial Revolution, the rate and amount
+of GHGs have increased as a result of human activity. The additional
+GHGs intensify the greenhouse effect, resulting in a greater amount of
+heat being trapped within the atmosphere. The Intergovernmental Panel
+on Climate Change, a group of 1,300 independent scientific experts
+from countries around the world, in its Fifth Assessment Report
+concludes that global warming in the climate system is unequivocal
+based on measured increases in temperature, decrease in snow cover,
+and higher sea levels.
+
+This Supplemental EIS evaluates the relationship between the proposed
+Project with respect to GHG emissions and climate change from the
+following perspectives:
+
+• The GHG emissions associated with the construction and operation
+of the proposed Project and its connected actions;
+
+• The potential increase in indirect lifecycle (wells- to-wheels)
+GHG emissions associated with the WCSB crude oil that would be
+transported by the proposed Project;
+
+• How the GHG emissions associated with the proposed Project
+cumulatively contribute to climate change; and
+
+• An assessment of the effects that future projected climate change
+could have in the proposed Project area and on the proposed Project.
+
+**ES.4.1.1 Greenhouse Gas Emissions from the**
+
+**Proposed Project**
+
+The proposed Project would emit approximately 0.24 million metric
+tons of carbon dioxide (CO2) equivalents (MMTCO2e) per year during
+the construction period. These emissions would be emitted directly
+through fuel use in construction vehicles and equipment, as well as,
+land clearing activities including open burning, and indirectly from
+electricity usage.
+
+During operations, approximately 1.44 MMTCO2e would be emitted per
+year, largely attributable to electricity use for pump station power,
+fuel for vehicles and aircraft for maintenance and inspections,
+and fugitive methane emissions at connections. The 1.44 MMTCO2e
+emissions would be equivalent to GHG emissions from approximately
+300,000 passenger vehicles operating for 1 year, or 71,928 homes
+using electricity for 1 year.
+
+**ES.4.1.2 Lifecycle Analysis**
+
+To enable a more comprehensive understanding of the potential indirect
+GHG impact of the proposed Project, it is important to also consider
+the wider GHG emissions associated with the crude oil being transported
+by the proposed Project. A lifecycle approach was used to evaluate
+the GHG implications of the WCSB crudes that would be transported by
+the proposed Project compared to other crude oils that would likely
+be replaced or displaced by those WCSB crudes in U.S. refineries. A
+lifecycle analysis is a technique used to evaluate the environmental
+aspects and impacts (in this case GHGs) that are associated with a
+product, process, or service from raw materials acquisition through
+production, use, and end-of-life. The lifecycle analysis considered
+wells-to-wheels GHG emissions, including extraction, processing,
+transportation, refining, and refined product use (such as combustion
+of gasoline in cars) of WCSB crudes compared to other reference
+heavy crudes. The lifecycle analysis also considered the implications
+associated with other generated products during the lifecycle stages
+(so-called *co-products*) such as petroleum coke. WCSB crudes are
+generally more GHG intensive than other heavy crudes they would
+replace or displace in U.S. refineries, and emit an estimated 17
+percent more GHGs on a lifecycle basis than the average barrel of
+crude oil refined in the United States in 2005. The largest single
+source of GHG emissions in the lifecycle analysis is the finished-fuel
+combustion of refined petroleum fuel products, which is consistent
+for different crude oils, as shown in Figure ES-10.
+
+The total lifecycle emissions associated with production, refining, and
+combustion of 830,000 bpd of oil sands crude oil transported through
+the proposed Project is approximately 147 to 168 MMTCO2e per year. The
+annual lifecycle GHG emissions from 830,000 bpd of the four reference
+crudes examined in this Supplemental EIS are estimated to be 124 to
+159 MMTCO2e. The range of incremental GHG emissions for crude oil that
+would be transported by the proposed Project is estimated to be 1.3 to
+27.4 MMTCO2e annually. The estimated range of potential emissions is
+large because there are many variables such as which reference crude
+is used for the comparison and which study is used for the comparison.
+
+2013 Current Baseline, 830,000 bpd of reference crude(s)
+
+Incremental Emissions (excluding consideration of Market Analysis)
+
+830,000 bpd oil sands production
+
+Incremental GHG
+
+Emissions **
+
+Coproducts & net petroleum coke
+
+Extraction and mining
+
+Combustion and transportation
+
+** Note: The orange bar represents incremental emissions. The bar
+itself is for a single crude (Mexican Maya) from the TIAX study. The
+range bar*
+
+*is representative of all studies and reflects the 1.3 to 27.4 MMTCO2e
+annual incremental emissions presented in the Final Supplemental EIS.*
+
+*** Incremental Emissions: This represents the difference between the
+2013 Current Baseline and the 830,000 bpd Oil Sands Production, and*
+
+*excludes consideration of the Market Analysis. These Incremental
+Emissions represent the potential increase in emissions attributable
+to the*
+
+*proposed Project if one assumed that approval or denial of the
+proposed Project would directly result in a change in production of
+830,000 bpd*
+
+*of oil sands crudes in Canada. However, as set forth in Section 1.4,
+Market Analysis, such a change is not likely to occur.*
+
+Note: See Figure 4.14.3-7 in Section 4.14.3.5, Incremental GHG
+Emissions, for a full description of the information presented in
+this figure.
+
+**Figure ES-10 Incremental Well-to-Wheels GHG Emissions from WCSB
+Oil Sands Crudes**
+
+**Compared to Well-to-Wheels GHG Emissions from Displacing Reference
+Crudes**
+
+The above estimates represent the total incremental emissions
+associated with production and consumption of 830,000 bpd of oil sands
+crude compared to the reference crudes. These estimates represent the
+potential increase in emissions attributable to the proposed Project
+if one assumed that approval or denial of the proposed Project would
+directly result in a change in production of 830,000 bpd of oil
+sands crudes in Canada (See Section 4.14.4.2, Emissions and Impacts
+in Context, for additional information on emissions associated with
+increases in oil sands production). However, as set forth in Section
+1.4, Market Analysis, such a change is not likely to occur under
+expected market conditions. Section 1.4 notes that approval or denial
+of any one crude oil transport project, including the proposed Project,
+is unlikely to significantly impact the rate of extraction in the oil
+sands or the continued demand for heavy crude oil at refineries in the
+United States based on expected oil prices, oil-sands supply costs,
+transport costs, and supply-demand scenarios.
+
+The 2013 Draft Supplemental EIS estimated how oil sands production
+would be affected by long-term constraints on pipeline capacity (if
+such constraints resulted in higher transportation costs) if long-term
+WTI-equivalent oil prices were less than $100 per barrel. The Draft
+Supplemental EIS also estimated a change in GHG emissions associated
+with such changes in production. The additional data and analysis
+included in this Supplemental EIS provide greater insights into
+supply costs and the range of prices in which pipeline constraints
+would be most likely to impact production. If WTI-equivalent prices
+fell to around approximately $65 to $75 per barrel, if there were
+long-term constraints on any new pipeline capacity, and if such
+constraints resulted in higher transportation costs, then there could
+be a substantial impact on oil sands production levels. As noted in
+E.S.3.1, Summary of Market Analysis, this estimated price threshold
+could change if supply costs or production expectations prove different
+than estimated in this analysis. This is discussed in Section 1.4.5.4,
+Implications for Production.
+
+**ES.4.1.3 Climate Change Effects**
+
+The total direct and indirect emissions associated with the proposed
+Project would contribute to cumulative global GHG emissions. However,
+emissions associated with the proposed Project are only one source of
+relevant GHG emissions. In that way, GHG emissions differ from other
+impact categories discussed in this Supplemental EIS in that all GHG
+emissions of the same magnitude contribute to global climate change
+equally, regardless of the source or geographic location where they
+are emitted.
+
+As part of this Supplemental EIS, future climate change scenarios
+and projections developed by the Intergovernmental Panel on Climate
+Change and peer- reviewed downscaled models were used to evaluate
+the effects that climate change could have on the proposed Project,
+as well as the environmental consequences from the proposed Project.
+
+Assuming construction of the proposed Project were to occur in the
+next few years, climate conditions during the construction period
+would not differ substantially from current conditions. However,
+during the subsequent operational time period, the following climate
+changes are anticipated to occur regardless of any potential effects
+from the proposed Project:
+
+• Warmer winter temperatures;
+
+• A shorter cool season;
+
+• A longer duration of frost-free periods;
+
+• More freeze-thaw cycles per year (which could lead to an increased
+number of episodes of soil contraction and expansion);
+
+• Warmer summer temperatures;
+
+• Increased number of hot days and consecutive hot days; and
+
+• Longer summers (which could lead to impacts associated with heat
+stress and wildfire risks).
+
+This Supplemental EIS assessed whether the projected changes in the
+climate could further influence the impacts and effects attributable to
+the proposed Project. Elevated effects due to projected climate change
+could occur to water resources, wetlands, terrestrial vegetation,
+fisheries, and endangered species, and could also contribute to air
+quality impacts. In addition, the statistical risk of a pipeline spill
+could be increased by secondary effects brought on by climatic change
+such as increased flooding and drought. However, this increased risk
+would still be much less than the risk of spills from other causes
+(such as third-party damage). Climate change could have an effect
+on the severity of a spill such that it could be reduced in drought
+conditions but increased during periods of increased precipitation
+and flooding.

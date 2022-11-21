@@ -1,0 +1,1791 @@
+**ES.0 EXECUTIVE SUMMARY**
+
+**ES.1 INTRODUCTION**
+
+TransCanada Keystone Pipeline, LP (Keystone) has applied to the
+U.S. Department of State (DOS) for a
+
+Presidential Permit for the proposed construction, connection,
+operation, and maintenance of a pipeline and associated facilities at
+the United States border for importation of crude oil from Canada. DOS
+
+receives and considers applications for Presidential Permits for such
+oil pipeline border crossings and associated facilities pursuant to
+the President's constitutional authority over foreign relations, and as
+
+Commander-in-Chief, which authority the President delegated to DOS
+in Executive Order (EO) 13337, as amended (69 Federal Register [FR]
+25299). DOS's jurisdiction to issue a Presidential Permit for the
+border crossing and the associated facilities at the border.
+
+DOS, as the lead agency for the environmental impact statement (EIS),
+discussed the appropriate level of participation required with other
+federal agencies that will be required to issue permits associated with
+the proposed Keystone XL Pipeline Project (Project). The following
+federal agencies and one state agency have elected to participate as
+cooperating agencies in the process:
+
+• U.S. Environmental Protection Agency (EPA)
+
+• U.S. Department of the Interior, Bureau of Land Management (BLM)
+
+• U.S. Department of the Interior, National Park Service (NPS)
+
+• U.S. Department of the Interior, U.S. Fish and Wildlife Service
+(USFWS)
+
+• U.S. Department of Agriculture, Natural Resources Conservation
+Service (NRCS)
+
+• U.S. Department of Agriculture, Farm Service Agency (FSA)
+
+• U.S. Department of Agriculture, Rural Utilities Service (RUS)
+
+• U.S. Army Corps of Engineers (USACE)
+
+• U.S. Department of Energy, Western Area Power Administration
+(Western)
+
+• U.S. Department of Transportation, Pipeline and Hazardous Materials
+Safety Administration
+
+(PHMSA), Office of Pipeline Safety (OPS)
+
+• Montana Department of Environmental Quality (MDEQ)
+
+The U.S. Department of Interior, Bureau of Reclamation (Reclamation)
+has agreed to provide technical assistance to DOS in the environmental
+review process. Reclamation has responsibilities for federal water
+supplies in the West. The proposed pipeline would cross beneath one
+of Reclamation's canals in
+
+South Dakota.
+
+Certain county governments in Nebraska have agreed to be assisting
+agencies, and as such would work with DOS to ensure that the EIS
+incorporates local planning processes and/or laws. These counties are:
+
+Fillmore, Greely, Holt, Merrick, Nance, Saline, and Wheeler. In
+Nebraska, the Lower Big Blue Natural
+
+Resources district and the Upper Elkhorn Natural Resources district
+have also agreed to be assisting agencies. Various other state and
+local resource agencies from each of the states crossed by the proposed
+
+Project have responsibilities for state and local permit issuance
+(see Table 1.8-1).
+
+**ES.2 PROPOSED ACTION**
+
+The Project would consist of approximately 1,380 miles of new
+36-inch-diameter pipeline in the U.S.
+
+The proposed pipeline would cross the international border between
+Saskatchewan, Canada and the
+
+United States near Morgan, Montana. The Project initially would have
+the nominal transport capacity of
+
+700,000 barrels per day (bpd) of crude oil, with up to 200,000 bpd
+delivered to an existing terminal in
+
+Cushing, Oklahoma and the remaining amount shipped to existing delivery
+points in Nederland (near Port
+
+Arthur), Texas, and Moore Junction (in Harris County), Texas. By
+increasing the pumping capacity in the future, the Project could
+ultimately transport up to 900,000 bpd of crude oil through the
+proposed pipeline. At that throughput, up to 200,000 bpd would be
+delivered to the Cushing Oil Terminal and the remainder would be
+delivered to the existing terminals in Texas.
+
+**ES.2.1 Pipeline System**
+
+The Project includes three new pipeline segments plus additional
+pumping capacity on the previously permitted Cushing Extension Segment
+of the Keystone Pipeline Project (Keystone Cushing Extension):
+
+• Steele City Segment (from Morgan, Montana to Steele City, Nebraska)
+that connects to the northern end of the previously approved, and
+currently under construction, Keystone Cushing
+
+• Gulf Coast Segment (from Cushing, Oklahoma to Nederland, Texas)
+that connects to the southern end of the Keystone Cushing Extension;
+and
+
+• Houston Lateral (from the Gulf Coast Segment, in Liberty County,
+Texas to Moore Junction, in
+
+Harris County, Texas).
+
+Table ES.2.1-1 lists the miles of new pipeline by state for the
+proposed Keystone XL Project.
+
+**TABLE ES.2.1-1 Miles of Pipeline by State for the Proposed Project**
+
+**MT SD NE OK TX Total**
+
+Steele City Segment 282.5 314.1 254.1 0.0 0.0 850.7
+
+Gulf Coast Segment 0.0 0.0 0.0 155.4 324.8 480.2
+
+Houston Lateral 0.0 0.0 0.0 0.0 48.6 48.6
+
+**Project total 282.5** **314.1** **254.1** **155.4 373.4 1,379.5**
+
+The Project components would include 30 new pump stations, 74 mainline
+valves (MLVs), approximately
+
+50 permanent access roads, one tank farm, and two crude oil delivery
+sites. Additional access roads,
+
+stockpile sites, railroad sidings and construction camps would be
+required during Project construction.
+
+The pipeline would require a 110-foot wide construction right-of-way
+(ROW), consisting of a 60-foot temporary easement and a 50-foot
+permanent easement. In certain sensitive areas, which may include
+wetlands, cultural sites, shelterbelts, residential areas, or
+commercial/industrial areas, the construction
+
+ROW would be reduced to 85 feet.
+
+**ES.2.2 Connected Actions**
+
+Pump stations, remotely operated valves and densitometers1 for
+the Project would be electrically powered. The necessary electric
+power lines and associated facility upgrades would be constructed
+by local electrical service companies to provide power for these
+facilities. Those companies would be responsible for obtaining the
+necessary approvals or authorizations from federal, state, and local
+agencies for such facilities. Although the permitting process for
+the electrical facilities is an independent process,
+
+construction and operation of these facilities are considered connected
+actions under NEPA and were evaluated as part of the NEPA review
+process reported in this EIS. Additionally, Western has determined
+that due to load forecasts associated with proposed pump stations in
+South Dakota, a new 230-kV
+
+transmission line would need to be added to the existing electrical
+grid system; as a result Western has proposed construction and
+operation of the 80-mile-long Lower Brule to Witten transmission
+line. Two potential corridors and several route options within each
+of those corridors were identified for the transmission line; the
+potential impacts of construction and operation of the transmission
+line are generally addressed in this EIS. An additional and separate
+NEPA environmental assessment of the alternatives for the proposed
+transmission line will be conducted in the future.
+
+**ES.3 PURPOSE AND NEED FOR THE PROPOSED ACTION**
+
+The primary purpose of the proposed Project is to transport Western
+Canadian Sedimentary Basin
+
+(WCSB) crude oil from the border with Canada to existing delivery
+points in Petroleum Administration for Defense District (PADD) III2
+that provide connections to existing refineries in PADD III. An
+additional purpose of the Project is to supplement WCSB deliveries
+to the Cushing Oil Terminal in
+
+Cushing, Oklahoma, which is in PADD II3. Keystone's goal is to
+initially transport up to 700,000 bpd of crude oil by pipeline from
+the WCSB to the United States. Up to 500,000 bpd of this volume
+of crude oil would be transported to delivery points in PADD III
+and up to 200,000 bpd would be transported to the existing Cushing
+Oil Terminal. At maximum capacity (achieved with the addition of
+supplementary pumping power) the Project would have the potential
+to transport a total of 900,000 bpd of WCSB crude oil to the U.S.,
+with the additional 200,000 bpd transported to delivery points in
+PADD III. Due to market projections of future fuel demand in PADD
+III, the applicant does not currently anticipate the need to expand
+capacity to 900,000 bpd in the near future.
+
+The need for the Project is dictated by:
+
+• Supply of heavy crude oil from the WCSB;
+
+• Demand for heavy crude oil in PADD III;
+
+• Transport of crude oil from the WCSB to PADD III; and
+
+• Future crude oil supply and demand scenarios with and without
+the proposed Project.
+
+**ES.4 PUBLIC INVOLVEMENT PROCESS**
+
+On January 28, 2009, DOS issued a Notice of Intent (NOI) to prepare an
+EIS. The NOI informed the public about the proposed action, announced
+plans for scoping meetings, invited public participation in the
+scoping process, and solicited public comments for consideration in
+establishing the scope and content of the EIS. The NOI was published
+in the Federal Register and distributed to affected landowners, federal
+
+1 Densitometers measure the batch density of the crude oil to allow
+operators to track individual crude oil shipments. 2 PADD III (Gulf
+Coast) consists of the states of Alabama, Mississippi, Louisiana,
+Arkansas, Texas, and New
+
+Mexico. 3 PADD II (MidWest) consists of 15 states from Oklahoma north
+to Wisconsin and east to Ohio.
+
+agencies, Indian tribes, state agencies, municipalities and counties,
+elected officials, non-governmental organizations, the media, and
+other interested individuals. DOS held 20 separate scoping meetings
+in the vicinity of the proposed Project to provide opportunity for
+public comment on the scope of the EIS.
+
+Meetings were held in Beaumont, Liberty, Livingston, and Tyler, Texas;
+Durant and Ponca City,
+
+Oklahoma; El Dorado and Clay Center, Kansas; York and Atkinson,
+Nebraska; Murdo, Faith, and
+
+Buffalo, South Dakota; Baker, Terry, Circle, Plentywood, Glendive
+Glasgow, and Malta, Montana. The scoping period was originally planned
+to extend from January 28 to March 16, 2009. Weather conditions in
+South Dakota precluded holding the scoping meetings on this schedule,
+and an amended NOI
+
+published on March 23, 2009 extended the scoping period until April 15,
+2009 to provide time to reschedule two South Dakota scoping meetings.
+
+DOS received verbal, written, and electronic comments during
+the scoping comment period. All verbal scoping comments formally
+presented at the meetings were recorded and transcribed. Additional
+written scoping comments were received on comment forms provided to
+the public at the meetings and in letters.
+
+**ES.5 ALTERNATIVES CONSIDERED**
+
+The following alternatives were assessed by DOS:
+
+• No Action Alternative − the proposed Project would not be built;
+
+• System Alternatives − use of other pipeline systems or other
+methods of providing crude oil supplies to the U.S. Gulf Coast market;
+
+• Major Route Alternatives − other pipeline routes for transporting
+crude oil from the U.S./Canada border near Morgan, Montana to the
+Port Arthur and the east Houston areas of Texas; and
+
+• Alternative Routes for the Electrical Transmission Line −
+preliminary alternative routings for the proposed 230-kV transmission
+line in South Dakota that is needed to ensure power system stability
+given the loads required for providing electrical power to the pump
+stations in South
+
+In addition, MDEQ evaluated alternatives and variations in Montana
+as part of its analysis of Keystone's application for a Certificate
+of Compliance under the state's Major Facility Siting Act (MFSA). MDEQ
+
+also evaluated the alternatives and variations in accordance with
+the requirements of the Montana
+
+Environmental Policy Act (MEPA) as reported in Appendix I of the EIS.
+
+**ES.5.1 No Action Alternative**
+
+Under the No Action Alternative, the Project would not be constructed
+and would not require issuance of a DOS Presidential Permit. The
+increasing demand for crude oil in the U.S. cannot be entirely met by
+efforts to conserve use of refined petroleum products or the increased
+use of renewable energy. As crude oil demand increases, the overall
+domestic supplies of crude oil are declining. At the same time, only
+a small volume of WCSB crude oil can be shipped to PADD III through a
+single pipeline, and a substantial portion of the oil imported from
+outside of North America originates in countries with decreasing or
+undependable oil supplies. Under the No Action Alternative, it is
+likely that other projects would be proposed to meet the increased
+demand. Although it is not possible to identify the specific impacts
+of such projects, it is likely that they would be similar in nature
+to those of the proposed Project and either smaller, greater than,
+or equal to the magnitude of impacts of the proposed Project.
+
+Under the No Action Alternative, the U.S. would not receive a reliable
+and cost efficient source of crude oil from the WSCB region and would
+remain dependent upon unstable foreign oil supplies from the
+
+Mideast, Africa, Mexico, and South America. Further, the WCSB crude
+oil would likely be shipped to
+countries outside of North America, which would require new
+infrastructure that would result in environmental impacts at least as
+great as those of the proposed Project. In addition, the transport
+of crude oil by tanker and other means such as truck and rail would
+likely result in greater GHG emissions than those that would occur as
+a result of the proposed Project. Finally, the No Action Alternative
+would not meet the purpose and need of the proposed Project.
+
+**ES.5.2 System Alternatives**
+
+System alternatives to the proposed Project would make use of
+other existing, modified, or proposed pipeline systems as well as
+non-pipeline systems - to meet the purpose and need of the proposed
+Project.
+
+**ES.5.2.1 Existing Pipeline Systems**
+
+There is currently only one existing pipeline system that extends
+from the Midwest to the Gulf region.
+
+The ExxonMobil Pegasus pipeline is a system that transports crude
+oil from Patoka, Illinois to Nederland,
+
+Texas. Since the committed pipeline capacity is 50,000 bpd and the
+total capacity is 66,000 bpd, Pegasus is considering an expansion of
+up to 30,000 bpd to PADD III as early as 2009. Even with the proposed
+expansion, the Exxon Pegasus proposal would not meet the service
+capacity needs of the PADD III
+
+**ES.5.2.2 New Pipeline System Alternatives**
+
+Four alternative new proposed pipeline system alternatives were
+analyzed: The Altex Pipeline System;
+
+The Chinook-Maple Leaf Pipeline System; Trailbreaker Transportation
+System; and the Enbridge -- BP
+
+Delivery System all of which at this time are speculative. None of
+the proposed system alternatives would provide the delivery capacity
+of the proposed Project and none could provide WCSB crude oil to
+
+PADD III in the same timeframe as the proposed Project. Therefore,
+none of the system alternatives considered can meet the Project
+purpose and need and none of them offer a significant environmental
+
+**ES.5.2.3 Alternative Modes of Transportation**
+
+Surface crude oil delivery transportation modes from the U.S./Canada
+border near Morgan, Montana to the Port Arthur and the east Houston
+areas of Texas were considered as an alternative to the proposed
+
+Project. Modes considered include delivery by truck, railroad cars,
+and barges. Truck transportation would not be a practical way to meet
+the Project's purpose and need since crude oil transport equivalent to
+that of the proposed Project would require 4,000 trucks per day. There
+is not an existing direct rail line from Morgan, Montana, to Port
+Arthur, Texas and the east Houston areas of Texas. Barging the oil
+would not be feasible due to the lack of a large waterway system
+between Morgan, Montana, and the
+
+PADD III area capable of supporting barge traffic.
+
+The alternative modes considered would be less safe, would require
+construction of substantially more infrastructure, have greater
+atmospheric emissions (including GHG), and/or pose greater safety
+hazards than the proposed Project. Therefore, none of the alternative
+modes of transportation have been evaluated
+
+**ES.5.3 Pipeline Route Alternatives**
+
+DOS identified alternatives to the proposed Project for the Steele
+City Segment (SCS), the Gulf Coast
+
+Segment (GCS), and the Houston Lateral (HL). In addition DOS considered
+an alternative that would avoid using the Cushing Extension.
+
+**ES.5.3.1 Steele City Segment Alternatives**
+
+For the Steele City Segment, five alternatives were considered:
+Express-Platte Alternative; SCS
+
+Alternative A; SCS Alternative A1A; SCS Alternative B (the proposed
+Project); and Baker Alternative.
+
+The initial assessment of the Steele City Segment Alternatives
+indicates that the alternatives considered do not offer an
+environmental advantage over the Applicant's proposed route
+(Alternative SCS-B), and are eliminated from further consideration.
+
+**ES.5.3.2 Alternative to Using the Cushing Extension**
+
+One alternative was identified that would avoid using the Cushing
+Extension, the Western Alternative.
+
+The Western Alternative does not offer an environmental advantage
+over the proposed Project and was eliminated from further analysis.
+
+**ES.5.3.3 Gulf Coast Segment Alternatives**
+
+Two geographical alternatives were assessed for the Gulf Coast Segment:
+Gulf Coast Segment (GCS)-A
+
+(proposed Project) and GCS-B. While GSC-A would cross more wetlands
+as compared to GCS-B, it would affect less overall agricultural land,
+developed land, and crosses less streams/rivers. GCS-A was therefore
+determined to be the environmentally preferred alternative and GCS-B
+was eliminated from further analysis.
+
+**ES.5.3.4 Houston Lateral Alternatives**
+
+Alternatives identified for the Houston Lateral include Alternative
+HL-A (the proposed Project) and
+
+Alternative HL-B. Alternative HL-A, the environmentally preferred
+alternative is the shorter route and would require fewer miles of
+new pipeline and would have a lesser area of impact. Alternative HL-B
+
+does not offer an environmental advantage over the Alternative HL-A,
+and was eliminated from further
+
+**ES.5.3.5 Summary of Pipeline Route Alternatives Analysis**
+
+Based on the assessment of alternatives conducted, DOS determined
+that none of the identified alternatives offered an environmental
+advantage over the Applicant's preferred route. Therefore, the
+
+DOS preferred route consists of the following alternatives by segment:
+
+• Steele City Segment Alternative B (SCS-B);
+
+• Gulf Coast Segment Alternative A (GCS-A); and
+
+• Houston Lateral Alternative A (HL-A).
+
+**ES.5.4 Alternative 230-kV Electrical Transmission Line Routes**
+
+The 230-kV Lower Brule to Witten transmission line would be needed to
+ensure transmission system reliability with the expected load demands
+at full pipeline operational capacity in southern South Dakota.
+
+Western and Basin Electric Power Cooperative (BEPC) have identified
+two alternative transmission corridors (Alternative Corridors A and B)
+for the Project and have identified five alternative routes in
+
+Corridor A and four alternative routes in Corridor B. The corridors
+extend from the Big Bend Dam and include the site of a proposed new
+substation at Lower Brule and the existing Witten Substation.
+
+The transmission line would transfer electricity from the proposed
+Lower Brule Substation near Big Bend
+
+Dam in Lyman County, to an existing substation near Witten in Tripp
+County. The existing Big Bend-
+
+Fort Thompson No. 2, 230-kV transmission line turning structure would
+be converted to a double-circuit structure. Western would construct
+2.1 miles of new double-circuit transmission line south of the dam and
+construct the new Lower Brule Substation. The new transmission line
+from the dam would connect to the Lower Brule Substation. Western
+would own and operate the 2.1 mile transmission line but would
+transfer ownership and operation of the Lower Brule Substation to
+BEPC. BEPC would construct and operate the new, 70-mile-long, 230-kV
+transmission line between the Lower Brule Substation and the existing
+Witten Substation, which is owned by Rosebud Electric Cooperative. The
+five alternative routes for the transmission line that were identified
+within Corridor A and the four alternative routes identified within
+Corridor B are all between the two substations.
+
+Both of the alternative corridors cross the Lower Brule Reservation,
+but the Corridor A has a shorter path through the Lower Brule
+Reservation. The key impacts of the transmission line alternatives
+are listed in the listed in EIS for comparison purposes. In addition,
+the impacts of construction and operation of the transmission line
+alternatives are generally addressed in Section 3.0 the EIS. However,
+DOS, Western,
+
+and the other cooperating agencies do not have sufficient design and
+construction information to establish an agency preferred alternative
+for the proposed transmission line project. An additional and separate
+
+NEPA environmental review of the alternatives to the proposed
+transmission line will be conducted after the alternative routes
+are further defined. The design and environmental review of the
+proposed 230-kV
+
+transmission line are on a different schedule than the pipeline system
+itself. Regional transmission system reliability concerns are not
+associated with the initial operation of the proposed pipeline pump
+stations, but rather with later stages of proposed pipeline operation
+at higher levels of crude oil throughput.
+
+**ES.5.5 Montana Major Facility Siting Act and Montana Environmental
+Policy Act Environmental Review**
+
+Keystone applied to MDEQ for a Certificate of Compliance under MFSA
+for the portions of the proposed
+
+Project in Montana. Prior to issuing a certificate, MDEQ must find and
+determine the basis of the need for the facility and determine whether
+or not the facility would serve the public interest, convenience,
+and necessity. Under the law, it must also identify the route that
+minimizes adverse environmental impacts and uses public land whenever
+the use of public lands is as economically practicable as the use of
+private land to include use of federal lands. As a cooperating agency
+in the preparation of the EIS, MDEQ
+
+considered and eliminated the Project alternatives described above
+under the federal NEPA process.
+
+MDEQ also required Keystone to identify and provide assessments of
+two additional alternative routes in
+
+Montana that increased the use of public lands in comparison to
+Alternative SCS-B (proposed route).
+
+Although both of the new alternatives were eliminated in the initial
+screening process, portions of one of the alternatives cross more
+public land as compared to the proposed route segments in those areas.
+
+MDEQ identified those portions of the alternative as variations to
+Alternative SCS-B and evaluated them along with other variations
+it developed to avoid or minimize impacts to specific resources,
+to minimize conflicts with existing or proposed residential and
+agricultural land uses, and in response to requests submitted by
+concerned landowners.
+
+MDEQ identified and evaluated a total of 19 variations in
+Montana. Descriptions of the variations and the evaluations are
+presented in Appendix I along with environmental assessments of
+Alternative SCS-B
+
+in Montana that are specific to the needs of MEPA. MDEQ preliminarily
+selected 9 variations as preferable to the segments of Alternative
+SCS-B they would replace. DOS has determined that
+
+Alternative SCS-B in Montana (the proposed route) and the variations
+to Alternative SCS-B selected by
+
+MDEQ have been evaluated sufficiently to meet the requirements of NEPA.
+
+**ES.6 ENVIRONMENTAL ANALYSIS**
+
+As summarized below, DOS evaluated the potential impacts of the Project
+on geology, soils and sediments, water resources, wetlands, terrestrial
+vegetation, wildlife, fisheries, threatened and endangered species,
+land use, socioeconomics, cultural resources, and air quality and
+noise. In addition, DOS
+
+evaluated the potential risks and effects of oil spills and cumulative
+impacts.
+
+**ES.6.1 Geology**
+
+**ES.6.1.1 Physiography and Surface and Bedrock Geology**
+
+The proposed Project would not involve substantial long- or short-term,
+large scale alteration of topography. Most of the proposed route would
+be within areas where bedrock is buried by unconsolidated sediments
+consisting of glacial till, alluvium, colluvium, loess and/or aeolian
+deposits. In these areas, impacts to bedrock would be expected to
+be minimal, and limited to areas where bedrock is within 8 feet of
+the surface. Routine pipeline operation and maintenance activities
+would not be expected to affect physiography or surface or bedrock
+geology. During construction, blasting or ripping could be required
+at locations where shallow bedrock is present within 8 feet of the
+ground surface. Over the entire proposed Project route, approximately
+9 miles would cross areas identified as potential blasting locations
+and approximately 166 miles would cross areas identified as potential
+ripping locations.
+
+**ES.6.1.2 Paleontological Resources**
+
+Fossil potential along the ROW is designated as being very low to
+very high in Montana, low to high in
+
+South Dakota, and not scaled but possible for Nebraska, Oklahoma,
+and Texas. Rocks underlying the location of two new pump stations in
+Kansas may be fossiliferous. Potential impacts to paleontological
+resources during construction includes damage to or destruction of
+fossils in shallow bedrock areas due to ripping and/or blasting,
+erosion of fossil beds due to grading, and unauthorized collection of
+fossils by construction personnel or the public. Keystone is preparing
+a Paleontological Mitigation Plan prior to beginning construction on
+federal and state lands. Fossils or other paleontological resources
+found on private or other non-federal land would only be recovered
+with approval of the landowner. There is currently an effort among
+federal land management agencies in Montana such as BLM, USACE, and
+
+MDEQ and other agencies to develop a Memorandum of Understanding
+(MOU) for the identification,
+
+evaluation and protection of paleontological resources in the state
+of Montana; however, the Geology
+
+Section of the EIS also describes protocols for these resources for
+the whole proposed Project route.
+
+Routine pipeline operations and maintenance activities are not expected
+to affect paleontological
+
+**ES.6.1.3 Mineral and Fossil Fuel Resources**
+
+In the Project area, oil, natural gas, and coal comprise the major
+energy resources. The proposed route would not cross the well-pads
+of any active oil and gas wells. Accordingly, extraction of oil and
+gas resources would not be affected by operation of the proposed
+pipeline. The proposed pipeline route would not cross any known coal
+mines therefore coal extraction would not be affected by the Project.
+
+Sand, gravel and bentonite are also mined in Montana, South Dakota
+and Nebraska. Crushed stone, coal
+
+(lignite), clay, iron, peat, and sand are other mineral resources
+present in the Project area. The proposed route would not cross any
+active surface mines or quarries, construction; however, operation
+of the
+
+Project would limit access to sand, gravel, clay, and stone resources
+that are within the width of the permanent pipeline ROW. Although
+not currently planned, if surface mining was proposed for this area
+in the future, the pipeline could limit access to these resources.
+
+**ES.6.1.4 Geologic Hazards**
+
+At certain locations along the proposed route, seismic hazards,
+landsliding, subsidence, or flooding would be possible. Since the
+proposed pipeline ROW would be located in the relatively flat and
+stable continental interior, the potential for impacts from geologic
+hazards is lower than for facilities located in active mountain
+belts or coastal areas. Based on the evaluation of potential seismic
+hazards along the proposed ROW, the risk of pipeline rupture from
+earthquake ground motion would be considered minimal. The proposed
+route would not cross any known active faults and is located outside
+of known zones of high seismic hazard. During construction activities,
+vegetation clearing and alteration of surface-drainage patterns could
+increase landslide risk. Implementation of temporary erosion control
+structures would reduce the likelihood of construction-triggered
+landslides. In addition, Keystone plans to revegetate areas disturbed
+by construction along the pipeline ROW. There is a risk of subsidence
+where the proposed route crosses karst formations in Nebraska,
+Oklahoma, and Texas. Keystone would conduct site-specific studies
+as necessary to characterize the karst features, and would evaluate
+and modify construction techniques as necessary in these areas. The
+overall risk to the pipeline from karst-
+
+related subsidence is expected to be minimal.
+
+**ES.6.2 Soils and Sediments**
+
+Pipeline construction activities, including clearing, grading, trench
+excavation, backfilling, heavy equipment traffic, and restoration
+along the construction ROW, could adversely affect soil resources. In
+addition, the construction of pump stations, access roads, construction
+camps and the tank farm could also affect soil resources. Potential
+impacts could include temporary and short-term soil erosion, loss of
+topsoil, short-term to long-term soil compaction, permanent increases
+in the proportion of large rocks in the topsoil, and short-term to
+permanent soil contamination. Pipeline construction also could result
+in damage to existing tile drainage systems. Keystone has proposed
+construction procedures that are designed to reduce the likelihood and
+severity of Project impacts to soils and sediments, and to mitigate
+where impacts are unavoidable. These include, but are not limited to:
+segregating and salvaging all topsoil up to a maximum of 12 inches
+of topsoil from the area disturbed by trenching where practicable and
+restoring topsoil to its approximate original stratum after backfilling
+is complete; reducing soil erosion by installing sediment barriers,
+trench plugs, temporary slope breakers, drainage channels or ditches,
+and mulching; ripping to relieve soil compaction in particular areas
+from which topsoil has been removed; and halting construction during
+wet weather periods, or implementing methods to mitigate impacts when
+construction activities are conducted in wet conditions.
+
+During the operational phase of the Project, small scale, isolated
+surface disturbance impacts could occur from pipeline maintenance
+traffic and incidental repairs. These impacts would be addressed
+with the affected landowner or land management agency and a mutually
+agreeable resolution reached.
+
+**ES.6.3 Water Resources**
+
+**ES.6.3.1 Groundwater**
+
+Potential impacts to groundwater during construction activities
+could include: groundwater quality degradation during or after
+construction resulting from disposal of materials and equipment,
+or vehicle spills and leaks; temporary increases in total suspended
+solids (TSS) concentrations where the water table is disturbed
+during trenching and excavation activities; increased surface water
+runoff and erosion from clearing vegetation in the ROW; degradation
+of groundwater quality due to potential blasting; and groundwater
+withdrawal for hydrostatic testing.
+
+Many of the aquifers present in the subsurface beneath the proposed
+route are isolated by the presence of glacial till or other confining
+units, which characteristically inhibits downward migration of
+water and
+contaminants into these aquifers. However, shallow or near-surface
+aquifers are also present beneath the proposed route and may be
+impacted by construction activities. Additionally, the risk of
+dewatering shallow groundwater aquifers or reducing groundwater quality
+through an increase in total suspended solids during construction
+likely would be temporary, and these aquifers are expected to recover
+quickly following construction activities. Keystone's blasting plan
+would include provisions to avoid impacts to groundwater and to
+incorporate post-blasting testing for surface water and water wells
+within 150 feet of the centerline to ensure that water resources are
+not negatively affected by blasting activities. Hydrostatic testing
+discharge waters would meet all water quality requirements prior to
+discharge and would therefore not impact groundwater quality. All
+applicable water withdrawal and discharge permits would be acquired
+prior to hydrostatic testing. Construction and normal operations
+therefore are not expected to result in a long-term significant impact
+on groundwater.
+
+**ES.6.3.2 Surface Water**
+
+Potential impacts on surface water resources during construction
+activities would include: temporary increases in TSS concentrations and
+increased sedimentation during stream crossings; temporary to long term
+decrease in bank stability and resultant increase in TSS concentrations
+from bank erosion as vegetation removed from banks during construction
+is re-establishing; temporary reduced flow in streams and potential
+other adverse effects during hydrostatic testing activities; and
+temporary degradation of surface water quality and alteration of
+aquatic habitat from blasting activities within or adjacent to stream
+
+Keystone would select one of the following construction methods for
+surface waterbody crossings: dry-
+
+cut methods, open cut wet crossings, and horizontal directional
+drilling (HDD). Thirty-eight crossings have been identified for HDD
+crossings. The HDD method would avoid any impacts on water bodies.
+
+The open cut wet method, involving trenching while water continues
+to flow, would entail a high risk of temporary siltation to streams
+and other water bodies. The risks of open-cut wet trenching could be
+temporary (for the duration of construction) or longer term (where
+compromised stream bank stability or bank erosion occurs). Dry-cut
+methods would greatly reduce risks to surface waterbodies but are not
+feasible for wider streams and would only be used selectively during
+construction. At all water crossings,
+
+Keystone would use buffer strips, drainage diversion structures,
+sediment barrier installations, and clearing limits to reduce siltation
+and erosion. Hydrostatic test water would be discharged to the source
+water at an approved location along the waterway or to an upland area
+within the same drainage as the source water where it may evaporate
+or infiltrate. Discharged water would be tested to ensure it meets
+applicable water quality standards, and discharge rate would be
+regulated.
+
+**ES.6.3.3 Floodplains**
+
+Floodplain terraces and low floodplains are found along the Project
+route. Two pump stations and 10
+
+MLVs would be in the 100-year floodplain as currently proposed, but
+the effect of those facilities on floodplain function is expected to
+be minor.
+
+Actions by federal agencies, under EO 11988, must avoid to the extent
+possible the long- and short-term adverse impacts associated with the
+occupancy and modification of floodplain development including reducing
+the risk of flood loss, minimizing the impact of floods on human
+safety, health and welfare, and restoring and preserving the natural
+and beneficial values served by floodplains. The pipeline would be
+constructed under river channels with potential for lateral scour. In
+floodplain areas adjacent to waterbodies, the contours would be
+restored to as close to previously existing contours as practical and
+the construction ROW would be revegetated so that after construction,
+the pipeline would not obstruct flows over designated floodplains.
+
+**ES.6.4 Wetlands**
+
+Wetland types within the Project area include emergent wetlands,
+scrub/shrub wetlands, and forested wetlands. The Project would disturb
+a total of 554 acres of wetlands (not including pipe storage yards,
+
+rail sidings, contractor's yards, access roads, or construction camps),
+primarily forested wetlands
+
+(271 acres) and emergent wetlands (262 acres), with minimal shrub/scrub
+wetlands (21 acres). Additional impacts to wetlands from construction
+camps and access roads outside of the 110-foot construction right-
+
+of-way cannot be assessed until the actual locations for these sites
+are determined.
+
+Construction of the pipeline would affect wetlands and their functions
+primarily during and immediately following construction activities,
+but permanent changes also are possible.
+
+Planned conservation measures (such as installing trench breakers
+and/or sealing the trench to maintain the original wetland hydrology,
+where the pipeline trench may drain a wetland; using timber riprap,
+
+timber mats, and prefabricated equipment mats; and restoring wetland
+areas within conservation lands or easements to a level consistent with
+any additional criteria established by the relevant managing agency)
+
+would avoid or minimize most impacts on wetlands associated with
+construction and operation activities,
+
+and would ensure that potential effects would be primarily minor and
+short term. Impacts to forested wetlands are long-term and would be
+considered permanent. Keystone would work with each USACE
+
+district to determine what kind of compensation would be required for
+the permanent conversion of forested wetland to herbaceous wetland,
+and Keystone would continue to work with the USACE to develop a
+Wetland Mitigation Plan.
+
+**ES.6.5 Terrestrial Vegetation**
+
+Construction of the pipeline would temporarily impact 11,533 acres
+of grassland/rangeland and 2,523
+
+acres of upland forest. The permanent ROW would impact 749.1 acres
+of grassland/rangeland and 175.6
+
+acres of upland forest. Grassland impacts due to pipeline construction
+are expected to be minimal, and affected vegetative communities
+generally are expected to reestablish within 2 years. Impacts on upland
+forest and shrubland would be longer term than those anticipated for
+grassland, because of the time required for these plant communities
+to reestablish and reach mature, pre-construction conditions.
+
+Keystone would implement measures to reduce impacts to forested
+uplands and grasslands such as restoring original contours and
+drainage patterns to the extent practicable after construction;
+providing and maintaining temporary and permanent erosion control
+measures on steep slopes or wherever erosion potential is high;
+and reseeding the reclaimed construction ROW following cleanup and
+topsoil replacement as closely as possible using seed mixes based
+on input from the local NRCS and specific seeding requirements as
+requested by the landowner or the land management agency.
+
+After removal of vegetation cover and disturbance to the soil,
+reestablishment of vegetation communities could be delayed or prevented
+by infestations of noxious weeds and invasive plants. Vegetation
+removal and soil disturbance during construction could create
+optimal conditions for the establishment of many weeds. Keystone has
+committed to control the introduction and spread of noxious weeds by
+implementing construction and restoration procedures in coordination
+with appropriate local, state, and federal agencies to prevent the
+spread of noxious weeds, insects and soil borne pests.
+
+There would be temporary and permanent impacts on about 51 miles of
+Conservation Reserve Program
+
+(CRP) land and less than 2 miles of Wetland Reserve Program lands
+along the proposed pipeline corridor.
+
+Successful restoration of native vegetation and CRP fields (defined
+as 90 percent cover of desirable perennial plants, stable soils,
+and comparable vegetation community composition) would be expected
+within 4 to 8 years.
+
+**ES.6.6 Wildlife**
+
+The Project crosses six states with a diversity of wildlife, including
+big game animals, small game animals and furbearers, waterfowl and
+game birds, and many other nongame animals. Wildlife habitats along
+the Project ROW include croplands, grasslands/rangelands (short-grass
+prairie, mixed-grass prairie,
+
+tall-grass prairie, and shrublands), upland forests and wetlands. These
+vegetation communities provide foraging, cover, and breeding habitats
+for wildlife. Construction of the proposed Project would result
+in loss and alteration of about 22,493 acres of wildlife habitat,
+including 11,533 acres of grasslands and rangelands, 2,523 acres of
+forested habitat, and 554 acres of wetland habitats (including 271
+acres of forested wetlands).
+
+Pipeline construction can produce short term barriers to wildlife
+movements. Blasting can cause both short-term disturbance, in the
+form of increased noise, dust, and vibration, and permanent habitat
+modification. The severity of the effects of blasting on wildlife would
+primarily depend on timing and wildlife use of the area surrounding the
+area to be blasted. Total habitat loss due to pipeline construction
+would be small in the context of available habitat both because of
+the linear nature of the Project and because restoration would follow
+pipeline construction.
+
+Additional potential impacts to wildlife during construction include
+direct mortality, and stress or avoidance of feeding and/or reduced
+breeding success due to exposure to noise and from increased human
+
+Normal operation of the pipeline would result in negligible effects
+on wildlife. Pipeline corridors may be used as travel corridors
+by coyotes, deer, raccoons, and many other animals. Pipeline
+produced habitat fragmentation may result in altered wildlife
+communities. Animals adapted to exploiting edge habitats increase,
+and animals requiring large contiguous habitats are displaced. Prey
+species may experience reduced survival or reproduction due to
+decreased abundance of forage species or reduced cover.
+
+Potential impacts to wildlife from connected actions are direct
+mortality due to collision with or electrocution by electrical
+distribution and transmission lines, and reduced survival and
+reproduction for ground nesting birds due to the creation of perches
+for raptors in grassland and shrubland habitats. To reduce these
+impacts, power providers may incorporate standard, safe designs,
+as outlined in Suggested
+
+Practice for Avian Protection on Power Lines (issued by the Avian
+Power Line Interaction Committee
+
+[APLIC] in 2006) into the design of electrical distribution lines in
+areas of identified avian concern;
+
+incorporate standard raptor-proof designs, as outlined in Avian
+Protection Plan Guidelines (jointly prepared by the APLIC and the
+USFWS in 2005)into the design of the electrical distribution lines
+to prevent collision by foraging and migrating raptors; and route
+electrical distribution lines and the 230-kV
+
+electrical transmission line such that they avoid areas with grouse
+leks, brood-rearing habitat, and wintering habitats that also support
+wintering raptors.
+
+**ES.6.7 Fisheries**
+
+The Project would cross a total of 91 perennial streams that support
+recreational or commercial fisheries
+
+(18 in Montana, 10 in South Dakota, 15 in Nebraska, 16 in Oklahoma,
+and 32 in Texas). Thirty-one of these perennial waterbodies that
+support recreational or commercial fisheries, would be crossed using
+
+HDD technology. All other stream crossings for recreational or
+commercial fisheries perennial streams would use either the open-cut
+wet crossing or an open-cut dry crossing methodology. Possible impacts
+to fisheries could occur through siltation and disturbance of streams
+crossed by the proposed pipeline and also through water removal for
+hydrostatic testing and HDD operations.
+
+Stream crossings could potentially increase sedimentation during
+construction and result in bank erosion until erosion control measures
+are implemented and the bank stabilizes. Construction of a dry open-cut
+crossing is the most rapid and least impacting of the open-cut
+methods, primarily because water is not flowing in the streambed and
+sediments are not transported downstream. No impacts are expected to
+fisheries resources from a dry open-cut crossing method. Construction
+of open-cut wet crossings may result in short-term impacts including
+direct mortality to fishery and aquatic resources. Sediment released
+during trenching of the pipeline crossings would be transported by
+the water flowing through the trench and has the potential to affect
+downstream aquatic life and habitat through either direct exposure
+or sediment deposition. Wet open-cut dam and pump crossings have a
+moderate potential to temporarily affect fishery resources. Dam and
+pump crossings may block or delay normal fish movements. Short-
+
+term delays in movements of spawning migrations could have adverse
+impacts on fisheries, however,
+
+most crossings of streams less than 50 feet would be completed in
+less than 2 days and potential impacts would be minor.
+
+Successful HDD crossings would avoid direct disturbance to aquatic
+habitat and stream banks. This method of stream crossing likely would
+avoid affects to those recreational or commercial fisheries that occur
+at the river or stream crossings. Drilling fluids and additives used
+during implementation of a directional drill would be non-toxic to
+the aquatic environment. A contingency plan to address a frac-out
+during HDD including preventative and response measures to control
+the inadvertent release of drilling lubricant would be maintained.
+
+Keystone would be responsible for acquiring all permits required by
+federal, state and local agencies for procurement of water and for the
+discharge of water used in hydrostatic testing and HDD drilling. Any
+water obtained or discharged would be in compliance with permit
+requirements, including screening and withdrawal rates. Fisheries
+impacts from water withdrawals would be short term and minor.
+
+**ES.6.8 Threatened and Endangered Species**
+
+Federally-protected threatened or endangered species and federal
+candidate species with the potential to occur in the Project area
+include three mammals, eight birds, one amphibian, six reptiles,
+four fish, two invertebrates, and five plants. Of these, the Project
+is expected to have no effect to 14 species, and the
+
+Project may affect, but is not likely to adversely affect eight
+species. There are six additional species to which a findings summary
+was not applicable. The Project may affect, and is likely to adversely
+affect one species, the American burying beetle. This determination is
+based on the location of the Project within the known range and habitat
+of the American burying beetle and the results from surveys along the
+
+Steele City Segment of the Project. Direct impacts to American
+burying beetles as a result of construction would result in
+habitat loss, alteration of suitable habitat to unsuitable habitat,
+increased habitat fragmentation, and the potential mortality to eggs,
+larvae and adults. Even with trap and relocation efforts along the
+proposed construction ROW, the proposed Project could result in the
+potential accidental loss of individuals from construction-related
+activities. Conservation measures have been proposed to protect
+this species including setting up a compensatory mitigation plan for
+potential impacts to the American burying beetle by contributing to
+habitat conservation.
+
+State-protected species potentially occurring along the Project ROW
+include three mammals, nine birds,
+
+six reptiles, 13 fish and one plant. Many sensitive and protected
+species are tied to woodland, wetland, or prairie habitats; habitats
+that historically were converted to agricultural use throughout the
+Project area.
+
+These animals have been identified and designated by federal and
+state wildlife management agencies as being of conservation concern
+after review of abundance, population trends, distribution, number
+of protected sites, degree of threat to survival, suitable habitat
+trends, degree of knowledge about the species,
+
+and its life history. These designations are intended to assist with
+conservation planning and maintenance of the state's natural heritage.
+
+Keystone has begun formal Section 7 consultation for the American
+Burying Beetle. Additional species-
+
+specific conservation measures have been identified and include:
+additional surveys for many species to discover the presence of the
+species themselves, or their nests/dens/habitat; construction timing to
+occur outside of the breeding/denning/spawning season; and reduce the
+width of the construction ROW in areas where listed plant populations
+have been identified, to the extent possible. To reduce impacts from
+connected actions, Keystone would inform electrical power providers
+of the requirements for Endangered
+
+Species Act consultations with the USFWS for the electrical
+infrastructure components constructed for electrical distribution
+lines serving the Project as well as the 230-kV transmission line
+to prevent impacts to threatened and endangered species. Keystone
+would also develop a Migratory Bird Conservation Plan in consultation
+with USFWS to avoid or mitigate potential Project-related impacts to
+migratory birds.
+
+**ES.6.9 Land Use**
+
+The majority of land that would be affected by the Project is
+privately owned (21,333 acres) with nearly equal amounts of federal
+(579 acres) and state (582 acres) lands. Construction, operation,
+and maintenance would cause temporary and permanent impacts to land
+uses such as agriculture, rangeland,
+
+forestland, residential and planned development, commercial and
+industrial land, recreation and special interest areas, and visual
+resources. Rangeland is the most common land type, accounting for
+11,533
+
+acres or 54.3 percent of the total land that would be affected during
+construction; during operation 698
+
+acres of the 8,613 acres, or 54.5 percent would be permanently impacted
+by the ROW. Agricultural land accounts for 5,484 acres impacted during
+construction with 2,011 acres needed for the permanent ROW.
+
+Forestland, development, and water and wetlands make up the remaining
+2,523; 945; and 747 acres,
+
+respectively, which would be affected by construction. During operation
+of the pipeline 1,071, 465, and
+
+368 acres, of forestland, developed land, and water and wetlands,
+respectively, would be included in the permanent ROW.
+
+Within the Steele City Segment of the pipeline corridor are 102 tracts
+of land and which are enrolled in or affected by the CRP. There are no
+affected parcels in either the Gulf Coast Segment or Houston lateral.
+
+Pipeline construction and operation should have no effect on
+landowners' participation in CRP. FSA
+
+would require that landowners, prior to pipeline construction, notify
+the FSA of the planned construction activities; and commit to restoring
+their land to its pre-construction condition. In doing so, land owners
+should not lose their eligibility for participation in the CRP.
+
+Keystone has agreed to compensate landowners for crop and other losses
+on a case-by-case basis.
+
+Keystone also has developed mitigation plans for limiting impacts on
+soil drainage mechanisms,
+
+compaction, irrigation systems, farm access areas, windbreaks
+and living fences, and CRP lands. After construction, nearly all
+agricultural land and rangeland along the ROW would be allowed to
+return to production, and productivity is not expected to be reduced
+significantly over the long term. Keystone has further sought to
+minimize impacts on rangelands by developing range-specific mitigation
+measures.
+
+Keystone would implement procedures to reduce land impacts including:
+implementing soil protection measures; preventing stoppage or
+obstruction of irrigation systems except during pipeline installation
+periods through irrigated areas; minimizing time of installation in
+irrigated areas; repairing or restoring drain tiles; restoring farm
+terraces to their pre-construction functions; restoring disturbed areas
+with custom seed mixes (approved by landowners and land managers)
+to match the native foliage; providing access to rangeland during
+construction to the extent practicable; installing temporary fences
+with gates around construction areas to prevent injury to livestock
+or workers; and leaving in place hard plugs and installing soft plugs
+to allow livestock and wildlife to cross the trench safely.
+
+In some cases, construction of the pipeline may cause disrupted or
+delayed recreational usage of private lands. Keystone would cooperate
+with local agencies to reduce the conflict between recreational
+users and pipeline construction. Impacts are expected to be only
+short term. Noise impacts from pump stations
+are expected to be minor. Recreational use access would not be affected
+by pipeline operations within special management areas.
+
+**ES.6.10 Socioeconomics**
+
+Several types of socioeconomic effects could occur within the
+region of influence. Temporary effects during construction of the
+proposed Project could include changes in population levels or local
+demographics, changes in the demand for housing and public services,
+disruption of local transportation corridors, increased employment
+opportunities and related labor income benefits, and increased
+government revenues associated with sales and payroll taxes. Isolated
+impacts on individual property owners and economic land use also could
+occur along the pipeline route. The primary socioeconomic impacts
+associated with long-term operation of the proposed Project likely
+would include employment and income benefits resulting from long-term
+staffing requirements and local operating expenditures, as well as an
+increased property tax base and associated tax revenues. Long-term
+impacts could include impacts to property owners if there is any
+decrease in land value or usefulness as a result of the pipeline.
+
+However, tilled agricultural land in most cases would still be useable
+after construction.
+
+The proposed pipeline has the potential to generate substantial direct
+and indirect economic benefits for local and regional economies along
+the pipeline route. During construction, these benefits would be
+derived from the construction labor requirements of the Project and
+spending on construction goods and services that would not otherwise
+have occurred if the line were not built. At the local level, these
+benefits would be in the form of employment of local labor as part
+of the construction workforce and related income benefits from wage
+earnings, construction expenditures made at local businesses, and
+construction worker spending in the local economy.
+
+A peak workforce of approximately 5,000 to 6,000 personnel would be
+required to construct the entire
+
+Project and it is estimated that 4,500 to 5,100 non-local
+residents would temporarily move into the region of influence,
+resulting in short-term population increases during the construction
+period. Keystone is expected to utilize temporary local construction
+labor where possible and it is estimated that approximately 10 to
+15 percent (50 to 100 people per spread) could be hired from the
+local work force for each spread, although this may not be possible
+in rural areas. Non-local construction workers moving into the
+region of influence would require short-term accommodations such as
+hotels/motels, recreational vehicle sites, campgrounds and temporary
+work camps (four camps are anticipated, two in Montana and two in
+South Dakota).
+
+Portions of the new pipeline and new and upgraded pumping stations
+are located in areas with minority populations and with families
+living below the poverty level; however, none over 50 percent. The
+Project also is located in areas of majority populations and
+with relatively few families living below the poverty level. The
+Project is not expected to result in adverse impacts that would fall
+disproportionately on minority or low-income populations located
+along the pipeline route. Public participation in assessing the
+
+Project is especially important in areas where low-income populations
+and/or minority populations have the potential to be affected. Public
+outreach would continue throughout the life of the Project.
+
+**ES.6.11 Cultural Resources**
+
+The Project area contains cultural resources resulting from human
+settlement and other activities over the last 10,000 years. These
+include archaeological sites, special activity areas such as food
+processing sites,
+
+cemeteries, and sites of spiritual and traditional use. Later historic
+activities expressed on the landscape include mining-related resources,
+railroads, commercial buildings, domestic residences, and agricultural
+buildings. Many of these cultural resources are associated with
+mineral exploration, transportation,
+
+settlement, logging, and agricultural production. Lands and resources
+are very important to Indian tribes
+for subsistence gathering, for the collection of plants for medicines,
+for spiritual and ceremonial purposes,
+
+and for everyday life.
+
+For the Project, the principal types of impacts on cultural resources
+that could occur include physical destruction or damage to historic
+properties caused by pipeline trenching or related excavations
+or boring;
+
+introduction of visual, atmospheric, or audible elements that diminish
+the integrity of significant historic features by short-term pipeline
+construction or construction of above ground appurtenant facilities,
+roads and connected actions; and change of the character of historic
+properties or of physical features that contribute to significance.
+
+The evaluation of historic properties for the Project will not
+be completed until full access to all parcels along the proposed
+corridor is feasible. Additionally, the Project design, including a
+determination of the final alignment after all route variations are
+assessed, continues to evolve as a result of the NEPA and
+
+Section 106 processes, continuing engineering analysis, and ongoing
+landowner and land manager negotiations. As a result, DOS and the
+consulting parties are developing a Programmatic Agreement
+
+(PA) to facilitate the Section 106 process. The use of a PA for this
+Project is consistent with 36 CFR
+
+800.4(b)(2), which provides that when "alternatives under consideration
+consist of corridors or large land areas, or where access to properties
+is restricted, the agency official may use a phased process to conduct
+identification and evaluation efforts." The PA would allow DOS and
+the consulting parties to continue the identification and evaluation
+of historic properties pursuant to the provisions in the PA should the
+
+Project receive all necessary certifications and permits. The PA would
+ensure that appropriate consultation procedures are followed and that
+cultural resources surveys would be completed prior to construction.
+
+Unanticipated Discovery Plans will be prepared for Montana, South
+Dakota, Nebraska, Kansas,
+
+Oklahoma, Texas and the Lower Brule Sioux Reservation. They will be
+prepared in consultation with the consulting parties for this Project,
+including the SHPOs of the six states, Indian tribes, as well as
+state and federal agencies. Keystone would implement these plans,
+with DOS oversight, in the event that unanticipated cultural materials
+or human remains are encountered during the construction phase of the
+
+Under Section 106 of the NHPA, the lead federal agency is required to
+share Project information and consult with consulting parties. This
+includes Indian tribes, SHPOs, local governments, and applicants for
+federal permits. For this Project, DOS is consulting with six SHPOs,
+over 95 Indian tribes, numerous federal and state agencies and local
+governments, and to seek the views of the public. Government-to-
+
+government Section 106 consultation meetings, direct mailings,
+teleconferencing, direct telephone communications, and email will be
+used to keep consulting party members informed and to solicit comments
+on the Project.
+
+Informal discussions with SHPOs and Indian tribes were initiated by
+Keystone and their consultants in
+
+2008 and 2009 when a number of tribal engagement meetings were
+conducted in an effort to inform interested Indian tribes of the
+Project and seek initial comments. DOS recognized its lead federal
+agency status under Section 106 and its responsibilities to consult
+directly with the Indian tribes, SHPOs, and agencies in its NOI issued
+on January 28, 2009 in the FR.
+
+**ES.6.12 Air Quality and Noise**
+
+Air quality impacts associated with construction of the proposed
+Project would include fugitive dust and emissions from fossil-fueled
+construction equipment, open burning, temporary fuel transfer systems,
+and associated fuel storage tanks, and the tank farm. Air emissions
+typically would be localized, intermittent,
+
+and short term since pipeline construction moves through an area
+relatively quickly. Emissions would be controlled to the extent
+required by state and local agencies.
+
+Air quality impacts associated with operation of the proposed Project
+would include minimal fugitive emissions from crude oil pipeline
+connections and pumping equipment at the pump stations, minimal
+emissions from mobile sources, and volatile organic compound (VOC)
+and (hazardous air pollutant
+
+(HAP) emissions from the crude oil storage tank at the Steele City tank
+farm. All pipeline pumps would be electrically powered. The Project
+would not cause or contribute to a violation of any federal, state,
+or local air quality standards. In addition, Project operations would
+not trigger the requirement for a Clean
+
+Air Act Title V operating permit.
+
+The Project would cross five counties that are designated as
+nonattainment for the federal ozone standard.
+
+Liberty, Chambers, and Harris counties are located in the
+Houston-Galveston-Brazoria 8-hour ozone nonattainment area. Hardin
+and Jefferson counties are located in the Beaumont-Port Arthur 8-hour
+ozone nonattainment area. Emissions of ozone precursor compounds
+(oxides of nitrogen [NOx] and VOCs)
+
+would be evaluated against the General Conformity applicability
+threshold levels and nonattainment area emissions budget. All Project
+emissions of NOx and VOCs emitted during construction and operation
+would be evaluated because no emissions would be covered under
+air permit programs. As pipeline emissions are limited to fugitive
+emissions from valves and flanges at pump stations and as there are no
+crude terminals located along the portion of the project within the
+Beaumont-Port Arthur nonattainment area, the General Conformity Rule
+does not apply to these operational activities. NOx emissions for both
+
+2011 and 2012 construction in the Houston-Galveston-Brazoria 8-hour
+ozone nonattainment area would exceed the general conformity threshold
+of 25 tons per year. Best Management Practices and other mitigation
+measures would be required to mitigate emissions. However, NOx and
+VOC emissions for operation in the Houston-Galveston-Brazoria 8-hour
+ozone nonattainment area would be below the
+
+General Conformity significance thresholds of 25 tons per year. Since
+the operational emissions of NOx and VOC are well below the 25-ton
+per year threshold, the General Conformity Rule does not apply to
+these operational activities.
+
+Noise impacts for a pipeline project generally fall into two
+categories: temporary impacts resulting from operation of construction
+equipment, and long-term or permanent impacts resulting from operation
+of the facility. The Project would be constructed in primarily rural
+agricultural areas. It is estimated that the existing ambient noise
+level in the Project area is in the range of 40 dBA (rural residential)
+to 45 dBA
+
+(agricultural cropland). There are approximately 142 structures within
+25 feet and 1,819 structures within
+
+500 feet of the proposed pipeline centerline for Project. There are
+approximately 55
+
+residences/homes/mobile homes/cabins within 25 feet and 1,014
+residences/home/mobile homes/cabins within 500 feet of the proposed
+pipeline centerline. There are approximately 91 structures within
+0.5 mile of all pump stations for Project. Residential, agricultural,
+and commercial areas within 500 feet of the
+
+ROW would experience short-term inconvenience from the construction
+equipment noise.
+
+Noise impacts from construction of the Project typically would be
+localized, intermittent, and short term because construction moves
+through an area relatively quickly (several hundred feet to 1.5 miles
+or more per day). Pipeline construction activities in any one area
+could last from 30 days to 7 weeks.
+
+Construction of all pump stations would take approximately 18 to 24
+months complete, and construction of the Steele City tank farm would
+take approximately 15 to 18 months.
+
+Measures to reduce noise impacts would include but are not limited
+to: limiting the hours during which construction activities with
+high-decibel noise levels are conducted in residential areas;
+providing noise mitigation plans to the construction contractors
+for implementation and enforcement by construction inspectors using
+portable sound meters; and developing site-specific noise mitigation
+plans to comply
+with any specific regulations and obtain any applicable authorizations
+or variances, if local noise regulations exist.
+
+Noise impacts from operation of the pipeline would be from the
+pump stations. Material traveling through the buried pipeline would
+not emit audible noise above the surface or a perceptible level of
+vibration. Sound levels would attenuate nearly to existing ambient
+noise levels (40 to 45 dBA) within
+
+2,300 feet of the facility and would be considered minor. There are
+approximately 91 structures within
+
+0.5 mile (2,640 feet) of all pump stations for the Project. Although
+noise impacts from the electrically-
+
+powered pump stations are projected to be minor, Keystone would perform
+a noise assessment survey during operations in locations where nearby
+residents express concerns about pump station noise.
+
+Mitigation measures can include construction of berms around the
+facilities or planting vegetation
+
+**ES.6.13 Reliability and Safety**
+
+**ES.6.13.1 Oil Spill Risk**
+
+Transportation of crude oil by pipeline involves risk to the public
+and the environment in the event of an accident or an unauthorized
+action, and subsequent release of oil. Releases of crude oil
+from the Project and appurtenant facilities could occur. Spill
+frequency can be estimated using historic spill frequencies on other
+pipelines as determined from existing data bases and as supplemented
+by considerations of new pipeline system age and technological
+improvements compared with much older systems. Releases of oil or
+petroleum products would affect the environment to varying degrees,
+and would be of concern to all stakeholders. Risk of an oil spill
+was assessed using failure frequencies derived from the general
+hazardous liquid pipeline operating history. In addition to onsite fuel
+facilities, construction of the proposed pipeline would involve tanker
+trucks that deliver fuel and other fluids to operating equipment along
+the construction ROW. Tanker and fuel or maintenance truck accidents
+or fuel storage tank failures would be the most likely sources of
+larger construction spills.
+
+Spills from the proposed pipeline, associated pump stations, valves,
+or pigging facilities could occur during Project operation and have
+the potential to result in larger-volume spills. Spill locations
+could include the pipeline ROW, pump stations, and construction and
+contractor staging areas. Although leak detection systems would be
+in place, some leaks might not be detected by the system. A pinhole
+leak, for example, could potentially be undetectable for days or
+weeks. If the proposed pipeline is subsurface within a wetland, the
+crude oil would float and could be detected during a regular patrol
+of the Project
+
+ROW. Soil impacts from floating oil would likely be minor, although
+active cleanup of the floating oil would likely produce high impacts
+to the wetland system.
+
+**ES.6.13.2 Impacts of Oil Spills**
+
+Crude or refined oil released into the environment (oil spills) may
+affect natural resources, protected areas, human uses and services,
+and aesthetics to varying degrees, depending on the cause, size, type,
+
+volume, location, season, environmental conditions, and associated
+response actions. Small oil spills
+
+(e.g., intermittent leaks and drips from construction machinery
+and operating equipment) would be almost certain to occur during
+construction and operation of the Project. There would be a very
+limited potential for an operational pipeline spill of sufficient
+magnitude to significantly affect natural resources and human uses
+of the environment.
+
+Almost all spills from the proposed pipeline would be crude oil. Based
+on experience, spills would be more likely to occur in developing
+areas where excavation activities are common, and at locations where
+based on soil and other physical conditions the corrosion potential is
+greatest. The locations of greatest concern for potential oil spills
+would be in sensitive environmental areas, especially wetlands, flowing
+streams and rivers, and water intakes for drinking water or
+commercial/industrial users. Potential impacts to the natural
+environment from oil spills would include but are not limited to:
+coating wildlife feathers or fur reducing insulating efficiency
+, which could result in hypothermia; coating sediments and soils
+reducing water and gas (e.g., oxygen and carbon dioxide) exchange
+and affecting subterranean organisms;
+
+coating beaches, water surfaces, wetlands, and other resources used
+by people resulting in offensive odors, visual impacts and soiling
+of humans, animals, habitats and equipment; toxicological impacts
+including direct and acute mortality, sub-acute interference with
+feeding or reproductive capacity,
+
+disorientation, narcosis, reduced resistance to disease, tumors,
+reduction or loss of various sensory perceptions, interference with
+metabolic, biochemical, and genetic processes, and a host of other
+acute or chronic effects; contamination of soil and water resources
+through oil spill containment or clean up actions; minor short
+to long-term surface water and/or groundwater quality degradation
+from sporadic equipment and vehicle spills or leaks; and damage to
+recreational and historic values.
+
+The impact of an oil spill would be heavily influenced by the types
+of receptors (i.e., habitats, natural resources, and human uses)
+that might be exposed to the oil. For spills ranging in magnitude
+from very small to significant, response time and actions by
+Keystone and its response contractors would likely prevent the oil
+from reaching sensitive receptors or would contain and clean up the
+spills before significant environmental impacts occurred. Most spills
+in this category are likely to occur on construction sites or at
+operations and maintenance facilities, and would not reach the natural
+environment. For large spills and very large spills, especially those
+that reach aquatic habitats, the response time between initiation
+of the spill event and arrival of the response contractors would
+influence the magnitude of impacts to the natural environment and
+human uses. Once the response contractors are at the spill scene,
+the efficiency, effectiveness, and environmental sensitivity of the
+response actions (e.g.,
+
+containment and clean up of oil, and protection of resources and human
+uses from further oiling) would substantially influence the type and
+magnitude of additional environmental impacts.
+
+**ES.6.13.3 Mitigation Measures**
+
+The Project's pipeline system would be designed, constructed, and
+maintained in a manner that meets or exceeds industry standards and
+regulatory requirements. The Project would be built within an approved
+
+ROW. Signage would be installed at all road, railway, and water
+crossings, indicating that a pipeline is located in the area, to help
+prevent third-party damage or impact to the proposed pipeline. Keystone
+would manage a crossing and encroachment approval system for all
+other operators. Keystone would ensure safety near its facilities
+through a combination of programs encompassing engineering design,
+
+construction, and operations; public awareness and incident prevention
+programs; and emergency response programs.
+
+To prevent or mitigate potential oil spills during construction of the
+proposed pipeline, measures would be implemented at each construction
+or staging area where fuel, oil, or other liquid hazardous materials
+are stored, dispensed, or used.
+
+Historically, the most significant risk associated with operating
+a crude oil pipeline is the potential for third-party excavation
+damage. Keystone would mitigate this risk by implementing a
+comprehensive
+
+Integrated Public Awareness Program focused on education and
+awareness. The program would provide awareness and education that
+encourages use of the state one-call system before people begin
+excavating.
+
+Keystone's operating staff also would complete regular visual
+inspections of the ROW and monitor activity in the area. Keystone's
+preventative maintenance, inspection, and repair program would
+monitor the integrity of the proposed pipeline and make repairs if
+necessary. Keystone's pipeline maintenance program would include
+routine visual inspections of the ROW, regular inline (pigging)
+inspections, and collection of predictive data. Data collected in each
+year of the program would be fed back into the decision-making process
+for development of the following year's inspection, maintenance, and
+repair program. The pipeline system would be monitored 24 hours a day,
+365 days per year.
+
+Keystone has developed and implemented Project safeguards
+after conducting a pipeline threat analysis using the pipeline
+industry-published list of threats issued by the American Society
+of Mechanical
+
+Engineers (ASME B31.8S) and also using threats identified by PHMSA to
+determine the applicable threats to the proposed pipeline. Keystone
+would be required to provide an Emergency Response Plan
+
+(ERP) and a Spill Prevention Control and Countermeasure (SPCC)
+plan prior to receiving authorization from PHMSA OPS to operate the
+pipeline system. Keystone would utilize a comprehensive Supervisory
+
+Control and Data Acquisition (SCADA) system to monitor and control
+the proposed pipeline. Data provided by the SCADA system would alert
+the Operations Control Center (OCC) operator to an abnormal operating
+condition, indicating a possible spill or leak. A back-up communication
+system also would be available should SCADA communications fail
+between field locations and the OCC.
+
+Additionally, Keystone would perform any other procedures mandated
+by PHMSA in the event that
+
+PHMSA approves a special permit related to maximum operating pressures
+for the pipeline system.
+
+In summary, the reliability and safety of the Project is expected to
+be well within industry standards.
+
+Further, the low probability of large, catastrophic spill events and
+the routing of the proposed pipeline to avoid most sensitive areas
+suggest a low probability of impacts to human and natural resources.
+
+Nevertheless, the potential for construction and operation-related
+spills does exist.
+
+**ES.6.14 Cumulative Impacts**
+
+As defined in 40 CFR 1508.7, cumulative impacts are the incremental
+impacts on the environment resulting from adding the proposed
+action to other past, present, and reasonably foreseeable future
+actions. Cumulative impacts were assessed by combining the potential
+environmental impacts of the proposed action with the impacts of
+projects that have occurred in the past, are currently occurring,
+or are proposed in the future within the pipeline corridor or in the
+vicinity of the pipeline ROW.
+
+**ES.6.14.1 Past, Present and Reasonably Foreseeable Projects**
+
+The Project area includes numerous existing, under construction,
+and planned linear energy transportation systems, including natural
+gas pipelines, carbon dioxide (CO2) pipelines, crude oil pipelines,
+and electric transmission lines. Additionally, the general Project
+area supports a major water delivery project and a number of energy
+development projects, including producing oil and natural gas well
+fields (with associated collection piping systems), coal mines,
+and wind power facilities. The potential impacts associated with
+these projects that are most likely to be cumulatively significant
+are related to wetlands and waterbodies, vegetation and wildlife,
+land use, air quality, noise, and socioeconomics.
+
+The operation of existing oil, natural gas, and CO2 pipeline systems
+have resulted primarily in alteration of land uses, terrestrial
+vegetation, and wildlife habitat. Cumulative impacts associated with
+existing pipelines within the Project area would be primarily related
+to noise emanating from pump stations (oil pipelines) and compressor
+stations (natural gas pipelines) and the cumulative increases in the
+width of
+
+ROWs in areas where the proposed Project would be adjacent to existing
+ROWs. In those areas where the proposed Project is not directly
+adjacent to existing ROWs, but are located within the Project area,
+
+there would be a cumulative change in vegetative resources, wildlife
+habitat, and land uses associated with ROWs operation. The impacts
+of existing ROWs in the context of the proposed Project have largely
+been included in Section 3.0.
+
+No other proposed oil pipelines have been identified within the Project
+area. However, should additional oil pipelines be constructed within
+the Project area, they would likely contribute to potential cumulative
+impacts associated with habitat fragmentation, land use issues and
+viewshed degradation. Several natural gas and CO2 pipelines have been
+proposed in the vicinity of the Project area. Potential cumulative
+impacts associated with the proposed Bison Pipeline Project and Green
+Pipeline would be habitat
+fragmentation, land use issues and viewshed degradation. Further,
+a potential pipeline that would connect the Bakken Formation and
+the proposed Project area could potentially result in similar
+additional cumulative impacts to these resources. Should these or
+other unidentified pipelines be under construction at the same time
+as the Project, there may also be impacts to noise and air quality.
+
+Due to advances in engineering, construction methods, and environmental
+regulation, construction and operation of existing electrical power
+lines typically encumber additional lands compared to more recent
+projects; therefore, the impacts from these lines may be greater than
+a line of similar length and energy capacity constructed in the recent
+past or future. Planned electrical power distribution and transmission
+lines that may be constructed in the general Project area includes
+three proposed power projects.
+
+However, of these proposed transmission lines, only the Nebraska Public
+Power District would be located within the Project corridor. Cumulative
+impacts which may arise include impacts to avian wildlife and
+viewshed degradation. In addition, if the construction of future power
+distribution or transmission lines in the Project corridor overlaps
+with the proposed Project construction schedule, short-term cumulative
+impacts associated with noise, dust, and general construction activity
+could occur those areas where they would be constructed within the
+proposed project corridor.
+
+Wind resources in the contiguous U.S., specifically in the central
+plains states, could accommodate as much as 16 times total current
+demand for electricity in the U.S. There is a high concentration of
+wind resources in the central plains region extending northward from
+Texas to the Dakotas, westward to
+
+Montana and Wyoming, and eastward to Minnesota and Iowa. Exploitation
+of these wind resources would require significant extension of the
+existing power transmission grid. Expansion and upgrading of the grid
+will be required in any case to meet anticipated future growth in
+U.S. electricity demand. It is therefore reasonable to assume that
+there will be upgrades and extensions to the existing electrical
+power transmission grid to support wind power development within
+the Project area in the future. The magnitude of impacts from these
+transmission line extensions would be dependant somewhat upon the
+extent of new lines required to meet the needs of new and existing
+wind farms. Likely cumulative impacts from future construction and
+operation of transmission lines originating from wind farms may include
+viewshed degradation and disruption to land uses, vegetation, and avian
+wildlife. Should the construction of future transmission lines occur
+concurrent with the proposed Project construction schedule within the
+Project corridor, short-term cumulative impacts associated with noise,
+dust, and general construction activity could occur.
+
+**ES.6.14.2 Greenhouse Gases and Climate Change**
+
+Crude oil delivered to PADD II and PADD III refineries by the Project
+are likely to be replacing heavy crude oil from other less reliable
+and diminishing sources. Assuming constant demand for refined oil
+products, the incremental impact of the Project on GHG emissions would
+be minor. Indirect GHG-related emissions during operation would be
+associated with electrical generation for the pump stations
+
+(approximately 2.6 to 4.4 million tons of CO2 per year for a proposed
+initial capacity of 700,000 bpd and a potential capacity of 900,000
+bpd, respectively). In addition, refining the quantity of crude oil
+that would be delivered by the Project would produce an estimated
+1.3 to 1.7 million tons of CO2 per year.
+
+This assumes that the entire volume of oil transported by the project
+would be heavy crude oil. However,
+
+since the crude oil delivered by the Project would be replacing
+similar crude oils from other sources, the incremental impact of these
+emissions would be minor. Future refinery upgrades and expansions
+could potentially increase the annual production of GHG in the PADD
+II and PADD III area. Should such upgrades and expansions occur,
+generation of GHG could potentially increase. The cumulative impact of
+increased GHG emissions in this area would depend upon the potential
+for reductions in GHG emissions elsewhere, consistent with developing
+regulatory frameworks in the U.S., Canada and worldwide.
+
+The proposed mitigation measures would serve to offset some of the
+GHG emissions associated with the
+
+Project. These measures would include revegetation of the construction
+work areas, restoration of wetland functions, and compensatory wetland
+mitigation for wetland impacts. Minimal direct GHG
+
+emissions would be associated with operation (e.g., vehicle operation
+and fugitive emissions), and indirect emissions would be associated
+with electrical generation for the pump stations and refineries.
+
+The potential impacts of climate change would not be expected
+to affect the proposed Project. An increase in temperatures may
+increase wildfires in the Project area. An increased intensity of
+storm events, should this occur, may result in additional flooding in
+some areas near the Project, particularly in the Gulf Coast Segment
+and Houston Lateral should hurricane activity increase as a result
+of oceanic temperature conditions. The Project would be designed
+and constructed to be consistent with applicable federal, state,
+and local standards, and therefore should be resistant to forces
+associated with reasonably likely climate conditions during the
+lifetime of the pipeline system. Other effects of climate change,
+such as air quality degradation, health effects, reduced snow pack,
+and agricultural issues, would not likely impact the proposed Project.
+
+**ES.6.14.3 Extraterritorial Concerns**
+
+While the Project analyzed in this draft EIS begins at the
+international boundary where the pipeline would exit Saskatchewan,
+Canada and enter the United States through Montana, the origination
+point of the pipeline system would be in Alberta, Canada. Neither
+DOS regulations (22 CFR 161.12) nor Executive
+
+Order 12114, Environmental Effects Abroad of Major Federal Actions,
+require this draft EIS to analyze impacts to the environment or
+activities that occur outside of the United States. As a matter
+of policy,
+
+however, DOS has included information in this draft EIS regarding
+the environmental analysis conducted
+
+The analysis of environmental effects from the proposed Project
+is occurring on both sides of the international border under the
+appropriate regulatory authorities, as discussed in Section 1 of
+this DEIS.
+
+In Canada, the Canadian National Energy Board (NEB) conducted that
+analysis, held public hearings in
+
+September 2009, and issued its findings in March 2010.
+
+The NEB completed its analyses in March 2010 and determined that the
+proposed Project is required in
+
+Canada to meet the present and future public convenience and necessity,
+provided that the NEB terms and conditions outlined in the Project
+certificate are met, including all commitments made by Keystone during
+the hearing process.
+
+Cumulative impacts to Canadian resources are limited by available
+data at this time. However, as both the NEPA and NEB processes
+proceed, additional information on potential cross international
+boundary cumulative impacts would likely become available and would be
+assessed to the degree possible for inclusion in the FEIS. Pertinent
+NEB documents are provided in Appendix R.
+
+**ES.6.15 Conclusions**
+
+The information assessed in this draft EIS indicates that the proposed
+Keystone XL Project would result in limited adverse environmental
+impacts during both construction and operation, assuming that the
+
+Project would be constructed and operated in compliance with:
+
+• All applicable laws and regulations;
+
+• The provisions in Keystone's proposed Construction, Mitigation
+and Reclamation Plan
+
+(Appendix B);
+
+• The environmental specifications and water quality protection
+requirements mandated by MDEQ
+
+for Montana, as part of the Montana Major Facility Siting Act
+certification process and presented in Attachments 1 and 2 to Appendix
+I; and
+
+• Other mitigation measures presented in this draft EIS.

@@ -1,0 +1,229 @@
+**ES.5 ALTERNATIVES CONSIDERED**
+
+Alternatives to the Keystone Project were analyzed to determine
+whether they would be reasonable and environmentally preferable to
+the proposed action. A No Action Alternative, system alternatives,
+major route alternatives, route variations, and aboveground facility
+site alternatives were considered in the EIS. Identification of
+alternatives to the proposed project incorporated public comments
+and input received from federal, state, and local regulatory agencies.
+
+**ES.5.1 No Action Alternative**
+
+Under the No Action Alternative, the Keystone Project would not be
+constructed and operated and issuance of a DOS Presidential Permit for
+the specific action of building and operating the Keystone pipeline
+would not be required. While this alternative would eliminate the
+environmental impacts directly associated with the Keystone Project,
+it would not meet the proposed action's purpose and need, which
+involve both supply and demand components.
+
+Without the Keystone Project, the increasing supply of crude oil
+from the WCSB would not have a ready conduit for export to available
+refineries and markets in the United States. Additional export pipeline
+capacity above supply requirements also is required to avoid potential
+situations where short-term supply exceeds export pipeline capacity.
+
+U.S. demand for petroleum products has increased, while domestic
+U.S. crude oil supplies continue to decline. The No Action Alternative
+would not provide the United States with a relatively stable and
+
+secure source of North American crude oil for Midwest and Gulf Coast
+markets, thereby continuing increasing U.S. dependence on less reliable
+sources of oil with higher associated shipping costs.
+
+While the increasing demand for refined crude oil products could
+be met by other projects or alternatives, it is purely speculative
+to predict the resulting effects and actions that could be taken by
+local governments and other suppliers or refineries in the region,
+as well as any associated direct and indirect environmental impacts
+of these actions. In addition, each of these actions may result in
+environmental impacts that are less than, equal to, or greater than
+those of the currently proposed Keystone Project. The No Action
+Alternative also could result in more expensive and less reliable
+crude oil supplies for Midwestern refineries, increasing costs and
+availability of the refined products for end-users.
+
+**ES.5.2 System Alternatives**
+
+Several existing and proposed crude oil pipeline systems that
+currently or would eventually serve the markets targeted by the
+proposed Keystone Project were assessed. The analysis considered
+whether those systems would meet the proposed Project objectives
+while offering an environmental advantage over the proposed Project.
+
+One system alternative considered was the expansion of the existing
+Express and Platte Pipeline systems. This 1,700-mile pipeline system
+transports crude oil from Alberta's oil sands in Hardisty, Alberta
+to refineries in the U.S. Rocky Mountain and Midwest regions. In
+the United States, the pipeline crosses Montana, Wyoming, Nebraska,
+Kansas, and Missouri and terminates in Wood River, Illinois. The
+Express system has been in operation from 1997, with a current
+capacity of 280,000 bpd. The Platte pipeline was built in 1952, and
+its current capacity is 164,000 bpd. However, as operated today,
+neither of these existing systems would have the capacity of the
+proposed Keystone pipeline (435,000 bpd, with a potential increase to
+591,000 bpd). As they exist today, neither system could be considered
+as a system alternative for the proposed action
+
+New construction of other crude oil pipeline systems (Alberta
+Clipper, Southern Lights, and Spearhead Cushing Expansion) was also
+considered. Enbridge is proposing these expansion projects to help
+address current and future increases in refinery demand as supply
+from western Canada's vast oil sands increases. The Enbridge projects
+propose to deliver crude oil directly to Midwestern markets. However,
+the proposed Enbridge pipelines would provide a less direct route
+to the Cushing refineries than the Cushing Extension portion of the
+Keystone Project, involving the need for additional miles of pipe
+and likely incurring additional impacts to resources. In addition,
+these projects aim to fulfill other market demands and would not
+meet the market need and in-service date proposed by the Keystone
+Project. Therefore, as noted in Section ES.3.5 above, it is possible
+that market demand and supply of WCSB crude could support construction
+of the Keystone Project and the Enbridge projects.
+
+**ES.5.3 Major Route Alternatives**
+
+Three major route alternatives are considered in the EIS: the Iowa
+Route Alternative, the Proposed Route Alternative, and the Direct
+Route Alternative. During initial screening, it was determined that
+the Iowa Route Alternative did not meet the purpose and need for
+the Project, and the alternative was not considered further in the
+analysis. Table ES-4 summarizes the potential impacts of the remaining
+two alternatives, and the following sections discuss these alternatives
+in more detail. Based on the analysis of the two alternatives, the
+Proposed Route Alternative has been determined to be the preferred
+route and a resource-by-resource analysis of potential impacts is
+conducted in this EIS. Section ES.6 summarizes the results of the
+analysis.
+
+**ES.5.3.1 Iowa Route Alternative**
+
+Initial route development identified a ROW that avoided Nebraska
+and crossed Iowa into northern Missouri (Figure 4.3-1). Desktop data
+analysis, along with limited aerial and ground reconnaissance, was
+used to identify this route. The Iowa Route entered the United States
+in Pembina County, North Dakota, just north of Walhalla, and ran due
+south to the North Dakota/South Dakota border. In South Dakota, the
+route ran generally south to the Spink County border before turning
+southeast toward Plymouth County, Iowa. From there, it crossed the
+South Dakota/Iowa border north of Sioux City, Iowa and continued in
+a southeasterly direction through Iowa and Missouri toward a delivery
+point at Salisbury, Missouri.
+
+Here, the Iowa Route was collocated with the existing Platte pipeline
+to Troy, Missouri. North of Troy, the route was moved to a power line
+ROW to avoid areas where the city has expanded. East of Troy, the
+route again collocated with the Platte pipeline, running east to the
+Missouri/Illinois border---where it deviated from the Platte pipeline
+and crossed the Mississippi River south of Wood River, Illinois. From
+Wood River, the route ran eastward through the Carlyle Lake WMA into
+Patoka, Illinois.
+
+While the Iowa Route would meet the objectives of crude oil delivery
+to the refineries in Illinois, it would not efficiently deliver crude
+oil to Cushing, Oklahoma and would not meet the Keystone Project
+purpose and need, and is not considered further.
+
+**ES.5.3.2 Direct Alternative**
+
+The Direct Alternative was designed to take the shortest feasible
+route between the U.S./Canada border crossing and the delivery
+points at Patoka and Wood River, Illinois, and from there to take
+the shortest route to the delivery point at Cushing, Oklahoma (Figure
+4.3-2). The straight-line path was modified to skirt populated areas
+and to minimize the number of stream crossings by traveling along
+drainage divides whenever possible. Between Wood River and Patoka, the
+Direct Alternative follows the same alignment as Keystone's proposed
+route. Between Wood River and Cushing, the Direct Alternative roughly
+parallels Enbridge's Ozark pipeline corridor, but collocation was
+not assumed.
+
+A reconnaissance-level GIS analysis and comparison of the Direct
+Alternative and Keystone's Proposed Route was performed (see Table
+4.3-1). Based on this analysis, there is no clear environmental
+advantage associated with the Direct Alternative. The pipeline miles
+are very close, as are the approximate number of acres required for the
+pipeline ROW (acres required for ancillary facilities, access roads,
+work pads, etc. were not included in this assessment). The Direct
+Alternative would require an additional 48 water body crossings,
+and may require additional pump stations. It does not take advantage
+of collocation with other pipeline corridors. While slightly fewer
+miles of wetlands (based on available wetlands inventory mapping)
+and federal lands (based on available GIS coverage) may be crossed
+by the Direct Alternative, in a general sense this alternative would
+likely lead to more environmental impact than would construction of
+the Proposed Route.
+
+**TABLE ES-4 Comparison of the Proposed Route and Direct**
+
+**Alternatives for the Keystone Project**
+
+**Comparative Category Unit Proposed**
+
+**Route Direct**
+
+**Alternative**
+
+**Facility Requirements**
+
+Pipeline length Miles 1,378 1,380
+
+Pump station requirements Number 24 29
+
+**Land Requirements**
+
+Construction ROW Acres 18,300 18,303
+
+Permanent ROW Acres 8350 8,362
+
+**Environmental Considerations**
+
+Water body crossings Number 213 261
+
+Wetlands crossed Miles 44.4 40.0
+
+Federal lands crossed Miles 4.9 2.2
+
+**ES.5.4 Route Variations for the Proposed Route Alternative**
+
+As part of the route development and selection process, numerous route
+variations to the initially planned Mainline Project route and Cushing
+Extension route have been incorporated into the proposed route. These
+variations were developed based on discussions with landowners,
+resource stewards, and project engineers to avoid or minimize impacts
+to natural or cultural resources, reduce or eliminate engineering
+and constructability concerns, and avoid or minimize conflicts with
+existing or proposed residential and agricultural land uses.
+
+In addition to the route variations described, the scoping process
+identified public concerns related to route location. Many of these
+comments addressed specific route variations related to avoiding
+shelterbelts and aesthetic features, such as bike paths and parks. The
+Scoping Report is provided as Appendix A for reference. Specific Route
+Alternatives in the vicinity of Seward Nebraska, Fordville North
+Dakota, and in the Hecla Sandhills Region were analyzed in detail
+based on public and agency comments. Aspects of two of the variations,
+the Seward Route Alternative and the Hecla Sandhills Route Alternative
+were incorporated into the proposed route for the Keystone Project. The
+final design alignment, where feasible, considers these minor route
+variations and attempts to address additional landowner requirements,
+such as crossing property along quarter section lines. Additional minor
+alignment shifts would be required prior to and during construction
+to accommodate unforeseeable site- specific constraints related to
+other engineering, landowner, and environmental concerns.
+
+**ES.5.5 Aboveground Facility Alternatives for the Proposed Route**
+
+Pump stations, valve sites, temporary worksites, and pipe and
+contractor yards are identified in the EIS for the Keystone
+Project. The proposed project includes 24 pump stations, 44 pipe
+storage yards, 36 contractor yards, and 57 main line valves (MLVs)
+along the Mainline Project and 3 pump stations, 10 pipe storage yards,
+6 contractor yards, and 15 MLVs along the Cushing Extension. Although
+the preferred locations for these facilities were chosen based on
+Project need, the proximity of public access, habitats, dwellings,
+and other land and ROW issues also were considered in siting the
+facilities. Over the course of Project development, pump station
+locations have been relocated due to environmental, engineering or
+landowner concerns.

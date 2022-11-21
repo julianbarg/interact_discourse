@@ -1,0 +1,1511 @@
+**INTRODUCTION**
+
+In September 2008, TransCanada Keystone Pipeline, LP (Keystone) filed
+an application for a Presidential Permit with the U.S. Department of
+State (DOS) to build and operate the Keystone XL Project. The proposed
+Project would have the capacity to transport 700,000 barrels per day
+(bpd) of crude oil to delivery points in Oklahoma and southeastern
+Texas.
+
+This Executive Summary of the final environmental impact statement
+(final EIS) summarizes the proposed Project, including the purpose
+of and need for the Project, and the major conclusions and areas of
+concern raised by agencies and the public. More detailed information
+on the proposed Project, alternatives to the proposed Project, and
+the associated potential environmental impacts is presented in the
+final EIS that is provided in the CD in the sleeve on the back page.
+
+**PRESIDENTIAL PERMITTING PROCESS**
+
+All facilities which cross the international borders of the United
+States require a Presidential Permit. For liquid hydrocarbon pipelines,
+the President, through Executive Order 13337, directs the Secretary of
+State to decide whether a project is in the national interest before
+granting a Presidential Permit.
+
+As part of the Presidential Permit review process, DOS determined that
+it should prepare an EIS consistent with the National Environmental
+Policy Act (NEPA). DOS is the lead federal agency for the NEPA
+environmental review of the Proposed Project because the need for a
+Presidential Permit is the most substantial federal decision related to
+the Proposed Project. To assist in preparing the EIS, DOS retained an
+environmental consulting firm, Cardno ENTRIX, following DOS guidelines
+on third- party contracts. The DOS environmental and safety review
+of the proposed Project that lead to the final EIS was conducted
+for nearly 3 years and included consultations with the third-party
+contractor, cooperating agencies, and scientists and engineers with
+expertise in key areas of concern related to the proposed Project.
+
+The determination of national interest involves consideration of
+many factors, including energy security; environmental, cultural,
+and economic impacts; foreign policy; and compliance with relevant
+federal regulations. Before making a decision, DOS will consult with
+the eight federal agencies identified in Executive Order 13337: the
+Departments of Energy, Defense, Transportation, Homeland Security,
+Justice, Interior, and Commerce, and the Environmental Protection
+Agency (EPA). DOS will also solicit public input on the national
+interest determination by accepting written comments and holding
+comment meetings in the six states traversed by the proposed route
+and in Washington, D.C.
+
+Figure ES-1 lists the major events, public outreach activities,
+and other details of the environmental review and national interest
+determination processes.
+
+**SUMMARY OF THE KEYSTONE XL PROJECT**
+
+The proposed Keystone XL Project consists of a crude oil pipeline
+and related facilities that would primarily be used to transport
+Western Canadian Sedimentary Basin crude oil from an oil supply hub
+near Hardisty, Alberta, Canada to delivery points in Oklahoma and
+Texas. The proposed Project would also be capable of transporting
+U.S. crude oil to those delivery points. The U.S. portion of the
+pipeline would begin near Morgan, Montana at the international border
+of the United States and extend to delivery points in Nederland and
+Moore Junction, Texas. There would also be a delivery point at Cushing,
+Oklahoma. These three delivery points would provide access to many
+other U.S. pipeline systems and terminals, including pipelines to
+refineries in the U.S. Gulf Coast region. Market conditions, not the
+operator of the pipeline, would determine the refining locations of
+the crude oil. 
+
+**Figure ES-1 U.S. Department of State Environmental and National
+Interest Determination Review Processes**
+
+The proposed Keystone XL pipeline would consist of approximately
+1,711 miles of new 36-inch-diameter pipeline, with approximately 327
+miles of pipeline in Canada and 1,384 miles in the U.S. Figure ES-3
+depicts the three segments of the proposed Project in the U.S. As
+noted in that illustration, the proposed Project would connect to
+the northern and southern ends of the existing Cushing Extension of
+the Keystone Oil Pipeline System.
+
+Figure ES-4 illustrates the construction sequence that would be
+followed for the proposed Project. The proposed Project would also
+include 30 electrically operated pump stations, 112 mainline valves,
+50 permanent access roads, and a new oil storage facility in Cushing,
+Oklahoma. If market conditions change, the capacity of the proposed
+Project could be increased to 830,000 bpd by increasing pumping
+capacity at the proposed pump stations.
+
+The overall proposed Keystone XL Project is estimated to cost $7
+billion. If permitted, it would begin operation in 2013, with
+the actual date dependant on the necessary permits, approvals,
+and authorizations.
+
+**Transport of Canadian Oil Sands Crude Oil**
+
+The proposed Keystone XL Project would primarily transport crude
+oil extracted from the oil sands areas in Alberta, Canada. Oil
+sands (which are also referred to as tar sands) are a combination
+of clay, sand, water, and bitumen, which is a material similar to
+soft asphalt. Bitumen is extracted from the ground by mining or by
+injecting steam underground to heat the bitumen to a point where it
+liquefies and can be pumped to the surface.
+
+Bitumen is treated in several ways to create crude oil suitable for
+transport by pipeline and refining. The types of Canadian crude oil
+that would be transported by the proposed Project would primarily
+consist of synthetic crude oil and diluted bitumen.
+
+Synthetic crude oil is produced from bitumen using refining methods --
+a process termed upgrading -- that in general converts bitumen into
+lighter liquid hydrocarbons. In other words, the bitumen is converted
+into a crude oil similar to conventional crude oil.
+
+**Figure ES-2 36-Inch-Diameter Crude Oil Pipe** 
+
+**Pipe Specifications**
+
+• Material: High-strength X70 steel pipe, API 5L
+
+• Outside diameter: 36 inches • Operating Pressure: 1,308 psig
+• External Coating: fusion-bonded
+
+See Section 2.3.1 for further information on pipe specifications.
+
+**Figure ES-1 (Cont.) U.S. Department of State Environmental and
+National Interest Determination Review Processes**
+
+Diluted bitumen -- often termed dilbit -- consists of bitumen
+mixed with a diluent, which is a light hydrocarbon liquid such as
+natural gas condensate or refinery naphtha. The bitumen is diluted to
+reduce its viscosity so that it is in a more liquid form that can be
+transported via pipeline. Dilbit is also processed to remove sand,
+water, and other impurities. The diluents in dilbit are integrally
+combined with the bitumen to form a crude oil that is a homogenous
+mixture that does not physically separate when released.
+
+Both synthetic crude oil and dilbit are similar in composition and
+quality to the crude oils currently transported in pipelines in the
+U.S. and being refined in Gulf Coast refineries. Neither type of
+crude oil requires heating for transport in pipelines.
+
+**Transport of U.S. Crude Oil**
+
+In late 2010, Keystone Marketlink, LLC announced plans for two
+separate projects that would enable crude oil from domestic sources
+to be transported in the proposed Keystone XL Project. Those two
+projects, the Bakken Marketlink Project and the Cushing Marketlink
+Project, are considered "connected actions" under NEPA. The Bakken
+Marketlink Project would allow transport of up to 100,000 bpd of crude
+oil from the Bakken formation in the Williston Basin in Montana and
+North Dakota.
+
+These fields have experienced high growth in the last few years as new
+technology has allowed the oil to be profitably extracted. Keystone
+currently has long- term commitments for transporting 65,000 bpd
+of crude oil in the proposed Keystone XL Project from the Bakken
+Marketlink Project.
+
+The Cushing Marketlink Project would allow transport of up to 150,000
+bpd on the proposed Project from the Cushing, Oklahoma area to the
+proposed Keystone XL Project delivery points in Texas.
+
+**Other Connected Actions**
+
+In addition to the Marketlink projects, there are two other types of
+connected actions associated with the proposed Project: electrical
+distribution lines and substations that would provide power for the
+pump stations, and an electrical transmission line that would be
+required to ensure transmission system reliability when the proposed
+Project is operating at maximum capacity. Those projects would not be
+built or operated by Keystone, and the permit applications for those
+projects would be reviewed and acted on by other agencies. Although
+only limited information was available on the design, construction,
+and operation of the projects, DOS assessed the potential impacts of
+the projects based on currently available information. 
+
+**Figure ES-3**
+
+**Proposed Pipeline Route** 
+
+**Figure ES-4**
+
+**Typical Pipeline Construction Sequence**
+
+**PURPOSE OF AND NEED FOR THE KEYSTONE XL PROJECT**
+
+The primary purpose of the proposed Project is to provide the
+infrastructure necessary to transport Western Canadian Sedimentary
+Basin heavy crude oil from the U.S. border with Canada to delivery
+points in Texas in response to the market demand of Gulf Coast
+refineries for heavy crude oil. This market demand is driven by the
+need of the refiners to replace declining feed stocks of heavy crude
+oil obtained from other foreign sources with crude oil from a more
+stable and reliable source. Keystone currently has firm, long-term
+contracts to transport 380,000 bpd of Canadian crude oil to the Texas
+delivery points.
+
+An additional purpose of the proposed Project is to transport Canadian
+heavy crude oil to the proposed Cushing tank farm in response to the
+market demand of refineries in the central and Midwest U.S. for heavy
+crude oil. Keystone also has firm contracts to transport 155,000 bpd
+of Canadian crude oil to
+
+Cushing, Oklahoma in the existing Keystone Oil Pipeline Project. If
+the proposed Project is approved and implemented, Keystone would
+transfer shipment of crude oil under those contracts to the proposed
+Project. Although there is sufficient pipeline capacity from Canada
+to the U.S. in general to accommodate projected additional imports
+of Canadian crude in the short to medium term, there is extremely
+limited pipeline transport capacity to move such crude oils to Gulf
+Coast refineries.
+
+The 58 refineries in the Gulf Coast District provide a total
+refining capacity of approximately 8.4 million bpd, or nearly half of
+U.S. refining capacity. These refineries provide substantial volumes of
+refined petroleum product, such as gasoline and jet fuel, via pipeline
+to the Gulf Coast region as well as the East Coast and the Midwest.
+
+In 2009, Gulf Coast refineries imported approximately 5.1 million bpd
+of crude oil from more than 40 countries. The top four suppliers were
+Mexico, Venezuela, Saudi Arabia, and Nigeria. Of the total 
+
+volume imported, approximately 2.9 million bpd was heavy crude oil
+similar to the crude oil that would be transported by the proposed
+Project; Mexico and Venezuela were the major suppliers. However,
+imports of heavy crude oil from these two countries have been in steady
+decline while Gulf Coast refining capacity is projected to grow by
+at least 500,000 bpd by 2020, with or without the proposed Project.
+
+**PROJECT DESIGN AND SAFETY**
+
+The Pipeline and Hazardous Materials Safety Administration (PHMSA),
+a federal agency within the U.S. Department of Transportation, is
+the primary federal regulatory agency responsible for ensuring the
+safety of America's energy pipelines, including crude oil pipeline
+systems. As a part of that responsibility, PHMSA established regulatory
+requirements for the construction, operation, maintenance, monitoring,
+inspection, and repair of hazardous liquid pipeline systems.
+
+In 2009, Keystone applied to PHMSA for a Special Permit to operate
+the proposed Project at a slightly higher pressure than allowed
+under the existing regulations. DOS worked with PHMSA to develop
+Project-specific Special Conditions that would have been incorporated
+into the Special Permit. However, in August 2010, Keystone withdrew
+its application to PHMSA for a Special Permit. However, to enhance
+the overall safety of the proposed Project, DOS and PHMSA continued
+working on Special Conditions specific to the proposed Project and
+ultimately established 57 Project-specific Special Conditions. As
+a result, Keystone agreed to design, construct, operate, maintain,
+and monitor the proposed Project in accordance with the more stringent
+57 Project- specific Special Conditions in addition to complying with
+the existing PHMSA regulatory requirements.
+
+In consultation with PHMSA, DOS determined that incorporation of
+the Special Conditions would result in a Project that would have a
+degree of safety greater than any typically constructed domestic oil
+pipeline system under current regulations and a degree of safety along
+the entire length of the pipeline system that would be similar to that
+required in high consequence areas as defined in the regulations. Key
+aspects of the Special Conditions are summarized below. Appendix U
+of the EIS presents the Special Conditions and a comparison of the
+conditions with the existing regulatory requirements.
+
+**Figure ES-5**
+
+**Pipeline Cross-section** 
+
+**Pipe Design and Manufacturing**
+
+The first nine Special Conditions present design standards to be
+used in manufacturing the pipe and requirements for pipe materials,
+pipe inspections at the mill and in the field, performance tests,
+and quality control procedures.
+
+**System Design, Construction and Testing**
+
+Conditions 10 through 23 address design and construction of the
+proposed Project, including testing of Project components. Those
+Conditions present requirements for aspects of the proposed Project
+such as field coatings, depth of cover over the pipeline, temperature
+and overpressure control, welding procedures, and testing prior
+to operations. Testing requirements include hydrostatic testing,
+a process which involves filling the line with water and increasing
+the pressure within the pipeline to test the pipeline's ability to
+withstand pressure. If the test water pressure drops, further testing
+must be conducted and reported to PHMSA, and faulty pipeline sections
+must be repaired or replaced. Operations could not begin until the
+entire system has passed the required hydrostatic testing.
+
+**Operations, Maintenance, and Monitoring**
+
+Conditions 24 through 49 present the requirements for the Supervisory
+Control and Data Acquisition (SCADA) system that would be used to
+remotely monitor and control the pipeline, as well as requirements for
+internal corrosion inspection, cathodic protection, identification
+of the location of the pipeline with aboveground markers, internal
+pipeline inspections using electronic sensing devices termed
+"smart pigs," visual monitoring of the pipeline corridor, and repair
+procedures. The SCADA system would alert the Operations Control Center
+of an abnormal operating condition, indicating a possible release of
+oil. The system would include automatic features that would ensure
+operation within prescribed pressure limits. There would also be a
+complete backup system.
+
+**Figure ES-6 Smart Pig**
+
+Pipeline pressure is the primary indicator used by the SCADA system to
+detect an oil spill. If the monitoring system identifies a pressure
+change in the pipeline, the controller would evaluate the data to
+determine if it is a false alarm or an actual spill. Using pipeline
+pressure allows the operator to detect leaks down to approximately
+1.5 to 2 percent of pipeline flow rate.
+
+The proposed Project would also include a computer- based system that
+does not rely on pipeline pressure to assist in identifying leaks
+below the 1.5 to 2 percent detection thresholds.
+
+In addition to computer monitoring, there would be scheduled patrols
+of the pipeline right-of-way as well as public and landowner awareness
+programs. Communities along the pipeline would be given information
+to facilitate the reporting of suspected leaks and events that could
+suggest a threat to pipeline safety.
+
+**Reporting, Record Keeping, and Certification**
+
+The final eight conditions present requirements for maintaining
+detailed records, development a right-of- way management plan,
+reporting to PHMSA, and providing PHMSA with certification from a
+senior officer of Keystone that it has complied with the Special
+Conditions. 
+
+**SPILL POTENTIAL AND RESPONSE**
+
+Spills could result from many causes, including corrosion (external
+or internal), excavation equipment, defects in materials or in
+construction, over- pressuring the pipeline, and geologic hazards,
+such as ground movement, washouts, and flooding. Although the leak
+detection system would be in place, some leaks might not be detected by
+the system. For example, a pinhole leak could be undetected for days or
+a few weeks if the release volume rate were small and in a remote area.
+
+In most cases the oil from a small leak would likely remain within or
+near the pipeline trench where it could be contained and cleaned up
+after discovery. As a result, for most small leaks it is likely that
+the oil would be detected before a substantial volume of oil reaches
+the surface and affects the environment. Spills may be identified
+during regular pipeline aerial inspections, by ground patrols and
+maintenance staff, or by landowners or passersby in the vicinity of
+the spill.
+
+For larger spills, the released oil would likely migrate from the
+release site. However, DOS analysis of previous large pipeline
+oil spills suggests that the depth and distance that the oil would
+migrate would likely be limited unless it reaches an active river,
+stream, a steeply sloped area, or another migration pathway such as
+a drainage ditch.
+
+**Estimated Frequency of Spills**
+
+In spite of the safety measures included in the design, construction,
+and operation of the proposed Project, spills are likely to occur
+during operation over the lifetime of the proposed Project. Crude oil
+could be released from the pipeline, pump stations, or valve stations.
+
+Although a large spill could occur at the proposed Cushing tank
+farm, each of the three 350,000-barrel tanks would be surrounded by a
+secondary containment berm that would hold 110 percent of the contents
+of the tank plus freeboard for precipitation. Therefore, there would
+have to be a concurrent failure of the secondary containment berm
+for a tank-farm spill to reach the area outside of the tank. Such an
+event is considered unlikely.
+
+DOS calculated estimates of spill frequency and spill volumes. Those
+estimates included potential spills from the pipeline, pump stations,
+and valve stations. The calculations used data from the PHMSA spill
+incident database for hazardous liquid pipelines and crude oil
+pipelines, and from the National Response
+
+Center (NRC) database for releases and spills of hazardous substances
+and oil.
+
+Based on those data, DOS calculated that there could be from 1.18
+to 1.83 spills greater than 2,100 gallons per year for the entire
+Project. The estimated frequency of spills of any size ranged from
+1.78 to 2.51 spills per year.
+
+Keystone submitted a risk analysis that also included an
+estimate of the frequency of spills over the life of the proposed
+Project. Keystone's analysis was for the pipeline only and did not
+include releases from pump stations, valve stations, or the tank farm.
+
+Keystone initially calculated a spill frequency of 1.38 spills per year
+based only on the historical PHMSA spill incident database available
+in 2008 when the application was submitted. Keystone also calculated
+a Project-specific spill frequency for the pipeline that considered
+the specific terrain and environmental conditions along the proposed
+Project corridor, required regulatory controls, depth of cover,
+strength of materials, and technological advances in the design of
+the proposed Project. Using those factors, Keystone estimated that
+there could be 0.22 spills per year from the pipeline.
+
+**Spills from the Existing Keystone Oil Pipeline System**
+
+The existing Keystone Oil Pipeline System has experienced 14 spills
+since it began operation in June 2010. The spills occurred at fittings
+and seals at pump or valve stations and did not involve the actual
+pipeline. Twelve of the spills remained entirely within the confines
+of the pump and valve stations. Of those spills, 7 were 10 gallons or
+less, 4 were 100 gallons or less, 2 were between 400 and 500 gallons,
+and 1 was 21,000 gallons.
+
+The spill of 21,000 gallons occurred when a fitting failed at the
+Ludden, North Dakota pump station. As a result, PHMSA issued a
+Corrective Action Order, halting pipeline operation. Keystone was
+required to consult with PHMSA before returning the pipeline to
+operation. In that incident, most of the oil was contained within
+the pump station, but 210 gallons discharged from the pump station to
+adjacent land. The land affected was treated in place in compliance
+with North Dakota Department of Health land treatment guidelines. 
+
+**Maximum Spill Volume**
+
+Keystone conducted an assessment of the maximum potential pipeline
+spill volume from a complete pipeline structural failure. Keystone
+estimated that the maximum spill volume would be approximately 2.8
+million gallons, which would be possible along less than 1.7 miles
+of the proposed pipeline route due to topographic conditions. For
+approximately 50 percent of the proposed pipeline route (approximately
+842 miles), the maximum spill volume would be approximately 672,000
+gallons.
+
+**Figure ES-7 Pump Station on the Existing Keystone Oil**
+
+**Pipeline System**
+
+**Emergency Planning**
+
+As required by PHMSA regulations, Keystone must submit an Emergency
+Response Plan and a Pipeline Spill Response Plan to PHMSA for review
+prior to initiation of operation of the proposed Project. These plans
+would not be completed until the final details of the proposed Project
+are established in all applicable permits.
+
+If a leak is suspected, the Emergency Response Plan and Pipeline
+Spill Response Plan would be initiated. After confirmation that a
+spill occurred, the operator would shut down pumps and close the
+isolation valves, actions that would require approximately 12 minutes.
+
+**Local Emergency Planning Committees (LEPCs)**
+
+LEPCs were established as a part of the Emergency Planning and
+Community Right-to-Know Act. Keystone has committed to a communication
+program to reach out to LEPCs along the proposed pipeline corridor
+during development of the Emergency Response Plan and the Pipeline
+Spill Response Plan, with particular consideration given to emergency
+planning for low income and minority populations. The LEPCs would
+participate in emergency response consistent with their authority
+under the Right-to- Know Act and as required by their local emergency
+response plans.
+
+**POTENTIAL ENVIRONMENTAL IMPACTS OF OIL SPILLS**
+
+Impacts from an oil spill would be affected by variables such as the
+weather, time of year, water level, soil, local wildlife, and human
+activity. The extent of impact would also depend on the response time
+and capabilities of the emergency response team.
+
+The greatest concern would be a spill in environmentally sensitive
+areas, such as wetlands, flowing streams and rivers, shallow
+groundwater areas, areas near water intakes for drinking water or for
+commercial/industrial uses, and areas with populations of sensitive
+wildlife or plant species.
+
+**General Types of Potential Impacts**
+
+There are two primary types of impacts that occur with a spill of
+crude oil -- physical impacts and toxicological impacts. Physical
+impacts typically consist of the coating of soils, sediments, plants,
+and animals. The coating of organisms can result in effects such
+as preventing them from feeding or obtaining oxygen, reducing the
+insulating ability of fur or feathers, and adding weight to the
+organism so that it cannot move naturally or maintain balance. In
+addition, oil may coat beaches along rivers or lakes and foul other
+human-use resources.
+
+Toxicological impacts of an oil spill are a function of the chemical
+composition of the oil, the solubility of each class of compounds in
+the oil, and the sensitivity of the area or organism exposed. Crude
+oil may be toxic when ingested. Ingestion typically occurs when
+an oiled animal attempts to clean its fur or feathers. Some of the
+possible toxic effects include direct mortality, interference with
+feeding or reproductive capacity, disorientation, reduced resistance
+to disease, tumors, reduction or loss of various sensory perceptions,
+and interference with metabolic, biochemical, and genetic processes.
+
+Birds typically are the most affected wildlife due to an oil
+spill. Oil on feathers causes hypothermia or drowning due to the
+loss of flotation, and birds may suffer both acute and chronic
+toxicological effects. In addition, dead oiled birds may be scavenged
+by other animals. 
+
+Fish and aquatic invertebrates could also experience toxic impacts
+of spilled oil. The potential impacts would generally be greater in
+standing water habitats − such as wetlands, lakes and ponds −
+than in flowing rivers and creeks.
+
+Crude oil spills are not likely to have toxic effects on the general
+public because of the many restrictions that local, state and federal
+agencies impose to avoid environmental exposure after a spill.
+
+**Potential Impacts to the Ogallala Aquifer and other Groundwater
+Areas**
+
+DOS recognizes the public's concern for the Northern High Plains
+Aquifer System, which includes the Ogallala aquifer formation and
+the Sand Hills aquifer unit.
+
+The Northern High Plains Aquifer system supplies 78 percent of the
+public water supply and 83 percent of irrigation water in Nebraska and
+approximately 30 percent of water used in the U.S. for irrigation and
+agriculture. Of particular concern is the part of the aquifer which
+lies below the Sand Hills region. In that region, the aquifer is at
+or near the surface.
+
+DOS assessed the potential impacts of the proposed Project on many
+aquifer systems. The aquifer analysis included the identification
+of potable groundwater in water wells within 1 mile of the proposed
+centerline of the pipeline. More than 200 Public Water Supply wells,
+most of which are in Texas, are within 1 mile of the proposed
+centerline, and 40 private water wells are within 100 feet of the
+centerline. No sole-source aquifers, or aquifers serving as the
+principal source of drinking water for an area, are crossed by the
+proposed pipeline route.
+
+The potential for a crude oil spill to reach groundwater is related
+to the spill volume, the viscosity and density of the crude oil,
+the characteristics of the environment into which the crude oil is
+released (particularly the characteristics of the underlying soils),
+and the depth to groundwater. The depth to groundwater is less than
+10 feet for about 65 miles of the proposed route in Nebraska and
+there are other areas of shallow groundwater in each state along
+the proposed route. Diluted bitumen and synthetic crude oil, the
+two types of crude oil that would be transported by the proposed
+Project, would both initially float on water if spilled. Over time,
+the lighter aromatic fractions of the crude oil would evaporate,
+and water-soluble components could enter the groundwater.
+
+Studies of oil spills from underground storage tanks indicate that
+potential surface and groundwater impacts are typically limited to
+several hundred feet or less from a spill site. An example of a crude
+oil release from a pipeline system into an environment similar to the
+Northern High Plains Aquifer system occurred in 1979 near Bemidji,
+Minnesota.
+
+While the conditions at Bemidji are not fully analogous to the Sand
+Hills region, extensive studies of the Bemidji spill suggest that
+impacts to shallow groundwater from a spill of a similar volume in
+the Sand Hills region would affect a limited area of the aquifer
+around the spill site. In no spill incident scenario would the entire
+Northern High Plains Aquifer system be adversely affected.
+
+In addition to the Northern High Plains Aquifer system, there are
+other groundwater areas along the proposed route, including shallow
+or near-surface aquifers. DOS in consultation with PHMSA and EPA
+determined that Keystone should commission an independent consultant
+to review the Keystone risk assessment. The independent review will
+be conducted by a firm approved by DOS in concurrence with PHMSA
+and EPA, and would focus on a review of valve placement and the
+possibility of deploying external leak detection systems in areas
+of particularly sensitive environmental resources, but would not be
+limited to those issues. The specific scope of the analysis will be
+approved by DOS, PHMSA, and EPA. DOS, with concurrence from PHMSA and
+EPA, will determine the need for any additional mitigation measures
+resulting from the analysis.
+
+**Potential Environmental Justice Concerns**
+
+Low income and minority communities could be more vulnerable to health
+impacts than other communities in the event of a spill, particularly if
+access to health care is less available in the release area. Exposure
+pathways could include direct contact with the crude oil, inhalation of
+airborne contaminants, or consumption of food or water contaminated
+by either the crude oil or components of the crude oil. Keystone
+agreed to remediate spills, restore the affected areas, and provide
+alternative water supplies if a spill contaminates groundwater or
+surface water. Keystone also agreed to develop communications directed
+at bilingual communities, such as signage in both English and Spanish
+languages, and emergency communications in both languages.
+
+**ALTERNATIVES CONSIDERED**
+
+DOS considered the following three major alternative scenarios: 
+
+• No Action Alternative -- potential scenarios that could occur if
+the proposed Project is not built and operated;
+
+• System Alternatives − the use of other pipeline systems or other
+methods of providing Canadian crude oil to the Cushing tank farm and
+the Gulf Coast market;
+
+• Major Route Alternatives − other potential pipeline routes for
+transporting heavy crude oil from the U.S./Canada border to Cushing,
+Oklahoma and the Gulf Coast market.
+
+**No Action Alternative**
+
+Under the No Action Alternative, the potential adverse and positive
+impacts associated with building and operating the proposed Project
+would not occur. However, there is an existing market demand for heavy
+crude oil in the Gulf Coast area. The demand for crude oil in the Gulf
+Coast area is projected to increase and refinery runs are projected
+to grow over the next 10 years, even under a low demand outlook.
+
+A report commissioned by the Department of Energy (DOE) indicated that
+whether the proposed Project is built or not is unlikely to impact
+the demand for heavy crude oil by the Gulf Coast refineries. Even if
+improved fuel efficiency and broader adoption of alternative fuels
+reduced overall demand for oil, demand for Canadian heavy crude oil
+at Gulf Coast refineries would not be substantially affected.
+
+At the same time, three of the four countries that are major crude
+oil suppliers to Gulf Coast refineries currently face declining
+or uncertain production horizons. As a result, those refineries
+are expected to obtain increased volumes of heavy crude oil from
+alternative sources in both the near term and further into the
+future. Implementation of the No Action Alternative would not meet
+this need.
+
+If the proposed Project is not built and operated, Gulf Coast
+refineries could obtain Canadian crude oil transported through other
+new pipelines or by rail or truck transport. Other pipeline projects
+have been proposed to transport Canadian crude oil to the Gulf Coast
+area, and both rail transport and barge transport could be used to
+meet a portion of the need. In addition, the Gulf Coast refineries
+could obtain crude oil transported by marine tanker from areas outside
+of North America. Many of the sources outside of North America are in
+regions that are experiencing declining production or are not secure
+and reliable sources of crude oil, including the Middle East, Africa,
+Mexico, and South America.
+
+As a result of these considerations, DOS does not regard the No Action
+Alternative to be preferable to the proposed Project.
+
+If the proposed Project is not implemented, Canadian producers would
+seek alternative transportation systems to move oil to markets other
+than the U.S. Several projects have been proposed to transport crude
+oil out of using pipelines to Canadian ports.
+
+Whether or not the proposed Project is implemented, Canadian producers
+would seek alternative transportation systems to move oil to markets
+other than the U.S. Several projects have been proposed to transport
+crude oil out of the oil sands area of Alberta using pipelines to
+Canadian ports.
+
+**System Alternatives**
+
+System alternatives would use combinations of existing or expanded
+pipeline systems, pipeline systems that have been proposed or
+announced, and non-pipeline systems such as tank trucks, railroad
+tank cars, and barges and marine tankers to transport Canadian heavy
+crude oil to Gulf Coast refineries.
+
+None of the pipeline systems considered would be capable of
+transporting Canadian crude oil to Gulf Coast delivery points in the
+volumes required to meet Keystone's commitments for transporting
+380,000 bpd to delivery points in Texas. Therefore they would not
+meet the purpose of the proposed Project. A combination of the
+pipeline systems considered could, over time, deliver volumes of
+Canadian oil sands crude oil in volumes similar to the volumes that
+would be transported by the proposed Project. However, that would
+not meet the near-term need for heavy crude oil at the Gulf Coast
+refineries. Expanding the pipeline systems that were considered to meet
+the purpose of the proposed Project or construction of new components
+or a combination of those systems would result in impacts similar to
+those of the proposed Project.
+
+The trucking alternative would add substantial congestion to highways
+in all states along the route selected, particularly at and near the
+border crossing and in the vicinity of the delivery points. At those
+locations it is likely that there would be significant impacts to
+the existing transportation systems. Trucking would also result in
+substantially higher greenhouse gas emissions and a higher risk of
+accidents than transport by pipeline. 
+
+Development of a rail system to transport the volume of crude oil that
+would be transported by the proposed Project would likely produce less
+impact from construction than would the proposed Project because it
+could be done using existing tracks. However, there would be greater
+safety concerns and greater impacts during operation, including
+higher energy use and greenhouse emissions, greater noise impacts,
+and greater direct and indirect effects on many more communities than
+the proposed Project.
+
+As a result of these considerations as described in Section 4.2 of
+the EIS, system alternatives were considered either not reasonable
+or not environmentally preferable.
+
+**Major Route Alternatives**
+
+The analysis of route alternatives considered 14 major
+route alternatives. Figure ES-8 depicts the alternative routes
+considered. The analysis of alternatives routes was conducted following
+the approach to assessments of alternative pipeline routes used by
+the Federal Energy Regulatory Commission. As a result, the analysis
+began with a screening process that first established criteria for
+screening alternatives, then identified potential alternatives that met
+the criteria, and determined whether or not they would (1) meet the
+purpose of and need for the proposed Project, and (2) be technically
+and economically practicable or feasible. For those alternatives
+meeting the criteria, DOS assessed whether or not the alternative
+offered an overall environmental advantage over the proposed route.
+
+Due to public concern regarding the Ogallala Aquifer (Northern High
+Plains Aquifer system) and the Sand Hills region, 5 of the alternative
+routes were developed to either minimize the pipeline length over those
+areas or avoid the areas entirely. These alternative routes consisted
+of I-90 Corridor Alternatives A and B, Keystone Corridor Alternatives
+1 and 2 (which are parallel to all or part of the route of the existing
+Keystone Oil Pipeline System), and the Western Alternative.
+
+The assessment considered the environmental characteristics of the
+areas that these alternatives would cross, including the presence
+of aquifers, the depth of wells, developed land, forested areas,
+wetlands, and streams and rivers.
+
+The Western Alternative was eliminated since it was financially
+impracticable. Although the other four route alternatives could have
+been eliminated based on consideration of economical and technical
+practicability and feasibility without further evaluation, they
+were nonetheless examined further with an emphasis on groundwater
+resources. The I-90 Corridor and Keystone Corridor alternatives would
+all avoid the Sand Hills; however, they would not avoid the Northern
+High Plains Aquifer system, and they would not avoid areas of shallow
+groundwater. Instead, these routes would shift risks to other areas
+of the Northern High Plains Aquifer system and to other aquifers.
+
+In addition, these alternatives would be longer than the proposed
+route and would disturb more land and cross more water bodies than
+the proposed route. In addition, I-90 Corridor Alternatives A and B
+require crossing Lake Francis Case on the Missouri River which would
+pose technical challenges due to the width of the reservoir and the
+slope of the western side of the crossing area.
+
+Keystone Corridor Alternatives 1 and 2 would cost about 25 percent more
+than the proposed Project (about $1.7 billion more) and implementation
+of either of those alternatives would compromise the Bakken Marketlink
+Project and the opportunity to transport crude oil from the producers
+in the Bakken formation to markets in Cushing and the Gulf Coast.
+
+Based on the above considerations and as described in Section 4.3 of
+the EIS, DOS eliminated the major potential route alternatives from
+further consideration.
+
+**Route Variations and Minor Realignments**
+
+A route variation is a relatively short deviation from a proposed route
+that replaces a segment of the proposed route. Variations are developed
+to resolve landowner concerns and impacts to cultural resource sites,
+wetlands, recreational lands, and terrain.
+
+DOS consulted with the Bureau of Land Management and state agencies to
+negotiate route variations and minor realignments, including nearly 100
+in Montana and about 240 minor realignments in other states along the
+proposed route. Additional route variations and minor realignments may
+be added in response to specific conditions that may arise throughout
+the construction process. 
+
+**Figure ES-8 Major Route Alternatives** 
+
+The variations and minor realignments would replace short segments
+of the proposed Project, are relatively close to the proposed route,
+and would be implemented in accordance with applicable regulatory
+requirements of federal, state, or local permitting agencies. DOS
+considers the variations and minor realignments selected to have been
+evaluated sufficiently to meet the environmental review requirements
+of the National Environmental Protection Act.
+
+**Other Alternatives Considered**
+
+DOS also considered several other scenarios in response to comments on
+the draft EIS. The alternative pipeline designs considered consisted
+of an aboveground pipeline and a smaller diameter pipe to decrease the
+volume of oil released from a spill. DOS also considered alternative
+sites for the major aboveground facilities of the proposed Project,
+including pump stations, mainline valves, and the Cushing tank
+farm. None of the alternative designs or facility locations were
+considered safer or environmentally preferable to the proposed
+Project design.
+
+**Agency Preferred Alternative**
+
+DOS did not find any of the major alternatives to be preferable
+to the proposed Project for the reasons presented in the final EIS
+and summarized above. As a result, the agency-preferred alternative
+is the proposed Project route with the variations and minor route
+realignments described in the EIS, and the proposed location of the
+Cushing tank farm.
+
+**ENVIRONMENTAL ANALYSES**
+
+Four levels of impact duration were considered in the analysis
+of potential environmental impacts due to construction and
+normal operation of the proposed Project: temporary, short-term,
+long-term, and permanent. Temporary impacts generally occur during
+construction, with the resources returning to pre-construction
+conditions almost immediately afterward. Short-term impacts could
+continue for approximately 3 years after construction, and impacts
+were considered long term if the resources would require more than
+3 years to recover. Permanent impacts would occur if the resources
+would not return to pre-construction conditions during the life of
+the proposed Project, such as impacts to land use due to installation
+of pump stations.
+
+Conclusions in the EIS are based on the analysis of environmental
+impacts and the understanding that:
+
+• Keystone would comply with all applicable laws and regulations;
+
+• The proposed Project would be constructed, operated, and maintained
+as described in the EIS;
+
+• Keystone has agreed to incorporate the 57 Project-specific Special
+Conditions developed by PHMSA into the proposed Project;
+
+• Keystone has agreed to implement the measures designed to avoid or
+reduce impacts described in its application for a Presidential Permit
+and supplemental filings with DOS, the measures in its Construction,
+Mitigation, and Reclamation (CMR) Plan presented in Appendix B of the
+EIS, and the construction methods for the Sand Hills region described
+in Appendix H to the EIS; and
+
+• Keystone would incorporate the mitigation measures required
+in permits issued by environmental permitting agencies into the
+construction, operation, and maintenance of the proposed Project.
+
+**Environmental Justice**
+
+Executive Order 12898 requires federal agencies to address and mitigate
+potential adverse impacts to minority and low income populations. In
+consultation with EPA, DOS identified these communities within a
+4-mile-wide corridor centered on the pipeline using census and county
+level data.
+
+**Potential Construction Impacts:** The assessment suggested that
+potential impacts to minority and low income populations could occur
+primarily in Harris, Jefferson, and Angelina Counties in Texas and
+in Lincoln County, Oklahoma. During construction, potential impacts
+include exposure to increased dust and noise, disruption of traffic
+patterns, and increased competition for social services in underserved
+populations. At any given location along the proposed pipeline route,
+the duration of the construction period would typically range from 20
+to 30 working days. As a result, the impacts to minority and low-income
+populations due to construction would be temporary and minor.
+
+**Medical Services:** Areas along the pipeline route that are
+medically underserved may be more vulnerable during construction
+periods. These communities have been identified as Health Professional
+Shortage Areas or Medically Underserved Areas/Populations. However,
+construction-related disruptions in those areas would be temporary
+and minor. In areas in 
+
+Montana and South Dakota, minor medical needs of workers would be
+handled in construction camps to avoid or minimize the need for
+medical services from the surrounding communities.
+
+**Air Emissions Related to Environmental Justice Issues:** The
+refineries that are likely to receive oil transported by the pipeline
+are already configured to process heavy crude oil, and in the future
+would seek to continue processing heavy crude oil whether or not the
+proposed pipeline is constructed. The analysis in the EIS, including
+a DOE-commissioned study, indicates that the proposed Project would
+not likely affect the overall quality or quantity of crude oil refined
+in the Gulf Coast region, and, as a result, would not likely effect
+refinery emissions.
+
+**Greenhouse Gas Emissions**
+
+DOS commissioned a detailed study of greenhouse gas life-cycle
+emissions that compared Canadian oil sands crude with other selected
+reference crudes. This study was a thorough review of recent scientific
+literature on greenhouse gas life-cycle emissions for Canadian oil
+sands crude including extraction, upgrading, transportation, refining,
+and combustion.
+
+The study's major conclusion was that, throughout its life cycle,
+oil sands crude is, on average, more greenhouse gas intensive than the
+crude oil it would replace in the U.S. However, the relative greenhouse
+gas intensity varies depending on (1) study design factors, such as
+the reference crudes selected for comparison with Canadian oil sands
+crudes (e.g., 2005 U.S. average crude oil, Venezuelan Bachaquero,
+Middle East Sour, and Mexican Heavy) and the timeframe selected, and
+(2) study assumptions, such as the extraction method and the mix of
+crudes that would be transported by the pipeline.
+
+For example, the Department of Energy's National Environmental
+Technology Lab (NETL) study indicated that the life-cycle greenhouse
+gas emissions of gasoline produced from Canadian oil sands crude are
+approximately 17 percent higher than gasoline from the 2005 average
+mix of crude oil consumed in the U.S. The NETL study serves as a key
+input for analyses conducted by EPA and DOE. In comparison, a study
+conducted by TIAX, LLC, found that the greenhouse gas emissions from
+gasoline produced from Canadian oil sands crude are only 2 percent
+higher when compared to gasoline from Venezuelan heavy crude, a type of
+crude oil that is similar to the crude oil that would be transported
+by the proposed Project and is currently refined in large quantities
+by Gulf Coast refineries.
+
+The proposed Project is not likely to impact the amount of crude
+oil produced from the oil sands. However, for illustrative purposes,
+the DOS- commissioned study estimated that incremental life- cycle
+U.S. greenhouse gas emissions from displacing reference crude oils with
+Canadian oil sands crude oils imported through the proposed Project
+would be between 3 and 21 million metric tons of carbon dioxide
+emissions annually. This range is equivalent to annual greenhouse
+gas emissions from the combustion of fuels in 588,000 to 4,061,000
+passenger vehicles.
+
+In addition, current projections suggest that the amount of energy
+required to extract all crude oils is projected to increase over
+time due to the need to extract oil from ever deeper reservoirs using
+more energy intensive techniques. However, while the greenhouse gas
+intensity of reference crude oils may trend upward, the projections
+for the greenhouse gas intensity of Canadian oil sands crude oils
+suggests that they may stay relatively constant. Although there is
+some uncertainty in the trends for both reference crude oils and
+oil sands derived crude oils, on balance it appears that the gap in
+greenhouse gas intensity may decrease over time.
+
+**Geology and Soils**
+
+**Geologic Hazards:** Potential geologic hazards assessed in the EIS
+include seismic hazards (earthquakes), landslides, or subsidence (sink
+holes). The proposed route extends through relatively flat and stable
+areas and the potential for these events is low. The pipeline would not
+cross any known active faults with confirmed surface offsets. During
+construction, land clearing could increase the risk of landslides
+and erosion. Keystone agreed to construct temporary erosion control
+systems and revegetate the right-of-way after construction.
+
+There is a risk of subsidence (sink holes) where the proposed
+route potentially crosses karst formations in Nebraska, Oklahoma,
+and Texas. Site-specific studies would be conducted as necessary to
+characterize the karst features, if they are encountered, and evaluate
+and modify construction techniques as necessary in these areas. The
+overall risk to the pipeline from karst-related subsidence is expected
+to be minimal.
+
+**Soils and Sediments:** Potential impacts to soils include soil
+erosion, loss of topsoil, soil compaction, soil contamination, damage
+to existing tile drainage 
+
+systems, and permanent increases in the proportion of large rocks
+in the topsoil. However, Keystone agreed to construction procedures
+that are designed to reduce the likelihood and severity of Project
+impacts to soils and sediments, including topsoil segregation methods,
+and to mitigate impacts to the extent practicable.
+
+**Sand Hills Region:** Of particular concern is the soil of the Sand
+Hills region of Nebraska, which is particularly vulnerable to wind
+erosion. To address this concern, Keystone developed and agreed
+to construction, reclamation, and post-construction procedures
+specifically for this area in consultation with local experts and
+state agencies. The goal of the Sand Hills region reclamation plan
+is to protect this sensitive area by maintaining soil structure
+and stability, stabilizing slopes to prevent erosion, restoring
+native grass species, and maintaining wildlife habitat and livestock
+grazing areas. Keystone agreed to monitor the right-of-way through
+the Sand Hills region for several years to ensure that reclamation
+and revegetation efforts are successful.
+
+**Water Resources**
+
+**Groundwater:** Many of the aquifers along the proposed route are
+isolated from the surface due to soil types above the aquifers that
+prevent or slow downward migration of water. However, shallow or
+near-surface aquifers are also present along the proposed route, as
+discussed above. Construction of the proposed Project may result in
+temporary to short- term increases in suspended solids in the shallow
+aquifers. The risk of dewatering shallow groundwater aquifers during
+construction or reducing groundwater quality due to increased sediments
+in the water would be temporary to short term.
+
+At some locations, groundwater may be used as a source of water for
+pressure testing the pipeline during construction. Keystone must obtain
+all applicable water withdrawal and discharge permits prior to testing,
+and the test water would be tested and discharged in accordance with
+permit requirements.
+
+**River and Stream Crossings:** Surface water bodies would be
+crossed using one of three methods: the open-cut wet method, the
+dry-cut method, or the horizontal directional drilling method. The
+method selected would be based on the characteristics of the crossing
+location and the requirements of the permitting agencies.
+
+The open-cut wet method, which involves trenching while the stream
+is flowing, would result in temporary increases in turbidity and
+bank erosion where vegetation is removed. The dry-cut method, which
+involves diverting stream flow around the construction site, results
+in lower increases in turbidity than the open-cut wet method.
+
+Horizontal directional drilling would minimize impacts to the stream
+or river because it involves drilling well below the streambed. This
+method would be selected at large body crossings to avoid disturbing
+the streambeds and streamflow and to reduce the potential that deep
+scour during flooding would endanger pipeline integrity. Figure ES-9
+presents a cross section of a river crossing using the horizontal
+directional drilling method.
+
+At all water crossings, Keystone agreed to use vegetative buffer
+strips, drainage diversion structures, and sediment barriers, and
+limit vegetation clearing to reduce siltation and erosion. After
+construction, the right-of-way would be restored and revegetated to
+reduce the potential for erosion of the stream bank.
+
+**Hydrostatic Test Water:** Water used to pressure test the pipeline
+during construction would be discharged to its source waters or to
+an approved upland area within the same drainage and tested to ensure
+it meets applicable water quality standards and discharge rates.
+
+**Wetlands**
+
+The proposed Project route crosses emergent, scrub/shrub, and
+forested wetlands that are protected by the U.S. Army Corps of
+Engineers (USACE) and applicable state agencies under the review of
+EPA through Section 401 and 404 of the Clean Water Act. Specific
+plans regarding wetland avoidance and minimization of impacts,
+and the development of mitigation to compensate for the permanent
+loss or conversion of forested to emergent wetlands would be further
+developed during the permitting process. Wetland impacts presented in
+the EIS represent preliminary estimates based on the best available
+wetland information. DOS reviewed potential impacts to wetlands and
+the avoidance, minimization, and mitigation process that would be
+followed with USACE and EPA. 
+
+**Figure ES-9**
+
+**Cross Section of Horizontal Directional Drilling Method**
+
+Most wetlands crossed by the proposed Project in Montana, South
+Dakota, and Nebraska are emergent wetlands, and most wetlands
+crossed by the proposed Project in Oklahoma and Texas are forested
+wetlands. Construction of the pipeline would affect wetlands and
+their functions primarily during and immediately after construction
+activities, but permanent changes also are possible. Keystone
+agreed to use construction methods that avoid or minimize impacts to
+wetlands. These measures include installing trench breakers and/or
+sealing the trench to maintain the original wetland hydrology to
+avoid draining wetlands, using timber mats to protect wetlands during
+construction, and restoring wetland areas to a level consistent with
+the requirements of the applicable permits.
+
+Most wetland vegetation communities would transition back into a
+community that would function similarly to the previously undisturbed
+wetland. Because most wetlands would be restored, the overall impact
+of the proposed Project to wetlands would be minor to moderate and
+would range in duration from short term to the life of the proposed
+Project. However, some forested and scrub-shrub wetlands over the
+pipeline would be converted to herbaceous wetlands since trees and
+shrubs would not be allowed to grow over the pipeline for inspection
+and integrity purposes. Keystone is working with each USACE district
+along the proposed route to identify wetlands and to develop wetland
+mitigation and compensation plans for the permanent conversion of
+forested wetland to herbaceous wetland.
+
+**Texas Bottomland Hardwood Wetlands:** These are forested wetlands
+with trees, such as Bald Cypress, Water Oak, Water Hickory, and
+Swamp Tupelo that can exist in lowland floodplains in the Gulf Coast
+states. Clearing bottomland hardwood trees during construction
+would result in long-term to permanent impacts because forests
+require decades to re- establish and would mature over the span
+of centuries. DOS reviewed potential Project impacts on bottomland
+hardwood wetlands with EPA and USACE. Preliminary mitigation measures
+to protect bottomland hardwood wetlands are discussed in the EIS and
+would be developed further by the USACE during the wetland permitting
+process.
+
+**Figure ES-10**
+
+**Texas Bottomland Hardwood Wetland** 
+
+**Terrestrial Vegetation**
+
+The proposed Project crosses primarily grasslands and rangelands,
+followed by croplands, upland forests, developed lands, and
+wetlands. After construction, Keystone agreed to restore topsoil,
+slopes, contours, and drainage patterns to preconstruction conditions
+as practicable and to reseed disturbed areas to restore vegetation
+cover, prevent erosion, and control noxious weeds. Keystone committed
+to controlling the introduction and spread of noxious weeds and pests
+by adhering to construction and restoration procedures recommended
+by local, state, and federal agencies. Soils and vegetation over the
+pipeline would be warmed slightly compared to surrounding soils by
+heat loss from the pipeline during operation.
+
+**Native Grasslands and Rangelands:** Native mixed shrub rangelands
+would be crossed by the proposed Project in Montana and South Dakota
+and native grasslands would be crossed by the proposed Project in the
+Sand Hills region in Nebraska. Both of these native prairie habitats
+would be challenging to reclaim. In recognition of these challenges,
+Keystone developed specific construction and reclamation methods for
+the proposed Project in consultation with local, state, and federal
+agencies and local experts to ensure that sagebrush and native grasses
+are restored to rangelands in Montana and South Dakota and that fragile
+soils and diverse native vegetation cover are re-established in the
+Sand Hills region of Nebraska.
+
+**Figure ES-11 Sand Hills Grassland**
+
+**Upland and Riparian Forests:** Native forests, especially forested
+floodplains, were once an integral component of the landscape
+throughout the Great Plains and they provide important habitats for
+wildlife. Clearing trees in upland and riparian forest communities
+would result in long-term impacts because trees would be required
+to remain outside of the 50-foot-wide permanent right-of-way. These
+impacts would last throughout the life of the proposed Project
+because trees would not be allowed to reestablish within the permanent
+right-of-way and because forests require decades to re-establish and
+would mature over the span of centuries.
+
+**Wildlife**
+
+Big game animals, small game animals and furbearers, waterfowl and
+game birds, and other nongame animals use habitats in and around the
+six states crossed by the proposed Project. Construction would result
+in the temporary and permanent loss and alteration of habitats which
+provide foraging, cover, and breeding habitats for wildlife. Most
+habitat loss would be temporary as vegetation cover would be re-
+established after construction and would be small in context to
+habitats available throughout the region crossed by the proposed
+Project. Loss of shrublands and wooded habitats would be long-term
+(from 5 to 20 years or more), however; and trees and tall shrubs
+would not be allowed to re-establish over the pipeline for inspection
+and integrity purposes. Aboveground facilities would result in some
+permanent habitat loss. Power lines to pump stations can provide
+vantage perches for raptors that lead to increased predation on
+ground nesting birds and small mammals. Construction can produce
+short-term barriers to wildlife movement, direct and indirect
+mortality, and reduced survival and reproduction. Disturbance from
+construction activities may have moderate local affects on wildlife
+if important remnant habitats are crossed or when sensitive breeding
+or overwintering periods are not avoided. Habitat alteration and
+fragmentation caused by the pipeline right-of-way may reduce habitat
+suitability and use by wildlife.
+
+Construction could also produce short-term barriers to wildlife
+movement, direct and indirect mortality, and reduced survival and
+reproduction. Disturbance from construction activities would have
+moderate local affects on wildlife if important remnant habitats are
+crossed or when sensitive breeding or overwintering periods are not
+avoided. Habitat alteration and fragmentation caused by construction
+of the pipeline could reduce habitat suitability and use by wildlife.
+
+During the environmental review of the proposed Project, state and
+federal wildlife management agencies were contacted and they provided
+information on sensitive seasons and wildlife habitats such as big
+game overwintering habitats, important riparian corridors, and raptor
+and other migratory bird 
+
+nesting habitats. In addition state and federal wildlife management
+agencies provided recommendations for surveys to more specifically
+locate areas such as raptor nests and prairie dog colonies that could
+potentially be avoided. Keystone is working with state and federal
+wildlife management agencies to minimize impacts to wildlife during
+sensitive breeding periods. Measures developed to minimize impacts to
+wildlife include development of a Migratory Bird Conservation Plan in
+consultation with the USFWS, removal of litter and garbage that could
+attract wildlife, control of unauthorized off-road vehicle access to
+the construction right-of-way, and reclamation of native range with
+native seed mixes. Overall, the impact of construction to wildlife
+is expected to be minor and would be primarily temporary to short
+term. Normal Project operation would result in negligible effects
+to wildlife.
+
+**Figure ES-12 Mule Deer**
+
+Keystone must work with state and federal wildlife management
+agencies to minimize impacts to wildlife during sensitive breeding
+periods. Overall, the impact of construction to wildlife is expected
+to be minor and would be primarily temporary to short term. Normal
+Project operation would result in negligible effects to wildlife.
+
+**Fisheries Resources**
+
+The proposed route would cross rivers and streams, including perennial
+streams that support recreational or commercial fisheries. Most
+potential impacts to fisheries resources would occur during
+construction and would be temporary to short term. Potential impacts
+from construction of stream crossings include siltation, sedimentation,
+bank erosion, sediment deposition, short-term delays in movements
+of fish, and transport and spread of aquatic invasive animals and
+plants. Keystone has agreed to minimize vehicle contact with surface
+waters and to clean equipment to prevent transportation of aquatic
+invasive animals and plants on equipment.
+
+Most streams would be crossed using one of several trenching
+methods. Trenching stream crossings when water is still flowing through
+the stream bed can result in destruction of fish that do not avoid
+the construction area. Trenching methods may also use dams, pumps, and
+flumes to divert the stream flow around the trench location to allow a
+"dry" trenching method. However, direct disturbance to the stream bed
+can release fine sediments during construction through flowing waters
+or after the flow is returned to the stream bed. Sediment would be
+transported downstream and could affect fish, other aquatic life, and
+aquatic habitats through either direct exposure or smothering. Most
+stream crossings would be completed in less than 2 days, grading and
+disturbance to waterbody banks would be minimized, and crossings would
+be timed to avoid sensitive spawning periods, such that resulting steam
+bed disturbance and sediment impacts would be temporary and minor.
+
+Most large rivers would be crossed using the horizontal directional
+drilling method which would install the pipeline well below the
+active river bed. As a result, direct disturbance to the river
+bed, fish, aquatic animals and plants, and river banks would be
+avoided. Keystone has developed site specific plans for horizontal
+directional drill crossings and has agreed to develop site-specific
+contingency plans to address unintended releases of drilling fluids
+that include preventative measures and a spill response plan.
+
+**Figure ES-13 Recreational Fishing** 
+
+**Threatened and Endangered Species**
+
+The U.S. Fish and Wildlife Service (USFWS) is responsible for
+protecting threatened and endangered species under the Endangered
+Species Act (ESA). Federally-protected threatened or endangered
+species that are known or thought to be in the vicinity of the
+proposed Project include three mammals, five birds, one amphibian,
+five reptiles, three fish, two invertebrates, and four plants. DOS
+prepared a Biological Assessment and consulted with USFWS to evaluate
+the proposed Project's potential impact on federally-protected
+threatened or endangered species.
+
+USFWS has determined that the proposed Project would have no affect
+on 12 of the listed species, and may affect, but is not likely to
+adversely affect 10 of those species. These evaluations are based on
+species occurrence and conservation measures developed in consultation
+with USFWS that Keystone has agreed to implement. DOS and USFWS
+determined that the proposed Project would likely adversely affect
+the American burying beetle and a formal consultation was initiated
+to determine whether impacts could jeopardize the continued existence
+of the species and to further develop conservation measures and an
+incidental take statement. Based on the formal consultation, USFWS
+is formulating a Biological Opinion that would be required prior
+to the issuance of a Record of Decision by DOS or any other federal
+cooperating agency.
+
+Direct impacts to beetles could occur due to habitat loss,
+construction, and pre-construction conservation measures (where beetles
+would be trapped and relocated away from the project area). During
+operation, the flow of oil through the pipeline would generate heat
+that would warm the surrounding soils and could affect beetles during
+the winter when they bury themselves in the soil to hibernate. During
+formal consultation with the USFWS, conservation measures were
+developed that include Keystone providing funding for conservation
+efforts and monitoring of American burying beetle habitat restoration,
+and the establishment of a performance bond for supplemental habitat
+reclamation if initial reclamation efforts are unsuccessful.
+
+Several candidate species for federal protection under the ESA
+are known or thought to be in the vicinity of the proposed Project
+including three birds, one reptile, one fish, and two plants. Measures
+that have been developed to avoid and minimize potential impacts to
+these species include reclamation of native range with native seed
+mixes, development of a
+
+Migratory Bird Conservation Plan in consultation with USFWS, and
+development of greater sage-grouse mitigation implementation plans
+for Montana and South Dakota in consultation with state and federal
+agencies.
+
+**Figure ES-14 American Burying Beetle**
+
+A total of 35 state-protected species may also be present along
+the proposed right-of-way. These species have been designated by
+state wildlife management agencies as being of concern to assist
+with conservation planning and maintenance of the state's natural
+heritage. Conservation measures developed in consultation with state
+agencies include conducting additional species-specific surveys to
+determine whether nests, dens, or suitable habitats are present
+along the proposed right-of-way; adhering to construction timing
+restrictions to avoid the breeding, denning, and spawning seasons;
+and reducing the width of the construction right-of-way in areas
+where state-protected plant populations have been identified.
+
+**Cultural Resources**
+
+DOS, in coordination with consulting parties, has minimized the
+potential for adverse effects to historic properties along the
+Area of Potential Effect (APE) of the proposed Project by the
+development of avoidance and mitigation measures. Since 2008,
+DOS has consulted with Indian tribes, State Historic Preservation
+Officers, federal agencies and local agencies under Section 106 of
+the National Historic Preservation Act. As part of this effort, DOS
+initially contacted over 95 Indian tribes to find out their level of
+interest in becoming a consulting party. DOS also conducted Section
+106 government-to-government consultation with the consulting parties
+for the proposed Project. DOS also invited the consulting tribes to
+prepare Traditional Cultural Property studies as part of the lead
+agency responsibilities for the 
+
+identification, evaluation and mitigation of historic properties.
+
+A Programmatic Agreement was developed by DOS and the parties. The
+Programmatic Agreement establishes a procedure for the further
+identification, evaluation, mitigation, and treatment of historic
+properties and will be completed prior to construction of the
+proposed Project. The Advisory Council on Historic Preservation
+participated in the development of this agreement with DOS and
+the other consulting parties. As part of this agreement, a Tribal
+Monitoring Plan and a Historic Trails and Archaeological Monitoring
+Plan were also developed. If previously unidentified archaeological
+sites are encountered during construction of the proposed Project,
+Keystone, DOS, and the consulting parties would follow the procedures
+described in the Unanticipated Discovery Plans.
+
+**Air Quality and Noise**
+
+**Air Quality:** Air quality impacts from construction would include
+emissions from construction equipment, temporary fuel transfer systems,
+fuel storage tanks, and dust and smoke from open burning. Most of
+these emissions would occur only intermittently, would be limited
+to active construction areas, and would be controlled to the extent
+required by state and local agencies.
+
+All pump stations will be electrically powered by local utility
+providers. As a result, during normal operation there would be minor
+emissions from valves and pumping equipment at the pump stations. There
+would also be low levels of emissions from mobile sources, and low
+levels of emissions from the proposed Cushing tank farm and the
+surge relief systems at the delivery points. The proposed Project
+would not cause or contribute to a violation of any federal, state,
+or local air quality standards and it would not require a Clean Air
+Act Title V operating permit.
+
+The proposed Project would cross five counties where the background
+concentration of ozone is greater than the national ambient air
+quality standards. Those areas are designated as nonattainment for
+the federal 8-hour ozone standard. However, the emissions from the
+proposed Project would be consistent with state implementation plans
+for air quality issues.
+
+**Noise:** During construction there would be intermittent, temporary,
+and localized increases in sound levels as construction activities
+move through an area. To reduce construction noise impacts,
+
+Keystone agreed to limit the hours during which activities with
+high-decibel noise levels are conducted in residential areas, require
+noise mitigation procedures, monitor sound levels, and develop site-
+specific mitigation plans to comply with regulations. As a result,
+the potential noise impacts associated with construction would be
+minor and temporary.
+
+During operation, sound levels within 2,300 feet of pump stations
+would increase. Outside of this distance, noise levels would remain
+at existing sound levels. Keystone committed to performing a noise
+assessment survey and to mitigating identified impacts by installing
+noise reducing measures at the pump stations.
+
+**Land Use, Recreation, and Visual Resources**
+
+The majority of land that would be affected by the project is privately
+owned (21,333 acres) with nearly equal amounts of state (582 acres)
+and federal (579 acres) lands being impacted.
+
+**Agriculture:** After construction, nearly all agricultural land
+and rangeland along the right-of-way would be allowed to return
+to production with little impact on production levels in the
+long term. However, there would be restrictions on growing woody
+vegetation and installing structures within the 50-foot-wide permanent
+right-of-way. Keystone has agreed to compensate landowners for crop
+losses on a case- by-case basis.
+
+There are 102 tracts of land that would be impacted which are part
+of the Conservation Reserve Program. The proposed Project is not
+expected to affect landowner ability to participate in that program.
+
+Keystone agreed to use construction measures designed to reduce
+impacts to existing land uses, such as topsoil protection, avoiding
+interference with irrigation systems except when necessary, reducing
+construction time in irrigated areas, repairing or restoring drain
+tiles, restoring disturbed areas with custom seed mixes to match the
+native plants, providing access to rangeland during construction,
+installing temporary fences with gates around construction areas to
+prevent injury to livestock or workers, providing trench crossing
+areas to allow livestock and wildlife to cross the trench safely,
+and controlling noise and dust control.
+
+**Recreation:** Operation of the proposed Project would not affect
+recreational resources, national or state parks, or users of those
+resources. Keystone has committed to cooperating with private
+landowners, and with federal, state, and local agencies to reduce 
+
+the conflict between recreational users and Project construction.
+
+**Visual Resources:** During construction, there would be visual
+impacts associated activities along the proposed right-of-way such
+as clearing, trenching, pipe storage, and installing above-ground
+structures. Most of the visual impacts of the pipeline corridor in
+agricultural and rangeland areas would be substantially reduced with
+restoration and revegetation. Keystone agreed to install vegetative
+buffers around the pump stations to reduce the visual impacts of those
+facilities. Overall, the visual impacts of the proposed Project would
+generally be minor to moderate.
+
+**Socioeconomics**
+
+During construction, there would be temporary, positive socioeconomic
+impacts as a result of local employment, taxes on worker income,
+spending by construction workers, and spending on construction
+goods and services. The construction work force would consist of
+approximately 5,000 to 6,000 workers, including Keystone employees,
+contractor employees, and construction and environmental inspection
+staff. That would generate from $349 million to $419 in total wages. An
+estimated $6.58 to $6.65 billion would be spent on materials and
+supplies, easements, engineering, permitting, and other costs.
+
+Adverse impacts during construction could include temporary
+and minor increases in the need for public services, disruption
+of local transportation corridors, and reduced availability of
+transient housing. Keystone would establish four temporary work
+camps in southeastern Montana and northwestern South Dakota to
+minimize impacts to transient housing and public services in those
+areas. Operation of the proposed Project would also result in long-term
+to permanent beneficial socioeconomic impacts, including employment
+and income benefits resulting from long-term hires and local operating
+expenditures, and increased property tax revenues. An estimated $140.5
+million in annual property tax revenues would be generated by the
+proposed Project.
+
+**Cumulative Impacts**
+
+The analysis of cumulative impacts combined the potential impacts of
+the proposed Project with the impacts of past, present, and reasonably
+foreseeable future actions in the vicinity of the proposed route. This
+assessment included consideration of the many existing pipelines,
+electrical transmission lines, and roadways, as well as other linear
+projects that are under construction, planned, proposed, or reasonably
+foreseeable in the vicinity of the proposed route. The analysis also
+included existing and likely energy development projects.
+
+During construction, the proposed Project would contribute to
+cumulative dust and noise generation, loss of vegetation or crop cover,
+and minor localized traffic disruptions where other linear projects
+are under construction at the same time and are in the vicinity of
+the proposed route.
+
+One of the primary contributions to cumulative effects during operation
+would be emissions from storage tanks. However, the proposed Project
+and all other petroleum storage projects would have to comply with
+the emissions limitations of air quality permits. In addition, where
+Project-related aboveground facilities and visible corridors are
+present along with those of other projects, there would be cumulative
+effects to visual resources. Other cumulative impacts associated with
+operation include changes in land use, terrestrial vegetation, wetland
+function, and wildlife habitat, as well as increases in tax revenues,
+and employment. Where the pump stations or compressor stations of
+other pipeline systems are in the vicinity of the pump stations for
+the proposed Project, there would also be cumulative noise impacts.
+
+An increase in the development of wind power projects in the central
+plains region as well as increased need for electrical power is likely
+to increase the number of electrical transmission lines in the vicinity
+of the proposed route. If the construction of power distribution or
+transmission lines in the vicinity of the proposed route overlaps with
+construction of the proposed Project, short-term cumulative impacts
+associated with noise, dust, and general construction activity could
+occur. Likely cumulative impacts of the proposed Project and operation
+of new transmission lines include viewshed degradation, changes to
+land uses and vegetation, and impacts to birds.
+
+**Environmental Impacts in Canada**
+
+An evaluation of the impacts resulting from extraction of crude oil
+from the oil sands in Canada is outside of the scope of analysis
+required under the National Environmental Policy Act. However,
+in response to comments and as a DOS policy decision, the general
+regulatory oversight and the environmental impacts in 
+
+Canada related to oil sands production were summarized in the EIS.
+
+The potential environmental effects of the proposed Project have been
+assessed on both sides of the international border. In March 2010, the
+National Energy Board of Canada determined that the proposed Keystone
+XL Project is needed to meet the present and future public convenience
+and necessity, provided that the Board's terms and conditions presented
+in the project certificate are met. The Board's assessment included
+evaluations of need, economic feasibility, potential commercial
+impacts, potential environmental and socioeconomic effects,
+appropriateness of the general route of the pipeline, potential
+impacts on Aboriginal interests, and other issues.
+
+Oil sands development projects undergo an environmental review in
+Canada under Alberta's
+
+Environmental Protection and Enhancement Act and other environmental
+regulations. Other federal and provincial agencies may participate in
+the review as Responsible Authorities or as Federal Authorities with
+specialist advice. Government regulators of oil sands activities in
+Canada are working to manage and provide regional standards for air
+quality, land impact, and water quality and consumption based on a
+cumulative effects approach.
+
+Oil sands mining projects have reduced greenhouse gas emissions
+intensity by an average of 39 percent between 1990 and 2008 and
+are working toward further reductions. In addition, the Alberta
+Land Stewardship Act supports the Land-use Framework, which includes
+province-wide strategies for establishing monitoring systems, promoting
+efficient use of lands, reducing impact of human activities, and
+including aboriginal people in land-use planning. 

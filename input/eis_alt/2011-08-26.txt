@@ -1,0 +1,208 @@
+**ALTERNATIVES CONSIDERED**
+
+DOS considered the following three major alternative scenarios: 
+
+• No Action Alternative -- potential scenarios that could occur if
+the proposed Project is not built and operated;
+
+• System Alternatives − the use of other pipeline systems or other
+methods of providing Canadian crude oil to the Cushing tank farm and
+the Gulf Coast market;
+
+• Major Route Alternatives − other potential pipeline routes for
+transporting heavy crude oil from the U.S./Canada border to Cushing,
+Oklahoma and the Gulf Coast market.
+
+**No Action Alternative**
+
+Under the No Action Alternative, the potential adverse and positive
+impacts associated with building and operating the proposed Project
+would not occur. However, there is an existing market demand for heavy
+crude oil in the Gulf Coast area. The demand for crude oil in the Gulf
+Coast area is projected to increase and refinery runs are projected
+to grow over the next 10 years, even under a low demand outlook.
+
+A report commissioned by the Department of Energy (DOE) indicated that
+whether the proposed Project is built or not is unlikely to impact
+the demand for heavy crude oil by the Gulf Coast refineries. Even if
+improved fuel efficiency and broader adoption of alternative fuels
+reduced overall demand for oil, demand for Canadian heavy crude oil
+at Gulf Coast refineries would not be substantially affected.
+
+At the same time, three of the four countries that are major crude
+oil suppliers to Gulf Coast refineries currently face declining
+or uncertain production horizons. As a result, those refineries
+are expected to obtain increased volumes of heavy crude oil from
+alternative sources in both the near term and further into the
+future. Implementation of the No Action Alternative would not meet
+this need.
+
+If the proposed Project is not built and operated, Gulf Coast
+refineries could obtain Canadian crude oil transported through other
+new pipelines or by rail or truck transport. Other pipeline projects
+have been proposed to transport Canadian crude oil to the Gulf Coast
+area, and both rail transport and barge transport could be used to
+meet a portion of the need. In addition, the Gulf Coast refineries
+could obtain crude oil transported by marine tanker from areas outside
+of North America. Many of the sources outside of North America are in
+regions that are experiencing declining production or are not secure
+and reliable sources of crude oil, including the Middle East, Africa,
+Mexico, and South America.
+
+As a result of these considerations, DOS does not regard the No Action
+Alternative to be preferable to the proposed Project.
+
+If the proposed Project is not implemented, Canadian producers would
+seek alternative transportation systems to move oil to markets other
+than the U.S. Several projects have been proposed to transport crude
+oil out of using pipelines to Canadian ports.
+
+Whether or not the proposed Project is implemented, Canadian producers
+would seek alternative transportation systems to move oil to markets
+other than the U.S. Several projects have been proposed to transport
+crude oil out of the oil sands area of Alberta using pipelines to
+Canadian ports.
+
+**System Alternatives**
+
+System alternatives would use combinations of existing or expanded
+pipeline systems, pipeline systems that have been proposed or
+announced, and non-pipeline systems such as tank trucks, railroad
+tank cars, and barges and marine tankers to transport Canadian heavy
+crude oil to Gulf Coast refineries.
+
+None of the pipeline systems considered would be capable of
+transporting Canadian crude oil to Gulf Coast delivery points in the
+volumes required to meet Keystone's commitments for transporting
+380,000 bpd to delivery points in Texas. Therefore they would not
+meet the purpose of the proposed Project. A combination of the
+pipeline systems considered could, over time, deliver volumes of
+Canadian oil sands crude oil in volumes similar to the volumes that
+would be transported by the proposed Project. However, that would
+not meet the near-term need for heavy crude oil at the Gulf Coast
+refineries. Expanding the pipeline systems that were considered to meet
+the purpose of the proposed Project or construction of new components
+or a combination of those systems would result in impacts similar to
+those of the proposed Project.
+
+The trucking alternative would add substantial congestion to highways
+in all states along the route selected, particularly at and near the
+border crossing and in the vicinity of the delivery points. At those
+locations it is likely that there would be significant impacts to
+the existing transportation systems. Trucking would also result in
+substantially higher greenhouse gas emissions and a higher risk of
+accidents than transport by pipeline. 
+
+Development of a rail system to transport the volume of crude oil that
+would be transported by the proposed Project would likely produce less
+impact from construction than would the proposed Project because it
+could be done using existing tracks. However, there would be greater
+safety concerns and greater impacts during operation, including
+higher energy use and greenhouse emissions, greater noise impacts,
+and greater direct and indirect effects on many more communities than
+the proposed Project.
+
+As a result of these considerations as described in Section 4.2 of
+the EIS, system alternatives were considered either not reasonable
+or not environmentally preferable.
+
+**Major Route Alternatives**
+
+The analysis of route alternatives considered 14 major
+route alternatives. Figure ES-8 depicts the alternative routes
+considered. The analysis of alternatives routes was conducted following
+the approach to assessments of alternative pipeline routes used by
+the Federal Energy Regulatory Commission. As a result, the analysis
+began with a screening process that first established criteria for
+screening alternatives, then identified potential alternatives that met
+the criteria, and determined whether or not they would (1) meet the
+purpose of and need for the proposed Project, and (2) be technically
+and economically practicable or feasible. For those alternatives
+meeting the criteria, DOS assessed whether or not the alternative
+offered an overall environmental advantage over the proposed route.
+
+Due to public concern regarding the Ogallala Aquifer (Northern High
+Plains Aquifer system) and the Sand Hills region, 5 of the alternative
+routes were developed to either minimize the pipeline length over those
+areas or avoid the areas entirely. These alternative routes consisted
+of I-90 Corridor Alternatives A and B, Keystone Corridor Alternatives
+1 and 2 (which are parallel to all or part of the route of the existing
+Keystone Oil Pipeline System), and the Western Alternative.
+
+The assessment considered the environmental characteristics of the
+areas that these alternatives would cross, including the presence
+of aquifers, the depth of wells, developed land, forested areas,
+wetlands, and streams and rivers.
+
+The Western Alternative was eliminated since it was financially
+impracticable. Although the other four route alternatives could have
+been eliminated based on consideration of economical and technical
+practicability and feasibility without further evaluation, they
+were nonetheless examined further with an emphasis on groundwater
+resources. The I-90 Corridor and Keystone Corridor alternatives would
+all avoid the Sand Hills; however, they would not avoid the Northern
+High Plains Aquifer system, and they would not avoid areas of shallow
+groundwater. Instead, these routes would shift risks to other areas
+of the Northern High Plains Aquifer system and to other aquifers.
+
+In addition, these alternatives would be longer than the proposed
+route and would disturb more land and cross more water bodies than
+the proposed route. In addition, I-90 Corridor Alternatives A and B
+require crossing Lake Francis Case on the Missouri River which would
+pose technical challenges due to the width of the reservoir and the
+slope of the western side of the crossing area.
+
+Keystone Corridor Alternatives 1 and 2 would cost about 25 percent more
+than the proposed Project (about $1.7 billion more) and implementation
+of either of those alternatives would compromise the Bakken Marketlink
+Project and the opportunity to transport crude oil from the producers
+in the Bakken formation to markets in Cushing and the Gulf Coast.
+
+Based on the above considerations and as described in Section 4.3 of
+the EIS, DOS eliminated the major potential route alternatives from
+further consideration.
+
+**Route Variations and Minor Realignments**
+
+A route variation is a relatively short deviation from a proposed route
+that replaces a segment of the proposed route. Variations are developed
+to resolve landowner concerns and impacts to cultural resource sites,
+wetlands, recreational lands, and terrain.
+
+DOS consulted with the Bureau of Land Management and state agencies to
+negotiate route variations and minor realignments, including nearly 100
+in Montana and about 240 minor realignments in other states along the
+proposed route. Additional route variations and minor realignments may
+be added in response to specific conditions that may arise throughout
+the construction process. 
+
+**Figure ES-8 Major Route Alternatives** 
+
+The variations and minor realignments would replace short segments
+of the proposed Project, are relatively close to the proposed route,
+and would be implemented in accordance with applicable regulatory
+requirements of federal, state, or local permitting agencies. DOS
+considers the variations and minor realignments selected to have been
+evaluated sufficiently to meet the environmental review requirements
+of the National Environmental Protection Act.
+
+**Other Alternatives Considered**
+
+DOS also considered several other scenarios in response to comments on
+the draft EIS. The alternative pipeline designs considered consisted
+of an aboveground pipeline and a smaller diameter pipe to decrease the
+volume of oil released from a spill. DOS also considered alternative
+sites for the major aboveground facilities of the proposed Project,
+including pump stations, mainline valves, and the Cushing tank
+farm. None of the alternative designs or facility locations were
+considered safer or environmentally preferable to the proposed
+Project design.
+
+**Agency Preferred Alternative**
+
+DOS did not find any of the major alternatives to be preferable
+to the proposed Project for the reasons presented in the final EIS
+and summarized above. As a result, the agency-preferred alternative
+is the proposed Project route with the variations and minor route
+realignments described in the EIS, and the proposed location of the
+Cushing tank farm.

@@ -1,0 +1,318 @@
+ES.6 **ALTERNATIVES**
+
+The draft Supplemental EIS considers three broad categories
+of alternatives to the proposed Project, consistent with NEPA
+requirements:
+
+• No Action Alternative---which addresses potential market responses
+that could result if the Presidential Permit is denied or the proposed
+Project is not otherwise implemented;
+
+• Major Route Alternatives---which includes other potential pipeline
+routes for transporting WCSB and Bakken crude oil to Steele City,
+Nebraska; and
+
+• Other Alternatives---which include minor route variations,
+alternative pipeline designs, and alternative sites for aboveground
+facilities.
+
+**ES.6.1 Scenario Screening**
+
+Several alternatives exist for the transport of WCSB and Bakken crude
+oil to Gulf Coast refineries, including many that were not carried
+forward for detailed analysis. The draft Supplemental EIS provides
+a more detailed description of the categories of alternatives,
+the alternative screening process, and the detailed alternatives
+identified for evaluation in the draft Supplemental EIS.
+
+Potential No Action Alternative scenarios were screened based on
+technical and economic feasibility, such as implementation timeframe
+and crude oil transport capacity, as well as the potential to
+provide a cost advantage (compared to other No Action Alternative
+scenarios). As explained in detail in the draft Supplemental EIS,
+No Action Alternative scenarios excluded from further analysis are:
+
+• Rail or Pipeline to Vancouver, British Columbia, and Tanker to
+Gulf Coast;
+
+• Rail Directly to Gulf Coast;
+
+• Rail to Wood River, Illinois; Barge to Gulf Coast via Mississippi
+River;
+
+• Bitumen by Rail; and
+
+• Canadian Pipeline Scenario (Existing Pipelines). The primary
+purpose of major route alternatives is to identify a route that
+avoids the NDEQ-identified Sand Hills Region without an unacceptable
+increase in other environmental impacts. Although the Keystone XL
+2011 Steele City Segment Alternative traverses the NDEQ-identified
+Sand Hills Region, the draft Supplemental EIS evaluates the impacts
+of constructing that route as a comparison against which other route
+alternatives, including the proposed Project, can be made. The initial
+(Phase I) screening of other major route alternatives considered the
+following criteria:
+
+• Project Purpose---to be considered reasonable, an alternative
+must provide reliable transport of up to 730,000 bpd of WCSB crude
+oil and up to 100,000 bpd of Bakken crude oil to Cushing, Oklahoma
+(the intermediate destination of crude oil in the proposed Project) or
+Gulf Coast refineries (the ultimate destination of that crude oil); and
+
+• Pipeline Length---pipeline length was considered a relative measure
+of reliability, environmental impact, and construction/operational
+costs.
+
+The Phase II screening used a desktop data review of key environmental
+and other features (e.g., wetlands and waterbodies crossed, total
+acreage affected). Major route alternatives excluded from further
+analysis are:
+
+• Western Alternative (to Cushing);
+
+• Express-Platte Alternative;
+
+• Steele City Segment-A1A Alternative;
+
+• Keystone Corridor Option 1; and
+
+• Keystone Corridor Option 2.
+
+**ES.6.2 Market Analysis**
+
+This section in the Supplemental EIS examines the changes in petroleum
+markets since the publication of the Final EIS on August 26, 2011. It
+assesses whether these changes alter the conclusion of the 2011 Final
+EIS market analysis, namely, that the proposed Project is unlikely
+to significantly affect the rate of extraction in the oil sands or in
+U.S. refining activities. Specifically, the section presents changes
+observed in the petroleum market since August 2011 and how such changes
+may impact the assessment made in the Final EIS. The analysis is based,
+in part, on the following considerations.
+
+Several changes in the outlook for the crude oil market since August
+2011 have occurred and are accounted for in the Supplemental EIS
+analysis. First, the outlook for U.S. demand for transportation fuel
+is now lower than it was in 2010 and 2011. Second, domestic production
+of crude oil has increased and is expected to continue increasing
+over the next 10 to 15 years. Third, the infrastructure for crude
+oil transportation in North America, including pipeline, rail, and
+other non-pipeline modes, is undergoing significant adaptations and
+increases in capacity.
+
+While the increase in U.S. production of crude oil and the reduced
+U.S. demand for transportation fuels will likely reduce the demand for
+total U.S. crude oil imports, it is unlikely to reduce demand for heavy
+sour crude at Gulf Coast refineries. Additionally, as was projected in
+the 2011 Final EIS, the midstream industry is showing it is capable
+of developing alternative capacity to move WCSB (and Bakken and
+Midcontinent) crudes to markets in the event the proposed Project is
+not built. Specifically, it is moving to develop alternative pipeline
+capacity that would support Western Canadian, Bakken, and Midcontinent
+crude oil movements to the Gulf Coast and is increasingly using rail
+to transport large volumes of crude oil to East, West, and Gulf Coast
+markets as a viable alternative to pipelines. In addition, projected
+crude oil prices are sufficient to support production of essentially
+all Western Canadian crude oil projects (and U.S. tight oil projects,
+such as those in the Bakken shale), even with potentially somewhat
+more expensive transport options to market in the form of alternative
+pipelines and rail. Rail and supporting non-pipeline modes should be
+capable, as was projected in 2011, of providing the capacity needed
+to transport all
+
+incremental Western Canadian and Bakken crude oil production to
+markets if there were no additional pipeline projects approved.
+
+Approval or denial of any one crude oil transport project, including
+the proposed Project, remains unlikely to significantly impact the
+rate of extraction in the oil sands, or the continued demand for
+heavy crude oil at refineries in the U.S. Limitations on pipeline
+transport would force more crude oil to be transported via other
+modes of transportation, such as rail, which would probably (but not
+certainly) be more expensive. Longer term limitations also depend
+upon whether pipeline projects that are located exclusively in Canada
+proceed (such as the proposed Northern Gateway, the Trans Mountain
+expansion, and the TransCanada proposal to ship crude oil east to
+Ontario on a converted natural gas pipeline).
+
+If all such pipeline capacity were restricted in the
+medium-to-long-term, the incremental increase in cost of the
+non-pipeline transport options could result in a decrease in production
+from the oil sands, perhaps 90,000 to 210,000 bpd (approximately 2
+to 4 percent) by 2030. If the proposed Project were denied but other
+proposed new and expanded pipelines go forward, the incremental
+decrease in production could be approximately 20,000 to 30,000 bpd
+(from 0.4 to 0.6 percent of total WCSB production) by 2030.
+
+Fundamental changes to the world crude oil market, and/or more far
+reaching actions than are evaluated in this Supplemental EIS would be
+required to significantly impact the rate of production in the oil
+sands. In light of the additional analysis performed, as explained
+in the Supplemental EIS, these changes are not anticipated to alter
+the outlook for the crude oil market in a manner that would lead to
+a change in the key conclusions reached in the 2011 Final EIS.
+
+**ES.6.3 No Action Alternative**
+
+The No Action Alternative includes an evaluation of multiple
+scenarios that describe potential outcomes if the Department was
+to deny the Presidential Permit for the proposed Project, or if
+it was otherwise not constructed. Based on available information
+and independent analysis discussed at greater length in the draft
+Supplemental EIS, under a No Action "Status Quo" Alternative,
+production and transportation of WCSB and Bakken crude oil would remain
+unchanged. This scenario serves as a benchmark against which other
+alternatives are evaluated, although market forces would preclude
+this scenario from occurring.
+
+Given that production of WCSB and Bakken crude oil will proceed with
+or without the proposed Project, the denial of a Presidential Permit
+would likely result in actions by other firms in the United States
+(and global) petroleum market, such as use of alternative modes to
+transport WCSB and Bakken crude oil. Table ES-4 compares some of
+the key characteristics of the non-Status Quo scenarios under this
+Alternative to the proposed Project. The individual scenarios are
+described below.
+
+**Table ES-4: Summary of No Action Alternative Scenarios**
+
+**Characteristics Proposed**
+
+**Project Rail and Pipeline Rail and Vessela**
+
+New Acreage Required (permanent easement) 5,303 7,727 9,427 Average
+Annual U.S. Employment During Construction 3,900 2,400 0
+
+Construction Period 1-2 about 2 about 2 Permanent (Operations)
+U.S. Employment 35 65 0 a In the Rail and Vessel scenario,
+characteristics of the marine terminal in Kitimat are based
+on the capital costs and employment estimates for the Enbridge
+Northern Gateway marine terminal. Information is available at
+http://gatewaypanel.review-examen.gc.ca/clf-nsi/dcmnt/pplctn-eng.html
+
+*ES.6.3.1 Rail and Pipeline Scenario*
+
+Under this scenario, WCSB and Bakken crude oil (in the form of dilbit
+or synbit) would be shipped via railroad to Stroud, Oklahoma, where
+it would be loaded into existing and expanded pipelines approximately
+17 miles to Cushing, Oklahoma, where the crude oil would enter the
+existing Keystone pipeline system.
+
+This scenario would require the construction of seven new rail
+loading terminals in Lloydminster, Saskatchewan (the possible loading
+point for WCSB crude oil), one in Epping, North Dakota (the possible
+loading point for Bakken crude oil), and seven in Stroud (see Figure
+ES-12). Each new terminal would require approximately 500 acres of
+land, as well as new track, pipelines, and storage tanks.
+
+Assuming shipment via Class I (major) railroads such as the Canadian
+Pacific Railway System (CPRS), Canadian National, BNSF Railway
+(BNSF),and Union Pacific (UP), the distance from Lloydminster to Stroud
+is approximately 1,900 to 2,000 miles. The route from Epping to Stroud
+is approximately 1,350 miles. This scenario would require a total of
+approximately 15 unit trains (one train with 100 rail cars) per day.
+
+**Figure ES-12: Typical Rail Loading Facility in North Dakota**
+
+*ES.6.3.2 Rail and Tanker Scenario*
+
+A second transportation method would include shipping crude oil from
+Alberta to a western Canada port, and then via oil tanker to Gulf
+Coast markets. Under this scenario, WCSB dilbit or synbit would be
+shipped via rail (CPRS or Canadian National) from Lloydminster to
+Prince Rupert, British Columbia, where it would be loaded onto Suezmax
+vessels (capable of carrying approximately 986,000 bbl of WCSB crude
+oil) to the Gulf Coast (Houston and/or Port Arthur) via the Panama
+Canal. Bakken crude would be shipped to Stroud via BNSF or UP rail
+lines. Bakken crude oil would be transported by rail, as described
+under the Rail and Pipeline Scenario. This scenario would require
+13 unit trains (trains consisting of approximately 100 cars carrying
+the same material and destined for the same location) per day between
+Lloydminster and Prince Rupert, and 1 to 2 unit trains per day between
+Epping and Stroud. This scenario would require the construction of
+seven rail loading facilities in Lloydminster. Required facilities
+in Prince Rupert would include seven unloading facilities and a new
+marine terminal and storage terminal encompassing approximately 4,700
+acres and capable of accommodating two Suezmax vessels. For the Bakken
+crude portion of this Scenario, one rail terminal would be required
+in Epping and Stroud.
+
+**ES.6.4 Major Pipeline Route Alternatives**
+
+The Department considered potential alternative pipeline routes
+to assess whether or not route alternatives could avoid or reduce
+impacts to environmentally sensitive resources while also meeting the
+proposed Project's purpose. The two route alternatives evaluated in
+the draft Supplemental EIS are described below. Table ES-5 summarizes
+key aspects of the major pipeline route alternatives.
+
+**Table ES-5: Summary of Major Pipeline Route Alternatives**
+
+**Proposed Project**
+
+**2011 Steele City Segment Alternative**
+
+**I-90 Corridor Alternative**
+
+New Pipeline Length (miles) 875 854 927 Number of Aboveground
+Facilities 59 56 90 Length Co-Located with Existing Keystone Pipeline
+(miles) 0 0 254 NDEQ-Identified Sand Hills Region Crossed (miles) 0
+90 0 Highly Erodible Soil (Wind) Crossed (miles) 66 116 36 Perennial
+Waterbody Crossings 56 48 61 Wetland Affected during Construction
+(acres) 262 544 223 Average Annual Employment During Construction
+3,900 3,900 4,100 Property Tax Revenues (millions) $34.5 $34.1 $38.4
+Construction Land Area Affected (acres) 11,667 11,387 12,360 Operations
+(Permanent) Land Area Required (acres) 5,303 5,176 4,818
+
+*ES.6.4.1 2011 Steele City Segment Alternative*
+
+The Keystone XL 2011 Steele City Segment Alternative evaluates the
+impacts of constructing the route proposed in the August 2011 Final
+EIS as a comparison against which other route alternatives, including
+the proposed Project, can be made. This alternative would follow
+Keystone's proposed Project route from the Canadian border milepost
+(MP 0) south to approximately MP 204 where it would connect with the
+proposed Bakken Marketlink Project onramp at the same location as the
+proposed Project, and continue to approximately MP 615 in northern
+Nebraska near the South Dakota border.
+
+At that location, the Keystone XL 2011 Steele City Segment Alternative
+would divert from the current proposed Project and would continue
+southeasterly for another 240 miles to the southern terminus at
+Steele City, Nebraska. For approximately 90 miles, the Keystone XL
+2011 Steele City Segment Alternative would cross the NDEQ-identified
+Sand Hills Region.
+
+*ES.6.4.2 I-90 Corridor Alternative*
+
+Keystone's proposed Project route starts at the Canadian Border
+(MP 0) and stretches south through the state of Montana into South
+Dakota to approximately MP 516, where the proposed pipeline route
+intersects Interstate 90 (I-90). From this point, this alternative
+pipeline route would follow the ROW of I-90 and State Highway 262
+for 157 miles, where it would then intersect and follow the ROW of
+the existing Keystone pipeline to Steele City.
+
+The I-90 Corridor would avoid crossing the NDEQ- identified Sand Hills
+Region and would reduce the length of pipeline crossing the Northern
+High Plains Aquifer system, which includes the Ogallala formation.
+
+**ES.6.5 Other Alternatives Considered**
+
+*ES.6.5.1 Route Variations*
+
+In addition to the route alternatives, the Department reviewed proposed
+variations---relatively short deviations---to the proposed route
+that avoid or minimize construction impacts to specific resources
+(cultural resource sites, wetlands, recreational lands, residences,
+etc.) or that minimize constructability issues (shallow bedrock,
+difficult waterbody crossings, steep terrain, etc.).
+
+*ES.6.5.2 Alternative Pipeline Design*
+
+In response to public comments, the Department considered two
+alternative pipeline designs: an aboveground pipeline and an
+alternative using smaller-diameter pipe. The Department determined
+that both alternative designs were not reasonable alternatives for
+the proposed Project; they were not considered further in the draft
+Supplemental EIS.

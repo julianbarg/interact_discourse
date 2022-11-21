@@ -1,0 +1,2208 @@
+**ES.0 EXECUTIVE SUMMARY**
+
+**ES.1 INTRODUCTION**
+
+TransCanada Keystone Pipeline, L.P. (Keystone) has applied to the
+U.S. Department of State (DOS) for a Presidential Permit for the
+construction, connection, operation, and maintenance of facilities
+at the U.S. border for a proposed pipeline and associated facilities
+for importation of crude oil from Canada. DOS receives and considers
+applications for Presidential Permits for such oil pipelines pursuant
+to the authority delegated to it by the President of the United States
+under Executive Order (EO) 13337 as amended (69 Federal Register [FR]
+25299). DOS has determined that issuance of a Presidential Permit
+would constitute a major federal action that may have a significant
+impact upon the environment within the context of the National
+Environmental Policy Act of 1969 (NEPA) (42 United States Code [USC]
+§ 4321 et seq.).
+
+DOS, as the lead agency for the environmental impact statement (EIS),
+discussed the appropriate level of participation required with other
+federal agencies that will be required to issue permits associated
+with the proposed Keystone Project. The following federal agencies
+have elected to participate as cooperating agencies in the process:
+
+• Advisory Council on Historic Preservation
+
+• U.S. Environmental Protection Agency
+
+• Natural Resources Conservation Service
+
+• U.S. Army Corps of Engineers
+
+• U.S. Fish and Wildlife Service
+
+• Farm Service Agency
+
+• U.S. Department of Energy
+
+• Rural Utilities Service
+
+The following agencies have agreed to provide technical assistance
+to the environmental review:
+
+• U.S. Department of Transportation -- Office of Pipeline Safety
+
+• U.S. Department of Transportation -- Federal Highway Administration
+
+• Federal Energy Regulatory Commission
+
+• Department of Homeland Security
+
+• Council on Environmental Quality
+
+• National Park Service
+
+• Bureau of Indian Affairs
+
+State agencies also were consulted to ensure that their needs for
+state permitting analyses would be assessed in the EIS. Potentially
+affected Native American tribes with interests along the proposed
+pipeline corridor were invited to be part of the public scoping and
+DOS consultation process.
+
+**ES.2 PROPOSED ACTION -- DOS PREFERRED ALTERNATIVE**
+
+Keystone proposes to construct and operate a crude oil pipeline and
+related facilities to transport Western Canadian Sedimentary Basin
+(WCSB) crude oil from an oil supply hub near Hardisty, Alberta,
+Canada to destinations in the Midwest United States. In total, the
+Keystone Project would consist of the Mainline Project (approximately
+1,849 miles of pipeline, including about 767 miles in Canada and 1,082
+miles in the United States) and the Cushing Extension (296 miles of
+pipeline in the United States). Including the Cushing Extension, the
+total length of pipeline in the United States would be 1,380 miles. The
+Keystone Project initially would have the nominal transport capacity of
+435,000 barrels per day (bpd) of crude oil from the oil supply hub near
+Hardisty to an existing terminal and refinery at Wood River, Illinois,
+and an existing terminal at Patoka, Illinois. Additional pumping
+capacity could be added to increase the average throughput to 591,000
+bpd if warranted by future shipper demand and market conditions.
+
+In the United States, the proposed Mainline Project comprises 1,082
+miles of new 30-inch-diameter pipe from the Canada/U.S. border to
+Patoka, Illinois. The Cushing Extension would consist of 296 miles of
+36-inch-diameter pipe extending from Steele City, Nebraska to Cushing,
+Oklahoma. This EIS describes and evaluates the U.S. portion of the
+proposed Keystone Project, including both the Mainline Project and
+Cushing Extension.
+
+The objective of the Proposed Route was to meet the original Project
+objective of delivering crude oil to Wood River and Patoka, Illinois
+as well as delivering oil to Cushing, Oklahoma. To accomplish the
+objective of delivering crude oil to Wood River and Patoka, and
+eventually to Cushing, the Proposed Route follows the shortest route
+possible between the Canadian border and Cushing. The route crosses
+the U.S./Canada border at Pembina County North Dakota, and follows
+a southerly track through North Dakota, South Dakota, and Nebraska
+(see Figure 2.1-1). At Steele City on the Nebraska/ Kansas border,
+the Mainline Project of the Proposed Route turns east through the
+northeast corner of Kansas and crosses Missouri to terminals at Wood
+River and Patoka, Illinois. The Cushing Extension continues south from
+Steele City through Kansas to Ponca City and Cushing, Oklahoma. This
+route would facilitate access to Cushing while preserving access
+to the original markets in Illinois, and would provide collocation
+opportunities along the existing Platte pipeline.
+
+The length of pipeline proposed within each affected state is listed
+in Table ES-1.
+
+**TABLE ES-1 Miles of Pipeline by State for the Keystone Project**
+
+**ND SD NE KS MO IL OK Total**
+
+Mainline Project 217.8 219.9 214.6 98.7 274.0 56.9 0.0 1,081.9
+
+Cushing Extension 0.0 0.0 2.5 210.4 0.0 0.0 83.1 296.0
+
+**Keystone Project total**
+
+**217.8** **219.9 217.1** **309.1** **274.0** **56.9** **83.1**
+
+**1,377.9**
+
+Keystone would construct the 30- and 36-inch-diameter pipelines within
+a 110-foot-wide corridor, consisting of a temporary 60-foot-wide
+construction right-of-way (ROW) and a 50-foot-wide permanent ROW.
+
+Ownership of lands that would be crossed by the proposed Keystone
+Project is identified in Table ES-2.
+
+**TABLE ES-2 Ownership of Land Crossed by the Keystone Project
+(miles)**
+
+**Federal** **Tribal** **State** **Private** **Total**
+
+**Mainline Project** North Dakota 0.0 0.0 0.8 217.0 217.8
+
+South Dakota 0.0 0.0 0.0 219.9 219.9
+
+Nebraska 0.0 0.0 0.0 214.6 214.6
+
+Kansas 0.0 0.0 0.0 98.7 98.7
+
+Missouri 0.0 0.0 0.5 273.5 274.0
+
+Illinois 3.0 0.0 0.0 53.9 56.9
+
+*Mainline Project subtotal* *3.0* *0.0* *1.3* *1,077.6* *1,081.9*
+
+**Cushing Extension** Nebraska 0.0 0.0 0.0 2.5 2.5
+
+Kansas 3.6 0.0 0.0 206.8 210.4
+
+Oklahoma 0.0 0.0 3.6 79.5 83.1
+
+*Cushing Extension subtotal* *3.6 0.0* *3.6 288.8 296*
+
+**Keystone Project total** **6.6** **0.0** **4.9** **1,366.4**
+
+**ES.3 PURPOSE AND NEED FOR THE PROPOSED ACTION**
+
+The primary purpose of the proposed pipeline is to transport crude
+oil from the WCSB across the border to meet the growing demand by
+refineries and markets in the United States. The need for the Project
+is dictated by:
+
+• Increasing WCSB heavy crude oil supply and uncertain availability
+of oil from world supplies;
+
+• U.S. demand for crude oil, particularly in the Midwest and Gulf
+States supported by the Keystone Mainline and Cushing Extension; and
+
+• Pipeline capacity available to ship WCSB crude oil.
+
+**ES.3.1 Increasing Western Canadian Sedimentary Basin Crude Oil
+Supply**
+
+According to Oil and Gas Journal*,* Canada has 179 billion barrels
+of proven oil reserves, with 174 billion of those reserves in oil
+sands located in the WCSB. The Alberta Energy and Utilities Board
+also estimates that 174 billion barrels of proven reserves are
+recoverable from Canada's oil sands. The province of Alberta is now
+widely accepted as having the second largest reserves in the world,
+second only to Saudi Arabia.
+
+Crude oil production from the entire WCSB, including oil sands and
+conventional production, is now at 2.3 million bpd. According to
+CNEB, conventional crude oil production in the WCSB is expected to
+decline but because of rapidly growing oil sands production total
+WCSB production will rise to 3.9 million bpd by 2015.
+
+**ES.3.2 Uncertainty of World Oil Supplies**
+
+Global oil production capacity and consumption remain tightly balanced
+after 4 years of rapid demand growth in Asia, the United States,
+and the Middle East. DOS and industry analysts project that it will
+remain so into the medium term. The ability and willingness of major
+oil and gas producers to step up investment in order to meet rising
+global demand are particularly uncertain. Political instability in
+several of the United States' top 11 suppliers is also expected to
+increase demand for crude oil from Canada. Canada's expected production
+increases, coupled with the adverse factors affecting other major
+U.S. suppliers make it likely that an ever larger share of U.S. oil
+imports will be sourced from this stable and nearby supplier. Even if
+the share of total imported oil in overall U.S. demand remains the
+same or declines slightly in coming years, as expected, DOS expects
+that heavy oil imports from the WCSB will continue to increase.
+
+**ES.3.3 U.S. Crude Oil Market Demand**
+
+According to the U.S. Energy Information Administration (EIA),
+U.S. consumption of liquid fuels (crude oil and refined products)
+is projected to total 26.9 million bpd in 2030, an increase of 6.2
+million bpd over the 2005 total. Most of this increased demand is
+expected to be met with crude oil imports. Canada has traditionally
+been the United State's largest supplier of oil due to its reliability
+and proximity to U.S. markets. Canada's share of U.S. oil imports has
+risen from 15 to 16 percent over the last 10 years, while the whole
+of the Western Hemisphere now accounts for 41 percent of U.S. oil
+imports. Demand for the proportion of heavy to light crude used by
+U.S. refiners has increased over the last 20 years as world supplies
+of light crude have diminished in proportion to supplies of heavy
+and extra-heavy crude. Many U.S. refiners have completed or are in
+the process of completing retrofits to handle the heavier types of
+crude in response to this change in the world supply. In recent years,
+crude oil imports from Venezuela (most of which are of heavy grade)
+have declined. The heavy crude oil that Keystone will deliver to
+U.S. refiners is ideally suited to replace the loss of these types
+of crude and meet the expected increase in demand.
+
+**ES.3.4 Mainline Project and Cushing Extension Demand**
+
+In December 2005, Keystone provided shippers an opportunity to
+participate in the Keystone Project by entering into contractual
+commitments for pipeline capacity. Shippers committed to binding
+contracts for 340,000 bpd. These binding commitments demonstrate
+the need for incremental pipeline capacity and access to Canadian
+crude supplies, and represent a commitment to utilize the Keystone
+Project. Keystone expects that the remainder of the excess capacity
+will be utilized by non-contract shippers at the tariff rate
+approved by the Federal Energy Regulatory Commission (FERC) (ENSR
+2006a). Potential shippers also have expressed strong interest in a
+proposed pipeline extension to the Cushing market area. TransCanada
+conducted an Open Season process for the Mainline Project which ran
+from November 4 to December 1, 2005. As a result of the Open Season,
+TransCanada has secured firm, long-term contracts totaling 340,000
+bpd, with an average duration of 18 years. Keystone anticipates that
+existing contracts will be renewed and additional contracts will be
+entered into such that the average contract term will continue beyond
+18 years. This reasoning is based on the amount of crude oil reserves
+in the WCSB and the expected increase in production from the oil sands
+(TransCanada 2007c). A binding Open Season for the Cushing Extension
+closed at noon on March 14, 2007 (ENSR 2006a).
+
+**ES.3.5 Pipeline Capacity from the Western Canadian Sedimentary
+Basin**
+
+Nearly all of the 1.9 million bpd of crude oil imported from Canada
+in 2006 came from the WCSB, and all of that was transported through
+three major pipeline systems: Enbridge, Kinder Morgan Express, and
+Kinder Morgan Trans Mountain. Total capacity from the WCSB for crude
+oil to U.S. markets now stands
+
+at 2.4 million bpd. However, the majority of WCSB crude continues to be
+sold into the U.S. Midwest where a large proportion of U.S. refining
+capacity is located, and an increasing amount is forwarded on
+to refiners in the U.S. Gulf Coast to offset declines in offshore
+production. These two districts are directly and indirectly served by
+the Enbridge system and Kinder Morgan Express, which together have
+a capacity of 2.1 million bpd. Total capacity for heavy oil on the
+Enbridge and Kinder Morgan Express systems now stands at 1.2 million
+bpd. In 2006, approximately 1 million bpd of heavy crude was exported
+from the WCSB to the United States via these two pipelines.
+
+Even with modifications to existing systems and de-bottlenecking
+efforts that are underway by Enbridge, it is likely that crude oil
+exports from the WCSB to the United States will exceed available
+pipeline capacity in 2009, necessitating the construction of a new
+pipeline to facilitate continued importation of crude oil.
+
+Exactly how much more capacity will be needed in the short term to
+mid term can be estimated. Given CNEB projections of an additional
+1.6 million bpd of WCSB production over the current level by 2015,
+expected increased U.S. demand, and a similar proportion continued to
+be consumed by Canada (30 percent), an additional 1.1 million bpd of
+pipeline capacity would be needed by 2015 to accommodate U.S. crude
+oil imports from the WCSB. This increase in capacity would justify
+construction of Keystone's planned 450,000-bpd pipeline, and would
+necessitate additional pipeline construction to meet the remaining
+700,000 bpd of capacity.
+
+**ES.4 PUBLIC INVOLVEMENT PROCESS**
+
+**ES.4.1 Scoping**
+
+On October 4, 2006, DOS issued a Notice of Intent (NOI) to prepare an
+EIS. The NOI informed the public about the proposed action, announced
+plans for scoping meetings, invited public participation in the
+scoping process, and solicited public comments for consideration in
+establishing the scope and content of the EIS. The NOI was published in
+the Federal Register and distributed to affected landowners, Federal
+agencies, Native American tribes, State agencies, Municipalities
+and counties, elected officials, non-governmental organizations, the
+media, and other interested individuals. DOS held 13 separate scoping
+meetings in the vicinity of the Proposed Route to provide opportunity
+for public comment on the scope of the EIS. Meetings were held in
+Michigan and Lisbon, North Dakota; Clark and Yankton, South Dakota;
+Stanton and Seward, Nebraska; St. Charles and Carrolton, Missouri;
+Collinsville, Illinois; Seneca, Abilene, and El Dorado, Kansas; and
+Morrison, Oklahoma. The official scoping period ended on November 30,
+2006; however, any comments received after this date were considered
+in the Draft EIS.
+
+DOS received verbal, written, and electronic comments during the
+scoping comment period. All verbal scoping comments formally presented
+at the meetings were recorded and transcribed. Additional written
+scoping comments were received on comment forms provided to the public
+at the meetings and in letters. Table ES-3 summarizes the issues
+identified and comments received during the public scoping process
+for the Keystone Project. For each comment, the table references the
+section in this FEIS that addresses the concern. Details are provided
+in the Scoping Summary Report (Appendix A).
+
+**TABLE ES-3 Issues Identified and Comments Received during the
+Public Scoping**
+
+**Process for the Keystone Pipeline Project**
+
+**Issue Comment**
+
+**Section Where Comment/Issue Is Addressed in**
+
+Purpose and Need Need for the Mainline Project and the Cushing
+Extension, expected life of the pipeline, agency involvement, and
+required approvals.
+
+Project Description Distance to adjacent structures, construction
+methods, abandonment plans, sources of Keystone Project materials,
+construction schedule, maintenance and inspection plans and procedures,
+expected service life of the pipeline, right-of-way (ROW) revegetation,
+pipeline temperature, protection measures, operations, construction
+impacts to adjacent areas, powering, pipeline security, hydrostatic
+testing, and pump stations.
+
+Alternatives Selection of alternatives, route adjustments, use of
+abandoned rail ROWs, route selection, routes that avoid sensitive
+areas, Kinder Morgan and Enbridge Pipelines, shipping refined products
+instead of a crude oil pipeline, renewable energy sources, seasonal
+avoidance of construction in agricultural areas, collocation with
+other ROWs, and adding a new refinery along the Mainline Project
+rather than constructing the Cushing Extension.
+
+Geology Potential rock slope instability and effects of earthquakes
+and fault lines.
+
+Soils and Sediments Soil compaction and settlement, topsoil segregation
+during construction, replacement of top soils after construction and
+abandonment, soil erosion, streambank erosion, pipeline effects on
+soil temperature, and soil instability.
+
+Water Resources Impacts on springs, aquifers, and water wells; water
+supply contingencies in the event of a spill; impacts to septic systems
+and sewage treatment facilities; stream channel erosion; impacts to
+dikes, dams, and reservoirs; runoff during construction; effects on
+drain tiles and drainage systems; and impacts on flood protection.
+
+Wetlands Impacts and mitigation measures, stabilization during
+construction, enforcement of wetland protection requirements.
+
+Terrestrial Vegetation Impacts on prairies and woodlands, impacts
+of pipeline temperature on vegetation and crops, revegetation of
+affected area, impacts on crop growth, invasive and noxious weeds,
+use of herbicides near organic farms, and effects on old-growth trees.
+
+Fish and Wildlife Impacts on game animals and their habitats; and
+impacts on deer, turkey, frogs, toads, bald eagles, beaver, pheasants,
+and quail.
+
+3.6 and 3.7
+
+**ES.4.2 Comments on the Draft EIS**
+
+The 2007 Keystone Oil Pipeline Project Draft Environmental Impact
+Statement (Draft EIS) was released for public review on August 10,
+2007. The public comment period ended on September 24, 2007; however,
+additional comments were accepted into November 2007. Comments
+were sent to DOS by email, website link (e-comments), phone, and
+U.S. mail. From September 4 through September 20, 2007, 13 public
+meetings were held to solicit oral testimony on the Draft EIS. Written
+comments also were accepted. These meetings were held at the following
+locations along the pipeline corridor and corresponded with the
+locations of the scoping meetings held in October 2006:
+
+September 4 -- Carrolton Missouri September 5 -- St. Charles, Missouri
+September 6 -- Collinsville, Illinois September 11 -- Michigan, North
+Dakota and Yankton, South Dakota September 12 -- Lisbon, North Dakota
+and Stanton, Nebraska September 13 -- Clark, South Dakota and Seward,
+Nebraska September 17 -- Seneca, Kansas September 18 -- Abilene, Kansas
+September 19 -- El Dorado, Kansas September 20 -- Ponca City, Oklahoma.
+
+In total, 67 people provided oral testimony at these meetings,
+incorporating 230 individual comments on the 2007 Draft EIS. These
+comments were recorded and transcribed. In addition to the oral
+testimony, 110 letters, cards, emails, e-comments, or telephone
+conversation records incorporating 1009 comments were received from
+the public, agencies, the Applicant (Keystone), and other interested
+groups and stakeholders. All written and oral comments and responses
+are summarized in Appendix A.
+
+**ES.5 ALTERNATIVES CONSIDERED**
+
+Alternatives to the Keystone Project were analyzed to determine
+whether they would be reasonable and environmentally preferable to
+the proposed action. A No Action Alternative, system alternatives,
+major route alternatives, route variations, and aboveground facility
+site alternatives were considered in the EIS. Identification of
+alternatives to the proposed project incorporated public comments
+and input received from federal, state, and local regulatory agencies.
+
+**ES.5.1 No Action Alternative**
+
+Under the No Action Alternative, the Keystone Project would not be
+constructed and operated and issuance of a DOS Presidential Permit for
+the specific action of building and operating the Keystone pipeline
+would not be required. While this alternative would eliminate the
+environmental impacts directly associated with the Keystone Project,
+it would not meet the proposed action's purpose and need, which
+involve both supply and demand components.
+
+Without the Keystone Project, the increasing supply of crude oil
+from the WCSB would not have a ready conduit for export to available
+refineries and markets in the United States. Additional export pipeline
+capacity above supply requirements also is required to avoid potential
+situations where short-term supply exceeds export pipeline capacity.
+
+U.S. demand for petroleum products has increased, while domestic
+U.S. crude oil supplies continue to decline. The No Action Alternative
+would not provide the United States with a relatively stable and
+
+secure source of North American crude oil for Midwest and Gulf Coast
+markets, thereby continuing increasing U.S. dependence on less reliable
+sources of oil with higher associated shipping costs.
+
+While the increasing demand for refined crude oil products could
+be met by other projects or alternatives, it is purely speculative
+to predict the resulting effects and actions that could be taken by
+local governments and other suppliers or refineries in the region,
+as well as any associated direct and indirect environmental impacts
+of these actions. In addition, each of these actions may result in
+environmental impacts that are less than, equal to, or greater than
+those of the currently proposed Keystone Project. The No Action
+Alternative also could result in more expensive and less reliable
+crude oil supplies for Midwestern refineries, increasing costs and
+availability of the refined products for end-users.
+
+**ES.5.2 System Alternatives**
+
+Several existing and proposed crude oil pipeline systems that
+currently or would eventually serve the markets targeted by the
+proposed Keystone Project were assessed. The analysis considered
+whether those systems would meet the proposed Project objectives
+while offering an environmental advantage over the proposed Project.
+
+One system alternative considered was the expansion of the existing
+Express and Platte Pipeline systems. This 1,700-mile pipeline system
+transports crude oil from Alberta's oil sands in Hardisty, Alberta
+to refineries in the U.S. Rocky Mountain and Midwest regions. In
+the United States, the pipeline crosses Montana, Wyoming, Nebraska,
+Kansas, and Missouri and terminates in Wood River, Illinois. The
+Express system has been in operation from 1997, with a current
+capacity of 280,000 bpd. The Platte pipeline was built in 1952, and
+its current capacity is 164,000 bpd. However, as operated today,
+neither of these existing systems would have the capacity of the
+proposed Keystone pipeline (435,000 bpd, with a potential increase to
+591,000 bpd). As they exist today, neither system could be considered
+as a system alternative for the proposed action
+
+New construction of other crude oil pipeline systems (Alberta
+Clipper, Southern Lights, and Spearhead Cushing Expansion) was also
+considered. Enbridge is proposing these expansion projects to help
+address current and future increases in refinery demand as supply
+from western Canada's vast oil sands increases. The Enbridge projects
+propose to deliver crude oil directly to Midwestern markets. However,
+the proposed Enbridge pipelines would provide a less direct route
+to the Cushing refineries than the Cushing Extension portion of the
+Keystone Project, involving the need for additional miles of pipe
+and likely incurring additional impacts to resources. In addition,
+these projects aim to fulfill other market demands and would not
+meet the market need and in-service date proposed by the Keystone
+Project. Therefore, as noted in Section ES.3.5 above, it is possible
+that market demand and supply of WCSB crude could support construction
+of the Keystone Project and the Enbridge projects.
+
+**ES.5.3 Major Route Alternatives**
+
+Three major route alternatives are considered in the EIS: the Iowa
+Route Alternative, the Proposed Route Alternative, and the Direct
+Route Alternative. During initial screening, it was determined that
+the Iowa Route Alternative did not meet the purpose and need for
+the Project, and the alternative was not considered further in the
+analysis. Table ES-4 summarizes the potential impacts of the remaining
+two alternatives, and the following sections discuss these alternatives
+in more detail. Based on the analysis of the two alternatives, the
+Proposed Route Alternative has been determined to be the preferred
+route and a resource-by-resource analysis of potential impacts is
+conducted in this EIS. Section ES.6 summarizes the results of the
+analysis.
+
+**ES.5.3.1 Iowa Route Alternative**
+
+Initial route development identified a ROW that avoided Nebraska
+and crossed Iowa into northern Missouri (Figure 4.3-1). Desktop data
+analysis, along with limited aerial and ground reconnaissance, was
+used to identify this route. The Iowa Route entered the United States
+in Pembina County, North Dakota, just north of Walhalla, and ran due
+south to the North Dakota/South Dakota border. In South Dakota, the
+route ran generally south to the Spink County border before turning
+southeast toward Plymouth County, Iowa. From there, it crossed the
+South Dakota/Iowa border north of Sioux City, Iowa and continued in
+a southeasterly direction through Iowa and Missouri toward a delivery
+point at Salisbury, Missouri.
+
+Here, the Iowa Route was collocated with the existing Platte pipeline
+to Troy, Missouri. North of Troy, the route was moved to a power line
+ROW to avoid areas where the city has expanded. East of Troy, the
+route again collocated with the Platte pipeline, running east to the
+Missouri/Illinois border---where it deviated from the Platte pipeline
+and crossed the Mississippi River south of Wood River, Illinois. From
+Wood River, the route ran eastward through the Carlyle Lake WMA into
+Patoka, Illinois.
+
+While the Iowa Route would meet the objectives of crude oil delivery
+to the refineries in Illinois, it would not efficiently deliver crude
+oil to Cushing, Oklahoma and would not meet the Keystone Project
+purpose and need, and is not considered further.
+
+**ES.5.3.2 Direct Alternative**
+
+The Direct Alternative was designed to take the shortest feasible
+route between the U.S./Canada border crossing and the delivery
+points at Patoka and Wood River, Illinois, and from there to take
+the shortest route to the delivery point at Cushing, Oklahoma (Figure
+4.3-2). The straight-line path was modified to skirt populated areas
+and to minimize the number of stream crossings by traveling along
+drainage divides whenever possible. Between Wood River and Patoka, the
+Direct Alternative follows the same alignment as Keystone's proposed
+route. Between Wood River and Cushing, the Direct Alternative roughly
+parallels Enbridge's Ozark pipeline corridor, but collocation was
+not assumed.
+
+A reconnaissance-level GIS analysis and comparison of the Direct
+Alternative and Keystone's Proposed Route was performed (see Table
+4.3-1). Based on this analysis, there is no clear environmental
+advantage associated with the Direct Alternative. The pipeline miles
+are very close, as are the approximate number of acres required for the
+pipeline ROW (acres required for ancillary facilities, access roads,
+work pads, etc. were not included in this assessment). The Direct
+Alternative would require an additional 48 water body crossings,
+and may require additional pump stations. It does not take advantage
+of collocation with other pipeline corridors. While slightly fewer
+miles of wetlands (based on available wetlands inventory mapping)
+and federal lands (based on available GIS coverage) may be crossed
+by the Direct Alternative, in a general sense this alternative would
+likely lead to more environmental impact than would construction of
+the Proposed Route.
+
+**TABLE ES-4 Comparison of the Proposed Route and Direct**
+
+**Alternatives for the Keystone Project**
+
+**Comparative Category Unit Proposed**
+
+**Route Direct**
+
+**Alternative**
+
+**Facility Requirements**
+
+Pipeline length Miles 1,378 1,380
+
+Pump station requirements Number 24 29
+
+**Land Requirements**
+
+Construction ROW Acres 18,300 18,303
+
+Permanent ROW Acres 8350 8,362
+
+**Environmental Considerations**
+
+Water body crossings Number 213 261
+
+Wetlands crossed Miles 44.4 40.0
+
+Federal lands crossed Miles 4.9 2.2
+
+**ES.5.4 Route Variations for the Proposed Route Alternative**
+
+As part of the route development and selection process, numerous route
+variations to the initially planned Mainline Project route and Cushing
+Extension route have been incorporated into the proposed route. These
+variations were developed based on discussions with landowners,
+resource stewards, and project engineers to avoid or minimize impacts
+to natural or cultural resources, reduce or eliminate engineering
+and constructability concerns, and avoid or minimize conflicts with
+existing or proposed residential and agricultural land uses.
+
+In addition to the route variations described, the scoping process
+identified public concerns related to route location. Many of these
+comments addressed specific route variations related to avoiding
+shelterbelts and aesthetic features, such as bike paths and parks. The
+Scoping Report is provided as Appendix A for reference. Specific Route
+Alternatives in the vicinity of Seward Nebraska, Fordville North
+Dakota, and in the Hecla Sandhills Region were analyzed in detail
+based on public and agency comments. Aspects of two of the variations,
+the Seward Route Alternative and the Hecla Sandhills Route Alternative
+were incorporated into the proposed route for the Keystone Project. The
+final design alignment, where feasible, considers these minor route
+variations and attempts to address additional landowner requirements,
+such as crossing property along quarter section lines. Additional minor
+alignment shifts would be required prior to and during construction
+to accommodate unforeseeable site- specific constraints related to
+other engineering, landowner, and environmental concerns.
+
+**ES.5.5 Aboveground Facility Alternatives for the Proposed Route**
+
+Pump stations, valve sites, temporary worksites, and pipe and
+contractor yards are identified in the EIS for the Keystone
+Project. The proposed project includes 24 pump stations, 44 pipe
+storage yards, 36 contractor yards, and 57 main line valves (MLVs)
+along the Mainline Project and 3 pump stations, 10 pipe storage yards,
+6 contractor yards, and 15 MLVs along the Cushing Extension. Although
+the preferred locations for these facilities were chosen based on
+Project need, the proximity of public access, habitats, dwellings,
+and other land and ROW issues also were considered in siting the
+facilities. Over the course of Project development, pump station
+locations have been relocated due to environmental, engineering or
+landowner concerns.
+
+**ES.6 PROPOSED PROJECT IMPACTS AND MITIGATION MEASURES**
+
+Table ES-5 summaries the potential impacts of the proposed route. The
+table also summaries mitigation measures proposed by Keystone
+in Appendix B. Additional mitigation measures are recommended in
+subsequent resource sections within the EIS and are summarized in
+Section 5.0.
+
+**ES.6.1 Geology**
+
+The proposed project would not involve substantial topographical
+alteration and would not disturb any geological features protected
+by federal or state laws. Seismic activity is not expected to pose
+an unacceptable risk to the project.
+
+The proposed pipeline route does not cross any active surface mines
+or quarries; however, it does cross 40 miles of underlying coal seams
+between Wood River and Patoka, Illinois, where coal is mined with
+underground methods (ENSR 2006a). The proposed route does not cross
+the well pads of any active oil and gas wells. Extraction of oil and
+gas resources would not be affected by routing operations because any
+new wells would be located outside of the pipeline ROW. The proposed
+pipeline would pass through deposits of sand, gravel, clay, and stone
+in North Dakota, South Dakota, and Nebraska but would restrict access
+to comparatively small areas of these deposits. In Kansas, Missouri,
+and Illinois, the proposed route lies adjacent to an existing pipeline,
+limiting impacts to potentially exploitable geologic resources.
+
+A minimal risk of localized subsidence or collapse exists where
+the pipeline crosses karst formations or passes above historic
+coal mines. It is also possible that land clearing would increase
+the risk of erosion and localized landslides. Most of the proposed
+Keystone Project route is not located in landslide-prone terrain,
+but the proposed route does cross areas of high landslide potential,
+as described by the National Pipeline Mapping System at the Yankton
+and Mississippi River crossings. Keystone has considered landslide
+potential in its routing work and has selected crossings of these
+areas where the landslide potential is reduced.
+
+**ES.6.2 Soils**
+
+Temporary or short term increases in soil erosion could occur
+during construction, particularly in areas classified as highly
+erosive. Receiving water bodies could be affected, and agricultural
+soils containing agrochemical products could be eroded. During
+construction, soil compaction is likely, increasing the possibility
+of runoff.
+
+Approximately 17,000 acres of farmland or rangeland within the ROW
+would be taken out of production during the 18-month construction
+period. Some short- or long-term decreases in agricultural productivity
+are possible. In addition, tile drainage systems would be disturbed
+during construction. Keystone has proposed to avoid, replace, and/or
+repair any tile drainage system within the ROW.
+
+There could be compaction-related decreases in productivity from
+non-agricultural vegetated land, particularly where soils are
+classified as hydric. It is also possible that boulders and rocks
+unearthed during construction would be concentrated near the surface
+at completion. There are also concerns that spills or leakage from
+equipment could contaminate soils. Keystone has proposed construction
+methods and mitigation measures to address these concerns, and
+additional recommended measures are described in the EIS.
+
+In terms of operations impacts, differential settling around the
+proposed pipeline likely would be minor and would be addressed by
+mitigation measures. Soil temperature impacts would be limited to
+within 3 feet of the pipeline and would not result in serious soil
+moisture loss; mitigation would be adequately addressed through the
+recommendations discussed in the EIS
+
+**TABLE ES-5 Summary of Potential Impacts and Proposed Mitigation
+for the Proposed Route Alternative**
+
+**Resource**
+
+**Section Direct and Indirect Impacts Cumulative Impacts a Proposed
+Mitigation Measures**
+
+Geology 3.1 The proposed project would not involve substantial
+topographical alteration and would not disturb any geological features
+protected by federal or state laws, or tribal pr actice. Seismic
+activity is not expected to pose an unacceptable risk to the
+project. The proposed pipeline would pass through deposits of sand,
+gravel, clay, and stone in North Dakota, South Dakota, and Nebraska
+but would restrict access to comparatively small areas of these
+deposits. The proposed route does cross areas of high landslide
+potential, as described by the National Pipeline Mapping System at
+the Yankton and Mississippi River crossings.
+
+A minimal risk of localized subsidence or collapse exists where the
+pipeline crosses karst formations or passes above historic coal mines.
+
+In Kansas, Missouri, and Illinois, the proposed route lies adjacent
+to an existing pipeline, limiting impacts to potentially exploitable
+geologic resources.
+
+Keystone has considered landslide potential in its routing work and
+has selected crossings of these areas where the landslide potential
+is reduced.
+
+Prior to surface disturbance activities within karst terrain, a
+geological investigation will be completed to determine the presence
+and type of karst features. The investigation will identify the
+location, distribution, and dimensions of rock cavities within the
+potential influence zone of construction.
+
+Soils 3.2 Construction. Temporary or short term increases in soil
+erosion could occur during construction. Short- or long-term decreases
+in agricultural productivity are possible. In addition, tile drainage
+systems would be disturbed during construction. Boulders and rocks
+unearthed during construction would be concentrated near the surface
+at completion. There are also concerns that spills or leakage from
+equipment could contaminate soils. In terms of operations impacts,
+differential settling around the proposed pipeline likely would be
+minor and would be addressed by mitigation measures.
+
+Operations. Soil temperature impacts would be limited to within 3 feet
+of the pipeline and would not result in serious soil moisture loss.
+
+Potential cumulative erosion effects could occur where construction
+disturbance areas overlap, or are located near each other, particularly
+along the sections of Keystone pipeline that are collocated with the
+Rockies Express Western Phase Project (REX Project). Both the REX
+Project and the Keystone Project would apply best management practices
+(BMPs) for soil management and protection to the pipelines and
+appurtenant facilities. Revegetation mixtures that are appropriate to
+soil conditions and expected future uses (such as grazing and wildlife
+habitat) would be applied to the disturbed areas. Consequently,
+the potential for cumulative erosion effects caused by one or more
+of these projects is low.
+
+Keystone has proposed to avoid, replace, and/or repair any tile
+drainage system within the ROW.
+
+The objective of topsoil handling is to maintain topsoil capability
+by conserving topsoil for future replacement and reclamation and to
+minimize the degradation of topsoil from compaction, rutting, loss
+of organic matter, or soil mixing so that successful reclamation of
+the ROW can occur.
+
+In cultivated agricultural lands, the actual depth of the topsoil
+shall be stripped from the area to be excavated above the pipeline to
+a maximum of 12 inches. When grading is required, the topsoil shall
+be removed from the entire area to be graded and stored. Stripped
+topsoil is to be stockpiled in a windrow along the edge
+
+**TABLE ES-5 (Continued)**
+
+**Resource**
+
+**Section Direct and Indirect Impacts Cumulative Impacts a Proposed
+Mitigation Measures**
+
+of the ROW to minimize the potential for subsoil and topsoil to
+be mixed.
+
+Keystone shall monitor the pipeline ROW and all stream crossings for
+erosion or other potential problems that could affect the integrity of
+the pipeline. Any erosion identified shall be reclaimed as expediently
+as practicable by Keystone or by compensation of the landowner to
+reclaim the area.
+
+Water Resources
+
+3.3 Surface water or groundwater quality would not be significantly
+affected by normal disposal activities (such as disposal of hydrostatic
+test water), non- catastrophic spills, or leaks during pipeline
+construction and operation.
+
+If construction activities of the Keystone Project and the collocated
+portion of REX pipeline follow a similar schedule, there could be
+a cumulative contribution to incremental sedimentation in adjacent
+surface waters. Each project---as well as any other collocated
+construction projects---would be required to follow BMPs and permit
+conditions to protect surface waters.
+
+Both the Keystone Project and other portions of the REX Project plan to
+use surface water for hydrostatic testing. However, the timing for REX
+withdrawals would not overlap with withdrawals planned for Keystone.
+
+Temporary erosion and sediment control measures shall be installed
+immediately after initial disturbance of the soil and maintained
+throughout construction (on a daily basis) and reinstalled as necessary
+until replaced by permanent erosion control structures or restoration
+of the construction ROW is complete. These measures include sediment
+barriers, trench plugs, temporary slope breakers, drainage channels
+or ditches, temporary mulching, and use of a tackifier.
+
+All extra work areas (such as staging areas and additional spoil
+storage areas) at least 10 feet from the water's edge. Flagging shall
+be installed at all water body crossings, across the construction ROW
+at least 10 feet from the banks prior to clearing and to ensure that
+riparian cover is maintained where practicable during construction.
+
+Details for water body crossing methods and mitigation are provided
+in Section 7.4 of Appendix B.
+
+**TABLE ES-5 (Continued)**
+
+**Resource**
+
+**Section Direct and Indirect Impacts Cumulative Impacts a Proposed
+Mitigation Measures**
+
+Wetlands 3.4 Wetlands that would be affected within the ROW include
+emergent wetlands (403 acres), forested wetlands (80 acres), perennial
+riverine wetlands (37 acres), intermittent riverine wetlands (107
+acres), and scrub-shrub wetlands (32 acres).
+
+Cumulative impacts on wetlands would occur in locations where any of
+the Keystone Project and REX pipelines or other construction projects
+would be collocated while crossing wetlands. Total wetland impacts
+within the collocated area could be about 156 acres of wetlands. Both
+projects would implement mitigation measures to protect wetlands.
+
+Other construction projects, such as town expansions, new roads and
+highways, and other industrial facilities could affect additional
+wetlands. None of the wetlands crossed by the Keystone Project would
+be permanently filled or drained, and the contribution of the Keystone
+Project on cumulative effects to wetlands in the Project area would
+be minor.
+
+Wetland boundaries shall be clearly marked in the field with signs
+and/or highly visible flagging during construction. Aboveground
+facilities shall not be located in a wetland, except where the location
+of such facilities outside of wetlands would preclude compliance with
+U.S. Department of Transportation (USDOT) pipeline safety regulations.
+
+The width of the construction ROW shall be reduced to 85 feet or
+less in standard wetlands unless non-cohesive soil conditions require
+utilization of a greater width.
+
+All extra work areas (such as staging areas and additional spoil
+storage areas) shall be located at least 10 feet away from wetland
+boundaries.
+
+Sediment barriers shall be installed across the entire construction
+ROW immediately upslope of the wetland to prevent sediment flow into
+the wetland. Specific wetland crossing procedures are described in
+Section 6.5 of Appendix B.
+
+Terrestrial Vegetation
+
+3.5 Grassland impacts due to pipeline construction are expected to be
+minimal, and affected vegetative communities generally are expected to
+reestablish within 2 years. Construction through previously untilled
+prairie could produce irreversible impacts. Impacts on upland
+forest and shrubland would be longer term than those anticipated
+for grassland.
+
+The total amount of vegetation that may be affected by all of the
+reasonably foreseeable projects, including the Keystone Project,
+is relatively small compared to the abundance of similar habitat in
+the Project area. Impacts would result in the long-term and permanent
+loss of non-herbaceous vegetation and would cause a small incremental
+increase
+
+Clearing, grubbing and grading of trees, brush and stumps shall be
+performed in accordance with the following measures: ROW boundaries
+including temporary workspaces shall be clearly staked to prevent
+disturbance to unauthorized areas; timber shall be salvaged as per
+landowner request; tree stumps shall be grubbed only
+
+**TABLE ES-5 (Continued)**
+
+**Resource**
+
+**Section Direct and Indirect Impacts Cumulative Impacts a Proposed
+Mitigation Measures**
+
+in fragmentation of forested areas. All of the projects would
+implement mitigation measures designed to minimize the potential for
+erosion, revegetate disturbed areas, increase the stabilization of
+site conditions, and control the spread of noxious weeds---thereby
+minimizing the degree and duration of the cumulative impact on
+vegetation from these projects.
+
+5 feet either side of the trench line and where necessary for grading
+a level surface; timber salvage operations shall use cut off-type saw
+equipment; trees shall be felled in such a way that they fall toward
+the center line of the ROW; there will be no disposal of woody debris
+in wooded areas along the pipeline ROW; pruning of branches hanging
+over the ROW shall be done only when necessary for construction;
+and stump removal and brush clearing shall be done with bulldozers
+equipped with brush rakes to preserve organic matter.
+
+Wildlife 3.6 Pipeline construction would result in short-term
+disturbance and long-term modification to wildlife habitats. However,
+the total habitat loss is expected to be small in the context of
+total available habitat.
+
+Construction and operation of the Keystone Project, along with the
+reasonably foreseeable projects, would result in short-term disturbance
+to wildlife and long-term wildlife habitat modification. Keystone
+would incrementally add to the area of habitat disrupted and to the
+disturbance of resident and migrating species, causing associated
+impacts on these species as they adjust to the changes brought about by
+the proposed projects. Increased movement or displacement of species
+dependent on the disturbed habitats could reduce carrying capacities,
+reproductive effort, or survival. This potential is greater for
+species for which suitable habitat is limited in the Project area or
+that are otherwise sensitive to disturbance.
+
+Spoil and topsoil wind rows shall not be located such that obvious
+wildlife trails are blocked.
+
+**TABLE ES-5 (Continued)**
+
+**Resource**
+
+**Section Direct and Indirect Impacts Cumulative Impacts a Proposed
+Mitigation Measures**
+
+Fisheries 3.7 Possible impacts to fisheries could occur through
+siltation and disturbance of streams crossed by the proposed
+pipeline. Any short-term disturbance caused by instream activities
+likely would resemble natural high-flow events in the stream. Keystone
+has proposed to undertake hydrostatic testing during spring, summer,
+and autumn, overlapping with key spawning months of April to July. This
+overlap could affect some sensitive species during breeding.
+
+Because construction schedules for the REX pipeline and the other
+non-linear projects are different from the Keystone Project, cumulative
+impacts on fisheries would not occur. If construction of facilities
+or other projects does become concurrent due to schedule changes,
+the Keystone Project would contribute to cumulative sedimentation
+impacts on fisheries. Nevertheless, these impacts would be short
+term and minor due to implementation of mitigation measures and the
+requirements of any individual state permits to minimize impacts
+while crossing water bodies.
+
+Following the proposed mitigation procedures during construction
+would result in minor short-term impacts to aquatic habitats
+and organisms. To mitigate impacts, construction would involve
+dry-ditch techniques at crossings where the timing of construction
+does not adequately protect environmentally sensitive water bodies,
+as determined by the appropriate regulatory authority. Horizontal
+directional drilling (HDD) would be used at designated major and
+sensitive water bodies.
+
+For hydrostatic testing, the intake hose shall be screened to prevent
+the entrainment of fish or debris. The hose shall be kept off the
+bottom of the water body. Pumps used for hydrostatic testing within
+100 feet of any water body or wetland shall be operated and refueled
+in accordance with Section 3.0 of Appendix B. Adequate flow rates in
+the water body shall be maintained to protect aquatic life, provide for
+all water body uses, and provide for downstream withdrawals of water by
+existing users. Chemicals shall not be used in the test water. Water
+containing oil or other substances in sufficient amounts to create
+a visible color film or sheen on the surface of the receiving water
+shall not be discharged. Any water obtained or discharged shall comply
+with permit requirements. Detailed mitigation measures for dewatering
+the pipeline are provided in Section 8.4 of Appendix B.
+
+**TABLE ES-5 (Continued)**
+
+**Resource**
+
+**Section Direct and Indirect Impacts Cumulative Impacts a Proposed
+Mitigation Measures**
+
+Threatened and Endangered Species
+
+3.8 Preliminary data identified 55 federally or state- listed
+threatened, endangered, or candidate species potentially occurring
+in or near the Keystone Project ROW. Potential impacts on individual
+species include habitat loss, alteration, and fragmentation; decreased
+breeding; direct mortality; and reduced survival or reproduction.
+
+Because the Keystone pipeline would parallel the REX pipeline across
+Kansas and Missouri, many of the state- and federally listed threatened
+and endangered species could potentially be affected by construction
+and operation of these projects. Each project is required to consult
+with federal, state, and local agencies to determine which species may
+occur within each individual project area; evaluate potential impacts
+on those species during construction and operation; and implement
+measures to avoid, minimize, or mitigate impacts on special-status
+species and their habitats.
+
+Keystone has been and will continue to contract a qualified biologist
+to conduct surveys of sensitive species associated with particular
+habitats along the pipeline corridor. Details regarding mitigation
+measures for potential encounters with threatened and endangered
+species are provided in Section 2.9 of Appendix B.
+
+Land Use 3.9 Agricultural, rangeland, forestland, recreational/special
+use, commercial, and residential land use classes would be affected
+in areas intersected by the proposed ROW. The largest amount of
+acreage that would be affected by the Keystone Project would be
+agricultural land, followed by rangeland. After construction,
+nearly all agricultural land along the ROW would be allowed to
+return to production, and productivity is not expected to be reduced
+significantly over the long term. Approximately 140 acres would be
+necessary for construction of aboveground facilities; these acres
+would be permanently removed from farming production. Recreational
+lands potentially affected include bike trails, sightseeing areas,
+hiking trails, and wildlife viewing areas; public lands are limited
+along the ROW. Construction activities are anticipated to cause only
+temporary impacts.
+
+Land use changes associated with the portion of the REX pipeline that
+is collocated with Keystone would cumulatively add to the acreage of
+aboveground oil and gas facilities in the Project area. In addition,
+the ethanol and coal-fired power plants that would be constructed
+in Audrain County and Carroll County, Missouri, respectively, would
+further increase the amount of land in those counties that would be
+converted to industrial use
+
+Keystone also has developed mitigation plans for limiting impacts on
+soil drainage mechanisms, compaction, irrigation systems, farm access
+areas, windbreaks and living fences, and Conservation Reserve Program
+lands. Keystone has further sought to minimize impacts on rangelands
+by developing range-specific mitigation measures. Keystone would
+coordinate with agency and land use managers to reduce conflicts
+between construction activities and recreational uses. Details on
+these measures are provided in Appendix B.
+
+**TABLE ES-5 (Continued)**
+
+**Resource**
+
+**Section Direct and Indirect Impacts Cumulative Impacts a Proposed
+Mitigation Measures**
+
+Socio economics
+
+3.10 Construction. Pipeline construction activities would generate
+substantial direct and indirect economic benefits. Potentially negative
+impacts include agricultural losses, and increased demands on local
+highways and emergency services. Some disruption of traffic flows
+would be expected. Potentially adverse socioeconomic effects including
+increased demand for public services and inexpensive housing could
+disproportionately affect lower income areas. Other environmental
+justice concerns, such as disproportionate air and water quality
+impacts to communities, would not be expected.
+
+Operations. The economic impacts of operating the pipeline are
+expected to be positive, due to generation of permanent jobs and
+increased property tax revenue.
+
+Portions of the construction period and locations for the Keystone
+Project and the collocated portion of the REX Project could overlap
+due to delays or other issues. These projects, together with any
+other linear and non-linear projects planned for the Project area,
+would require workers to temporarily relocate to the Project area
+during construction, potentially inducing housing shortages at certain
+locations during certain periods of the construction schedule.
+
+The increased tax revenue paid to the state and local governments over
+the life of the projects also may result in a beneficial long-term
+cumulative impact. Operation of the proposed facilities would require
+relatively few permanent employees; thus, there would be no long- term
+cumulative or additive impacts on population, housing, or municipal
+services in the Project area.
+
+Agricultural losses would be compensated by Keystone during the
+easement procurement process, Keystone will maintaining access
+and traffic flow on local roads during construction activities,
+particularly for emergency vehicles. Any impacts on local roads would
+be repaired by Keystone.
+
+Cultural Resources
+
+3.11 To limit impacts on cultural resources, the Keystone Project is
+avoiding all cultural resources that are listed in or potentially
+eligible for listing in the National Register of Historic Places
+(NRHP). Short term construction-related impacts will be minimized
+through implementation of Keystone's Mitigation Plan (Appendix
+B). Inadvertent discoveries of buried cultural resources may occur.
+
+No cumulative impacts to cultural resources are anticipated.
+
+Keystone intends to avoid all cultural resources by rerouting the
+pipeline corridor and/or related appurtenances, avoiding construction
+activities on properties listed in or eligible for listing in the
+NRHP, as well as boring and using HDD through culturally sterile
+soils. Short-term, construction-related impacts will be mitigated
+through implementation of Keystone's Mitigation Plan (Appendix
+B). If any adverse effects do occur, they will be resolved through
+consultation with the Advisory Council on Historic
+
+**TABLE ES-5 (Continued)**
+
+**Resource**
+
+**Section Direct and Indirect Impacts Cumulative Impacts a Proposed
+Mitigation Measures**
+
+Preservation, as well as any applicable Native American tribes,
+agencies, and the State Historic Preservation Officers. A Programmatic
+Agreement also will be drafted to address the protocols for inadvertent
+discoveries, future cultural resources identification and avoidance
+commitments, and the process for future consultation.
+
+Air 3.12 Construction. Because pipeline construction would move
+through an area relatively quickly, air emissions typically would
+be localized, intermittent, and short term. Because Keystone will
+be required to comply with applicable regulations, emissions from
+construction-related activities would not significantly affect local
+or regional air quality.
+
+Operations. Project operations would not produce significant air
+quality impacts, and only minor emissions from the backup gasoline
+generator and fugitive emissions from valves, tanks, and pumping
+equipment would occur. Because operating emissions are expected to
+be minimal, no operational permits would be required.
+
+Should construction periods overlap, the proposed Keystone Project
+would incrementally add to dust generation and combustion emissions
+from heavy equipment that also would be produced by the other
+reasonably foreseeable future projects discussed above.
+
+On a local scale, cumulative increases in air emissions could
+occur where new compressor or pump stations are located at or
+near existing or proposed compressor stations, or other existing
+industrial facilities. Pump stations for the Keystone Project also
+could be located near a proposed ethanol plant in Audrain County,
+Missouri and the proposed coal- fired power plant in Carroll County,
+Missouri. Each pump or compressor station and ethanol or power plant
+would be required to obtain state construction and operation permits,
+and potential interactions with nearby emission sources would be
+considered in these permit applications. Emissions from the facilities
+would be reduced by best available technology.
+
+Keystone's contractor shall at all times control airborne dust
+levels during construction using water trucks, sprinklers or calcium
+chloride as necessary to reduce dust to acceptable levels. Dust
+shall be strictly controlled where the work approaches dwellings,
+farm buildings, and other areas occupied by people and when the
+pipeline parallels an existing road or highway.
+
+Emissions from fugitive dust, construction equipment combustion,
+open burning, and temporary fuel transfer systems and associated tanks
+would be controlled to the extent required by state and local agencies,
+through the permit process.
+
+**TABLE ES-5 (Continued)**
+
+**Resource**
+
+**Section Direct and Indirect Impacts Cumulative Impacts a Proposed
+Mitigation Measures**
+
+Noise 3.12 Construction. Residential, agricultural, and commercial
+areas within 500 feet of the project would experience short-term
+inconvenience from construction equipment noise.
+
+Operations. Noise associated with the electric pump stations would be
+limited to the immediate vicinity of the facilities, and are projected
+to be minor.
+
+The Keystone Project, along with the other reasonably foreseeable
+projects, would contribute to ambient noise levels during
+construction. These noise impacts would be temporary and would
+occur only during the construction period for each facility or linear
+project. Because construction proceeds in sections along the pipelines
+and linear projects, the duration of construction activities---and
+therefore noise impacts---at any given location at any given time
+would be limited and short term. Cumulative effects on ambient noise
+levels would occur only if construction on a congruent section of
+each project occurred simultaneously.
+
+No new major sources of noise are expected during operation of the
+Keystone facilities that would be near or collocated with facilities
+associated with the other reasonably foreseeable projects.
+
+Noise impacts from construction would be mitigated in accordance
+with Keystone's Mitigation Plan (Appendix B) to reduce effects on
+individuals, sensitive areas, and livestock. To limit disturbance
+of residential and commercial areas within 500 feet of construction
+activities by increased noise levels, Keystone would give advanced
+notice to landowners prior to construction, limit the hours during
+which construction activities with high- decibel noise levels are
+conducted, and ensure that construction proceeds quickly through
+such areas. Keystone would perform a noise assessment survey during
+operations to confirm the level of noise at each listed noise-sensitive
+area. Project-related operations therefore are not expected to result
+in a significant effect on the noise environment.
+
+Reliability and Safety
+
+3.13 The reliability and safety of the Keystone Project can be expected
+to be well within industry standards. Further, the low probability
+of large, catastrophic spill events and the routing of the pipeline
+to avoid most sensitive areas suggest a low probability of impacts
+to human and natural resources. Nevertheless, some potential for
+construction- and operation-related spills can be expected.
+
+Keystone and similar crude oil pipeline projects are required to comply
+with USDOT and state and local regulations regarding pipeline safety,
+leak detection, and spill response. The Platte pipeline (which is
+collocated with both the REX and Keystone Projects from the Nebraska/
+Kansas border to Troy, Missouri and collocated with Keystone to Wood
+River, Illinois) could contribute to cumulative effects should an
+incident occur in relatively the same timeframe from each pipeline
+or facility.
+
+The Keystone pipeline system would be designed, constructed, and
+maintained in a manner that meets or exceeds industry standards and
+regulatory requirements. Details regarding Keystone's Spill Prevention
+and Containment Plan are provided in Section 3.0 of Appendix B.
+
+Keystone's preventative maintenance, inspection, and repair program
+would monitor the integrity of the pipeline and make repairs if
+necessary. In compliance with applicable regulations governing the
+operation of pipelines, periodic inline inspections would be conducted
+to collect
+
+**TABLE ES-5 (Continued)**
+
+**Resource**
+
+**Section Direct and Indirect Impacts Cumulative Impacts a Proposed
+Mitigation Measures**
+
+information on the status of pipe for the entire length of the
+system. In addition, line patrol, leak detection systems, SCADA,
+fusion-bond epoxy coating, and construction techniques with associated
+quality control would be implemented.
+
+To mitigate the impacts of small spills and leaks, refueling of
+construction equipment shall be conducted a minimum distance of 100
+feet from the stream or a wetland.
+
+a Cumulative impacts for each resource category are discussed in
+Section 3.14 of the Draft EIS.
+
+b Mitigation has been proposed by Keystone at the time of Draft
+EIS publication and is summarized briefly in this table; additional
+details and a comprehensive list of measures proposed by Keystone
+are provided in Appendix B. Additional measures recommended by DOS
+can be found in the appropriate Draft EIS section for the resource.
+
+**ES.6.3 Water Resources**
+
+Overall, it is not anticipated that surface water or groundwater
+quality would be significantly affected by normal disposal activities
+(such as disposal of hydrostatic test water), non-catastrophic spills,
+or leaks during pipeline construction and operation. Hydrostatic
+testing, which would involve the uptake and discharge of water,
+should not cause any adverse impacts if Keystone's Construction,
+Mitigation, and Reclamation Plan (CMR) (Appendix B) is followed.
+
+Many of the aquifers present beneath, or in the vicinity of,
+the proposed route are isolated by the presence of glacial till,
+which characteristically inhibits downward migration of water
+and contaminants into these aquifers. Although the pipeline has
+been routed to avoid most near-surface aquifers, in several areas
+shallow or near-surface aquifers are present beneath the proposed
+route. For these areas, measures have been proposed (such as
+containment structures) to reduce the potential impact of leaks and
+spills during construction. Keystone's CMR Plan (Appendix B) outlines
+procedures for contractor preparedness and emergency spill response
+to reduce the potential for contaminants to migrate into the aquifer
+during construction activities. Additionally, the risk of dewatering
+shallow groundwater aquifers or reducing groundwater quality through
+an increase in total suspended solids during construction likely
+would be temporary, and these aquifers are expected to recover quickly
+following construction activities. Construction and normal operations
+therefore are not expected to result in a long-term significant impact
+on groundwater.
+
+Keystone has proposed three construction methods for crossing surface
+water bodies: dry-cut methods, open cut wet crossings, and horizontal
+directional drilling (HDD). The HDD method would avoid any impacts on
+water bodies; however, the open cut wet method, involving trenching
+while water continues to flow, would entail a high risk of temporary
+siltation to streams and other water bodies. Dry-cut methods are not
+feasible for wider streams. The risks of open-cut trenching could be
+temporary (for the duration of construction) or longer term (where
+compromised stream bank stability or bank erosion occurs). Keystone's
+CMR Plan (Appendix B) includes several measures to reduce siltation
+and erosion. Additional measures are recommended in the Draft EIS.
+
+**ES.6.4 Wetlands**
+
+Wetlands that would be affected within the ROW include emergent
+wetlands (403 acres), forested wetlands (80 acres), perennial riverine
+wetlands (37 acres), intermittent riverine wetlands (107 acres),
+and scrub-shrub wetlands (32 acres). While emergent wetlands would
+regenerate quickly after disturbance (within 3--5 years generally),
+forested and scrub-shrub wetlands would potentially experience
+long-term effects. Wetlands in parks or reserves have significant
+conservation value. Keystone would implement mitigation measures
+described in its CMR Plan, including restoration efforts in some
+cases. As a result of this environmental analysis, Keystone has
+committed to additional mitigation measures that would be included
+in a revised CMR Plan prior to construction. Additional recommended
+mitigation measures may be included in the specific permits issued
+by relevant jurisdictional agencies or conservation easement holders
+where applicable.
+
+**ES.6.5 Terrestrial Vegetation**
+
+Terrestrial vegetation classes include all the wetland classes in
+addition to grasslands, upland forest, and developed land. Grassland
+impacts due to pipeline construction are expected to be minimal, and
+affected vegetative communities generally are expected to reestablish
+within 2 years. Construction through 29 miles of previously untilled
+prairie could produce irreversible impacts, as prairie sod can take up
+to 100 years to recover. Keystone has identified several measures to
+limit impacts on vegetation in its CMR Plan (Appendix B) As a result
+of this environmental analysis, Keystone has committed to additional
+mitigation measures that would be included in a revised CMR Plan prior
+to construction. Additional recommended mitigation measures may be
+included in the specific permits issued by relevant jurisdictional
+agencies or conservation easement holders where applicable.
+
+Impacts on upland forest and shrubland would be longer term than those
+anticipated for grassland, because of the time required for these
+plant communities to reestablish and reach mature, pre-construction
+conditions.
+
+**ES.6.6 Wildlife**
+
+Pipeline construction would result in short-term disturbance and
+long-term modification to wildlife habitats. Increased habitat
+fragmentation would be experienced by white-tailed deer and other large
+mammals. Although disturbance of dens during winter hibernation could
+be potentially fatal for newborn black bears cubs, the probability of
+this event is extremely low, as black bear habitat minimally overlaps
+the ROW. Small game birds and rodents would be affected through
+destruction of nests and burrows, death of young or loss of eggs,
+and loss of foraging areas and cover. However, the total habitat loss
+is expected to be small in the context of total available habitat.
+
+**ES.6.7 Fisheries**
+
+Possible impacts to fisheries could occur through siltation and
+disturbance of streams crossed by the proposed pipeline. Following
+the proposed mitigation procedures during construction would result
+in minor short-term impacts to aquatic habitats and organisms. Any
+short-term disturbance caused by instream activities likely would
+resemble natural high-flow events in the stream. To mitigate impacts,
+construction would involve dry-ditch techniques at crossings where the
+timing of construction does not adequately protect environmentally
+sensitive water bodies, as determined by the appropriate regulatory
+authority.
+
+In addition, Keystone has committed to using the HDD method at 17
+designated major and sensitive water bodies (13 on the Mainline Project
+and four on the Cushing Extension). As a result of this environmental
+analysis, Keystone has agreed to prepare site specific crossing plans
+for each major water body and for water body crossings where important
+fisheries resources could be impacted that would not be crossed using
+HDD. All stream crossings would require the review and approval of
+the COE and other relevant agencies prior to construction.
+
+Keystone has proposed to undertake hydrostatic testing during the
+spring, summer, and autumn months, overlapping with key spawning
+months of April to July. This overlap could affect some sensitive
+species during breeding.
+
+**ES.6.8 Threatened and Endangered Species**
+
+Federally protected threatened or endangered species with the potential
+to occur in the Keystone Project area include three birds, two mammals,
+four fish, two mollusks, and three plants. Candidate species include
+one reptile, one insect, and one fish. In addition to the federally
+protected species described above, six of the seven states crossed by
+the Keystone Project maintain state statutes and lists of endangered
+and threatened animals and plants. Most affected habitat would include
+croplands (13,594 acres) and grasslands (4,112 acres), followed by
+wetlands and open water (845 acres), and upland and riparian forests
+(1,078 acres). Loss of shrublands and wooded habitats would be long
+term (5--20 years) in reclaimed areas of the construction ROW.
+
+As discussed in detail in the EIS, potential impacts on individual
+species include:
+
+• Habitat loss, alteration, and fragmentation;
+
+• Decreased breeding success due to disturbance from construction
+and operations noise and increased human activity;
+
+• Direct mortality from project construction and operation and/or
+collision with or electrocution by power lines;
+
+• Loss of individuals and habitats due to exposure to toxic materials
+or crude oil releases (addressed in Section 3.13).
+
+• Reduced survival or reproduction due to decreased abundance of
+forage species;
+
+• Interruption of foraging activities due to exposure to construction
+and operations noise and increased human activity.
+
+**ES.6.9 Land Use**
+
+Agricultural, rangeland, forestland, recreational/special use,
+commercial, and residential land use classes would be affected in
+areas intersected by the proposed ROW. The largest amount of acreage
+that would be affected by the Keystone Project would be agricultural
+land, followed by rangeland.
+
+Keystone is planning to undertake construction over an 18-month
+period. During a short portion of that period while construction
+is underway in a specific area, agricultural lands in that area
+of the ROW would not be farmed. Keystone has agreed to compensate
+landowners for crop and other losses on a case-by- case basis. Keystone
+also has developed mitigation plans for limiting impacts on soil
+drainage mechanisms, compaction, irrigation systems, farm access
+areas, windbreaks and living fences, and Conservation Reserve
+Program (CRP) lands. After construction, nearly all agricultural
+land along the ROW would be allowed to return to production, and
+productivity is not expected to be reduced significantly over the long
+term. Approximately 140 acres would be necessary for construction of
+aboveground facilities; these acres would be permanently removed from
+farming production. Keystone has further sought to minimize impacts
+on rangelands by developing range-specific mitigation measures.
+
+Although it is unclear at present exactly how many CRP acres would
+be affected by pipeline construction and operation, the Farm Service
+Agency has estimated that, in a worst-case scenario, over 16,000
+acres of CRP land would be affected during construction, with
+over 6,500 acres remaining affected due to pipeline operation. It
+is likely that total affected CRP acreage would be less than these
+estimates. Impacts on CRP lands would include tilling of grasslands and
+clearance and tillage of forested lands; if within the operational ROW,
+these lands would not be allowed to regenerate during the life of the
+Project. Keystone would restore all disturbed CRP lands in consultation
+with the local FSA and NRCS offices. All CRP lands would therefore
+remain eligible for continued enrollment in the programs. Should any
+lands not be restored, such as forested CRP lands within the permanent
+ROW or should a pump station be sited on CRP lands, Keystone would
+compensate the landowners for demonstrated costs or lost revenue
+associated with the CRP programs. Keystone would work with each
+individual landowner where CRP lands are encountered, assisting
+individuals to inform the local FSA and to develop restoration plans
+to the satisfaction of the FSA and NRCS.
+
+Thus, impacts on these lands would be localized but long term. Keystone
+would address these impacts, and any impacts to Farmable Wetland
+Program Lands and Wetlands Reserve Program lands, with NRCS and
+landowners on a case-by-case basis. Overall impacts on residential and
+commercial land uses are expected to be minor and would be addressed
+by Keystone through landowner negotiations on a case-by- case basis
+to ensure conservation values are mitigated.
+
+Recreational lands potentially affected include bike trails,
+sightseeing areas, hiking trails, and wildlife viewing areas;
+public lands are limited along the ROW. Construction activities
+are anticipated to cause only temporary impacts. Keystone would
+coordinate with agency and land use managers to reduce conflicts
+between construction activities and recreational uses.
+
+**ES.6.10 Socioeconomics**
+
+The proposed pipeline construction has the potential to generate
+substantial direct and indirect economic benefits. Keystone is expected
+to utilize temporary local construction labor where possible. Work
+force demands would likely mean however that some non-local residents
+would temporarily move into the area of influence. This would
+translate into the need for additional housing units, rental units,
+and or hotel rooms. Keystone estimates that, at the local level,
+construction income benefits are expected to total from $28 to $48
+million. Approximately 40 percent of the cost of construction goods
+and services, or from $44 to $52 million, would be spent locally.
+
+Potentially negative impacts include agricultural losses, which would
+be compensated by Keystone during the easement procurement process, and
+increased demands on local highways and emergency services. Keystone
+does not anticipate any other increased public expenditures. Some
+disruption of traffic flows would be expected; Keystone would use
+public and preexisting private roads to access most of the ROW. Any
+impacts on local roads would be repaired by Keystone.
+
+The impacts of operating the pipeline are expected to be positive. The
+cost of operational goods and services is estimated at $1.3 million
+per year, plus an additional $46.5 million for electricity. About
+90 percent of this ($43 million annually) would be spent locally in
+the Project area. Approximately 26 permanent full-time jobs would be
+associated with operation of the pipeline, representing an annual
+payroll of $5.5 million. The project would generate additional
+property tax revenues of approximately $46.7 million throughout the
+Project area.
+
+Agricultural losses along the pipeline corridor would likely be
+relatively low; however, in a very unlikely "worst case" scenario, over
+16,000 acres of CRP-enrolled lands could be affected. This scenario
+assumes that all acreage enrolled in the program along the corridor
+would be sufficiently affected that the land would need to be removed
+from the program according to the rules of the CRP. In reality, the
+actual acreage that would be removed is likely to be a fraction of the
+overall enrolled acreage. Keystone has agreed to address the actual
+economic impacts resulting from crossing CRP lands on a case-by-case
+basis with the individuals potentially affected. In addition, as
+part of the ROW procurement process, Keystone would negotiate with
+the affected landowners to obtain an easement, compensating for any
+losses, including potential decreases in property values.
+
+Expansion of the Wood River Refinery in response to increased crude
+oil deliveries from the Keystone pipeline is expected to generate
+both positive and adverse socioeconomic effects. Expansion of the
+Wood River Refinery is estimated to cost approximately $1 billion,
+which likely would include expenditures on capital equipment, other
+goods and materials, services, and labor. To the extent that these
+expenditures are made in the local region, for example Madison County,
+and industries are present to meet Project demands, the Project
+would result in substantial regional economic benefits. Within an
+input-output model framework, these benefits would include increases
+in direct, indirect, and induced economic output; value added (i.e.,
+labor income, other property income, and indirect business taxes);
+and employment in the region.
+
+In the long term, expansion of the Wood River Refinery would result
+in greater refining capacity and increased production/output in the
+refined petroleum industry. Based on an estimated 340,000 bpd in
+increased crude oil shipments and an approximate crude oil contract
+price of $60 per barrel, the estimatedProject*
+
+value of refinery inputs is $20.4 million per day, or $744.6 million
+annually. Other socioeconomic parameters that could be affected by
+expansion of the Wood River Refinery include increases in fiscal
+revenues and increased demands for public services and other local
+resources.
+
+Potentially adverse socioeconomic effects could occur---particularly
+during construction---as a result of increased demand for a range
+of public services, including law enforcement, fire protection,
+and medical aid. This could disproportionately affect lower income
+areas. Depending on the characteristics of the construction workforce,
+demands may increase for short-term housing in the region, such as
+hotels/motels and rental units, driving rents up and affecting lower
+income or minority populations. Other environmental justice concerns,
+such as disproportionate air and water quality impacts to communities,
+would not be expected.
+
+**ES.6.11 Cultural Resources**
+
+A cultural resource is defined as any historic district, archeological
+site, building, structure, or object that is either listed, or
+eligible for listing, in the National Register of Historic Places
+(NRHP). Cultural resources may also include traditional cultural
+properties. Resource types that have been currently identified
+within the Keystone Project APE include pre-contact and historic
+archaeological sites, historic- era farmsteads, railroads, historic
+trails, as well as historic cemeteries and pre-contact burial
+sites. The principal types of adverse effects that could occur for
+this project include physical destruction of or damage to all or part
+of the property caused by pipeline trenching or related excavations or
+boring, introduction of visual, atmospheric, or audible elements that
+diminish the integrity of the property's significant historic features
+by short term pipeline construction or construction of above-ground
+appurtenant facilities and roads, and change of the character of the
+property's use or of physical features within the property's setting
+that contribute to its significance.
+
+To mitigate impacts to cultural resources, the Keystone Project is
+avoiding all cultural resources that are potentially eligible for
+listing in the NRHP. Avoidance is achieved by rerouting the pipeline
+corridor or related roadways, work spaces, and appurtenances; avoiding
+construction activities on NRHP-eligible properties; and by boring or
+using HDD beneath resources. Short term, construction-related impacts
+will be mitigated by implementing measures in Keystone's CMR Plan
+(Appendix B). If impacts do occur to any Eligible historic property
+or Unevaluated cultural resource, they will be resolved through
+consultation with all consulting parties, using the protocols that were
+developed for this project and outlined in the Programmatic Agreement
+(PA see Appendix R). The PA addresses unanticipated discoveries,
+future historic properties identification and evaluation efforts,
+avoidance commitments and measures, as well as the process for future
+consultation.
+
+DOS is in the process of consulting under Section 106 of the National
+Historic Preservation Act (NHPA) with the SHPOs, Native American
+tribes, and the ACHP to make final determinations of NRHP eligibility
+and findings of effect for the cultural resources identified within the
+Keystone area of potential effect. Monthly consultation meetings and
+conference calls have been ongoing with interested agencies and tribes
+to share information on the Project and to develop the PA (Appendix R).
+
+**ES.6.12 Air Quality**
+
+Two types of impacts on air quality were considered for this analysis:
+temporary impacts resulting from emissions associated with construction
+activities, and long-term or permanent impacts resulting from emissions
+generated from continued operation of a stationary source.
+
+Construction of the proposed Keystone Project would be similar
+to other pipeline projects in terms of schedule, equipment used,
+and types of activities. Because pipeline construction would move
+through an area relatively quickly, air emissions typically would be
+localized, intermittent, and short term. Emissions from fugitive dust,
+construction equipment combustion, open burning, and temporary fuel
+transfer systems and associated tanks would be controlled to the extent
+required by state and local agencies, as explained above. Because
+Keystone would be required to comply with applicable regulations,
+emissions from construction-related activities would not significantly
+affect local or regional air quality. Project operations would not
+produce significant air quality impacts, and only minor emissions
+from the backup gasoline generator and fugitive emissions from valves,
+tanks, and pumping equipment would occur. Because operating emissions
+are expected to be minimal, no operational permits would be required.
+
+**ES.6.13 Noise**
+
+Construction would increase noise levels in the vicinity of Project
+activities; noise levels would vary during the construction period,
+depending on the construction phase. Residential, agricultural,
+and commercial areas within 500 feet of the Mainline Project and the
+Cushing Extension ROW would experience short-term inconvenience from
+construction equipment noise. Noise impacts from construction would
+be mitigated in accordance with Keystone's CMR Plan (Appendix B)
+to reduce effects on individuals, sensitive areas, and livestock. To
+limit disturbance of residential and commercial areas within 500 feet
+of construction activities by increased noise levels, Keystone would
+give advanced notice to landowners prior to construction, limit the
+hours during which construction activities with high- decibel noise
+levels are conducted, and ensure that construction proceeds quickly
+through such areas. Additional recommendations are summarized in
+Section 5.12.2.
+
+During operation of the pipeline, the noise associated with the
+electric pump stations would be limited to the immediate vicinity of
+the facilities. Although noise impacts from the electric pump stations
+are projected to be minor, Keystone would perform a noise assessment
+survey during operations to confirm the level of noise at each listed
+noise-sensitive area. Project-related operations therefore are not
+expected to result in a significant effect on the noise environment.
+
+**ES.6.14 Reliability and Safety**
+
+As discussed in this EIS, the most common spills from pipeline
+construction and operations are the very small (< 5 bbl) and small
+(5--49.9 bbl) spills of diesel, hydraulic fluid, transmission oil,
+and antifreeze on work pads, roads, and facility parking or work
+areas. Some small spills may result from slow and small leaks of
+crude oil from the pipeline. Most of these small spills would not
+reach non-facility land or water bodies. Significant (50--499.9 bbl)
+and large (500--5,000 bbl) spills are much less common. Significant
+spills are more likely to: (1) be caused by accidents at construction
+and operation/maintenance sites; (2) be composed of refined products;
+and (3) occur on or near roads, construction pads, facility sites,
+or along the ROW.
+
+Very large (>5,000 bbl) spills are a highly unlikely, but nonetheless
+possible, event. They are likely to result from a major rupture or a
+complete break in the pipeline and would release crude oil somewhere
+along the ROW. Causes could include corrosion; major earth movement
+resulting from slides, earthquakes, or flood flows eroding river
+banks at non-HDD crossings; mechanical damage from excavation work;
+or vandalism and terrorist actions. The actual volumes spilled could
+vary, depending on the location and the activation methods and times
+for valves, pressure in the line, actual location of the break,
+the extent to which the pipeline follows the topographic contours
+and presence of low spots in the pipeline, and other factors.
+
+The Keystone pipeline system would be designed, constructed, and
+maintained in a manner that meets or exceeds industry standards
+and regulatory requirements. The proposed Keystone Project would be
+built within an approved ROW. Signage would be installed at all road,
+railway, and water crossings---
+
+indicating that a pipeline is located in the area---to help prevent
+third-party damage or impact to the pipeline. Keystone would
+manage a crossing and encroachment approval system for all other
+operators. Keystone would ensure safety near its facilities through a
+combination of programs encompassing engineering design, construction,
+and operations; public awareness and incident prevention programs;
+and emergency response programs. Details regarding Keystone's Spill
+Prevention and Containment Plan are provided in Section 3.0 of the
+CMR Plan (Appendix B).
+
+Keystone's preventative maintenance, inspection, and repair program
+would monitor the integrity of the pipeline and make repairs if
+necessary. Keystone is required to prepare an Integrity Management
+Plan that would describe Keystone's Pipeline Maintenance Program
+in detail. In compliance with applicable regulations governing the
+operation of pipelines, periodic inline inspections would be conducted
+to collect information on the status of pipe for the entire length
+of the system. Additional types of information collected along the
+pipeline would include cathodic protection readings, geotechnical
+investigations, aerial patrol reports, and routine investigative
+digs. In addition, line patrol, leak detection systems, SCADA,
+fusion-bond epoxy coating, and construction techniques with associated
+quality control would be implemented
+
+The reliability and safety of the Keystone project if designed,
+constructed, and operated as discussed herein would be well within
+industry standards. The low probability of large, catastrophic
+spill events and the routing of the pipeline to avoid most sensitive
+areas suggest a low probability of long term impacts to human and
+natural resources. Nevertheless, some potential for construction- and
+operation- related spills can be expected. Commitments and procedures
+described for reliability and safety in Appendices B and C are intended
+to mitigate spill effects, particularly when considered in combination
+with rapid and effective response and clean-up procedures.
+
+**ES.6.15 Cumulative Impacts**
+
+As defined in 40 CFR 1508.7, cumulative impacts are the incremental
+impacts on the environment resulting from adding the proposed
+action to other past, present, and reasonably foreseeable future
+actions. Cumulative impacts were assessed by combining the potential
+environmental impacts of the proposed action with the impacts of
+projects that have occurred in the past, are currently occurring,
+or are proposed in the future within the pipeline corridor or in the
+vicinity of the pipeline ROW.
+
+**ES.6.15.1 Past and Existing Projects**
+
+Several existing pipelines transport natural gas liquids and compressed
+natural gas across North Dakota, South Dakota, and Nebraska from
+hubs in Montana to the west or Illinois to the east. The Williston
+Basin Pipeline carries compressed natural gas and crosses through
+the southern part of North Dakota, and a natural gas liquid pipeline
+crosses the southeast corner of Nebraska and continues in a southwest
+direction through Kansas. Portions of this pipeline may parallel the
+Keystone Project but are likely to be well outside of the Keystone
+Project ROW. In Oklahoma, Northern Natural Pipeline, NGPL of America,
+Williams Natural, Duke Energy, Oklahoma Natural Gas, and the Lone Star
+Gas Company all have lines that may parallel or intersect the Keystone
+Project but are not necessarily collocated (Oil Week Magazine 2005).
+
+The Express pipeline is an existing 24-inch-diameter pipeline that
+interconnects with the Platte Pipeline, an existing 20-inch-diameter
+pipe, at Casper, Wyoming. This 1,700-mile pipeline system transports
+crude oil from Alberta's oil sands in Hardisty, Alberta to refineries
+in the U.S. Rocky Mountain and Midwest regions. In the United States,
+the pipeline crosses Montana, Wyoming, Nebraska, Kansas, and Missouri,
+and terminates in Wood River, Illinois. The section known as the
+Platte pipeline was built in 1952; theProject*
+
+proposed Keystone Project would be collocated with the existing
+Platte pipeline from the Nebraska/ Kansas border to the Wood River,
+Illinois terminal.
+
+Along the proposed Keystone Project corridor, multiple existing utility
+corridors serve local and regional needs. For example, the WEB Water
+Development Association provides high-quality water service to 7,728
+rural hookups, 100 towns and bulk users, and five ethanol plants in
+a 17-county service area, which includes 14 counties in South Dakota
+and three counties in North Dakota. The Keystone Project would cross
+WEB-owned PVC water pipelines at eight locations in Day and Clark
+Counties South Dakota. In addition, numerous existing transportation
+projects, such as interstate and state highways and railroads,
+parallel or intersect the proposed Keystone pipeline ROW.
+
+**ES.6.15.2 Reasonably Foreseeable Future Projects**
+
+The Rockies Express Western Phase Project (REX Project) would include
+construction and operation of approximately 795.7 miles of natural gas
+pipeline that would transport natural gas from the Cheyenne Hub in
+Colorado to its terminus at the Panhandle Eastern Pipe Line Company
+interconnect in Audrain County, Missouri. A portion of the proposed
+REX pipeline would parallel the Keystone pipeline from the Nebraska/
+Kansas border to Troy, Missouri (approximately 280 miles).
+
+The REX Project proposes to construct the Turney Compressor Station,
+a large aboveground facility near Plattsburg in Clinton County,
+Missouri that is up to several miles east of the proposed location
+for Keystone's Pump Station 31, and a compressor station near Steele
+City Gage County, Nebraska that is along the ROW for the Keystone
+Mainline Project.
+
+Enbridge is proposing three expansion projects to help address
+current and future increases in refinery demand as supply from the
+WCSB increases. The Southern Access, is an expansion and extension
+of Enbridge's existing pipeline system, including new pipeline in
+Wisconsin and Illinois; the Southern Lights is a crude oil pipeline
+from the U.S. -- Canada border at Cavalier County, North Dakota,
+to Clearbrook, Minnesota; and the Alberta Clipper is a new crude oil
+pipeline from Alberta to Superior, Wisconsin. As presently planned,
+these pipelines would cross Minnesota and part of Wisconsin. The
+sections supplying Cushing, Oklahoma and Wood River, Illinois do not
+appear to be collocated with the proposed Keystone Project ROW. The
+applicability of these projects as System Alternatives for the Keystone
+Project is discussed in Section ES.5.2.
+
+Proposed non linear-projects collocated with the Keystone Project
+and the REX pipeline in Missouri include an ethanol plant in Audrain
+County (unknown completion date), and a coal-fired power plant in
+Carroll County (anticipated completion in 2013).
+
+**ES.6.15.3 Cumulative Impacts**
+
+**Geology, Soils, and Sediments**
+
+Construction of the REX pipeline and the Keystone Project would
+require the commitment of granular borrow resources from areas along
+the pipeline corridors and areas near appurtenant facilities for the
+lifetime of the pipelines and related facilities. In addition, these
+projects and the proposed ethanol plant could result in a cumulative
+impact on clay pits in Audrain County, Missouri. Given the limited
+areal extent of the Keystone Project in comparison to the potential
+mineral extraction areas along the corridor, construction of the
+Keystone Project is not likely to result in cumulative impacts that
+would affect future exploitation of mineral resources in that area.
+
+Along with construction of pipelines, roads, and other
+surface-disturbing activities, construction of the Keystone Project
+could contribute to the cumulative exposure and potential loss of
+scientifically valuablestone Pipeline Project*
+
+fossils in the project area. However, should Keystone prepare and
+follow a Paleontological Resources Protection Plan, significant fossil
+resources that may be encountered during Project construction would be
+identified and protected, thereby ensuring that the Keystone Project
+would not contribute to cumulative effects on these resources.
+
+Potential cumulative erosion effects could occur where construction
+disturbance areas overlap, or are located near each other,
+particularly along the sections of Keystone pipeline that are
+collocated with REX. However, the existing pipelines, utility,
+and roadway projects have been installed for a number of years and
+the construction ROWs have been partially or completely restored
+to pre-existing conditions. Irrigated hayfields and pasturelands
+have returned to their prior uses. Both the REX Project and the
+Keystone Project would apply best management practices (BMPs) for
+soil management and protection to the pipelines and appurtenant
+facilities. Revegetation mixtures that are appropriate to soil
+conditions and expected future uses (such as grazing and wildlife
+habitat) would be applied to the disturbed areas. Consequently, the
+potential for cumulative erosion effects caused by one or more of
+these projects is low because consistent erosion control practices
+would be applied, and structural erosion control measures would be
+integrated between and among adjacent projects
+
+**Water Resources**
+
+Groundwater potentially would be used for Keystone, REX, and other
+collocated or nearby construction projects to control dust generated
+and for other uses during construction. Keystone does not propose to
+use groundwater for hydrostatic testing; however, groundwater could be
+used for hydrostatic testing for certain portions of the REX Project
+(FERC 2006). In addition, contaminant spills during construction
+could occur from any project in the cumulative impact study area
+during construction or operation. Each project would be required to
+implement spill containment and control plans as required by federal
+and state agencies. No additional cumulative impacts on groundwater
+volume or quality from the Keystone Project are expected.
+
+Impacts due to crossing of surface waters by linear projects,
+such as highways and pipelines, are generally localized and short
+term. However, if construction activities of the Keystone Project
+and the collocated portion of REX pipeline follow a similar schedule,
+there could be a cumulative contribution to incremental sedimentation
+in adjacent surface waters. At present, the project schedules show
+construction of the two projects separated by at least a year. In
+addition, each project---as well as any other collocated construction
+projects---would be required to follow BMPs and permit conditions to
+protect surface waters.
+
+Both the Keystone Project and other portions of the REX Project plan to
+use surface water for hydrostatic testing. However the timing for REX
+withdrawals would not overlap with withdrawals planned for Keystone;
+therefore, cumulative effects on surface water or groundwater due to
+hydrostatic test water withdrawals would not occur.
+
+**Wetlands**
+
+Cumulative impacts on wetlands would occur in locations where any of
+the Keystone Project and REX pipelines or other construction projects
+would be collocated while crossing wetlands. A portion of the REX
+Project would be collocated with the Keystone pipeline for about
+280 miles. Within the Keystone Project pipeline collocation, the REX
+pipeline would disturb a total of 77.5 acres of wetlands (55.0 acres of
+forested wetland, 1.3 acres of scrub-shrub wetlands, and 21.2 acres of
+wet meadow and marsh) (FERC 2006). Should the Keystone pipeline affect
+the same or similar wetland habitats within the collocated area, but
+within its respective construction ROW, total wetland impacts within
+the collocated area could be 156.0 acres of wetlands. Both projects
+would follow mitigation measures to protect wetlands. In the case of
+REX, the FERC Procedures would apply. Other construction projects,
+such as town expansions, new roads and highways, and other industrial
+facilities---both within the section of the Keystone Project that is
+collocated with REX, and in other areas along the Mainline Project
+and Cushing Extension---could affect additional wetlands. However,
+applicants for any projects that would place fill in waters of the
+United States would be subject to conditions in the U.S. Army Corps of
+Engineers' Section 404 permits and to state and local water quality
+permits. None of the wetlands crossed by the Keystone Project would
+be permanently filled or drained. Long-term impacts would occur to
+forested and scrub-shrub wetlands which would be maintained in a
+herbaceous state. The Keystone Project would use best management
+practices to avoid and minimize impacts to wetlands and would be
+required to mitigate unavoidable impacts to jurisdictional wetlands
+as determined through the Section 404 process and other relevant
+permitting procedures.
+
+**Terrestrial Vegetation and Wildlife**
+
+The total amount of native vegetation and wildlife habitat that may
+be affected by all of the reasonably foreseeable projects, including
+the Keystone Project, is relatively small because the projects cross
+primarily previously tilled agricultural lands. Impacts resulting
+from construction of the pipelines and other linear and non-linear
+projects would result in the long-term and permanent loss of trees
+and shrubs and would cause incremental increases in habitat loss and
+fragmentation of forested areas. The effects of habitat fragmentation
+would be reduced by collocation of the linear projects with existing
+and proposed ROWs where they are located away from large areas of
+intact forested habitats. Habitat fragmentation would be exacerbated
+where ROWs are collocated across large areas of intact forested
+habitats. All of the projects would implement mitigation measures
+designed to minimize the potential for erosion, revegetate disturbed
+areas, increase the stabilization of site conditions, and control the
+spread of noxious weeds--- thereby minimizing the degree and duration
+of the cumulative impact on vegetation from these projects.
+
+Construction and operation of pumping stations for Keystone and
+compressor stations for REX also would permanently affect vegetation
+and wildlife habitat. Keystone would require a total of about 61
+acres of land along the Mainline Project (for aboveground facilities,
+including pump stations, delivery facilities, and mainline valves) and
+about 13 acres for similar facilities along the Cushing Extension. The
+two compressor stations for the portion of REX that is collocated
+with the Keystone Project each would affect about 13 acres.
+
+Construction and operation of the Keystone Project, along with the
+reasonably foreseeable projects, would result in short-term disturbance
+to wildlife and long-term wildlife habitat modification. Keystone
+would incrementally add to the area of habitat disrupted and to the
+disturbance of resident and migrating species, causing associated
+impacts on these species as they adjust to the changes brought about by
+the proposed projects. Increased movement or displacement of species
+dependent on the disturbed habitats could reduce carrying capacities,
+reproductive effort, or survival. This potential is greater for
+species for which suitable habitat is limited in the Project area or
+that are otherwise sensitive to disturbance.
+
+Removal of woodlands and shrublands would result in a long-term
+reduction of wildlife habitat because the regeneration of woody species
+is typically slow in the Project region. However, most of the Project
+area consists of relatively open fields or is presently used for
+agricultural purposes. Habitat types potentially crossed or affected
+are widely available for wildlife use outside of the immediate area
+of disturbance. In addition, each proposed project would be required
+to follow appropriate mitigation measures to minimize impacts or
+compensate for unavoidable impacts on wildlife.
+
+**Fisheries**
+
+Stream channel disturbance and hydrostatic test water withdrawals from
+water bodies in Kansas and Missouri would occur during the Keystone
+Project, including in areas where the REX pipeline would parallel
+the Keystone pipeline. Because construction schedules for the REX
+pipeline and the other non- linear projects are different from the
+Keystone Project, cumulative impacts on fisheries would not occur. If
+construction of facilities or other projects does become concurrent
+due to schedule changes, the Keystone Project would contribute
+to cumulative sedimentation impacts on fisheries. Nevertheless,
+these impacts would be short term and minor due to implementation
+of mitigation measures and the requirements of any individual state
+permits to minimize impacts while crossing water bodies.
+
+**Threatened and Endangered Species**
+
+Because the Keystone pipeline would parallel the REX pipeline across
+Kansas and Missouri, many of the state and federally listed threatened
+and endangered species could potentially be affected by construction
+and operation of these projects. Each project is required to consult
+with federal, state, and local agencies to determine which species may
+occur within each individual project area; evaluate potential impacts
+on those species during construction and operation; and implement
+measures to avoid, minimize, or mitigate impacts on special-status
+species and their habitats. Because all applicants would be required to
+restore their respective construction ROWs and follow all applicable
+laws and regulations regarding special- status species and habitats,
+the contribution of the Keystone Project to cumulative impacts on
+special- status species and their habitats would not be significant.
+
+**Land Use, Recreation and Special Interest Areas, and Visual
+Resources**
+
+New land requirements for construction and operation of the aboveground
+facilities for the Keystone pipeline would involve acquisition of
+about 109 acres of land along the Mainline Project and 18 acres for
+similar facilities along the Cushing Extension. Land use changes
+associated with the collocated portion of the REX pipeline would
+cumulatively add to the acreage of aboveground oil and gas facilities
+in the Project area. In addition, the ethanol and coal-fired power
+plants that would be constructed in Audrain County and Carroll County,
+Missouri, respectively, would further increase the amount of land in
+those counties that would be converted to industrial use.
+
+Recreation and special interest areas to the west of Troy, Missouri
+that would be crossed by the Keystone pipeline also would be
+potentially affected by the REX pipeline. This includes a number of
+conservation and hunting areas that are either privately or publicly
+owned. Recreational uses of these areas could be temporarily affected
+during construction activities for the pipelines. Mitigation measures
+created to protect the conservation area and parks would minimize
+the contribution of Keystone to recreational impacts.
+
+A significant contribution to cumulative effects on visual resources
+from the Keystone Project is not expected due to collocation with
+other linear projects, restoration of the ROW, and the lack of
+sensitive visual resource areas that would be crossed. The majority
+of aboveground facilities associated with both the Keystone and
+REX Projects would be located in agricultural or rangeland areas,
+or adjacent to existing industrial facilities. In addition, the new
+aboveground facilities associated with the projects would be limited in
+number and widely distributed. Mitigation measures such as screening
+with vegetation and use of non-reflective paints that are similar in
+color to the surrounding terrain would help to minimize visual impacts.
+
+Overall, the Keystone Project would contribute to cumulative impacts
+on agricultural land use and farming practices and on recreation
+and visual resources along the extent of the proposed ROW. While
+construction of new pipelines parallel to existing corridors would
+incrementally reduce the area available for future development, use
+of established utility corridors would concentrate the cumulative
+land use and other impacts into a less extensive area.
+
+**Socioeconomics**
+
+Portions of the construction period and locations for the Keystone
+Project and the collocated portion of the REX Project could overlap
+due to delays or other issues. These projects, together with any
+other linear and non-linear projects planned for the Project area,
+would require workers to temporarily relocate to the Project area
+during construction, potentially inducing housing shortages at certain
+locations during certain periods of the construction schedule. Workers
+would be dispersed over the entire length of the pipeline route and
+throughout the counties and states crossed by the pipelines. Based
+on the review of the information regarding availability of local
+rental housing for both projects, the combined number of non- local
+workers may exceed the available housing in a given area. However, the
+preference of most workers likely would be short-term accommodations,
+primarily in hotels and motels that would be found in the more
+populated, service-oriented communities located within a reasonable
+commuting distance from the work site.
+
+During construction of the Keystone Project, expenditures for payroll,
+local purchases, and related tax revenues would provide a short-term
+beneficial impact to the affected counties. Similar benefits are likely
+to be associated with the REX Project and any other non-linear or
+industrial projects. The increased tax revenue paid to the state and
+local governments over the life of the projects also may result in
+a beneficial long-term cumulative impact. Operation of the proposed
+facilities would require relatively few permanent employees; thus,
+there would be no long-term cumulative or additive impacts on
+population, housing, or municipal services in the Project area.
+
+**Cultural Resources**
+
+To date, the REX Project surveys have identified nine potential
+historic properties in Nebraska, Kansas, and Missouri that may also be
+in the vicinity of the Keystone Project. Federally regulated projects
+such as Keystone and REX are required to conduct cultural resources
+surveys and identify historic properties that may be affected by those
+projects. In accordance with 36 CFR 800, the ACHP's regulations for
+implementing Section 106 of the NHPA, the lead federal agencies
+for those projects would consult with the appropriate SHPOs,
+Native American tribes, and other consulting parties, and would
+mitigate impacts on any historic properties that may be adversely
+affected. Other potential non-federal actions in the Project area would
+be required to comply with any identification procedures and mitigation
+measures required by the state where the action is proposed. Therefore,
+no cumulative impacts on cultural resources are expected. Keystone
+has mitigated possible effects on potentially eligible cultural and
+historical properties through avoidance wherever possible. As a result
+of collocation with existing disturbed alignments for substantial
+distances along the proposed ROW and avoidance of potentially eligible
+properties wherever possible, the incremental impact of the Keystone
+Project to cultural resources is minor.
+
+**Air Quality**
+
+Should construction periods overlap, the proposed Keystone Project
+would incrementally add to dust generation and combustion emissions
+from heavy equipment that also would be produced by the other
+reasonably foreseeable future projects discussed above. Cumulative
+fugitive dust (particulate) increases could occur where the REX,
+Keystone, and other non-linear construction projects use the same
+access road systems.
+
+On a local scale, cumulative increases in air emissions could
+occur where new compressor or pump stations are located at or
+near existing or proposed compressor stations, or other existing
+industrial facilities. Depending on the final locations for pump
+stations for the Keystone Project, facilities also could be located
+near a proposed ethanol plant in Audrain County, Missouri and the
+proposed coal-fired power plant in Carroll County, Missouri. Each pump
+or compressor station and ethanol or power plant would be required
+to obtain state construction and operation permits, and potential
+interactions with nearby emission sources would be considered in
+these permit applications. Emissions from the facilities would be
+reduced by best available technology.
+
+The majority of the potential cumulative construction and operational
+effects on air quality due to the Keystone Project would be negligible
+because of the large geographical area over which the various existing
+and reasonably foreseeable projects are located, and the fact that
+these projects likely would be constructed over varying periods.
+
+The Keystone Project, along with the projects discussed above, would
+contribute to ambient noise levels during construction. Construction
+noise impacts would be temporary and would occur only during the
+construction period for each facility or linear project. Because
+construction proceeds in sections along the pipelines and linear
+projects, the duration of construction activities---and therefore
+noise impacts---at any given location at any given time would be
+limited and short term. Cumulative effects on ambient noise levels
+would occur only if construction on a congruent section of each
+project occurred simultaneously.
+
+No new major sources of noise are expected during operation of the
+Keystone facilities that would be near or collocated with facilities
+associated with the other reasonably foreseeable projects. Noise
+levels resulting from operation of the pump stations for Keystone
+and the meter and regulator facilities for REX would be minimal or
+not noticeable, as the proposed facilities would be located in areas
+of low population density. Consequently, no cumulative impacts are
+expected. Based on a review of available information, it appears
+that Keystone's Pump Station 31 could be located up to several miles
+west of REX's proposed Turney Compressor Station in Clinton County,
+Missouri. Taking into account the geographical locations of the two
+stations, the noise data available, and preliminary calculations,
+Keystone's contribution to cumulative noise impacts during operations
+would not be significant.
+
+**Reliability and Safety**
+
+Landowners have expressed concerns about the safety of collocating
+multiple pipelines in a common corridor across their property. As
+described in this Draft EIS, Keystone is required to comply with
+USDOT and state and local regulations regarding pipeline safety, leak
+detection, and spill response. Because the REX Project will transport
+natural gas rather than any type of liquid material, cumulative effects
+caused by spills and leaks of crude oil are not expected from the two
+collocated pipelines. The Platte pipeline (which is collocated with
+both the REX and Keystone Projects from the Nebraska/Kansas border to
+Troy, Missouri and collocated with Keystone to Wood River, Illinois)
+could contribute to cumulative effects should an incident occur in
+relatively the same time frame from the Keystone pipeline and from one
+or several of the other pipelines or facilities. Large release events
+are rare however and therefore the likelihood of an event occurring in
+the same general area within two separate pipeline systems is remote.
+
+**Greenhouse Gases and Global Warming**
+
+In attempting to meet the purpose and need for the Keystone Project,
+construction and operation of the proposed Project would incrementally
+increase the cumulative impact of greenhouse gas emissions. The
+carbon emissions associated with construction and operation would
+occur irrespective of the routing of the pipeline. However, the
+ultimate construction and operation of the pipeline would offset
+potential emissions associated with other methodologies for meeting
+the demand for imported crude oil, such as delivery of crude oil by
+tanker from alternative international sources. Keystone has committed
+to restoration and replanting of vegetative cover along the proposed
+pipeline corridor to the extent compatible with safety and operational
+requirements. This commitment would allow any advantages associated
+with carbon sinks along the proposed corridor to be reestablished
+after temporary disruption during the construction phase. Therefore,
+the incremental contribution to greenhouse gas emissions associated
+with construction and operation of the proposed Keystone is likely
+to be relatively small compared to the nationwide production of
+greenhouse gases on an annual basis.
+
+**ES.6.16 Conclusions**
+
+The analysis presented in this EIS is based on information provided in
+ten filings by TransCanada and was further developed from three data
+requests; public and agency scoping; literature research; alternatives
+analysis; and contacts with federal, state, and local agencies. Based
+on the information provided in Section 3.0 of this Final EIS for each
+resource category, DOS concludes that the proposed Keystone Mainline
+Project and Cushing Extension, if designed, constructed, and operated
+in accordance with the Project Description in Section 2.0 of this Final
+EIS as amended by additional approaches and mitigations agreed to by
+Keystone as a result of this environmental analysis and as further
+amended by specific permit conditions to be assigned by the state and
+federal agencies with permit jurisdiction along the pipeline corridor
+would result in limited adverse environmental impacts.

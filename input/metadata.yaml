@@ -113,6 +113,13 @@ index:
     date: 2010-05-26
     stance:
       - Friends of the Earth
+  - file: reports/sierra_2010-11-18.txt
+    description: "Sierra Club report 'Toxic Tar Sands: Profiles from the Front Lines.'"
+    source: "https://www.sierraclub.org/sites/default/files/TarSands.pdf"
+    title: sierra_club_2010-11-18
+    type: report
+    group: other
+    date: 2010-11-18
   - file: reports/njei_2011-11-03_01.txt
     description: First blog post by Nebraskans for Jobs and Energy Independence on November 3, 2011.
     source: https://web.archive.org/web/20160329073456/http://jobsandenergy.org/Facts/SandhillsNativeRangeland.html
@@ -187,57 +194,71 @@ index:
     type: arena
     group: congress
     date: 2011-05-23
-  # Environmental Impact Statement
-  - file: eis/2008-01-11.txt
+  # Environmental Impact Statement sections on climate change
+  - file: eis_cc/2008-01-11.txt
     description: Climate impacts as described in the Final Environmental Impact Statement (FEIS) for the Keystone Oil Pipeline Project on January 11, 2008.
     source: https://www.energy.gov/nepa/eis-0410-keystone-oil-pipeline-project
     title: eis_2008_01-11
     type: report
     group: other
     date: 2008-01-11
-  - file: eis/2008-11.txt
+  - file: eis_cc/2008-11.txt
     description: Climate impacts as described in the KXL Project Environmental Report in November 2008.
     source: https://2012-keystonepipeline-xl.state.gov/archive/proj_docs/env/index.htm
     title: eis_2008-11
     type: report
     group: other
     date: 2008-11-01
-  - file: eis/2010-04-04.txt
+  - file: eis_cc/2010-04-04.txt
     description: Climate impacts as described in the KXL Draft EIS on April 4, 2010.
-    source: https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/deis/index.htm
+    source: https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/deis_cc/index.htm
     title: eis_2010-04-04
     type: report
     group: other
     date: 2010-04-04
-  - file: eis/2011-04-15.txt
-    description: Climate impacts as described in the KXL Supplemental Draft EIS on April 15, 2011.
-    source: https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/sdeis/index.htm
-    title: eis_2011-04-15
-    type: report
-    group: other
-    date: 2011-04-15
-  - file: eis/2011-08-26.txt
+  - file: eis_cc/2011-08-26.txt
     description: Climate impacts as described in the KXL Final EIS on August 26, 2011.
-    source: https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/feis/index.htm
+    source: https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/feis_cc/index.htm
     title: eis_2011-08-26
     type: report
     group: other
     date: 2011-08-26
-  - file: eis/2013-03-01.txt
+  - file: eis_cc/2013-03-01.txt
     description: Climate impacts as described in the KXL Draft Supplemental EIS on March 1, 2013.
-    source: https://2012-keystonepipeline-xl.state.gov/draftseis/index.htm
+    source: https://2012-keystonepipeline-xl.state.gov/draftseis_cc/index.htm
     title: eis_2013-03-01
     type: report
     group: other
     date: 2013-03-01
-  - file: eis/2014-01.txt
+  - file: eis_cc/2014-01.txt
     description: Climate impacts as described in the KXL Final Supplemental EIS in January 2014.
-    source: https://2012-keystonepipeline-xl.state.gov/finalseis/index.htm
+    source: https://2012-keystonepipeline-xl.state.gov/finalseis_cc/index.htm
     title: eis_2014-01
     type: report
     group: other
     date: 2014-01-01
   # Letters
+  - file: letters/tc_2007-08-24.txt
+    description: "TransCanada letter to landowners along Keystone I route."
+    source: "https://web.archive.org/web/20081127101240/http://southdakota.sierraclub.org/livingriver/letter_from_TransCanada_08_27_07.pdf"
+    title: tc_2007-08-24
+    type: report
+    group: other
+    date: 2007-08-24
+  # - file: letters/ndrc_2007-09-24.txt
+  #   description: "Environmental groups comments on Keystone I Draft Environmental Impact Statement."
+  #   source: "https://web.archive.org/web/20081127101351/http://southdakota.sierraclub.org/livingriver/DEIS_Comments_Sept24.doc"
+  #   title: nrdc_2007-09-24
+  #   type: report
+  #   group: other
+  #   date: 2007-09-24
+  - file: letters/pj_2009-10-20.txt
+    description: "Paul Blackburn lawyer to South Dakota Public Utilities Commission regarding NGOs' withdrawal from evidentiary hearing."
+    source: "https://puc.sd.gov/commission/dockets/hydrocarbonpipeline/2009/hp09-001/102109.pdf"
+    title: pj_2009-10-20
+    type: report
+    group: other
+    date: 2009-10-20
   - file: letters/science_2011-06-06.txt
     description: Prof. Gates and Prof Wolds letter to Secretary of State Clinton on June 6, 2011.
     source: https://foia.state.gov/Search/Results.aspx?caseNumber=F-2011-02141
@@ -248,6 +269,13 @@ index:
     stance:
       - Gates
       - Woldt
+  - file: letters/klein_2011-06-23.txt
+    description: "Environmentalists 'Invitation to Washington D.C.' for major protest against Keystone XL."
+    source: "https://web.archive.org/web/20111102045349/https://naomiklein.org/articles/2011/06/invitation-washington-d-c"
+    title: klein_2011-06-23
+    type: report
+    group: letters
+    date: 2011-06-23
   - file: letters/bn_2011-06-06.txt
     description: Letter by Bold Nebraska founder Kleeb to Secretary of State Clinton on Jule 6, 2011.
     source: https://boldnebraska.org/from-nebraska-with-concern-our-letter-to-sec-clinton/#letter
@@ -257,6 +285,13 @@ index:
     date: 2011-06-06
     stance:
       - Bold Nebraska
+  - file: letters/dems_2010-06-22.txt
+    description: "Letter by 50 Members of Congress to Secretary State regarding climate change considerations in the Keystone XL permitting process"
+    source: "https://web.archive.org/web/20110501120335/http://dirtyoilsands.org/files/InsleeTarSandsDearColleague_EMBARGOED20100622.pdf"
+    title: dems_2010-06-22
+    type: report
+    group: letters
+    date: 2010-06-22
   - file: letters/dems_2010-10-29.txt
     description: Letter by Senate democrats to President Clinton from October 29, 2010.
     source: https://www.leahy.senate.gov/imo/media/doc/102910KeystoneFinal.pdf
@@ -589,12 +624,19 @@ index:
     group: other
     date: 2011-05-09
   - file: letters/johanns_2011-11-10.txt
-    description: US Senator Johanns letter Secretary of State Clinton on May 9, 2011.
+    description: "US Senator Johanns letter Secretary of State Clinton on May 9, 2011."
     source: https://foia.state.gov/Search/Results.aspx?caseNumber=F-2011-26740
     title: johanns_2011-11-10
     type: report
     group: other
     date: 2011-11-10
+  # - file: letters/sierra_2010-07-02.txt
+  #   description: "Comments by the Sierra Club and other groups on the Keystone XL Draft Environmental Impact Statement."
+  #   source: https://www.nrdc.org/sites/default/files/ene_10070201a.pdf
+  #   title: sierra_2010-07-02
+  #   type: report
+  #   group: other
+  #   date: 2011-07-02
   - file: letters/nelson_2010-07-27.txt
     description: US Senator Nelson letter Secretary of State Clinton on July 27, 2011.
     source: https://foia.state.gov/Search/Results.aspx?searchText=(keystone%20xl)&beginDate=&endDate=&publishedBeginDate=&publishedEndDate=&caseNumber=
@@ -602,6 +644,13 @@ index:
     type: report
     group: other
     date: 2010-07-27
+  - file: letters/tc_2010-08-20.txt
+    description: "TransCanada letter to landowners along Keystone XL route."
+    source: "https://motherjones.com/files/Keystone_landowner_letter1.pdf"
+    title: tc_2010-08-20.txt
+    type: report
+    group: other
+    date: 2010-08-20
   - file: letters/nyt_2011-08-22.txt
     description: New York Times Editorial on October 27, 2011
     source: https://www.nytimes.com/2011/08/22/opinion/tar-sands-and-the-carbon-numbers.html
@@ -638,3 +687,254 @@ index:
     type: report
     group: other
     date: 2011-09-09
+  # Process
+  - file: process/wh_2004-04-30.txt
+    description: "White House Executive Order 13337 'Issuance of Permits With Respect to Certain Energy-Related Facilities and Land Transportation Crossings on the International Boundaries of the United States'"
+    source: "https://www.federalregister.gov/documents/2004/05/05/04-10378/issuance-of-permits-with-respect-to-certain-energy-related-facilities-and-land-transportation"
+    title: wh_2004-04-30
+    type: report
+    group: other
+    date: 2004-04-30
+  - file: process/dos_2006-08-18.txt
+    description: "State Department confirms receipt of permit application for Keystone I pipeline."
+    source: "https://www.federalregister.gov/documents/2006/08/18/E6-13626/receipt-of-application-for-a-permit-for-pipeline-facilities-to-be-constructed-and-maintained-on-the"
+    title: dos_2006-08-18
+    type: report
+    group: other
+    date: 2006-08-18
+  - file: process/tc_2008-01-11.txt
+    description: "TransCanada celebrates release of Final Environmental Impact Statement for Keystone I pipeline."
+    source: https://web.archive.org/web/20080512162950/http://www.transcanada.com/news/2008_news/20080111.html
+    title: tc_2008-03-14
+    type: report
+    group: other
+    date: 2008-01-11
+  - file: process/dos_2008-03-14.txt
+    description: "Media Note on the Presidential Permit issued for Keystone I."
+    source: "https://2001-2009.state.gov/r/pa/prs/ps/2008/mar/102254.htm"
+    title: dos_2008-03-14
+    type: report
+    group: other
+    date: 2008-03-14
+  # - file: process/tc_2008-09-19.txt
+  #   description: "TransCanada Presidential Permit application for Keystone XL."
+  #   source: "https://2012-keystonepipeline-xl.state.gov/archive/proj_docs/presidentialpermit/index.htm"
+  #   title: tc_2008-09-19
+  #   type: report
+  #   group: other
+  #   date: 2008-09-19
+  - file: process/dos_2011-02-10.txt
+    description: "Memo for upcoming meeting between State Department officials and TransCanada executives."
+    source: "https://foia.state.gov/Search/Results.aspx?searchText=(((Kerri-Ann)%20AND%20(jones))%20AND%20(pipeline))%20AND%20(meeting)"
+    title: dos_2011-02-10
+    type: report
+    group: other
+    date: 2011-02-10
+  - file: process/dos_2015-11-06.txt
+    description: "Press Statement of the State Department on Keystone XL permit determination."
+    source: "https://2009-2017.state.gov/secretary/remarks/2015/11/249249.htm"
+    title: dos_2015-11-06
+    type: report
+    group: other
+    date: 2015-11-06
+  - file: process/wh_2015-11-06.txt
+    description: "Statement of President Obama on the Keystone XL pipeline."
+    source: https://obamawhitehouse.archives.gov/the-press-office/2015/11/06/statement-president-keystone-xl-pipeline
+    title: wh_2015-11-06
+    type: report
+    group: other
+    date: 2015-11-06
+  # Environmental Impact Statement Executive Summary sections
+  # - file: eis_es/2008-01-11.txt
+  #   description: "Executive Summary of the 2008 Final Environmental Impact Statement for Keystone I."
+  #   source: "https://www.energy.gov/sites/default/files/2015/08/f25/EIS-0410-FEIS-2008-Executive_Summary.pdf"
+  #   title: "es_2008-01-11"
+  #   type: report
+  #   group: other
+  #   date: 2008-01-11
+  # - file: eis_es/2010-04-12.txt
+  #   description: "Executive Summary of the 2010 Draft Environmental Impact Statement for Keystone XL."
+  #   source: "https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/deis/index.htm"
+  #   title: "es_2010-04-12"
+  #   type: report
+  #   group: other
+  #   date: 2010-04-12
+  # - file: eis_es/2011-04-15.txt
+  #   description: "Executive Summary of the 2011 Supplemental Draft Environmental Impact Statement for Keystone XL."
+  #   source: "https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/sdeis/index.htm"
+  #   title: "es_2011-04-15"
+  #   type: report
+  #   group: other
+  #   date: 2011-04-15
+  # - file: eis_es/2011-08-26.txt
+  #   description: "Executive Summary for the 2011 Final Environmental Impact Statement for Keystone XL."
+  #   source: "https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/feis/index.htm"
+  #   title: "es_2011-08-26"
+  #   type: report
+  #   group: other
+  #   date: 2011-08-26
+  # - file: eis_es/2013-03-01.txt
+  #   description: "Executive Summary for the 2013 Draft Supplemental Environmental Impact Statement."
+  #   source: "https://2012-keystonepipeline-xl.state.gov/draftseis/index.htm"
+  #   title: "es_2013-03-01"
+  #   type: report
+  #   group: other
+  #   date: 2013-03-01
+  # - file: eis_es/2014-01-01.txt
+  #   description: "Executive Summary for the 2014 Final Supplemental Environmental Impact Statement"
+  #   source: "https://2012-keystonepipeline-xl.state.gov/draftseis/index.htm"
+  #   title: "es_2014-01-01"
+  #   type: report
+  #   group: other
+  #   date: 2014-01-01
+  # Environmental Impact Statement process descriptions
+  - file: eis_process/2008-01-11.txt
+    description: "Executive Summary of the 2008 Final Environmental Impact Statement for Keystone I--process section."
+    source: "https://www.energy.gov/sites/default/files/2015/08/f25/EIS-0410-FEIS-2008-Executive_Summary.pdf"
+    title: "process_2008-01-11"
+    type: report
+    group: other
+    date: 2008-01-11
+  - file: eis_process/2010-04-12.txt
+    description: "Executive Summary of the 2010 Draft Environmental Impact Statement for Keystone XL--process section."
+    source: "https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/deis/index.htm"
+    title: "process_2010-04-12"
+    type: report
+    group: other
+    date: 2010-04-12
+  - file: eis_process/2011-04-15.txt
+    description: "Executive Summary of the 2011 Supplemental Draft Environmental Impact Statement for Keystone XL--process section."
+    source: "https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/sdeis/index.htm"
+    title: "process_2011-04-15"
+    type: report
+    group: other
+    date: 2011-04-15
+  - file: eis_process/2011-08-26.txt
+    description: "Executive Summary for the 2011 Final Environmental Impact Statement for Keystone XL--process section."
+    source: "https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/feis/index.htm"
+    title: "process_2011-08-26"
+    type: report
+    group: other
+    date: 2011-08-26
+  - file: eis_process/2013-03-01.txt
+    description: "Executive Summary for the 2013 Draft Supplemental Environmental Impact Statement--process section."
+    source: "https://2012-keystonepipeline-xl.state.gov/draftseis/index.htm"
+    title: "process_2013-03-01"
+    type: report
+    group: other
+    date: 2013-03-01
+  - file: eis_process/2014-01-01.txt
+    description: "Executive Summary for the 2014 Final Supplemental Environmental Impact Statement--process section."
+    source: "https://2012-keystonepipeline-xl.state.gov/draftseis/index.htm"
+    title: "process_2014-01-01"
+    type: report
+    group: other
+    date: 2014-01-01
+  # Environmental Impact Statement project descriptions
+  - file: eis_proj/2008-01-11.txt
+    description: "Executive Summary of the 2008 Final Environmental Impact Statement for Keystone I--project description."
+    source: "https://www.energy.gov/sites/default/files/2015/08/f25/EIS-0410-FEIS-2008-Executive_Summary.pdf"
+    title: "proj_2008-01-11"
+    type: report
+    group: other
+    date: 2008-01-11
+  - file: eis_proj/2010-04-12.txt
+    description: "Executive Summary of the 2010 Draft Environmental Impact Statement for Keystone XL--project description."
+    source: "https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/deis/index.htm"
+    title: "proj_2010-04-12"
+    type: report
+    group: other
+    date: 2010-04-12
+  - file: eis_proj/2011-08-26.txt
+    description: "Executive Summary for the 2011 Final Environmental Impact Statement for Keystone XL--project description."
+    source: "https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/feis/index.htm"
+    title: "proj_2011-08-26"
+    type: report
+    group: other
+    date: 2011-08-26
+  - file: eis_proj/2013-03-01.txt
+    description: "Executive Summary for the 2013 Draft Supplemental Environmental Impact Statement--project description."
+    source: "https://2012-keystonepipeline-xl.state.gov/draftseis/index.htm"
+    title: "proj_2013-03-01"
+    type: report
+    group: other
+    date: 2013-03-01
+  - file: eis_proj/2014-01-01.txt
+    description: "Executive Summary for the 2014 Final Supplemental Environmental Impact Statement--project description."
+    source: "https://2012-keystonepipeline-xl.state.gov/draftseis/index.htm"
+    title: "proj_2014-01-01"
+    type: report
+    group: other
+    date: 2014-01-01
+  # Environmental Impact Statement--economic need section
+  - file: eis_econ/2008-01-11.txt
+    description: "Executive Summary of the 2008 Final Environmental Impact Statement for Keystone I--economic need section."
+    source: "https://www.energy.gov/sites/default/files/2015/08/f25/EIS-0410-FEIS-2008-Executive_Summary.pdf"
+    title: "econ_2008-01-11"
+    type: report
+    group: other
+    date: 2008-01-11
+  - file: eis_econ/2010-04-12.txt
+    description: "Executive Summary of the 2010 Draft Environmental Impact Statement for Keystone XL--economic need section."
+    source: "https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/deis/index.htm"
+    title: "econ_2010-04-12"
+    type: report
+    group: other
+    date: 2010-04-12
+  - file: eis_econ/2011-08-26.txt
+    description: "Executive Summary for the 2011 Final Environmental Impact Statement for Keystone XL--economic need section."
+    source: "https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/feis/index.htm"
+    title: "econ_2011-08-26"
+    type: report
+    group: other
+    date: 2011-08-26
+  - file: eis_econ/2013-03-01.txt
+    description: "Executive Summary for the 2013 Draft Supplemental Environmental Impact Statement--economic need section."
+    source: "https://2012-keystonepipeline-xl.state.gov/draftseis/index.htm"
+    title: "econ_2013-03-01"
+    type: report
+    group: other
+    date: 2013-03-01
+  - file: eis_econ/2014-01-01.txt
+    description: "Executive Summary for the 2014 Final Supplemental Environmental Impact Statement--economic need section."
+    source: "https://2012-keystonepipeline-xl.state.gov/draftseis/index.htm"
+    title: "econ_2014-01-01"
+    type: report
+    group: other
+    date: 2014-01-01
+  # Environmental Impact Statement--alternatives
+  - file: eis_alt/2008-01-11.txt
+    description: "Executive Summary of the 2008 Final Environmental Impact Statement for Keystone I--alternatives."
+    source: "https://www.energy.gov/sites/default/files/2015/08/f25/EIS-0410-FEIS-2008-Executive_Summary.pdf"
+    title: "alt_2008-01-11"
+    type: report
+    group: other
+    date: 2008-01-11
+  - file: eis_alt/2010-04-12.txt
+    description: "Executive Summary of the 2010 Draft Environmental Impact Statement for Keystone XL--alternatives."
+    source: "https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/deis/index.htm"
+    title: "alt_2010-04-12"
+    type: report
+    group: other
+    date: 2010-04-12
+  - file: eis_alt/2011-08-26.txt
+    description: "Executive Summary for the 2011 Final Environmental Impact Statement for Keystone XL--alternatives."
+    source: "https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/feis/index.htm"
+    title: "alt_2011-08-26"
+    type: report
+    group: other
+    date: 2011-08-26
+  - file: eis_alt/2013-03-01.txt
+    description: "Executive Summary for the 2013 Draft Supplemental Environmental Impact Statement--alternatives."
+    source: "https://2012-keystonepipeline-xl.state.gov/draftseis/index.htm"
+    title: "alt_2013-03-01"
+    type: report
+    group: other
+    date: 2013-03-01
+  - file: eis_alt/2014-01-01.txt
+    description: "Executive Summary for the 2014 Final Supplemental Environmental Impact Statement--alternatives."
+    source: "https://2012-keystonepipeline-xl.state.gov/draftseis/index.htm"
+    title: "alt_2014-01-01"
+    type: report
+    group: other
+    date: 2014-01-01
