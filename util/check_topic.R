@@ -19,7 +19,7 @@ get_examples <- function(input_data, input_k, long_length, min_length){
       group_by(length) %>%
       slice_max(gamma, n = 10) %>%
       mutate(title = entry$title) %>%
-      left_join(entry$document, by = c("order", "person"))
+      left_join(entry$document, by = c("order"))
   }
   map_dfr(input_data, ~ get_examples_k(.x, input_k)) %>%
     group_by(length) %>%

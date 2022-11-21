@@ -19,14 +19,11 @@ aquif
 area
 around
 ask
-away
 back
 base
 believ
-benefit
 best
 better
-big
 bill
 bring
 build
@@ -44,7 +41,6 @@ come
 comment
 committe
 compani
-complet
 concern
 consid
 construct
@@ -86,9 +82,7 @@ get
 give
 go
 good
-good afternoon
 got
-govern
 great
 ground
 happen
@@ -106,7 +100,7 @@ interest
 involv
 issu
 job
-keep
+keyston
 keyston xl
 kind
 know
@@ -129,7 +123,6 @@ make
 mani
 matter
 may
-mayb
 mean
 meet
 member
@@ -137,7 +130,6 @@ might
 mile
 million
 money
-month
 move
 much
 name
@@ -175,14 +167,12 @@ problem
 process
 product
 project
-properti
 propos
 protect
 provid
 public
 put
 question
-rais
 realli
 reason
 regard
@@ -191,20 +181,17 @@ relat
 repres
 requir
 resourc
-respect
 respons
 result
 risk
 rout
 run
-safe
 safeti
 said
 sand hill
 say
 second
 see
-seen
 senat
 show
 sinc

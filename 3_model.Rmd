@@ -104,14 +104,14 @@ show_terms(model_16)
 
 ## Model 5
 
-```{r model_5, eval=F}
+```{r model_5}
 model_15 <- run_model(kxl_dtm, 15, 222224)
 show_terms(model_15)
 ```
 
 ## Model 6
 
-```{r model_6, eval = F}
+```{r model_6}
 model_14 <- run_model(kxl_dtm, 14, 222224)
 show_terms(model_14)
 ```
@@ -125,7 +125,7 @@ show_terms(model_13)
 
 ## Model 8
 
-```{r model_8, eval = F}
+```{r model_8}
 model_12 <- run_model(kxl_dtm, 12, 222224)
 show_terms(model_12)
 ```

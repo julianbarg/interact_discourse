@@ -53,29 +53,11 @@ glimpse(data[[11]])
 
 ## Compounds
 
-5
+4
 
 ```{r compounds}
 source(here("util", "get_compound_candidates.R"))
 source(here("util", "fix_collocations.R"))
-compounds_5<- data %>%
-  map(~ .x$preprocessing$content) %>%
-  flatten_chr() %>%
-  get_compound_candidates(known_entities, custom_stopwords, 
-                          size = 5, min_count = 10)
-compounds_5
-data <- data %>%
-  map(~ modify_at(.x, "preprocessing",
-                  ~ fix_collocations(.x, compounds_5$collocation)))
-file.remove(here("output", "compounds.txt"))
-file.create(here("output", "compounds.txt"))
-cat(compounds_5$collocation, file = here("output", "compounds.txt"),
-    sep = "\n", append = T)
-```
-
-4
-
-```{r compounds}
 compounds_4 <- data %>%
   map(~ .x$preprocessing$content) %>%
   flatten_chr() %>%
@@ -145,7 +127,7 @@ data_tokens[[11]]$tokens %>%
 1. Infrequent
 
 ```{r infrequent}
-low_freq <- 0.01
+low_freq <- 0.009
 source(here(util_folder, "count_by_doc.R"))
 source(here(util_folder, "get_frequency.R"))
 frequency <- data_tokens %>%
@@ -167,7 +149,7 @@ cat(infrequent$token, file = here("output", "infrequent.txt"),
 2. tfidf 
 
 ```{r tfidf}
-tfidf_cutoff <- 0.001
+tfidf_cutoff <- 0.002
 source(here(util_folder, "prop_tfidf.R"))
 source(here(util_folder, "remove_tfidf.R"))
 tfidf <- data_frequent %>%
@@ -182,7 +164,7 @@ glimpse(high_tfidf_data[1:2])
 Too frequent
 
 ```{r frequent_tokens}
-too_frequent_cutoff <- 0.15
+too_frequent_cutoff <- 0.153
 frequency_2 <- high_tfidf_data %>%
 # frequency_2 <- data_frequent %>%
   map_dfr(count_by_doc) %>%
