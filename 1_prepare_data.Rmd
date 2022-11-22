@@ -149,7 +149,7 @@ cat(infrequent$token, file = here("output", "infrequent.txt"),
 2. tfidf 
 
 ```{r tfidf}
-tfidf_cutoff <- 0.002
+tfidf_cutoff <- 0.001
 source(here(util_folder, "prop_tfidf.R"))
 source(here(util_folder, "remove_tfidf.R"))
 tfidf <- data_frequent %>%
@@ -164,7 +164,7 @@ glimpse(high_tfidf_data[1:2])
 Too frequent
 
 ```{r frequent_tokens}
-too_frequent_cutoff <- 0.153
+too_frequent_cutoff <- 0.15
 frequency_2 <- high_tfidf_data %>%
 # frequency_2 <- data_frequent %>%
   map_dfr(count_by_doc) %>%

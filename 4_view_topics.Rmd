@@ -33,5 +33,14 @@ glimpse(kxl_model)
 
 ```{r terms}
 source(here(util_folder, "check_topic.R"))
-walk(1:kxl_model@k, ~ show_topic(kxl_model, .x, kxl_data, 30, 8))
+walk(1:kxl_model@k, ~ show_topic(kxl_model, .x, kxl_data, 40, 20 ))
+```
+
+```{r check}
+kxl_data %>%
+  keep( ~ .x$title == "ne_2011-11-09") %>%
+  flatten() %>%
+  pluck("gammas") %>%
+  filter(order == 270) %>%
+  arrange(desc(gamma))
 ```

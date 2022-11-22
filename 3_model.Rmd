@@ -125,7 +125,7 @@ show_terms(model_13)
 
 ## Model 8
 
-```{r model_8}
+```{r model_8, eval = F}
 model_12 <- run_model(kxl_dtm, 12, 222224)
 show_terms(model_12)
 ```

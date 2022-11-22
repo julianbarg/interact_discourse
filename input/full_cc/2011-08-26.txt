@@ -1,0 +1,676 @@
+## Greenhouse Gases and Climate Change
+
+Contribution to cumulative impacts from GHG would result directly from construction and operation of the proposed Project.
+Contribution to cumulative impacts from GHG could also result from activities indirectly related to the proposed Project (e.g., crude oil extraction, refining, and refined product end uses) if those activities were affected by the proposed Project.
+Many commenters expressed concern on the level of analysis within the draft EIS concerning indirect GHG impacts from production in the WCSB oil sands, from refining the WCSB crude oil that would be transported by the proposed Project, and from end uses of refined products originating from that crude oil.
+The principal GHG are carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), ozone, and water vapor.
+The reference gas for climate change is CO2 and, therefore, measures of non-CO2 GHGs are converted into CO2-equivalent (CO2-e) values based on their potential to absorb heat in the atmosphere.
+The principal GHG of concern related to the proposed Project is CO2, which enters the atmosphere through the burning of fossil fuels (e.g., oil, natural gas, and coal), solid waste, and trees and wood products, and as a result of other chemical reactions (e.g., manufacture of cement).
+CO2 is removed from the atmosphere (or "sequestered") when it is absorbed by plants as part of the biological carbon cycle or through other natural and anthropogenic methods.
+
+Climate change is defined by the United Nations Framework Convention on Climate Change as "a change of climate which is attributed directly or indirectly to human activity that alters the composition of the global atmosphere and which is in addition to natural climate variability observed over comparable time periods" (EPA 2008).
+Natural processes (e.g., changes in the sun's intensity, slow changes in the Earth's orbit around the sun, animal respiration, and changes in ocean circulation) and human activities (e.g., fossil fuel combustion, deforestation, reforestation, and urbanization) affect emissions of GHG.
+The accumulation of GHG in the atmosphere affects the Earth's temperature; however, emissions from human activities have caused the concentrations of heat-trapping GHG to increase significantly in the atmosphere.
+These gases prevent heat from escaping to space, somewhat like the glass panels of a greenhouse.
+This accumulation has contributed to an increase in the temperature of the Earth's atmosphere and to climate change.
+If GHG continue to increase, climate models predict that the average temperature at the Earth's surface could increase from 3.2 to 7.2 ºF above 1990 levels by the end of this century (IPCC 2007).
+Most scientists agree that human activities are changing the composition of the atmosphere, and that increasing the concentration of GHG affects climate change.
+The rate, intensity, and effects of climate change continue to be assessed.
+For example, the increased concentration of CO2 in the atmosphere has increased ocean acidity since pre-industrial times (EPA 2009).
+The extent of ocean acidification is correlated with atmospheric CO2 concentration.
+Ocean acidification affects future climate change by diminishing the ocean's capacity to absorb increasing atmospheric CO2.
+
+### Regulations and Standards Relating to Greenhouse Gases
+
+#### Federal Programs
+
+On April 2, 2007, in Massachusetts v. EPA, 549 U.S. 497, the Supreme Court found that GHG are air pollutants covered by the CAA.
+The Court held that the EPA Administrator must determine whether or not emissions of GHG from new motor vehicles cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare, or whether the science is too uncertain to make a reasoned decision.
+In making these decisions, the Administrator is required to follow the language of Section 202(a) of the CAA.
+The Supreme Court decision resulted from a petition for rulemaking under Section 202(a) filed by more than a dozen environmental, renewable energy, and other organizations.
+As a result of this decision, on April 24, 2009, the EPA proposed the Endangerment and Cause or Contribute Findings for Greenhouse Gases under the CAA to find that the current and projected concentrations of the mix of six key GHG (CO2, CH4, N2O, HFC, PFC, and SF6) in the atmosphere threaten the public health and welfare of current and future generations.
+This is referred to as the endangerment finding.
+The Administrator is further proposing to find that the combined emissions of CO2, CH4, N2O, and HFC from new motor vehicles and motor vehicle engines contribute to the atmospheric concentrations of these key GHG and hence to the threat of climate change.
+This is referred to as the cause or contribute finding.
+This proposed action, as well as any final action in the future, would not itself impose any requirements on industry or other entities.
+An endangerment finding under one provision of the CAA would not by itself automatically trigger regulation under the entire Act.
+
+On October 30, 2009, the EPA promulgated the first comprehensive national system for reporting emissions of CO2 and other GHG produced by major sources in the United States.
+Through this new reporting, EPA will have comprehensive and accurate data about the production of GHG in order to confront climate change.
+Approximately 13,000 facilities, accounting for about 85 to 90 percent of industrial GHG emitted in the United States are covered under the rule.
+The new reporting requirements apply to suppliers of fossil fuel and industrial chemicals, manufacturers of certain motor vehicles and engines (not including light and medium duty on-road vehicles), as well as large direct emitters of GHG with emissions equal to or greater than a threshold of 25,000 metric tpy.
+This threshold is equivalent to the annual GHG emissions from just over 4,500 passenger vehicles.
+The direct emission sources covered under the reporting requirement include energy intensive sectors such as cement production, iron and steel production, electricity generation, and oil refineries, among others.
+The gases covered by the rule are CO2, CH4, N2O, HFC, PFC, SF6, and other fluorinated gases, including nitrogen trifluoride (NF3) and hydrofluorinated ethers (HFE).
+The first annual report would be submitted to EPA in 2011 for the calendar year 2010, except for vehicle and engine manufacturers, which would begin reporting for model year 2011.
+
+According to the preamble of the rule, the U.S. petroleum and natural gas industry encompasses hundreds of thousands of wells, hundreds of processing facilities, and over a million miles of transmission and distribution pipelines.
+Crude oil is commonly transported by barge, tanker, rail, truck, and pipeline from production operations and import terminals to petroleum refineries or export terminals.
+Typical equipment associated with these operations includes storage tanks and pumping stations.
+The major sources of CH4 and CO2 fugitive emissions include releases from tanks and marine vessel loading operations.
+EPA does not propose to include the crude oil transportation segment of the petroleum and natural gas industry in this rulemaking due to its small contribution to total petroleum and natural gas fugitive emissions (accounting for much less than 1 percent) and the difficulty in defining a facility.
+The responsibility for reporting would instead be placed on the processing plants and refineries.
+
+On June 2, 2010, the EPA issued a final rule that establishes an approach to addressing GHG emissions from stationary sources under the CAA permitting programs.
+These stationary sources would be required to obtain permits that would demonstrate they are using the best practices and technologies to minimize GHG emissions.
+The rule sets thresholds for GHG emissions that define when the CAA permits under the NSR/PSD and the Title V Operating Permits programs are required for new or existing industrial facilities.
+The rule "tailors" the requirements to limit which facilities will be required to obtain NSR/PSD and Title V permits and cover nearly 70 percent of the national GHG emissions that come from stationary sources, including those from the nation's largest emitters (e.g., power plants, refineries, and cement production facilities).
+
+For sources permitted between January 2, 2011 and June 30, 2011, the rule requires GHG permitting for only sources currently subject to the PSD permitting program (i.e., those that are newly-constructed or modified in a way that significantly increases emissions of a pollutant other than GHG) and that emit GHG emissions of at least 75,000 tpy.
+In addition, only sources required to have Title V permits for non- GHG pollutants will be required to address GHG as part of their Title V permitting (note: the 75,000 tpy CO2-e limit does not apply to Title V).
+For sources constructed between July 1, 2011 and June 30, 2013, the rule requires PSD permitting for first-time new construction projects that emit GHG emissions of at least 100,000 tpy even if they do not exceed the permitting thresholds for any other pollutant.
+In addition, sources that emit or have the potential to emit at least 100,000 tpy CO2-e and that undertake a modification that increases net emissions of GHG by at least 75,000 tpy CO2-e will also be subject to PSD requirements.
+Under this scenario, operating permit requirements will for the first time apply to sources based on their GHG emissions, even if they would not apply based on emissions of any other pollutant.
+Facilities that emit at least 100,000 tpy CO2-e will be subject to Title V permitting requirements.
+EPA plans further rulemaking that would possibly reduce the permitting thresholds for new and modified sources making changes after June 30, 2013.
+
+On December 2, 2010, the EPA released its guidance for limiting GHG emissions based on the CAA requirement for new and modified emission sources to employ BACT to limit regulated air pollutants.
+As a result, the guidance focuses on the process that state agencies will use as they are developing permits for individual sources to determine whether there are technologies available and feasible for controlling GHG emissions from those sources.
+The guidance is not a formal rulemaking and does not establish regulations, but it provides permitting authorities more detail on EPA expectations for the implementation of its new GHG permitting requirements.
+
+On April 1, 2010, the EPA and USDOT finalized a new joint regulation for GHG emissions and fuel economy for model years 2012 through 2016 light duty vehicles.
+The EPA regulates GHG emissions from passenger vehicles up to 8,500 pounds gross vehicle weight rating (plus medium-duty SUVs and passenger vans up to 10,000 pounds).
+The program sets standards for CO2 emissions on the U.S. federal test procedure.
+Equivalent Corporate Average Fuel Economy (CAFE) regulations, measured in miles per gallon of fuel consumed, were simultaneously established by the USDOT National Highway Traffic and Safety Administration (NHTSA).
+
+#### State Programs
+
+Programs for GHG emissions are being adopted by some states along the proposed Project corridor.
+Montana is a member of the Western Climate Initiative (WCI).
+The WCI is a collaborative effort of seven U.S. states and four Canadian provinces to identify, evaluate, and implement measures to reduce GHG emissions in participating jurisdictions.
+The WCI has a regional GHG target of 15 percent below 2005 levels by 2020 to be met through a regional market-based multi-sector mechanism, as well as other policies.
+The recommended cap-and-trade program has a broad scope that includes six GHG (CO2, CH4, N2O, HFC, PFC, and SF6) and will cover 90 percent of GHG emissions from the region when fully implemented.
+The cap-and-trade program will begin January 1, 2012.
+
+The Governor of Nebraska, along with 10 other midwestern Governors and 1 Canadian province Premier, is a member of the Energy Security and Climate Stewardship Platform for the midwest.
+The Platform lists goals for energy efficiency improvements, low-carbon transportation fuel availability, renewable electricity production, and carbon capture and storage development.
+In addition to goals related to energy efficiency, renewable energy sources, and biofuel production, the Platform lays out objectives with respect to carbon capture and storage (CCS).
+Members agreed to have in place a regional regulatory framework for CCS by 2010, and by 2012 to have sited and permitted a multi-jurisdiction CO2 transport pipeline and have in operation at least one commercial-scale coal-powered integrated gasification combined cycle (IGCC) power plant with CCS, with additional plants to follow in succeeding years.
+By 2020, all new coal plants in the region will capture and store CO2 emissions.
+Numerous policy options are described for states to consider as they work towards these goals.
+The Platform also lays out 6 cooperative regional agreements.
+These resolutions establish a Carbon Management Infrastructure Partnership, a Midwestern Biobased Product Procurement System, coordination across the region for biofuels development, and a working group to pursue a collaborative, multi-jurisdictional transmission initiative.
+States adopting all or part of the Platform include Wisconsin, Minnesota, South Dakota, Illinois, Indiana, Iowa, Kansas, Michigan, Missouri, Nebraska, North Dakota, and Ohio, as well as the Canadian Province of Manitoba.
+
+Kansas, on November 15, 2007, joined 5 other states and one Canadian province to establish the Midwestern Regional Greenhouse Gas Reduction Accord.
+Under the Accord, members agree to establish regional GHG reduction targets, including a long-term target of 60 to 80 percent below current emissions levels, and to develop a multi-sector cap-and-trade system to help meet the targets.
+Participants also establish a GHG emissions reductions tracking system and implement other policies, such as low-carbon fuel standards, to aid in reducing emissions.
+
+In South Dakota, on February 21, 2008, Governor Mike Rounds signed into law HB 1272, which established a voluntary Renewable Portfolio objective of 10 percent by 2015.
+Oklahoma and Texas currently do not have state initiatives addressing the reduction in GHG, although Senate Bill 184 required the Texas Commission on Environmental Quality (TCEQ) to develop and present a report to the legislature by December 31, 2010, recommending strategies to reduce the GHG emissions by businesses and consumers of the state.
+
+#### Low Carbon Fuel Standard
+
+The first low carbon fuel standards (LCFS) were enacted in California in 2007.
+Since then, other jurisdictions (e.g., British Columbia and the European Union) have enacted similar standards.
+These standards generally require that overall carbon values life-cycle GHG emissions for transportation fuels decrease by 10 percent over the next decade, although the definition of fuels and the percent reduction over time differ across jurisdictions.
+More carbon-intensive fuels include those derived from crude oil sources in the WCSB, Venezuela, Nigeria, the Middle East, and California (IHS CERA 2010).
+The impact of LCFS on U.S. market demand for oil sands crude oil is speculative at this time since few jurisdictions have implemented these standards.
+
+One concern regarding the adoption of LCFS in certain jurisdictions is that GHG-intensive crudes will simply be routed to other markets through "emissions leakage" or "shuffling".
+Barr (2010) analyzed the potential for the implementation of an LCFS policy to actually result in an increase in GHG emissions (rather than the intended decrease) because of a "shuffling,"" where the fuels sector would support the most inexpensive avenues to comply with the LCFS, thereby shuffling production and sales that may double GHG emissions resulting from crude oil transport to and from areas affected by the LCFS policy.
+Barr (2010) suggests that an approved LCFS would result in increased GHG emissions based on a reduction of crude oil imported from Canada and subsequent rerouting of crude imports and exports to account for this displacement.
+If LCFS were increasingly required in the U.S., this would be expected to discourage overall U.S. imports of oil sands crude from Canada, and in turn would encourage importing of crude oil to the U.S. from areas that produce light sweet crude, likely the Middle East.
+Canadian crude sources would be diverted to other countries not affected by LCFS, and supplies in the U.S. negatively affected by LCFS requirements would be replaced with supplies from more distant parts of the world.
+The term "emissions leakage" refers to the phenomenon where consumers and producers can purchase or produce fuels at lowest cost by shifting consumption and production to unregulated markets (Yeh and Sperling 2010).
+In contrast to the Barr's (2010) finding that emissions leakage through fuel shuffling would result in increased GHG emissions, Yeh and Sperling (2010) note that "studies examining the effectiveness of a regional carbon policy or an LCFS suggest that in the case of extreme leakage, the marginal benefits of a carbon policy can be close to zero", but nonetheless they did not project a net increase in GHG emissions.
+
+The avoidance of emissions leakage through fuel shuffling is a challenge of implementing any climate policy that focuses on the energy sector, including LCFS policies, since transport fuels are internationally traded commodities (Yeh and Sperling 2010).
+To some extent, leakage could be mitigated if similar standards are adopted throughout the world (Sperling and Yeh 2009).
+LCFS policies have already been adopted in California, British Columbia, the United Kingdom, and the European Union, and are in development in Oregon and Washington, nine states in the Midwest, and 11 states in the Northeast, according to the Pew Center on Global Climate Change (2011).
+Adoption of LCFS policies in U.S. and international markets would help mitigate the effect of crude shuffling and emissions leakage.[^4] An additional factor that will minimize crude shuffling is the oil refinery sectors' varied processing arrangements designed to process a specific composition of crude oil feedstocks (EPA 1995).
+The refineries' process optimization for different crude oil feedstocks hinders the ability of fuel refineries to switch crude oil feedstocks from light to heavy blends without incurring additional costs for process modifications.
+
+[^4:] According to Sperling and Yeh (2009), "a major challenge for the LCFS is avoidance of „shuffling‟ or „leakage.‟ Companies will seek the easiest way of responding to the new LCFS requirements.
+That might involve shuffling production and sales in ways that meet the requirements of the LCFS but do not actually result in any net change.
+For instance, a producer of low-GHG cellulosic biofuels in Iowa could divert its fuel to California markets and send its high carbon corn ethanol elsewhere.
+The same could happen with gasoline made from tar sands and conventional oil.
+Environmental regulators will need to account for this shuffling in their rule making.
+This problem is mitigated and eventually disappears as more states and nations adopt the same regulatory standards and requirements."
+
+An additional objective of LCFS policies is to stimulate innovation in the transportation and fuels sectors that would minimize fuel shuffling.
+For example, a study by the University of California indicates that LCFS "requires innovation in fuel and/or vehicle technologies.
+Because innovation in the transportation sector is necessary to achieve long-term climate stabilization in any case, the fact that the LCFS will stimulate innovation in the near term is an advantage, not a problem" (Farrell and Sperling 2007).
+Even in cases where fuel shuffling causes an increase in the GHG emissions resulting from crude oil transport, it is unlikely that overall life-cycle GHG emissions would increase significantly because crude and fuel transportation emissions have a small to moderate effect on well-to-wheel GHG emissions.
+Jacobs (2009) and NETL (2008) found that crude and fuel transportation emissions make up less than one to four percent of total well-to-wheels (WTW) emissions.
+
+Finally, a goal of LCFS is to promote the development of ultra-low carbon fuels such as advanced biofuels, transportation electricity, biomethane, and hydrogen, and thus to provide an incentive to shift the transportation sector away from fossil fuels.
+As noted by Sperling and Yeh (2009), as compared to traditional fossil fuels, advanced low- or zero-carbon fuel sources are currently competing on a "very uneven playing field: the size, organization, and regulation of these industries are radically different."" They argue that as LCFS creates a need for the transportation sector to greatly reduce their GHG emissions, these new fuels and vehicles have the opportunity to become more economical and increase their market share.
+
+### Cumulative Effects of GHG
+
+Neither the federal government nor states crossed by the proposed Project have established thresholds for determining the significance of GHG emissions.
+While no final thresholds currently exist, this assessment of the direct and indirect contributions of the proposed Project to global GHG emissions was conducted in accordance with CEQ draft guidance for GHG (CEQ 2010) that established a draft threshold for NEPA purposes of 25,000 metric tpy for CO2-e.
+There is a general scientific consensus that the cumulative effects of GHG have influenced climate change on a global scale, which is considered a significant cumulative effect.
+
+#### Construction and Operation Emissions
+
+As discussed in Section 3.12, the GHG emissions during construction of the proposed Project would total approximately 236,978 tpy of CO2-e over the construction period and direct GHG emissions during proposed Project operation would total approximately 85 tpy of CO2-e.
+Indirect GHG emissions associated with electrical generation for the proposed Project pump stations are estimated at approximately 2.6 to 4.4 million tons of CO2 per year for a proposed initial capacity of 700,000 bpd and a potential capacity of 830,000 bpd, respectively, as calculated using EPA AP-42 emission factor for large diesel engines and assuming 30 pump stations with 79 to 132 pumps rated at 6,500 hp.
+This contribution to cumulative GHG impacts from proposed Project construction and operation is very small compared to total GHG emissions for the United States (CO2 equivalents from anthropogenic activities) which totaled 7,054 million tons in 2006, and global CO2 emissions which totaled 28,193 million tons in 2005 (CO2 equivalents from fuel combustion) (EPA 2008).
+Construction activities associated with the proposed Project for each year represent less than 0.003 percent and 0.0008 percent of the national and global GHG emissions, respectively.
+While the EPA has released proposed regulations that would require approximately 13,000 facilities nationwide to monitor and report their CO2 and other GHG emissions, the proposed Project would not satisfy the definition of these regulated facilities and there are no federal regulations or guidance to definitively identify the significance of the GHG emissions associated with operation of the Project.
+Although the GHG emissions associated with construction of the proposed Project would be greater than the CEQ draft threshold of 25,000 tpy of CO2-e that is suggested as a useful presumptive threshold for disclosure during NEPA review, the overall contribution to cumulative GHG impacts from proposed Project construction and operation would not constitute a substantive contribution to the U.S. or global emissions.
+
+#### Indirect Cumulative Impacts and Life Cycle Greenhouse Gas Emissions
+
+The following discussion on GHG life cycle emissions associated with oil sands is provided in response to comments on the draft EIS and supplemental draft EIS.
+DOS is providing this information as a matter of policy, although the proposed Project would not substantively influence the rate or magnitude of oil extraction activities in Canada, or the overall volume of crude oil transported to the U.S. or refined in the U.S. (EnSys 2010).
+To assist in addressing concerns relative to GHG, the DOS third party contractor requested that ICF International LLC (ICF) a detailed review of key studies in the existing literature that address life-cycle GHG emissions of petroleum products, including petroleum products derived from Canadian oil sands, and a comparison of life cycle GHG emissions reported in the literature for Canadian oil sands derived crude oil and refined products with those of reference crude oils.
+A summary of the ICF report is presented in the following sections and the full report is presented in Appendix V.
+
+##### Introduction
+
+The EnSys (2010) report commissioned by DOE evaluated potential influences of the proposed Project on global, U.S., and regional oil demand; the effect of that demand on continued or expanded development of Western Canadian Sedimentary Basin (WCSB) oil sands crude oil sources; and assessments of global life-cycle GHG impacts under 14 separate crude oil transportation scenarios (Appendix V).
+As a part of that analysis, EnSys estimates the changes in life-cycle GHG emissions resulting from these scenarios, including a "no expansion" scenario (i.e., a scenario in which no additional pipelines beyond those in operation as of late 2010 are constructed to transport crude oil from WCSB).
+The GHG emissions estimated for each scenario are related to quantities of specific WCSB oil sands derived crude oils produced and their respective life-cycle GHG intensity.
+The EnSys (2010) analysis relied on the life- cycle GHG emission factors developed by the DOE National Energy Technology Laboratory (NETL 2008 and NETL 2009).[^5] NETL's estimates address a range of the world crude oils consumed in the United States, including the WCSB oil sands crude oils as well as the "average crude" consumed in the United States in 2005.[^6] Because the NETL-developed emission factors were selected to be a key input to the EnSys (2010) analysis and to EPA's renewable fuel regulations, they serve as an important reference case for evaluating life-cycle emissions for different crude sources.
+Thus, while this section provides an assessment of the differences between the life-cycle GHG emissions associated with Canadian oil sands derived crudes that may be refined in the United States versus reference crudes, it also specifically compares results from other literature against the NETL studies' base case.
+A more detailed description of the ICF review is provided in Appendix V.
+
+[^5:] EnSys used factors from the "NETL: Petroleum-Based Fuels Life Cycle Greenhouse Gas Analysis -- 2005 Baseline Model,"" which were applied for each scenario within the DOE version of the Energy Technology Perspective (ETP) model.
+
+[^6:] This 2005 average serves as the baseline in the U.S.
+Renewable Fuel Standard Program (EPA 2010).
+
+##### Life-Cycle Carbon Overview
+
+Evaluating life-cycle emissions provides a method to assess the relative GHG emissions between various sources of crude oil.
+The life-cycle assessment (LCA) methodology attempts to identify, quantify and track carbon emissions arising from the development and use of a hydrocarbon resource.
+It is helpful to characterize carbon emissions into what can be considered primary and secondary flows.
+The primary carbon emissions are associated with the various stages in the life cycle from the extraction of the crude from the reservoir to refining to combustion of the refined fuel products (typically referred to as a "well-to-wheels" analysis).
+The secondary carbon emissions are associated with activities (e.g., land use impacts) not directly related to conversion of the hydrocarbon resource into useful product fuels.
+
+Most of the GHG emissions from hydrocarbon resource development results from three primary steps in the LCA: production of the crude oil, refining of the crude oil, and combustion of the refined products.
+Transportation of the crude oil to the refinery and transportation of the products to market also contribute to GHG emissions.
+The primary objective of refining crude oil is to produce three premium refined products: gasoline, diesel, and kerosene/jet fuel (i.e., gasoline and distillates).
+These primary GHG emissions associated with fuel production drive the economics and engineering of the oil business.
+In addition to the primary emissions arising from the production, transportation, refining, and combustion steps of the LCA, there is a range of secondary carbon emissions to be considered.
+For example, extracting crude can influence secondary GHG emissions, such as changes in biological or soil carbon stocks resulting from land-use change during mining.
+In addition to premium fuels, typically 5 to 10 percent of the carbon in the petroleum resource ends up in co-products, such as petroleum coke, that are often (but not always) combusted and converted to CO2.
+As discussed in greater detail below, these secondary flows are treated differently across the LCA literature and estimates of specific process inputs and emission factors vary according to the underlying methods and data sources used in each LCA.
+
+The GHG emission factors modeled by NETL are based on a well-to-wheels (WTW) LCA.
+WTW assessments for petroleum-based fuels focus on the GHG emissions associated with extraction of the crude oil from reservoirs, transportation of crude oils to refineries, refining of the crude oil, distribution of refined product (e.g., gasoline, diesel, and jet fuel) to retail markets, and combustion of these fuels in vehicles or planes.
+For some WCSB oil sands crude oils, the assessment also addresses upgrading of the extracted crude oil (i.e., partial refining of some oil sands crude oils to produce synthetic crude oil).
+Other analyses (e.g., well-to-tank [WTT] analyses) establish different life-cycle boundaries and evaluate only the emissions associated with the processes prior to combustion of the refined products.
+Inclusion of the combustion phase allows for a more complete picture of crude oil contribution to GHG emissions because this phase represents between approximately 70 to 80 percent (depending on crude source) of the WTW emissions (CERA 2010).
+As a result, a WTW analysis reduces the percent differential in total GHG emissions between different crude oil sources.
+Because a WTT analysis focuses on pre-combustion processes, it highlights the differences in upstream life-cycle GHG emissions associated with the extraction, transportation, and refining of crude oils from different sources, as illustrated in a comparison of Figures 3.14.3-1 and 3.14.3-2.
+
+##### Scope of Review of Life-cycle Studies
+
+A list of the reports reviewed for this assessment is presented in Table 3.14.3-8.
+The primary studies and additional supplemental reports for the assessment were selected on the following basis:
+
+• The reports evaluate WCSB oil sands crude oils in comparison to crude oils from other sources;
+
+• The reports focus on GHG impacts throughout the life-cycle of crude oils and their related products;
+
+• The reports were published within the last 10 years, and most were published within the last five years;
+
+• The reports represent the perspectives of various stakeholders, including industry, governmental organizations, and non-governmental organizations; and
+
+• The reports originate from research bodies within the United States, Canada, and international locations.
+
+**TABLE 3.14.3-8 Primary and Additional Studies Evaluated**
+
+**Primary Studies Analyzed**
+
+NETL. 2008.
+Development of Baseline Data and Analysis of Life Cycle Greenhouse Gas Emissions of Petroleum-Based Fuels.
+
+Individual LCA
+
+NETL 2009.
+An Evaluation of the Extraction, Transport and Refining of Imported Crude Oils and the Impact of Life Cycle Greenhouse Gas Emissions.
+
+Individual LCA
+
+IEA. 2010.
+World Energy Outlook.
+Meta-analysis
+
+IHS CERA. 2010.
+Oil Sands, Greenhouse Gases, and U.S.
+Oil Supply: Getting the Numbers Right.
+
+Meta-analysis
+
+NRDC. 2010.
+GHG Emission Factors for High Carbon Intensity Crude Oils ver. 2.
+Meta-analysis
+
+Energy-Redefined LLC for ICCT. 2010.
+Carbon Intensity of Crude Oil in Europe Crude.
+Individual LCA
+
+AERI/Jacobs Consultancy. 2009.
+Life Cycle Assessment Comparison of North American and Imported Crudes.
+
+Individual LCA
+
+AERI/TIAX LLC. 2009.
+Comparison of North American and Imported Crude Oil Lifecycle GHG Emissions.
+
+Individual LCA
+
+Charpentier, et al. 2009.
+Understanding the Canadian Oil Sands Industry‟s Greenhouse Gas Emissions.
+
+Meta-analysis
+
+**Additional Studies/Models Analyzed**
+
+RAND Corporation. 2008.
+Unconventional Fossil-Based Fuels: Economic and Environmental Trade-Offs.
+
+Individual LCA
+
+Pembina. 2005.
+Oil Sands Fever: The Environmental Implications of Canada‟s Oil Sands Rush.
+
+Partial LCA
+
+Pembina. 2006.
+Carbon Neutral 2020: A Leadership Opportunity in Canada‟s Oil Sands.
+Oil sands issue paper 2.
+
+Partial LCA
+
+McCann and Associates. 2001.
+Typical Heavy Crude and Bitumen Derivative Greenhouse Gas Life Cycles.
+
+Individual LCA
+
+Pembina. 2011.
+Life cycle assessments of oil sands greenhouse gas emissions: A checklist for robust analysis.
+
+White Paper
+
+GHGenius. 2010.
+GHGenius Model, Version 3.19.
+Natural Resources Canada.
+Model
+
+GREET. 2010.
+Greenhouse Gases, Regulated Emissions, and Energy Use in Transportation Model, Version 1.8d.1.
+Argonne National Laboratory.
+
+a: See Appendix V for more information on each study.
+
+For WCSB oil sands crude oils, the assessment focused on those that could be transported through the proposed Project.
+Based on this criterion, the solid, raw bitumen from oil sands was eliminated except to the extent that it is included within averaged results (e.g., NETL provides a single WCSB oil sands estimate that represents a weighted average of 43 percent crude bitumen from *in situ* production and 57 percent SCO from mining).
+
+This assessment addresses three types of WCSB oil sands crude oils that are extracted either by mining or the *in-situ* thermal processes.
+Conventional strip-mining methods are used to extract oil sands deposits that are less than about 75 meters below the surface.[^7] To recover deeper deposits of oil sands, *in situ* methods are used. *In situ* recovery methods typically involve injecting steam into an oil sands reservoir to heat -- and thus decrease the viscosity of -- the bitumen, enabling it to flow out of the reservoir sand matrix to collection wells.
+Steam is injected using cyclic steam stimulation (CSS), where the same well cycles between periods of steam injection and bitumen production, or by steam-assisted gravity drainage (SAGD), where a pair of horizontal wells is drilled; the top well is used for steam injection, and the bottom well for bitumen production.
+Due to the high energy demands for steam production, steam injection *in situ* methods are generally more GHG-intensive than mining operations.
+The WCSB crude oil types assessed in this study are described briefly below:
+
+[^7:] Mining accounts for roughly 48 percent of total bitumen capacity in the WCSB oil sands as of mid-2010 (IEA 2010, p. 152).
+
+• Synthetic crude oil (SCO) − SCO is produced from bitumen via a refinery conversion of heavy hydrocarbons to lighter hydrocarbons.
+While SCO can be sour, it is usually a light, sweet crude oil without heavy fractions.
+
+• Dilbit (diluted bitumen) − Dilbit is bitumen blended with a diluent, usually a natural gas liquid such as condensate, to create a "lighter" product and to reduce viscosity so the dilbit can be transported via pipeline.
+Dilbit feedstock processing requires more heavy oil conversion capacity than most crude oils.
+
+• Synthetic bitumen (synbit) -- Synbit is usually a combination of bitumen and SCO.
+The properties of synbit blends vary greatly, but blending lighter SCO with heavier bitumen results in a product more similar to conventional crude oil than SCO or dilbit alone.
+
+The reference crudes evaluated in the literature reflect a range of sources and GHG emissions and include:
+
+• The average U.S. barrel consumed in 2005 (from NETL 2008).
+This reference was selected because it provides a baseline for fuels produced from the average crude consumed in the United States.
+
+• Venezuela Bachaquero and Mexico Maya, which are representative of heavy crudes currently refined in PADD III refineries.
+It is assumed that these crude oils would be displaced or replaced by the WCSB oil sands crude oil that would be transported by the proposed Project, although it is likely that they would find markets elsewhere and would still be produced.
+
+• Saudi Light (i.e., Middle East Sour), which was taken to be the balancing grade for world crude oil supplies in the *Keystone XL Assessment* (EnSys 2010).
+This is the crude that may ultimately be backed out of the world market if additional supply of WCSB oil sands crudes is produced.
+
+**Evaluation of Key Factors Influencing the GHG Results**
+
+There are many differences in the **study design factors** and **input assumptions** for life-cycle GHG analyses of WCSB oil sands crude oils relative to the four reference crude oils.
+
+**Study design factors** relate to how the GHG comparison is structured within each study.
+These factors include the overall purpose and goal of the study, the types of crudes and refined products that are compared to each other, the timeframe over which the results of the study are applicable, the life-cycle boundaries established to make the comparison, the functional units or the basis used for comparing the life-cycle GHGs for crudes or fuels to each other (e.g., expressing GHG emissions per unit of crude, SCO, all refined products, or specific refined products such as gasoline or diesel, in terms of volume, energy, or distance units), and the treatment of co-products other than gasoline, diesel, and jet fuels (e.g., asphalt, petroleum coke, liquefied refinery gases, and lubricants).
+Some studies allocate a fraction of the GHG emissions from refining to these co-products and exclude these emissions from the life-cycle boundary (i.e., they are not included within the studies' life-cycle results).
+Other studies include these emissions but assign credits for GHG emissions from other sources that are offset by combustion of the co-products (e.g., electricity exported from a refinery replaces natural gas-fired power generation, and petroleum coke from a refinery replaces coal).
+
+Key design factors across the studies identified through this assessment are summarized in Table 3.14.3- 9.
+In general, the studies reviewed are consistent in their treatment of some factors (e.g., generally excluding emissions associated with land-use changes) but vary in their treatment of other factors (e.g., emissions from petroleum coke and electricity cogeneration).
+Most studies exclude land-use change and the emissions arising from the construction of capital infrastructure.
+Importantly, only a few studies modeled the effect that upgrading SCO has on downstream GHG emissions at the refinery.
+Several (but not all) studies include the following:
+
+• Upstream production of purchased fuels and electricity used to power machinery in the oil fields and at refineries;
+
+• Flaring and venting;
+
+• Fugitive emissions; and
+
+• Methane emissions from oil sands mining and tailings ponds.
+
+**Input assumptions** impact life-cycle analysis results and assumptions are input at each life-cycle stage.
+Due to limited data availability and the complexity of and variation in the practices used to extract, process, refine, and transport crude oil, studies often use simplified assumptions to model GHG emissions.
+For example, for both WCSB oil sands crude oils and reference crude oils, assumptions about how much petroleum coke is produced, stored, and combusted at the upgrader or refinery, and how much is sold to other users, are key drivers of GHG emission estimates.
+Transportation assumptions have a more limited effect, but vary across the studies.
+Key input assumptions for WCSB oil sands derived crude oils include:
+
+• Type of extraction process (i.e., mining or *in situ* production);
+
+• Steam-oil ratio assumed for *in situ* operations;
+
+• Efficiency of steam generation, and thus its energy consumption; and
+
+• Upgrading processes modeled for SCO and whether or not estimated refinery GHG emissions account for upgrading.
+
+For the reference crudes, key input assumptions include the oil-water and gas-oil ratios that are used to estimate reinjection and venting or flaring requirements, and whether and what type of artificial lift is considered for extracting crude oil.
+
+Life-cycle GHG emissions for gasoline produced from WCSB oil sands crude oils relative to other reference crude oils consumed in the United States, as reported by NETL (2009) are summarized in Table 3.14.3-10.
+The results are subject to several input assumptions that influence the results of the analysis.
+These assumptions and their estimated scale of impact on the WTW results are summarized in the last two columns of Table 3.14.3-10.
+
+For example, NETL (2009) developed its weighted-average GHG emission estimate for oil sands extraction (including upgrading) from data on mining and CCS in situ operations in 2005 and 2006.
+The estimate that the NETL study used for mining oil sands was based on a 2005 industry report that estimates higher values than more recent estimates of surface mining GHG emissions (TIAX 2009, Jacobs 2009).
+The *in situ* GHG estimate is based on a CSS operation which---while CSS operations tend to be more GHG intensive than SAGD processes---is generally in the range of *in situ* estimates in other studies (e.g., TIAX 2009, Jacobs 2009).
+The NETL study, however, did not account for the fact that natural gas condensate is blended with crude bitumen to form dilbit, which is transported via pipeline to the United States.
+Since condensate has a lower GHG intensity than crude bitumen, per-barrel GHG emissions from dilbit are less than per-barrel emissions from crude bitumen.
+
+The NETL study only considered combustion emissions from gasoline, diesel, and kerosene-type jet fuel and allocated the refinery emissions from co-products other than gasoline, diesel, and jet fuel to the co- products themselves.
+This approach removes the GHG emissions associated with producing and combusting co-products from the study's life-cycle boundary.
+This approach is consistent with DOE/NETL's objective of estimating the contribution of crude oil sources to the 2005 baseline GHG emissions profile for three transportation fuels (gasoline, diesel, and kerosene-type jet fuel).
+A portion of the petroleum coke produced from partial refining (upgrading) of WCSB oil sands crudes is stockpiled (sequestered) in Alberta and does not contribute to GHG emissions, whereas virtually all of the petroleum coke produced at U.S. refineries is ultimately combusted.
+As explained in more detail in the appendix on GHG emissions, if petroleum coke produced from refineries is assumed to offset coal combustion, however, the net emissions from coke combustion will be much smaller (Appendix V).
+As a result, the effect of including petroleum coke combustion depends upon study assumptions about the end use of petroleum coke at both the refinery and upgrader, and whether petroleum coke use offsets other fuels, such as coal.
+
+Additionally, the NETL study used linear relationships to relate GHG emissions from refining operations to specific crudes based on API gravity and sulfur content.
+The study notes that these relationships do not account for the fact that bitumen blends (dilbits and synbits) and SCO in particular will produce different fractions of residuum and light ends than "full-range" crudes.
+Accounting for the variable properties of these crude oil types and resulting refinery GHG emissions would change the differences between WTW GHG emissions for premium fuels refined from WCSB oil sands derived crude oils relative to reference crude oils.
+
+##### GHG Intensity of WCSB Crudes
+
+The wide variation in design and input assumptions within the various studies leads to a wide divergence in calculated GHG emissions.
+Based on an extensive review of information provided in the studies reviewed, the WTW and WTT GHG emissions of gasoline produced from WCSB oil sands derived crude oils were compared to similar emission estimates from four reference crude oils (see Figures 3.14.3-1 and 3.14.3-2).
+Additional information on the data sources and assessment is available in Appendix V.
+
+As shown in Figure 3.14.3-2, the NETL WTW GHG emission estimates from gasoline produced from WCSB oil sands derived crude oils are 17 percent higher than that the GHG emission estimates for gasoline produced from the average mix of crude oils consumed in the United States in 2005, and are approximately 19, 13, and 16 percent higher than GHG emission estimates for Middle East Sour, Mexican Heavy (i.e., Mexican Maya), and Venezuelan[^8] crude oils, respectively (NETL 2009).
+
+[^8:] NETL uses Venezuelan Conventional as a reference crude rather than Venezuelan Bachaquero.
+
+The WTW emission estimates for gasoline produced from SCO via *in situ* methods of oil sands extraction (i.e., SAGD and CSS) in general are higher than the GHG emission estimates for mining extraction methods (Figure 3.14.3-1).
+This difference is primarily attributable to the energy requirements of producing steam as part of the *in situ* extraction process.
+
+Gasoline produced from dilbit generally has lower estimated GHG life-cycle emissions than gasoline produced from SCO extracted by mining and *in situ* methods.
+This is a result of blending raw bitumen with a diluent (e.g., gas condensate) for transport via pipeline.
+Diluent produces fewer GHG emissions than bitumen, so blending the two together results in lower WTW GHG emissions.
+This assessment evaluates the refining of both bitumen and diluent at the refinery, since diluent will not be separated from the dilbit blend and recirculated by the proposed Project.
+WTW GHG emission estimates from gasoline produced from synbit, a blend of SCO and bitumen, are similar to WTW GHG emission estimates for gasoline produced from SCOs produced from bitumen extracted by either mining or *in situ* methods.
+
+Similar trends were evident in the WTT GHG analyses (see Figure 3.14.3-3).
+The percentage increase in WTT GHG emission estimates for gasoline produced from WCSB oil sands derived crude oils as compared to gasoline produced from reference crudes (Figure 3.14.3-3) is much larger than the percent increases for WTW GHG emission estimates (Figure 3.14.3-2).
+Most of the gasoline life-cycle WTW GHG emissions occur during the combustion stage irrespective of the feedstock (i.e., reference crude or oil sands).
+Because WTT GHG emission estimates do not include the combustion phase, the differences in GHG life-cycle emissions associated with crude oil extraction and refining are emphasized; when expressing the comparison in terms of percentage increases, the same incremental differences in the numerator are divided by a smaller denominator.
+
+The GHG emissions associated with different oil sands extraction, processing, and transportation methods vary by roughly 25 percent on a WTW basis.
+Life-cycle GHG emission estimates for fuels produced from WCSB oil sands crude oils are higher than emission estimates for fuels produced from lighter crude oils, such as Middle East Sour crudes and the 2005 U.S. average mix.
+Compared to heavier crude oils from Mexico and Venezuela, WTW emission estimates associated with fuels derived from WCSB oil sand- derived crude oils are 37 percent higher than for SAGD SCO (petroleum coke burned at the upgrader) and 2 percent lower for mining-derived SCO (including storing or selling the petroleum coke).
+
+**Incremental GHG Emissions from Oil Sands Crudes Potentially Transported by the Proposed Project**
+
+**Compared to Reference Crudes**
+
+As noted earlier in this chapter, based on the EnSys (2010) analysis, under most scenarios the proposed Project would not substantially influence the rate or magnitude of oil extraction activities in Canada, or the overall volume of crude oil transported to the United States or refined in the United States.
+Thus, from a global perspective, the decision whether or not to build the Project will not affect the extraction and combustion of WCSB oil sands crude on the global market.
+However, on a life-cycle basis and compared with reference crudes refined in the United States, the reliance on oils sands crudes for transportation fuels would likely result in an increase in incremental GHG emissions.[^9] Although a life- cycle analysis is not strictly necessary for purposes of evaluating the potential environmental impacts attributable to the proposed Project under NEPA, it is relevant and informative for policy-makers to consider in a variety of contexts.
+For illustrative purposes, this section provides information on the incremental life-cycle GHG emissions (in terms of the U.S. carbon footprint) from WCSB oil sands crudes likely to be transported by the proposed Project (or any transboundary pipeline).
+The incremental emissions are a function of: (i) the throughput of the pipeline, (ii) the mix of oil sands crudes imported, and (iii) the GHG-intensity of the crudes in the pipeline compared to the crudes they displace.
+Acknowledging the methodological differences in GHG-intensity estimates between the studies, the weighted-average GHG emissions for selected studies were calculated to estimate the incremental GHG emissions from WCSB oil sands relative to displacing an equivalent volume of reference crudes in U.S. refineries.
+
+[^9:] Note that a substantial share of these emissions would occur outside of the United States.
+Also note that the U.S.
+National Inventory Report, like other national inventories, only characterizes emissions within the national border, rather than using a life-cycle approach.
+If the United States used a life-cycle approach, upstream emissions from other imported crudes would be attributed to the United States.
+
+Jacobs (2009), TIAX (2009), and NETL (2009) formed the sub-set of studies used to develop weighted averages for purposes of the carbon footprint analysis.
+These studies are independent analyses of WTW GHG emissions from oil sands and reference crudes that utilize consistent functional units for comparison with each other.
+The other studies included in this assessment either did not look at the full WTW fuel life-cycle, did not evaluate emissions on a consistent functional unit basis for comparison, or are meta- analyses that include the results of the Jacobs and TIAX studies.
+Despite the underlying differences in study assumptions, the comparisons illustrated below are internally consistent and make comparisons between crudes from the same study.
+
+For illustrative purposes, Figure 3.14.3-4 shows the percent change in weighted-average GHG emissions from the mix of WCSB oil sands crude oil likely to be transported in the proposed Project relative to each of the four reference crudes on a gasoline basis.
+The change in GHG emissions is calculated for the Jacobs (2009) and TIAX (2009) values by weighting the WTW GHG intensity of oil sands crudes by the composition of crudes that could be transported in the proposed Project.
+For purposes of this assessment, it is assumed that 50 percent of pipeline throughput would be SCO, and 50 percent would be dilbit.
+All WCSB dilbit is currently produced using in situ production and 12 percent of SCO is produced via in situ methods (ERCB 2010), yielding a final mix of 50 percent *in situ*-produced dilbit, 44 percent mining- produced SCO, and six percent *in situ*-produced SCO.[^10] The results are representative of near term expected WCSB oil sands composition and GHG-intensities.
+
+[^10:]Of *in situ* WCSB oil sands production from SAGD and CSS facilities, CSS accounts for 47 percent of production, and SAGD accounts for 53 percent.
+This ratio was used to calculate an average for *in situ*-produced dilbit for TIAX, which provided separate estimates for CSS and SAGD dilbit.
+Primary *in situ* production of WCSB bitumen (i.e., using conventional oil production techniques) was not included since estimates were not provided in the studies included in the scope of this assessment.
+Primary production currently accounts for 32.9 thousand cubic meters per day, or 14 percent of total oil sands production (ERCB 2010).
+
+The Canadian oil sands average from NETL (2009) is also plotted on Figure 3.14.3-4 for comparison with Jacobs (2009) and TIAX (2009), although the NETL result assumes a mix of 43 percent crude bitumen and 57 percent SCO.
+The results show a 2 to 19 percent increase in WTW GHG emissions from gasoline produced from the weighted-average mix of oil sands crudes potentially transported in the proposed Project relative to the reference crudes in the near term.
+Heavier crudes generally take more energy to produce and emit more GHGs than lighter crudes, and in particular, the weighted-average WCSB oil sands crude is currently more energy- and carbon-intensive than lighter crudes like Middle Eastern Sour.
+
+For illustrative purposes, Table 3.14.3-11 shows the incremental annual WTW GHG emissions associated with displacement of 100,000 barrels of each reference crude oil per day with WCSB oil sands crude oil using the weighted-average estimate for the mix of WCSB oil sands crudes likely to be transported in the proposed Project.
+The incremental GHG emissions were calculated by first multiplying the WTW GHG emission intensities per barrel of gasoline and distillates (i.e., gasoline, diesel, and kerosene/jet fuel) for WCSB and reference crudes from each study by the volume of premium fuel products produced by 100,000 barrels of WCSB oil sands crude.
+WTW GHG emissions from each reference crude were then subtracted from the WTW GHG emissions from the equivalent volume of WCSB oil sands crude to estimate incremental GHG emissions.
+We converted the 100,000 barrels of crude to an equivalent volume of gasoline and distillate products using yield data provided in each respective study.
+As previously noted, these incremental GHG estimates provide an example of the potential effect, on a life-cycle basis, resulting from displacement of reference crude oils in PADD III refineries; on a global scale, the decision whether or not to build the Project will not affect the extraction and combustion of WCSB oil sands crude on the global market (EnSys 2010).
+
+**TABLE 3.14.3-11 Incremental Annual GHG Emissions of Displacing 100,000 Barrels Per Day of Each Reference**
+
+**Crude with WCSB Oil Sands (MMTCO2e) by Study**
+
+**Reference Crude** Jacobs, 2009 TIAX, 2009 ^a NETL, 2009
+
+**Middle Eastern Sour** 1.3 2.0 2.5
+
+**Mexican Maya** 0.5 1.6 1.7
+
+**Venezuelan b** 0.4 0.5 2.4
+
+**U.S.
+Average (2005)** NA NA 2.3
+
+Note: The incremental annual GHG emissions presented here are calculated using internally consistent comparisons for each reference crude and the weighted average WCSB oil sands crude using information from each respective each study.
+The incremental annual GHG emissions estimates for displacing the U.S. average (2005) reference crude is only provided for NETL (2009) because only NETL included a U.S. average reference.
+NA = Not Applicable.
+
+^a: The NETL and TIAX studies allocate a portion of GHG emission to co-products other than gasoline, diesel, and jet fuel products, which are not accounted for in these estimates.
+As a result, incremental GHG emissions are underestimated for those studies.
+
+^b: Venezuelan conventional crude values for NETL refer to a medium crude, not the heavy crude Venezuelan Bachaquero.
+
+The incremental GHG emissions in Table 3.14.3-7 are compared against four different reference crude oils.
+To the extent that Middle Eastern Sour is the world balancing crude, as assumed as a model input in EnSys (2010), it may ultimately be the crude that is backed out of the world market by WCSB oil sands crudes.
+From another perspective, if the proposed Project is built and the PADD III refineries continue using about the same input mix of heavy crudes as they currently use, Venezuelan Bachaquero or Mexican Mayan are likely to be displaced by WCSB oil sand crudes.
+Finally, NETL (2009) estimated the GHG emissions intensity of the average barrel of crude oil refined in the United States in 2005.
+The Jacobs and TIAX studies are not compared to this reference crude because they did not include a U.S. average estimate.
+
+The three studies referenced in Table 3.14.3-7 used different methods to allocate GHG emissions between premium fuels (e.g., gasoline, diesel, and jet fuel) and other co-products (e.g., light and heavy ends, petroleum coke, sulfur).
+Jacobs (2009) attributes all GHG emissions associated with extracting, refining, and distributing other co-products to premium fuels;[^11] thus, the incremental GHG emissions shown for Jacobs (2009) in Table 3.14.3-7 take into account the production and use of these co-products.
+
+[^11:] Jacobs (2009) also applies a substitution credit for offsetting other products that are replaced by each of the co- products.
+For example, the production and use of petroleum coke is assumed to offset GHG emissions from coal- fired electricity production.
+
+As noted elsewhere in the EIS, the near-term initial throughput of the proposed Project is projected to be 700,000 barrels of crude per day with a potential capacity of 830,000 barrels per day.[^12] Based on the results in the Jacobs study, incremental GHG emissions from the proposed project would be 9 million metric tons of CO2 equivalent (MMTCO2e) annually at the initial pipeline capacity, and 11 MMTCO2e annually at the potential capacity, if the oil sands crude oil transported by the proposed Project offset an equivalent amount of Middle Eastern Sour crude oil.
+Incremental emissions would be 3.7 to 4.4 MMTCO2e annually at initial and potential capacities, respectively, if oil sands crude oil offset Mexican Maya crude oil, and 3.1 to 3.7 MMTCO2e annually if Venezuela Bachaquero crude oil were offset.
+
+[^12:] It was assumed that the pipeline would be operating 365 days a year at an *initial* capacity of 700 thousand barrels per day and a *potential* capacity of 830 thousand barrels per day.
+
+Unlike the Jacobs study, the TIAX and NETL studies allocate a portion of GHG emissions to co-products other than gasoline, diesel, and jet fuel products, and these emissions are not included in the studies' WTW GHG results.
+As a result, the incremental GHG emissions estimates for TIAX and NETL in Table 3.14.3-7 may underestimate total incremental GHG emissions.^13
+
+[^13:] Adjusting the TIAX and NETL GHG emission estimates to include co-products other than gasoline, diesel, and kerosene/jet fuel would require two pieces of information: (i) the GHG intensity of the other products, for both WCSB crudes and reference crudes, and (ii) the yield of the other products, for both WCSB crudes and reference crudes.
+TIAX (2009) and NETL (2008) do not provide explicit emissions intensity factors or product yields in a format that enables separate emissions estimates to be developed for these products.
+These products largely comprise the remaining fractions of the input crude that cannot be converted into premium products.
+
+TIAX (2009, p. 34; Appendix D, p. 42) found that the change in refinery energy use associated with an incremental barrel output of co-products other than gasoline, diesel, and jet fuel contributed to less than one percent of energy use and GHG emissions per barrel of refined product at the refinery, so any error introduced by the underestimate of GHG emissions attributed to co-products is negligible.
+According to the results of the TIAX study, incremental GHG emissions would be 14 MMTCO2e at the initial project capacity and 17 MMTCO2e annually at the proposed project capacity if oil sands crude oil offset an equivalent amount of Middle Eastern Sour crude oil.
+Incremental emissions would be 11 to 13 MMTCO2e and 3 to 4 MMTCO2e annually if oil sands crudes offset Mexican Maya and Venezuelan Bachaquero crude oil, respectively, at the initial and potential project capacities.
+
+Based on the results of NETL (2009), incremental emissions would be 18 to 21 MMTCO2e annually if oil sands crude oil offset an equivalent amount of Middle Eastern Sour crude oil at the initial and potential project capacities.
+Incremental emissions would be 12 to 14 MMTCO2e and 17 to 20 MMTCO2e annually if oil sands crudes offset Mexican Maya and Venezuelan Bachaquero crude oil, respectively, at the initial and potential project capacities.
+Compared to the average barrel of crude refined in the United States in 2005, incremental emissions from oil sands crudes would be 16 to 19 MMTCO2e annually at initial and potential project capacities.
+The effect of allocating a portion of the life-cycle GHG emissions of refining crude oils to other, non-premium co-products was larger in the NETL study than in either of the studies by Jacobs (which did not allocate any emissions to other co-products) or TIAX (which allocated less than 1 percent of GHG emissions at the refinery to other co-products).
+To estimate the magnitude of this effect, the NETL results for WCSB oil sands and the 2005 U.S. average crude oils were adjusted to include other product emissions modeled in NETL's analysis.
+The lead NETL study author was contacted to vet the approach used to make this adjustment in order to ensure that it was made consistently with the NETL study framework (Personal communication, Timothy Skone, 2011).
+Adjusting the NETL results to include other product emissions could increase the differential between WCSB oil sands and the 2005 U.S. average crude oils by roughly 30 percent.
+
+The full range of incremental GHG emissions estimated across the reference crudes and sub-set of studies is 3 to 17 MMTCO2e annually at the near term initial throughput or 4 to 21 MMTCO2e annually at the potential throughput.
+This overall range of 3 to 21 MMTCO2e is equivalent to annual GHG emissions from the combustion of fuels in approximately 588,000 to 4,061,000 passenger vehicles or the CO2 emissions from combusting fuels used to provide the energy consumed by approximately 255,000 to 1,796,000 homes for one year.[^14] The differentials presented here are based on life-cycle emission estimates for current or near-term conditions in the world oil market, as can be seen from the reference years used in each report.
+Over time, however, the GHG emission estimates for fuels derived from both WCSB oil sands crude oils and the reference crude oils are likely to change.
+
+[^14:] Equivalencies based on EPA's GHG Equivalency calculator available at: http://www.epa.gov/cleanenergy/energy- resources/calculator.html
+
+GHG emissions from the production phase for reference crude oils may become more energy-intensive over time due to the need to extract oil from deeper reservoirs by using more energy-intensive secondary and tertiary recovery techniques, such as CO2 flood.
+Many of the reference crude oil reservoirs are one to two miles (or more) underground or under the ocean floor.
+In contrast, the WCSB oil sands deposits are much shallower and can be extracted using either surface mining or near-surface *in situ* methods.
+Exploration efforts for new deep oil reservoirs will continue as known reservoirs continue to deplete.
+
+In contrast, the extent of the WCSB oil sands deposits is well understood and defined.
+In the future, *in* *situ* extraction methods are projected to represent a larger share of the overall oil sands production, increasing from about 45 percent of 2009 oil sands production to an estimated 53 percent by 2030 (ERCB 2010).
+In particular, the share of SAGD *in situ* extraction methods are projected to rise from roughly 15 percent in 2009 to 40 percent of oil sands production in 2030 (CERA 2010).[^15] The GHG profile of this more energy-intensive oil sands extraction method may be reduced by new technologies and innovations to reuse steam onsite and/or improve thermal recovery.
+However, surface mining is projected to remain a dominant extraction method for WCSB crude oils for the next 20 years (CERA 2010).
+In consideration of these factors, GHG intensity for future reference crude oils may trend upward while the GHG intensity for WCSB oil sands derived crude oils may be relatively constant to slightly upward.
+If this is the case, the differential in life-cycle GHG emissions for fuels refined from these crude oils may decrease.
+
+[^15:] Although the balance of mining and *in situ* extraction will change in the future, there are incentives for producers to keep GHG intensity as low as possible.
+For example, Alberta's climate policy requires that oil sands producers and other large industrial GHG emitters reduce their emissions intensity by 12 percent from an established baseline.
+
+##### Conclusions
+
+The studies show conclusively that combustion (i.e., tank-to-wheels) phase of the fuel life cycle dominates the total GHG life-cycle emissions under all scenarios.
+Overall, it is clear that comparisons of GHG life-cycle emission estimates for fuels derived from different sources are sensitive to the choice of boundaries, consistent application of boundary conditions within studies, and to key input parameters.
+In particular, the results depend on assumptions regarding the use of petroleum coke at oil sands facilities, and upon the weighted-average mix of WCSB oil sands crude transported to the United States by the proposed Project or some other transboundary pipeline.
+SAGD and CSS *in situ* production methods are generally more GHG-intensive than mining, and while SCO requires upgrading prior to pipeline transport, bitumen blends such as dilbit and synbit require additional refining emissions and do not produce an equivalent amount of premium fuel products per barrel input.
+
+Despite the differences in study design and input assumptions, it is clear that WCSB crudes, as would likely be transported through the proposed Project, are on average somewhat more GHG-intensive than the crudes they would displace in the U.S. refineries.
+Although EnSys (2010) reported that there would be no substantive change in global GHG emissions and, as explained in Section 4.1.2, there would likely be no substantial change in WCSB imports to PADD III with or without the proposed Project in the medium to long term, the life-cycle GHG emissions associated with transportation fuels produced in U.S. refineries would increase if WCSB crude oils replace existing heavy crude oil sources for PADD III.
+
+We also note that the GHG intensity of reference crudes may increase in the future as more of the world crude supply requires extraction by increasingly energy intensive tertiary and enhanced oil recovery techniques.[^16] The energy intensity of surface mined Canadian crudes will likely be relatively constant while higher energy intensive in-situ production may increase somewhat; the proportion of in situ extraction is forecast to increase relative to the less energy-intensive surface mining.
+Although there is some uncertainty in the trends for both reference crude oils and oil sands derived crude oils, on balance it appears that the gap in GHG intensity may decrease over time.
+
+[^16:] As with the producers of oil sands, however, in some cases producers of reference crudes are likely to face regulatory pressures or other incentives to lower the GHG intensity of their production process.
+Such a dynamic could counter the trend towards higher GHG intensities.
+
+### Climate Change
+
+Over the past 30 years, changes in the U.S. climate have included an increase in average temperature, an increase in the proportion of heavy precipitation events, changes in snow cover, and an increase in sea level (CCSP 2008).
+Climate change can exacerbate stresses on ecosystems through high temperatures, reduced water availability, and altered frequency of extreme precipitation events and severe storms (CCSP 2008).
+However, climate change can also ameliorate stresses on ecosystems through warmer springs, longer growing seasons and related increased productivity (CCSP 2008).
+
+Anticipated impacts from climate change in North America applicable to the regions crossed by the proposed Project include:
+
+• Stream temperatures are likely to increase and are likely to have effects on aquatic ecosystems and water quality;
+
+• Proliferation of exotic grasses and increased temperatures are likely to cause in increase in fire frequency in arid lands; and
+
+• Decreased streamflow, increased water removal, and competition from non-native species are likely to negatively affect river ecosystems in arid lands (CCSP 2008).
+
+While there are uncertainties in the future of climate change, the response of ecosystems and the effects of management should allow ecosystem adaptations that would reduce anticipated damages or enhance beneficial responses associated with climate variability and change (CCSP 2008).
+Throughout development of the proposed Project, efforts to reduce overall Project-related impacts have been incorporated into the proposed Project.
+The proposed CMR Plan (Appendix B) includes construction procedures that would apply directly to the reduction of anticipated climate change-related induced impacts described above, including:
+
+• Restoration of riparian habitats at stream crossings (Sections 3.3 and 3.7);
+
+• Prevention of the spread and establishment of noxious and invasive weeds (Section 3.5);
+
+• Prevention of the spread of aquatic invasive species (Section 3.7); and
+
+• Limiting water withdrawal rates to less than 10 percent (or lower depending on permit requirements) of the base flow and returning water used for hydrostatic testing to the same drainage (Sections 3.3 and 3.7); and
+
+• Avoid, minimize, and mitigate impacts to wetlands, including depressional wetlands (Section 3.4) that may decrease in abundance due to increased evaporation with increased temperature.
+
+A variety of technologies are currently or potentially available in the oil sands sector to mitigate GHG emissions during production.
+The oil sands industry is exploring technologies that increase energy efficiency and reduce the industry's dependence on fossil fuel resource consumption, which in turn decrease GHG emissions during production.
+Notable GHG mitigation technologies or practices currently employed include:^17
+
+[^17:] The degree to which the GHG emission estimates from LCA studies reviewed in the "Indirect Cumulative Impacts and Life-Cycle Greenhouse Gas Emissions" section incorporated these technologies varies based on the timeframe and facility-level data used to inform the estimates.
+None of the studies evaluated solvent-based *in situ* extraction methods.
+Jacobs (2009), TIAX (2009), and IHS CERA (2010) evaluated the effect of cogeneration systems and electricity export on life-cycle GHG emissions.
+
+• *In situ* extraction improvements such as improved well configuration and placement, low- pressure SAGD, flue gas reservoir re-pressurization, new artificial lift pumping technologies, use of electric submersible pumps, and overall improvements in energy efficiency which can reduce the steam to oil ratios (SOR) of *in situ* production processes (Government of Alberta 2011a, Bergerson & Keith 2010, CAPP 2011);
+
+• Incorporation of solvents such as ethane, propane, or butane (in addition to heat, in the case of thermal solvent processes) to lower the viscosity of bitumen extracted using vaporized extraction (VAPEX) processes during *in situ* production (Government of Alberta 2011a, RAND 2008, Bergerson & Keith 2010, CAPP 2011);
+
+• Expanded use of cogeneration to produce electricity and steam during the upgrading stages of oil sands production, particularly for *in situ* production (IHS CERA 2010, Bergerson & Keith 2010, CAPP 2011); and
+
+• Use of lower-temperature water to separate bitumen from sand during extraction to reduce the energy required (CAPP 2011).
+
+Emerging technologies that would reduce the use of fossil fuel energy resources (and therefore GHG emissions), but that are not yet widely employed in the oil sands include:
+
+• Steam solvent processes, which use solvents to reduce the steam required for bitumen extraction.
+Steam solvent processes include solvent-assisted processes (SAP), expanding solvent steam- assisted gravity drainage (ES-SAGD), and liquid addition to steam for enhanced recovery (LASER) (Government of Alberta 2011a, Bergerson & Keith 2010, IEA 2010, CAPP 2011);
+
+• Additional *in situ* bitumen production technologies include *in situ* combustion, where the heavy portion of petroleum is combusted underground (Government of Alberta 2011a, Bergerson & Keith 2010, CAPP 2011), and electrothermal extraction, where electrodes are used to heat the bitumen in the reservoir (Government of Alberta 2011a, Bergerson & Keith 2010, CAPP 2011);^18
+
+[^18:] Keith and Bergerson (2010, p. 6011) note that the GHG emissions from these technologies may depend upon their implementation.
+For instance, electrothermal *in situ* extraction may reduce GHG emissions if coupled with a source of low-GHG intensity electricity.
+
+• Use of natural gas or bio-based fuels such as biodiesel or bioethanol in mine and tracking fleets and equipment (Pembina 2006, Bergerson & Keith 2010);
+
+• "Bio-upgrading", a future upgrading technology in development that includes the use of microbes to remove sulfur compounds and impurities (Pembina 2006);
+
+• Use of offgas processing from oil sands facilities through the extraction of natural gas liquids and olefins to provide pipeline-specification natural gas.
+The net result is fewer overall emissions because the offgas is used as petrochemical feedstock rather than combusted (Government of Alberta 2011a);
+
+• Carbon capture and storage (CCS) technologies to store CO2 produced from point sources.
+CCS technologies have existed for years and are currently being employed in the conventional oil and natural gas sectors.
+The oil sands sector has an opportunity, bolstered by significant Alberta government funding, to employ a variety of CO2 capture technologies available including pre- combustion, post-combustion, and oxy-fuel systems in order to significantly reduce life-cycle GHG emissions from WSCB oil sands derived crude (Pembina 2006, Bergerson & Keith 2010, RAND 2008, Royal Society of Canada 2010, CAPP 2011);
+
+• Similarly, CO2 could be sequestered by injecting the gas into oil sands tailings, which has the co- benefit of improving settling rates.
+A version of this technology is expected to be commercially available in the next three to four years (Royal Society of Canada 2010); and
+
+• Use of Metal Organic Frameworks (MOFs), which could be used to separate CO2 from low concentration gaseous mixtures like flue gas.
+MOFs have the potential to absorb CO2 effectively while requiring less energy to regenerate than other sorbent materials (CAPP 2011).
+
+The Government of Alberta has worked to mitigate the GHG emissions associated with oil sands production through three main policy initiatives.
+First, the Climate Change and Emissions Management Act, enacted in 2003, establishes mandatory annual GHG intensity reduction targets for large industrial GHG emitters (Government of Alberta 2009a).
+Those emitters that fall short can either purchase credits from other companies that have reduced their emissions, or pay $15 for every metric ton of CO2e above their target into a government-run clean energy technology fund (Government of Alberta 2010).
+Second, the Government of Alberta has dedicated $2 billion to fund four large-scale CCS projects.
+Of these four projects, two involve oil sands producers.
+These two projects are together expected to reduce 15.2 million metric tons of CO2e per year beginning in 2015 (Government of Alberta 2011b).
+Third, the funds collected as part of the Climate Change and Emissions Management Act are placed in the Climate Change and Emissions Management Fund, which is dedicated to investing in clean energy projects (Government of Alberta 2011c).
+Several projects selected for funding in 2010 focus on energy efficiency improvements and cleaner energy production at oil sands production facilities (CCEMC 2010a, 2010b).
+
+Other GHG mitigation policy proposals could establish some form of broad fiscal or regulatory national GHG reduction policy that would incentivize or regulate lower GHG emissions from oil sands operations and other sectors of the economy.
+MK Jaccard and Associates (2009) analyzed the cost and feasibility of meeting a target of a 20 percent reduction from 2006 levels by 2020, and a more aggressive target of a 25 percent reduction from 1990 levels by 2020 though a cap and trade or carbon tax system.[^19] For both targets the largest reductions came from petroleum extraction (including, but not limited to the oil sands), accounting for roughly 10 to 20 percent of total reductions of the 20% reduction policy and 25% reduction policy, respectively.
+Under the 20% reduction policy target, the analysis found that 57 percent of the hydrogen produced for synthetic oil would be made using CCS, while 4 percent of the steam and process heat for oil sands extraction would be made using CCS by 2020.
+Under the 25% reduction policy target, the shares of each produced using CCS increased to 88 and 50 percent, respectively. ^20
+
+[^19:] The study examined a policy package that would achieve each target by establishing a CO2 emissions price and implementing other complementary measures.
+The 20% reduction policy had a target price that started at $40 per metric ton of CO2 in 2011, increasing to $100 per metric ton in 2020.
+The 25% reduction policy had a target price that started at $50 and increased to $200 per metric ton CO2 in 2020.
+
+[^20:] The 25% reduction policy required CCS at all new sources of formation CO2 from natural gas processors, process CO2 from hydrogen plants, and combustion CO2 from coal-fired power plants, oil sands facilities, and upgraders starting in 2016.
+
+Although the GHG footprint of pipeline operations is much smaller than the life-cycle footprint of the oil sands crude transmitted through the pipeline, mitigation opportunities exist for reducing GHGs from operations as well.
+One such opportunity would involve purchase of "green power" -- i.e., electricity generated from renewable sources -- to provide electricity for operations, potentially eliminating the carbon footprint from electricity.
+Both EPA (2011) and DOE (2011) provide information on green power products offered by organizations in the United States.
+These products include green pricing programs (which allow consumers to pay a premium to support utility company investments in renewable energy), retail green power products (i.e., the sale of electricity generated from renewables in competitive markets), and renewable energy certificate (REC) products[^21] (also known as green tags or tradable renewable credits) (DOE 2010).[^22] In Canada, the Ecologo Program[^23] provides third-party certification of renewable electricity products that can be purchased for green power.
+
+[^21:] In the context of offsetting GHG emissions, RECs only guarantee that an amount of electricity has been generated from renewable sources; they do not necessarily guarantee that the renewable electricity generated is additional to what would have been generated but for the purchase of a REC.
+
+[^22:] See EPA's Green Power Partnership (http://www.epa.gov/greenpower/) and DOE's Green Power Network (http://apps3.eere.energy.gov/greenpower/).
+
+[^23:] The Ecologo is a Type I eco-label (as defined by the International Organization for Standardization (ISO), meaning that it involves third-party certification of environmental performance based on an evaluation of multiple environmental criteria.
+Ecologo was founded by the Government of Canada in 1988 and is managed by TerraChoice since 1995.
+
+Carbon credits and carbon offsets could also be purchased to offset GHG emissions from the Proposed project via GHG reductions made elsewhere.
+Carbon credits are tradable certificates that allow entities to emit a certain quantity of CO2 or CO2-equivalent GHG emissions.
+Under a cap-and-trade program that establishes a limit on GHG emissions that can be emitted by a group of entities, credits---or excess allowances---are generated by entities that emit below their regulated limit, and can be sold to other regulated and non-regulated entities.
+In the United States, excess allowances could be purchased from the Regional Greenhouse Gas Initiative (RGGI), and the cap-and-trade system being developed under California's Global Warming Solutions Act (Assembly Bill 32).
+Carbon offsets, in contrast, are certified reductions in GHG emissions generated from entities not included in cap-and-trade programs.
+Several organization and entities have developed carbon offset standards and protocols to ensure that offsets are real, measurable, permanent, and in addition to what would have happened without a market for selling offsets.[^24] Landfill methane collection and combustion systems, avoiding methane emissions from organic waste, and implementing agricultural and forestry practices to enhance carbon sequestration in soils and forests are examples of projects that can register carbon offsets, provided they meet the requirements of the certifying standard or protocol.
+Some cap-and-trade programs also allow the use carbon offsets to meet emission limits.
+
+[^24:] Examples of carbon offset standards and trading entities include: the Clean Development Mechanism (CDM) (http://cdm.unfccc.int/index.html), the Climate Action Reserve (CAR), (http://www.climateactionreserve.org/), the Verified Carbon Standard (http://www.v-c-s.org/), the Gold Standard Registry (http://goldstandard.apx.com/), and the Chicago Climate Exchange (CCX) (https://www.theice.com/ccx.jhtml).
+
+The potential impacts of climate change would not be expected to affect the proposed Project.
+An increase in temperatures may increase wildfires in the proposed Project area.
+Any increased intensity of storm events could result in additional flooding in some areas near the proposed Project within the Gulf Coast Segment and Houston Lateral, particularly if hurricane activity increases as a result of oceanic temperature conditions.
+The proposed Project would be designed and constructed to be consistent with applicable federal, state, and local standards, and therefore should be resistant to forces associated with reasonably likely climate conditions during the lifetime of the pipeline system.
+Other effects of climate change, such as air quality degradation, health effects, reduced snow pack, and disruption to agricultural production, would not likely impact the proposed Project.

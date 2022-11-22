@@ -3,6 +3,7 @@ across
 actual
 addit
 address
+affect
 agre
 allow
 along
@@ -22,8 +23,10 @@ ask
 back
 base
 believ
+benefit
 best
 better
+big
 bill
 bring
 build
@@ -41,6 +44,7 @@ come
 comment
 committe
 compani
+complet
 concern
 consid
 construct
@@ -50,6 +54,7 @@ counti
 countri
 creat
 cross
+crude oil
 current
 day
 deal
@@ -63,6 +68,7 @@ discuss
 done
 econom
 economi
+effect
 end
 energi
 environ
@@ -77,12 +83,14 @@ feel
 final
 find
 first
+follow
 futur
 get
 give
 go
 good
 got
+govern
 great
 ground
 happen
@@ -100,6 +108,7 @@ interest
 involv
 issu
 job
+keep
 keyston
 keyston xl
 kind
@@ -130,8 +139,10 @@ might
 mile
 million
 money
+month
 move
 much
+must
 name
 nation
 nebraska
@@ -165,8 +176,10 @@ presid
 probabl
 problem
 process
+produc
 product
 project
+properti
 propos
 protect
 provid
@@ -175,6 +188,7 @@ put
 question
 realli
 reason
+refineri
 regard
 regul
 relat
@@ -192,9 +206,11 @@ sand hill
 say
 second
 see
+seen
 senat
 show
 sinc
+site
 someth
 south dakota
 speak

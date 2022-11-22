@@ -1,3 +1,4 @@
+
 aaa
 aafter
 aalmost
@@ -27,7 +28,6 @@ aboutin
 aboutli
 aboutthi
 aboutwher
-aboveground
 abraham
 abras
 abroad
@@ -50,19 +50,19 @@ abus emin domain
 abut
 academi
 academia
-acceler
 accent
-accident
+accentu
+access juli
 accompani
 accret
 accru
-accumul
 accus
 accusatori
 accustom
 aceept
 acerb
 ach
+acidif
 aconveni
 acoust
 acquaint
@@ -74,7 +74,6 @@ acrosslet
 action altern
 action altern scenario
 activea
-activist
 actor
 actuallyand
 actuallyi
@@ -86,7 +85,6 @@ acut
 adag
 adair
 addendum
-addit inform
 addso
 adept
 adequaci
@@ -113,9 +111,13 @@ aecom
 aect
 aeolian
 aerat
-aerial
+aerijacob
+aerijacob consult
+aeritiax
+aerob
 aerodynam
 aeronaut
+aerosol
 aesthet
 affairsor
 affection
@@ -157,7 +159,6 @@ ain
 ain't
 ainsworth
 aipg
-air pollut
 airborn
 aircraft
 airlin
@@ -170,19 +171,23 @@ ajequ
 ajm
 ajust
 akin
+al
 ala
 alabama
 alamein
 alamo
 alarmist
 alaskan
+albedo
 albeit
 albert
+alberta tar sand oper
 albertan
 albian
 albion
 albuquerqu
 alcohol
+aleinov
 alert
 alex
 alexand
@@ -206,6 +211,7 @@ allevi
 alleyway
 allmani
 allnow
+alloc
 allot
 allov
 allowedeverybodi
@@ -236,9 +242,6 @@ alsowho
 alsoyou
 altar
 altern consid
-altern energi
-altern energi infrastructur
-altern energi sourc
 altern pipelin
 altern pipelin capac
 altern pipelin rout
@@ -282,8 +285,8 @@ ampl
 amplifi
 amundson
 anadarko
+anadian
 analog
-analys
 analyt
 ancestor
 ancestr
@@ -327,6 +330,7 @@ anna
 annett
 anni
 annoy
+annual ghg emiss
 annular
 anod
 anomali
@@ -347,6 +351,8 @@ antarctica
 antelop
 anthem
 anthoni
+anthracit
+anthropogen
 antibiot
 antibusi
 antidevelop
@@ -384,7 +390,6 @@ apparatus
 appeal
 appel
 appendic
-appendix
 appetit
 appl
 applaud
@@ -398,6 +403,7 @@ apprenticeship
 approachyou
 approvedlet
 approx
+approxim percent higher
 apr
 apriland
 apt
@@ -418,6 +424,7 @@ arbitrarili
 arcaf
 arch
 archeologist
+archer
 archimed
 architect
 arctic
@@ -461,7 +468,6 @@ aroundlif
 arra
 array
 arrestedhalf
-arriv
 arrog
 arteri
 artesian
@@ -471,6 +477,7 @@ artifact
 artifici
 artist
 arxiv
+asap
 ascend
 aschenbrenn
 asham
@@ -483,6 +490,7 @@ asinin
 askedcom
 askedif
 asleep
+asm
 aso
 asokay
 asor
@@ -492,7 +500,9 @@ assassin
 assault
 assembl
 assent
+assess report
 assessor
+assort
 assuag
 asthma
 astonish
@@ -558,7 +568,11 @@ autonomi
 autumn
 avalanch
 avatar
-avenu
+averag annual
+averag crude
+averag crude oil
+averag ghg emiss
+averag mix
 avert
 aviat
 avid
@@ -582,6 +596,7 @@ ayou
 bab
 babi
 bachelor
+bachequero
 backbon
 backdoor
 backer
@@ -592,6 +607,7 @@ backsid
 backstop
 backtrack
 backup
+bact
 bacteri
 bacteria
 badger
@@ -605,7 +621,6 @@ baizel
 baja
 bakkan
 bakken crude oil
-bakken crude oil product
 bald
 bale
 balkan
@@ -616,6 +631,8 @@ ban
 band
 bandstand
 bang
+bangladesh
+bankchannel
 banker
 bankruptci
 banner
@@ -624,15 +641,16 @@ barb
 barbar
 barbara
 barber
+barbos
 barchanoid
 bardeson
-barg
 bargain
 bark
 barlow
 barn
 barnard
 barnett
+barr
 barratt
 barren
 barrett
@@ -643,6 +661,7 @@ barta
 bartel
 bartlett
 bartz
+base uponoh
 basebal
 baseless
 baselin
@@ -658,6 +677,7 @@ batch
 bath
 batteri
 battlefield
+bauer
 bay
 bea
 beach
@@ -747,6 +767,7 @@ bentonit
 beover
 bepc
 berger
+bergerson
 berkeley
 berlowitz
 berm
@@ -782,6 +803,7 @@ bewhat
 bewhen
 bewitch
 bey
+bharadwaj
 bias
 bibl
 biblic
@@ -809,11 +831,15 @@ billionbi
 billionth
 bimod
 bind
+bio
+biobas
 biodegrad
 biodivers
+bioethanol
 biographi
 biologist
 biomass
+biomethan
 bipartisan
 birdi
 birmingham
@@ -828,10 +854,13 @@ bit
 bita
 bitter
 bituman
+bitumen product
 bitumin
 bitwel
 biweek
 bizarr
+black carbon
+black carbon emiss
 black hill
 blackbird
 blackburn
@@ -851,6 +880,7 @@ blasingam
 blatant
 bleak
 bleed
+blend use
 blew
 blight
 blind
@@ -904,6 +934,7 @@ boondoggl
 boot
 booth
 bop'd
+bor
 bordeaux
 borowicz
 borrow
@@ -934,7 +965,9 @@ brag
 brain
 brainstorm
 brainwash
+brake
 branch
+brandt
 brasch
 brat
 brave
@@ -944,11 +977,14 @@ breach
 bread
 breadbasket
 breadth
+breakag
 breakdown
 breaker
 breakif
+breckner
 breed
 breez
+brekk
 brenda
 brennan
 brenner
@@ -970,7 +1006,6 @@ brimston
 brisk
 britain
 british
-british columbia
 britton
 broadcast
 broaden
@@ -983,9 +1018,9 @@ bronchiti
 brook
 brotherhood
 brought forward
+brovkin
 browbeat
 brower
-brown
 brownvill
 bruceearthworksactionorg
 bruckner
@@ -998,7 +1033,9 @@ brush
 brutal
 bryson
 bsff
+bsw
 btex
+btu
 btus
 btx
 bubalo
@@ -1017,6 +1054,7 @@ bug
 bugger
 build trade
 builder
+buildup
 builtwhen
 bulk
 bull
@@ -1030,13 +1068,14 @@ buoy
 burdenmak
 burdensom
 burdensomeunduli
-bureau
 bureaucraci
 bureaucrat
 burgeon
+buri beetl
 burial
 burkhard
 burlington
+burning
 burrow
 burst
 burt
@@ -1051,6 +1090,7 @@ bussan
 bussey
 bust
 but
+butan
 butand
 butbut
 butbutbut
@@ -1083,11 +1123,13 @@ cadmium
 cafe
 cage
 cahoot
+cairn
 cajol
 cake
 calam
 calamus
 calculationsi
+caldeira
 caldwel
 calendar
 calf
@@ -1104,7 +1146,6 @@ camera
 cameron
 camewhen
 camouflag
-camp
 campbel
 campech
 camper
@@ -1116,11 +1157,15 @@ can'tit
 can'tth
 can'tthat
 can'tw
+canada oil sand
 canadath
 canadaus
 canadian border cross
 canadian crude oil come
 canadian crude oil product
+canadian crude oil transport
+canadian crude product
+canadian crude suppli
 canadian heavi crude
 canadian heavi crude oil
 canadian oil come
@@ -1129,14 +1174,16 @@ canadian oil import
 canadian oil industri
 canadian oil price
 canadian oil product
-canadian oil sand
 canadian oil sand crude
 canadian oil sand crude oil
+canadian oil sand deriv crude
+canadian oil sand deriv crude oil
 canadian oil sand product
 canadian oil suppli
 canadiansalong
 canal
 canani
+cancun
 candac
 candi
 candid
@@ -1151,10 +1198,13 @@ cannotwhat
 cano
 canpeopl
 canthat
+canuto
 canwe'r
 canwhat
 canyon
 canyou
+cao
+capacitor
 capehart
 capek
 capillar
@@ -1164,11 +1214,18 @@ capitalist
 capitol
 capitul
 caplan
+capp
 caption
 captiv
-captur
 cara
-carbon emiss
+carb
+carbon captur
+carbon emiss aris
+carbon emiss associ
+carbon footprint
+carbon intens
+carbon pollut
+carbonac
 carbonintens
 carcomia
 cardboard
@@ -1211,7 +1268,6 @@ cater
 caterpillar
 cathi
 cathod
-cathod protect
 cathol
 catt
 cattlemen
@@ -1224,6 +1280,8 @@ cavali
 cave
 caveat
 cbs
+ccac
+ccs
 cds
 cea
 ceas
@@ -1234,7 +1292,7 @@ cederlind
 ceil
 celebr
 cellulos
-cement
+celsius
 cemeteri
 censor
 census
@@ -1252,8 +1310,10 @@ certainlyw
 certainther
 certainti
 certifi organ
+ces
 cetera
 cfr
+ch
 chad
 chadron
 chagrin
@@ -1264,9 +1324,9 @@ chalk
 champagn
 champion
 championship
+chandler
 changeon
 changer
-channel
 chant
 chao
 chaotic
@@ -1297,6 +1357,8 @@ chelsea
 chemist
 chemistri
 chemotherapi
+chen
+cheng
 cherish
 cheroke
 cheryl
@@ -1332,6 +1394,7 @@ choppi
 chore
 choreograph
 chosenthat
+chow
 chrisensen
 christ
 christi
@@ -1342,8 +1405,10 @@ chrysler
 chu
 chuck
 chump
+chung
 chunk
 churchil
+cia
 cindi
 cinogen
 cio
@@ -1378,9 +1443,12 @@ classroom
 clatonia
 clayston
 clean energi futur
+clean energi technolog
+clean energi use
 clean water resourc
 clean water suppli
 cleanest
+clearanc
 clearer
 clearest
 clearinghous
@@ -1391,6 +1459,9 @@ cleric
 clerk
 clever
 cliff
+climat chang effect
+climat chang impact
+climat region
 climatologist
 climax
 climb
@@ -1416,6 +1487,7 @@ clump
 clune
 cluster
 clutter
+cmr
 cmrp
 cneb
 cng
@@ -1436,13 +1508,16 @@ cockey
 cocki
 codifi
 coe
+coeco
 coerc
 coercion
 coexist
 coffe
+coffeevill
 coffer
 coffin
 cofound
+cogener
 cogent
 cogniz
 cogswel
@@ -1472,13 +1547,12 @@ colonist
 colorsort
 columbia
 columbus
-column
 columnist
 com
 comanch
 combat
 combinedha
-combust
+combust phase
 come backand
 come togeth
 comear
@@ -1486,6 +1560,7 @@ comefirst
 comesit
 cometh
 comingyou
+comj
 comma
 command
 commercea
@@ -1493,7 +1568,6 @@ commerceinterst commerc
 commercialindustri
 committe clerk
 committeeor
-commod
 commonplac
 commonsens
 commonwealth
@@ -1518,6 +1592,7 @@ compensatorycompens
 competitor
 compil
 complement
+complementari
 completeyou
 complicit
 compliment
@@ -1526,7 +1601,6 @@ compos
 comprehend
 compress
 compressor
-compris
 compuls
 computer
 con
@@ -1575,7 +1649,9 @@ congresspeopl
 conif
 conjectur
 conjunct
+connect action
 connecticut
+connector
 connel
 connelli
 conni
@@ -1601,11 +1677,14 @@ constrain
 constraint
 constrict
 constru
-construct period
+construct camp
+construct project
+construct spread
 constructedi
 constructingbeen
 constructionoper
 constructionor
+constructionreclam
 constructionthat
 constructor
 consul
@@ -1615,7 +1694,9 @@ contactedit
 contami
 contempl
 contend
+contentd
 contenti
+contermin
 contest
 contextu
 contict
@@ -1627,18 +1708,18 @@ continueth
 contour
 contractu
 contradictori
-contrari
 contributor
 conundrum
 conven
 convent crude oil product
 convent oil pipelin
+convent oil product
 converg
-convert
 conveyor
 convict
 convolut
 convoy
+cookstov
 coop
 cope
 copenhagen
@@ -1653,6 +1734,7 @@ cornbelt
 cornerston
 cornfield
 corollari
+corpus
 correl
 correspond
 corridor altern
@@ -1660,6 +1742,7 @@ corridor altern rout
 corrobor
 corrod
 corrupt
+cort
 cortha
 cosecur
 coselete'adit
@@ -1677,8 +1760,8 @@ couldshould
 couldthat
 couldyou
 coule
+coulson
 counselor
-counter
 countercharg
 countermeasur
 counterpart
@@ -1724,6 +1807,7 @@ craftwork
 craig
 cranbrook
 crane
+crankcas
 crap
 crash
 crater
@@ -1731,7 +1815,6 @@ cream
 creativ
 creator
 creatur
-credenti
 credibl
 creditor
 cree
@@ -1759,19 +1842,25 @@ crow
 crown
 crp
 crs
+crude bitumen
 crude oil compani
+crude oil demand
+crude oil extract
 crude oil import
 crude oil market
 crude oil market demand
 crude oil per day
+crude oil pipelin capac
 crude oil pipelin go
 crude oil pipelin project
 crude oil pipelin system
 crude oil price
-crude oil product
+crude oil produc
+crude oil reserv
+crude oil sourc
 crude oil spill
-crude oil suppli
 crude oilor
+crude product
 crudest
 cruff
 crumbl
@@ -1784,6 +1873,7 @@ crux
 cryptic
 crystal
 csa
+css
 cuban
 cubic
 cudgel
@@ -1795,7 +1885,7 @@ culprit
 cultiv
 culvert
 cumbersom
-cumul
+cumul impact
 cunningham
 cup
 cupif
@@ -1809,9 +1899,21 @@ cushingpatoka
 cusp
 custer
 customari
+cut back
 cute
 cutter
 cyanid
+cycl emiss
+cycl emiss associ
+cycl ghg
+cycl ghg emiss
+cycl ghg emiss associ
+cycl ghg emiss estim
+cycl ghg emiss factor
+cycl ghg impact
+cycl ghg intens
+cycl ghgs
+cyclic
 cynic
 cynthia
 czech
@@ -1878,12 +1980,16 @@ deceiv
 decent
 decept
 dechristoph
+decidu
 decim
 decision
 deck
 declaratori
 decompos
+decomposit
 decontamin
+decrea
+decrem
 deduct
 deebl
 deed
@@ -1894,9 +2000,9 @@ deepwat
 deepwat horizon
 def
 default
+defaultfilespublicationsicct refineri ghg studi proj report aprpdf
 defeat
 defeatist
-defect
 defenc
 deffenbach
 defi
@@ -1907,11 +2013,14 @@ definei
 definingif
 definitionslet
 deflect
+deforest
 deform
+degre fahrenheit
 degreeit
 degroff
 dei
 deja
+del
 delano
 delashmutt
 delawar
@@ -1928,12 +2037,13 @@ delta
 delucia
 delv
 demandand
+demandconsumpt
 demarc
 demean
 demis
+demograph
 dempster
 dene
-denial
 denmark
 dennehi
 denni
@@ -1953,7 +2063,6 @@ departmentsonc
 departur
 depend upon
 depict
-deplet
 deplor
 deploy
 depreci
@@ -1977,6 +2086,7 @@ desecr
 desert
 desertlik
 desicc
+design factor
 designe
 desist
 desk
@@ -2050,8 +2160,6 @@ digniti
 digress
 dike
 dilemma
-diluent
-dilut
 dime
 dimens
 dimension
@@ -2074,17 +2182,14 @@ dirti oil
 dirti tar sand
 dirtier
 dirtiest oil
-disadvantag
 disaggreg
 disagr
-disappear
 disapprov
 disassoci
 disastrousand
 disbelief
 disbound
 discern
-discharg
 discipl
 disciplin
 disclaim
@@ -2134,6 +2239,7 @@ dispos
 disposit
 disproportion
 disprov
+disproven
 disqualifi
 disregard
 disrespect
@@ -2148,29 +2254,36 @@ dissip
 dissolut
 dissolv
 distant
-distil
+distillatesa
 distort
 distract
 distress
 distrust
 dittmer
+diver
 diverg
+diversif
+diversifi
+dividend
 divin
 divis
 dix
 dlein
 dnc
 dnr
+dnv
 doabl
 doan
 dobrovolni
 doc
 docket
 dockter
+docsccacccacexecutivesummarypdf
 documentari
 dodg
 doe
 doen
+doenetl
 doer
 doesand
 doesif
@@ -2180,15 +2293,21 @@ dogged
 doggedi'm
 dohav
 doi
+doiannurevearth
+doijd
+doijenpol
+doinclim
 doingbecaus
 doingher
 doingwe'r
+doipna
 dol
 dolangh
 dolez
 dolor
 domain
 domainunfortun
+dome
 domest oil
 domest oil come
 domest oil pipelin
@@ -2258,7 +2377,6 @@ dozer
 dra
 draconian
 draft supplement ei
-drainag
 drake
 drama
 drank
@@ -2282,6 +2400,7 @@ drink water well
 drip
 driveway
 droitsch
+droplet
 drug
 drum
 druther
@@ -2311,7 +2430,6 @@ dung
 dunk
 dunnigan
 dupont
-durat
 duress
 dust
 dutch
@@ -2321,7 +2439,6 @@ dwindl
 dye
 dyke
 dylan
-dynam
 dysfunct
 eager
 eagl
@@ -2330,7 +2447,6 @@ earliest
 earmark
 earthwil
 earthwork
-eas
 easementit
 easiest
 easter
@@ -2339,12 +2455,13 @@ easti
 eastward
 eastwood
 ebadi
+ebi
 echelon
 eclect
 eclips
 eco
 ecologist
-econom activ
+ecologo
 econom impactsfirst
 economistsw
 ecoregion
@@ -2352,6 +2469,7 @@ ecotour
 ecstat
 ect
 edelman
+edibl
 edif
 edison
 edit
@@ -2363,6 +2481,7 @@ edson
 edward
 edwin
 eect
+effectspdf
 efficaci
 efficientlyoth
 effluenc
@@ -2373,8 +2492,8 @@ eggebo
 egghead
 egress
 egret
+egrid
 egypt
-eia
 eid
 eighteen
 eighth
@@ -2389,10 +2508,15 @@ elain
 elaps
 elbow
 eleanor
+electr power
+electr power line
+electr usag
 electrician
 electrif
+electrod
 electromagnet
 electron
+electrotherm
 elementari
 eleph
 eleventh
@@ -2426,12 +2550,20 @@ emin domain condemn
 emin domain lawyer
 emin domainwel
 emin domainwhat
+emiss aris
+emiss associ
+emiss estim
+emiss factor
+emiss intens
+emiss per
+emiss perform
 emitt
 empath
 emphasi
 emphat
 emphysema
 empir
+employmentlabor
 empow
 empti
 encas
@@ -2439,6 +2571,8 @@ enclos
 encount
 encroach
 encumbr
+end use
+end user
 endanger
 endeavor
 endem
@@ -2450,10 +2584,11 @@ ene
 enemi
 energ
 energi compani
+energi consumpt
 energi economist
-energi product
-energi research
+energi intens
 energi sourc
+energi technolog
 energyand
 engel
 enghtml
@@ -2486,9 +2621,10 @@ entrust
 envelop
 envi
 envious
+environment consequ
 environment impact studi
-environment justic
 environment respons
+environment respons manner
 environment review process
 environment sensit
 environment sensit area
@@ -2503,9 +2639,12 @@ epidem
 episcop
 episod
 epitom
+epoxi
 eqip
 equit
 equiti
+equival amount
+equivel
 er
 era
 eras
@@ -2515,6 +2654,7 @@ erect
 ereservationiihfisandwleagq
 ergi
 eric
+erickson
 ericson
 erin
 erisa
@@ -2541,18 +2681,20 @@ estoppel
 etc
 etern
 ethan
+ether
 ethyl
 ethylen
 eugen
 euphemist
 euphoria
-european
 evacu
 evad
+evaluateda
 evaluationworst
 evan
 evangel
 evapor
+evapotranspir
 eve
 even thought
 eveni
@@ -2582,16 +2724,18 @@ exemplifi
 exempt
 exercis emin domain
 exhibit
-exist keyston pipelin
 exist keyston pipelin corridor
 exist keyston pipelin rout
+exist keyston pipelin system
+exist pipelin infrastructur
 exist pipelin system
 exit
 exorbit
+exot
+exp
 expandedwhat
 expedi
 expediti
-expenditur
 experiment
 explan
 explicit
@@ -2609,9 +2753,12 @@ extemporan
 exten
 exterior
 extern
+extern corros
 extinct
 extinguish
 extol
+extract process
+extractionmin
 extraordinari
 extraordinarili
 extrapol
@@ -2627,9 +2774,9 @@ fabul
 facebook
 facet
 facial
-facilit
 facilitiesa
 facsimil
+fact transcanada
 facto
 factori
 factsheet
@@ -2637,9 +2784,9 @@ factthat
 factual
 faculti
 fahd
-fahrenheit
 failedi
 failsaf
+failur rate
 fairburi
 fairmont
 fairway
@@ -2651,6 +2798,7 @@ fallon
 fallout
 falsehood
 falter
+faluvegi
 fam'li
 fame
 famous
@@ -2671,16 +2819,15 @@ farmer union
 farmerranch
 farmranch
 farmth
-farther
 fastest
 fat
 fatal
-fate
 faucet
 faulti
 faux
 favorit
 fax
+fbe
 fdei
 fearmong
 feather
@@ -2695,6 +2842,7 @@ feder pipelin safeti act
 feder pipelin safeti regul
 feder preemption
 feder regulatori
+feder regulatori agenc
 feder regulatori process
 federalin
 federalor
@@ -2741,12 +2889,14 @@ fifti
 fighter
 figment
 figur es
+filesrpsrp
 filibust
 filler
 fillmor
 film
 filmor
 filthi
+final supplement ei
 finallyw
 finalth
 finalther
@@ -2758,6 +2908,7 @@ findtrac
 finer
 finger
 finit
+firebag
 firebal
 firedpowerpl
 firefight
@@ -2784,6 +2935,8 @@ fixat
 flak
 flame
 flammabl
+flang
+flanner
 flap
 flare
 flashback
@@ -2795,6 +2948,7 @@ flatten
 flaunt
 fledg
 fleet
+fleme
 flew
 flex
 flexibl
@@ -2803,6 +2957,7 @@ flint
 flip
 flippant
 floodgat
+floodingdrought
 floodplain
 floodwat
 floorand
@@ -2810,13 +2965,17 @@ florist
 flourish
 flower
 flown
+flowspe
 fluctuat
+flue
+fluorin
 flush
 fluvial
 flyer
 flyover
 flyway
 focal
+foe
 foeswho
 foia
 fold
@@ -2838,6 +2997,7 @@ forand
 forb
 forbecaus
 forbid
+forcer
 forcibl
 ford
 fordur
@@ -2847,11 +3007,15 @@ foreclosur
 forefath
 forefront
 forego
+foregon
 foreign oil compani
 foreign oil suppli
 foresaw
+forese
+forese futur
 foreseen
 foresight
+forest servic
 forestburg
 forestri
 forfeit
@@ -2882,7 +3046,7 @@ forwardit
 forwith
 fory
 foryou
-fossil
+fossil fuel economi
 fossil fuel price
 foul
 founder
@@ -2910,6 +3074,7 @@ franciscan
 francisco
 franklin
 frantic
+fraser
 fraud
 fraught
 fray
@@ -2960,7 +3125,16 @@ fruit
 fruition
 fruitless
 fryer
+fuel deriv
+fuel economi
+fuel effici
+fuel oil
+fuel produc
+fuel product
+fueleconomyenvironmentalimpactstatementforcafestandard
+fuell
 fugit
+fugit emiss
 fuhrer
 fukushima
 fulcrum
@@ -2973,6 +3147,7 @@ fume
 fun
 fundamentalist
 funder
+fundrais
 funer
 fungibl
 funnel
@@ -2997,15 +3172,18 @@ gage
 gaia
 gal
 gale
+galen
 gallagh
 gallon per minut
 galvan
 gambl
 gamut
+gangopadhyay
 gape
 garag
 garbag
 garbl
+garcia
 garden
 gardner
 garfield
@@ -3018,13 +3196,16 @@ gas pipelin compani
 gas pipelin industri
 gaseous
 gash
+gasif
 gasket
+gasolin produc
 gasp
 gasperetti
 gateway
 gaug
 gauger
 gcc
+gcoemj
 gcs
 gdp
 ged
@@ -3032,14 +3213,17 @@ gee
 gees
 geil
 geitner
+gen
 gene
 generali'm
 generat nebraskan
+generatorsb
 generic
 generous
 genesi
 genet
 geneva
+genio
 genius
 genocid
 genr
@@ -3054,6 +3238,7 @@ geophys
 geophysicist
 geopolit
 georefrenc
+georgakaki
 georgetown
 geoscienc
 geoscientist
@@ -3080,8 +3265,22 @@ getup
 getwe'r
 getyou
 geyser
+ggal
+ghana
 ghawar
-ghg emiss associ
+ghg emiss aris
+ghg emiss estim
+ghg emiss factor
+ghg emiss intens
+ghg emiss per barrel
+ghg emiss percent
+ghg impact
+ghg intens
+ghg life
+ghg reduct
+ghgdefaultasplangennffb
+ghgenius
+ghgrp
 ghgs
 ghost
 gift
@@ -3102,6 +3301,7 @@ givein
 givemak sure
 givenand
 givesit
+gkg
 glacial
 glaciat
 glacier
@@ -3118,10 +3318,12 @@ glenn
 glick
 glimps
 glisten
-global climat
 global climat chang
+global ghg emiss
 global labor institut
+global marketplac
 global oil
+global oil demandconsumpt
 global oil market
 global oil price
 global oil product
@@ -3192,7 +3394,6 @@ gotyou'r
 goug
 gould
 gourmet
-government
 goverooh
 gow
 gps
@@ -3206,6 +3407,7 @@ gradient
 gradual
 graham
 grail
+gram
 granari
 grand
 grandad
@@ -3217,11 +3419,13 @@ grandma
 grandpa
 grandson
 grantor
+grantz
 graph
 grappl
 grask
 grasp
 grasshopp
+grasslandpastur
 grassroot
 gratifi
 gravatt
@@ -3243,10 +3447,8 @@ greeneri
 greenerit
 greenfaith
 greenfield
-greenhous
 greeninfo
 greenpeac
-greet
 greg
 grewcock
 greyston
@@ -3258,7 +3460,6 @@ grill
 grin
 grind
 grist
-gross
 grossli
 ground water resourc
 groundbreak
@@ -3271,11 +3472,11 @@ groundwatersurfac water
 groundwork
 grous
 growl
-grown
 gruesom
 gruhn
 gsc
 gtc
+gtr
 guardianground
 guardianground water
 guardrail
@@ -3285,6 +3486,7 @@ guessi'v
 guest
 guilt
 guis
+gulf coast segment
 gull
 gulli
 gumbo
@@ -3300,6 +3502,8 @@ gusher
 gut
 guttera
 guysi
+gwp
+gwps
 gym
 gymnasium
 haarp
@@ -3443,6 +3647,7 @@ havoc
 hawaii
 hawk
 hawthorn
+haygrass
 hayslodg
 haystack
 hazard liquid pipelin
@@ -3451,6 +3656,9 @@ hazel
 hazmat
 hca
 hcas
+hcusi
+hcuxh
+hdd
 he'sth
 headach
 headlin
@@ -3476,12 +3684,17 @@ heater
 heather
 heav
 heaven
+heavi crude oil sourc
 heavi crude oil suppli
 heavi equip
 heavi oil import
 heavi oil product
+heavier crude
+heavier crude oil
+heaviest
 heck
 hecla
+hectar
 hedg
 hedgerow
 hedman
@@ -3510,6 +3723,7 @@ hen
 henc
 hendrick
 hendrix
+hennig
 henri
 her
 herald
@@ -3531,14 +3745,24 @@ heron
 herring
 hesit
 heterogen
+hex
+hexafluorid
 heyday
+hfc
+hfcs
 hibler
 hid
 hidasta
 hidden
 hide
 hierarchi
+high carbon
+high carbon intens
+high carbon pollut
+high plain
 high plain aquif
+high water
+high water tabl
 highcarbon
 highersorri
 hijack
@@ -3556,6 +3780,7 @@ hinkley
 hinson
 hint
 hip
+hipper
 hippi
 hirew
 histh
@@ -3600,8 +3825,6 @@ hooray
 hop
 hopeless
 hord
-horizon
-horizont
 hormon
 horn
 horner
@@ -3618,9 +3841,11 @@ hospic
 hospodka
 hosterman
 hotel
+hotelsmotel
 hotlin
 hotter
 hottest
+houjeiri
 household
 houstonport arthur
 hover
@@ -3635,34 +3860,72 @@ howi'm
 howth
 howwhat
 howwho
+hprcc
 hrubi
+http
 httparxivorgab
+httpcaitwriorg
+httpcreativecommonsorglicensesbi
 httpdnrcmtgovcarddyellowstonerivercouncilwhoweareasp
+httpdownloadsclimatesciencegovsapsap
 httpearthquakeusgsgovearthquakesstatesnebraska
+httpenvironmentalbertacahtml
 httpgatewaypanelreview
 httpkeystonepipelin
 httpplainsjusticeorgfileskeyston xl pipelin not need
 httppstrustorglibrarydocshltopresentxl
 httpquickfactscensusgov
+httpspangeastanfordeduresearchgroupseaoresearchopge
+httpssrncomabstract
+httpswwwciagovnew
 httptontoeiadoegovdnavpetpet con psup dc nus mbblpd ahtm
 httptontoeiadoegovdnavpetpet move impcus a nus ep im mbblpd ahtm
 httpwebmitedu
 httpwwwapiorgaboutoilgasuploadkey energi securitypdf
+httpwwwarbcagovfuelslcfslcf issuespdf
 httpwwwborealbirdsorgresourcestimoney
 httpwwwcappcagetdocaspxdocid
 httpwwwcericapublicationsdocumentscerioilsandsbriefingfebruarypdf
+httpwwwcesorgus
+httpwwwcleanenergystatesorgasset
 httpwwwcolumbiaedujehmail caseforyoungpeoplepdf
+httpwwwdefensegovqdrimagesqdr as of feb pdf
+httpwwwecgccag
+httpwwweiagovdnavpet
+httpwwweiagovtodayinenergydetailcfmid
+httpwwwenergyalbertaca
+httpwwwepagovclean energi
+httpwwwepagovcleanenergyenergi
+httpwwwepagovclimatechangeemissionsusinventoryreporthtml
+httpwwwepagovclimatechangeendanger
+httpwwwepagovghgreportingreporterssubpartwhtml
+httpwwwflickrcomphotosn
+httpwwwflickrcomphotosninphotolist
 httpwwwfoeorginterview
+httpwwwfsfedusccrctopicsgrassland
 httpwwwguardiancoukcommentisfreecifamericafebbarack
+httpwwwhprccunledu
 httpwwwienearthorgcit
 httpwwwkeystonepipelin
 httpwwwkeystonepipelinexlstategovclientsitekeystonexlnsfopen
+httpwwwmidwesterngovernorsorgccshtm
 httpwwwnapeducataloghtml
+httpwwwnhtsagovlawsregulationscaf
+httpwwwnpraorgfilescrud shuffl report
 httpwwwnrdcorglandfilestarsandspipelinepgrpdf
 httpwwwnrdcorgwildlifeborealbirdspdf
 httpwwwoilsandswatchorgpub
 httpwwwpembinaorgpub
 httpwwwregulationsgovsearchregshomehtmldocumentdetailrdf
+httpwwwrggiorgdesignoverviewcap
+httpwwwrggiorgdocsrggi fact sheetpdf
+httpwwwsciencedirectcomsciencearticlepii
+httpwwwsei
+httpwwwstategoveoesclimateindexhtm
+httpwwwtheicctorgsit
+httpwwwuneporgccacport
+httpwwwusbrgovclimatesecuredoc
+httpwwwwhitehousegovsitesdefaultfilesimagepresidentsclimateactionplanpdf
 httpwwwyoutubecomwatchvhwu
 hub
 hubbard
@@ -3674,6 +3937,7 @@ hugger
 hugh
 hugo chavez
 hula
+human activ
 human be
 human health problem
 human health risk
@@ -3709,13 +3973,16 @@ hybrid
 hydraul
 hydro
 hydroelectr
-hydrogen
+hydrofluorin
+hydrofluorocarbon
 hydrogeolog
 hydrogeologist
 hydrographi
 hydrolin
 hydrolyz
 hydropow
+hydrostat
+hydroxyl
 hygienist
 hype
 hyperbol
@@ -3728,7 +3995,6 @@ hypocrit
 hypothermia
 hypothes
 hypothesi
-hypothet
 hyster
 hysteria
 i
@@ -3746,7 +4012,9 @@ ibew
 ibid
 ibm
 ibut
+icct
 ice
+icf
 icon
 ideal
 identif
@@ -3764,6 +4032,7 @@ iffi
 iffirst
 ifhow
 ifi
+ific
 ifif
 ifjust
 ifonwn
@@ -3776,7 +4045,9 @@ ifweincreaseautomobilefuelefficiencybyjust
 ifwhat
 ifwould
 ifyou
+ignit
 ih
+ih cera
 ihanktonwan
 ii'm
 iif
@@ -3791,6 +4062,7 @@ illeg
 illog
 illus
 illusori
+illustr purpos
 ilr
 imag
 imaginari
@@ -3805,6 +4077,7 @@ immin
 immor
 immun
 immut
+impact associ
 impactlet
 impair
 imparti
@@ -3822,8 +4095,10 @@ impetus
 implaus
 implicit
 implor
+import crude oil
 importantbecaus
 imposit
+impound
 impract
 impractic
 imprecis
@@ -3840,7 +4115,6 @@ inand
 inap
 inappropri
 inaugur
-inc
 incap
 incentiv
 incept
@@ -3853,30 +4127,38 @@ inclin
 inclus
 incom back
 incompat
-incomplet
 inconsist
 inconveni
 inconvenienc
-incorrect
+increa
+increas risk
 increasedand
+increasesdecreas
 increasinglywe'v
+increment emiss
+increment emiss associ
+increment ghg emiss
 incumb
+ind
 indecis
 indefens
 indefinit
 indemn
 indemnif
 indemnifi
+independ analysi
 independentor
+indexhtml
 indiann
+indirect construct
 indiscrimin
 indisput
+individu lca
 individualist
 indnidecisionki
 indo
 indonesia
 indoor
-induc
 induct
 indud
 indulg
@@ -3906,6 +4188,8 @@ inflex
 inflict
 influx
 infor
+informationpress
+infrar
 infring
 infrom
 infus
@@ -3924,6 +4208,7 @@ inhous
 inhuman
 ini
 ini'v
+initiativesasp
 initio
 injunct
 injur
@@ -3943,6 +4228,7 @@ inoper
 inopportun
 inordin
 inpreempt
+input assumpt
 inquir
 inquiri
 inrthetext
@@ -3964,7 +4250,6 @@ instinct
 institution
 instructor
 insuffici
-insul
 insult
 insupport
 insurg
@@ -3990,7 +4275,12 @@ interim
 interject
 interlock
 intermedi
+intermitt
+intern energi
+intern energi secur
 intern interest
+internationalorgmediamanagerdocumentspublicationsclimatesei
+interpol
 interrelationship
 intersect
 interspersedpoor
@@ -4022,10 +4312,8 @@ inund
 invad
 invalid
 invalu
-invas
 invent
 inventor
-inventori
 invers
 invigor
 invoic
@@ -4037,6 +4325,7 @@ ionospher
 iota
 ipad
 ipart
+ipcc
 ipipelin compani
 ipl
 ir
@@ -4046,7 +4335,6 @@ iranian
 ire
 ireland
 iren
-iron
 ironshel
 ironwork
 irrat
@@ -4154,11 +4442,14 @@ iwel
 iwhen
 iyou
 izaak
+jaccard
 jack
 jacket
 jacki
+jackman
 jackson
 jacob
+jacob consult
 jail
 jallot
 jamestown
@@ -4188,10 +4479,12 @@ jeopardi
 jeremi
 jeri
 jerk
+jerla
 jersey
 jess
 jesus
 jet
+jet fuel product
 jetstream
 jewel
 jewish
@@ -4208,22 +4501,24 @@ jog
 johann
 johnni
 joiner
-joint
 joke
 jon
 jook
 jord
+jordaan
 jordan
 jordi
 joseph
 josh
 josiah
 jot
+joul
 journalist
 journey
 journeymen
 joust
 joy
+joyc
 jstansburyunledu
 juan
 juanita
@@ -4247,7 +4542,6 @@ justfor
 justhow
 justi
 justi'm
-justif
 justit
 justlb
 justlet
@@ -4261,6 +4555,7 @@ justyou
 kalazmazoo
 kaminski
 kandi
+kansasb
 kaor
 kaplan
 kappa
@@ -4282,6 +4577,7 @@ keeper
 keepsak
 keith
 keller
+kelley
 kelli
 kelo
 kenneth
@@ -4293,6 +4589,7 @@ keriakadi
 keriaked
 kern
 kerosen
+kerosenejet fuel
 kerri
 kerriaroe'th
 kerstien
@@ -4301,6 +4598,8 @@ keton
 kettl
 kevin
 kewitt
+key input
+key input assumpt
 keynot
 keyston pipelin across nebraska
 keyston pipelin compani
@@ -4312,14 +4611,20 @@ keyston xl tar sand pipelin
 keyston xls
 keystoneth
 keystonethi
+keystonexl
 keystonexlcardnocom
+kgco
+kgcoe
+kgcoebarrel
 khawr
 kiana
+kiang
 kiddo
 kidney
 kieli
 kiewit
 killer
+kilogram
 kilometr
 kilovolt
 kilowatt
@@ -4392,12 +4697,12 @@ kveta
 kvisl
 kyoto
 lab
-label
 laboratori
 labori
 labour
 lac
 lacey
+laci
 laden
 lag
 lage
@@ -4412,6 +4717,7 @@ lamir
 lana
 lanc
 lancast
+land use chang
 landfil
 landhold
 landi
@@ -4421,6 +4727,7 @@ landlord
 landownerâ
 landowneri
 landrum
+landslid
 landthey'r
 landto
 lane
@@ -4456,12 +4763,21 @@ lauren
 lautenbaugh
 law enforc
 lawmak
+lawrenc
 lawson
 lax
 layman
 laymen
+lazarus
 lb
+lbgal
+lbhp
 lbor
+lca
+lca studi
+lca studi review
+lcas
+lcfs
 lcmi
 lcv
 lea
@@ -4469,6 +4785,7 @@ leachat
 leadershipand
 leadplant
 leaf
+leak detect
 leakag
 leaki
 leal
@@ -4495,7 +4812,6 @@ lemmer
 len
 lena
 lend
-lengthi
 lens
 leon
 leonard
@@ -4515,6 +4831,7 @@ levin
 leviti
 lewi
 lexisnexi
+lhv
 liam
 liar
 liber
@@ -4529,18 +4846,26 @@ liermann
 lieu
 lieuten
 liewer
+life cycl
+life cycl ghg emiss
+lifecycl emiss
+lifecycl emiss associ
+lifecycl ghg emiss
+lifecycl ghg emiss associ
+lifecyl
 lifeless
 lifelin
 lifespan
 lifestyl
 lifetimedepreci
-lift
 light crude
 light crude oil
-lighter
+light crude oil produc
+lighter crude
 lightest
 lightn
 lightweight
+lignit
 likebecaus
 likei
 likequalifi
@@ -4556,7 +4881,6 @@ lindblad
 linder
 lindsay
 lineal
-linear
 linei
 linel
 lineman
@@ -4573,7 +4897,6 @@ liquid pipelin
 liquifi
 lisa
 listor
-literatur
 lithostat
 litigatioh
 litigi
@@ -4587,6 +4910,7 @@ liver
 livermor
 liz
 llc
+llewellyn
 lloyd
 lloydminst
 lmci
@@ -4649,6 +4973,8 @@ lousi
 lover
 lovin
 lovitz
+low carbon fuel
+lowenth
 lower brule
 lowerincom
 lowest
@@ -4691,7 +5017,6 @@ lynx
 lyondel
 mac
 machin
-machineri
 mack
 mackey
 mact
@@ -4714,6 +5039,7 @@ maim
 mainh
 mainlin project
 mainstream
+mainten activ
 major oil
 major oil compani
 major oil pipelin
@@ -4780,6 +5106,9 @@ manywhat
 manyyeah
 mapel
 mapl
+mapselectr
+mapsemiss
+mapslow
 mar
 mara
 marathon
@@ -4791,7 +5120,6 @@ margo
 mariai
 marian
 marilyn
-marin
 marion
 marjori
 marker
@@ -4805,6 +5133,8 @@ marri
 marriott
 marrow
 marsh
+marshal
+marshland
 martel
 marten
 martha
@@ -4823,11 +5153,13 @@ master
 masterpiec
 mat
 matai
-match
 matevo
 math
 mathemat
 mathew
+mathpro
+matrix
+matsumoto
 matt
 matterin
 matthew
@@ -4836,7 +5168,8 @@ matur
 maud
 maura
 max
-maxim
+may increas
+maya
 mayan
 mayand
 maybemayb
@@ -4845,6 +5178,7 @@ mayif
 maywould
 mayyou
 mcallist
+mccann
 mccarthi
 mcclatchi
 mcclymont
@@ -4866,6 +5200,7 @@ mcgiven
 mcgovern
 mcgowen
 mcintosh
+mckenney
 mckibben
 mckinley
 mcl
@@ -4895,9 +5230,12 @@ mecould
 median
 mediat
 medic
+medicaldent
 medicin
 mediev
+medium crude
 meetingthi
+megajoul
 megan
 mégantic
 megawatt
@@ -4905,6 +5243,7 @@ mei
 mejia
 mel
 meld
+melillo
 mellett
 mello
 melodi
@@ -4918,6 +5257,7 @@ menac
 mend
 mendenhal
 mendota
+menon
 mental
 mentor
 mepa
@@ -4935,20 +5275,20 @@ messi
 meta
 metallurgi
 metaphor
+meteorolog
 meteorologist
-meter
 meth
 methamphetamin
-methan
 methanol
 methodist
-methodolog
 methyl
 methyltroxilbutyl
 metric
 metro
 metropolitan
 mewithin
+mexican maya
+mexican mayan
 meyer
 mfsa
 miami
@@ -4965,6 +5305,7 @@ microphon
 microscop
 microsit
 midcontin
+middl eastern sour
 middleman
 mideast
 midland
@@ -4974,9 +5315,12 @@ midstream
 midway
 miguel
 mikisew
+mikolajewicz
 mil
 mile long
 mile longer
+mile pipelin
+mile pipelin infrastructur
 mile pipelin project
 mile pipelin system
 mileag
@@ -4993,6 +5337,7 @@ milligan
 milligram
 millimet
 million bpd
+million ton
 million year
 million year old
 millionair
@@ -5003,16 +5348,19 @@ milwauke
 mimic
 min
 mindless
+mineabl
 minefield
 mineralsar
 mini
 minimi
+miningextract
 minion
 miniscul
 ministri
 minn
 minnechaduza
 minnesotanorth dakota
+minni
 minnow
 minot
 minus
@@ -5024,6 +5372,7 @@ mirag
 mire
 mirror
 misadventur
+miscellan
 miscibl
 misconcept
 misconduct
@@ -5054,21 +5403,24 @@ mitch
 mitchel
 mite
 mlvs
+mmcoe
 mmediat
+mmtco
 mmtcoe
+mmtcoe annual
 mockeri
-mode
 moder
 modest
-modif
 moeck
 moehol
 moenck
+mof
 moham
 moin
 molass
 mold
 molecul
+molecular
 moller
 molybdenum
 momentarili
@@ -5076,13 +5428,16 @@ momentum
 mommi
 monarch
 monetari
+monger
 moni
 monologu
 monopoli
 monoxid
 monster
 mont
+montanaa
 montanan
+montenegro
 montessori
 montreal
 monument
@@ -5112,8 +5467,10 @@ mostbecaus
 mostlyin
 mostthey'v
 mostutmost
+motallebi
 motel
 motion
+motor vehicl
 motto
 mou
 mound
@@ -5127,6 +5484,7 @@ moveov
 mover
 moveyou'r
 mpgfromcurrentstandardswewillsavemoreoil
+mrow
 mrs
 msds
 mtbe
@@ -5134,7 +5492,6 @@ mtcoe
 mtcoeyear
 muammar
 mubarak
-much higher
 much higher pressur
 muchat
 muchbecaus
@@ -5157,12 +5514,12 @@ multilater
 multilin
 multimillion
 multin
+multin energi compani
 multiphas
-multipli
 multipurpos
 multiyear
 mumbl
-municip
+munhoven
 muniti
 murphi
 murray
@@ -5191,6 +5548,7 @@ myyou
 naaq
 naco
 nada
+naf
 nafta
 nail
 naiv
@@ -5212,6 +5570,10 @@ natal
 natali
 nate
 nathan
+nation energi
+nation energi need
+nation energi secur
+nation energi technolog
 nationhood
 nato
 natur gas compani
@@ -5231,13 +5593,17 @@ navi
 navig
 nay
 naysay
+nazarenko
 naziism
 nba
 ncai
 ncra
+nddeeden
 ndeq
 ndor
 ndq
+near percent
+near term
 nearest
 nearestin
 neat
@@ -5258,6 +5624,7 @@ nebraska state law
 nebraska state legislatur
 nebraska state patrol
 nebraska state senat
+nebraskab
 nebraskaland
 nebraskapur
 nebraskath
@@ -5286,7 +5653,10 @@ nesbit
 nesbitt
 nest
 nestl
+net emiss
+netherland
 netl
+netl studi
 netv
 neurolog
 neurotoxin
@@ -5294,6 +5664,8 @@ neutral testimoni
 nevada
 never heard
 nevertheless
+new construct
+new construct project
 new job
 new jobswhen
 new pipelin capac
@@ -5324,6 +5696,7 @@ nextyour
 ngo
 ngos
 nhpaq
+nhtsa
 nibbl
 nicest
 nich
@@ -5344,10 +5717,12 @@ niobrara river
 nippl
 nishnabotna
 nitrat
+nitrous
 nixon
 nlcv
 nmpp
 nms
+noaa
 noah
 noat
 nobel
@@ -5379,6 +5754,7 @@ nonprofit
 nonrenew
 nonresid
 nonrespons
+nonroad
 nonsafeti
 nonsens
 nonsustain
@@ -5398,6 +5774,7 @@ north american energi infrastructur
 north american energi secur
 north american oil
 north americaor
+north dakotab
 north dakotasouth dakota
 north dakotato
 northeastern
@@ -5421,7 +5798,6 @@ noteworthi
 noti
 noti'm
 noti'v
-notif
 notin
 notion
 notit
@@ -5448,6 +5824,7 @@ notyou
 noun
 nourish
 nov
+novakov
 novey
 nowaday
 noww
@@ -5461,9 +5838,11 @@ nqc
 nrd
 nrdc
 nrds
+nsg
 nsidcmntpplctn
 nsp
 nsps
+nsrpsd
 nth
 nuancethi
 nuisanc
@@ -5479,6 +5858,7 @@ nuss
 nutmayb
 nutrient
 nutshel
+nwpp
 o'clock
 o'connor
 o'neil
@@ -5502,6 +5882,7 @@ obtus
 obviouslyand
 obviouslyyou
 obviouslyyou'r
+occ
 occasion
 occup
 occupi
@@ -5514,6 +5895,7 @@ oddbal
 oddsmak
 odel
 odor
+oecd
 ofaft
 ofand
 ofbecaus
@@ -5524,6 +5906,7 @@ offend
 offens
 offeri
 offerwhi
+offga
 officio
 offirst
 offrom
@@ -5564,12 +5947,15 @@ oglala
 oglalla
 ogoniland
 oil come
+oil demand
+oil extract
 oil market analysi
 oil pipelin across
 oil pipelin across nebraska
 oil pipelin carrier
 oil pipelin compani
 oil pipelin construct
+oil pipelin construct project
 oil pipelin industri
 oil pipelin issu
 oil pipelin project
@@ -5579,9 +5965,16 @@ oil pipelin site author
 oil pipelin site legisl
 oil pipelin system
 oil pipelineor
-oil sand crude
+oil produc
+oil reserv
 oil sand crude oil
 oil sand crude oil product
+oil sand crude product
+oil sand deposit
+oil sand deriv crude
+oil sand deriv crude oil
+oil sand extract
+oil sand oper
 oilcrud oil
 oili
 oilin
@@ -5591,12 +5984,14 @@ oilor
 oilregion
 oilsand
 oilwhat
+oina
 ojibw
 okay
 okoboji
 olan
 oldest
 oldw
+olefin
 oligarchi
 olinski
 oliv
@@ -5632,6 +6027,7 @@ onlythat
 onor
 onramp
 onshor
+onsit
 onslaught
 ontario
 onthat
@@ -5645,6 +6041,7 @@ oop
 ooz
 op
 operatenot
+opge
 opin
 oppd
 opportunist
@@ -5670,8 +6067,9 @@ ordinari
 ordinarili
 ordnanc
 ore
-oregon
 org
+organ carbon
+organ carbon emiss
 organiz
 ori
 ori'm
@@ -5731,16 +6129,16 @@ outdoorsman
 outer
 outfit
 outfitt
+outgo
 outlaw
 outlay
 outlet
-outlook
 outmani
 outnumb
+outpac
 outpost
 outpour
 output
-outrag
 outreach
 outright
 outset
@@ -5751,6 +6149,7 @@ outspoken
 outstand
 outstat
 outthat
+outward
 outyou
 overalland
 overarch
@@ -5762,12 +6161,14 @@ overdu
 overemphasi
 overestim
 overfil
+overflight
 overflow
 overh
 overhead
 overi
 overinfl
 overit
+overlaid
 overlain
 overland
 overlap
@@ -5800,14 +6201,15 @@ overtak
 overthey'v
 overtur
 overturn
-overview
 overw
+overwint
 owatonna
 owen
 owl
 owni
 owyhe
 oxford
+oxi
 oxid
 oxygen
 oyasin
@@ -5842,6 +6244,7 @@ panhandl
 panick
 pansion
 pant
+papadopol
 paperwork
 papillion
 pappa
@@ -5852,7 +6255,6 @@ paradox
 paralysi
 paralyz
 paramed
-paramet
 paramount
 paraphras
 pardon
@@ -5880,6 +6282,7 @@ partthey
 partway
 paso
 passeng
+passeng vehicl
 passengervehiclestotheroadorconstruct
 passersbi
 passiv
@@ -5901,7 +6304,6 @@ patrick
 patriot
 patrol
 patronag
-pattern
 paula
 pauli
 paus
@@ -5921,7 +6323,6 @@ pdf
 pdvsa
 pea
 peacetim
-peak
 peanut
 pearson
 peat
@@ -5955,6 +6356,8 @@ peopl need
 peoplewel
 pepper
 per mile
+percent higher
+percent reduct
 percentagenot
 percenti'm
 percentor
@@ -5962,17 +6365,21 @@ perch
 percol
 perenni
 perez
+perfluorocarbon
 perfor
 perhapsanticip
 perhapsi
 peril
 periodslet
+peripher
 perish
 perk
+perlwitz
 perm
 permafrost
 permeat
 permian
+permit requir
 permitte
 pernici
 peroxid
@@ -5992,17 +6399,30 @@ pertin
 pessimist
 pesticid
 pet
+pet move impcus a nus epc im mbblpd ahtm
+petajoul
 pete
+petev
 petraeus
 petrochem
+petroleum coke
+petroleum coke produc
+petroleum cokec
+petroleumbas
+petten
 petti
 pettigrew
+pew
+pfc
+pfcs
 pfizer
+pgs
 pharmaceut
 phelp
 phenol
 phenomen
 phenomena
+phenomenon
 pheona
 phil
 philip
@@ -6012,9 +6432,11 @@ philosoph
 phmsaor
 phoenix
 phoney
+photochem
 photocopi
 photodegrad
 photograph
+photosynthesi
 physician
 physicist
 physiolog
@@ -6051,18 +6473,21 @@ pipe trade
 pipebecaus
 pipefit
 pipelin across nebraska
+pipelin construct project
 pipelin corridor
 pipelin ever
 pipelin everi
 pipelin everi day
 pipelin go across
 pipelin go forward
+pipelin infrastructur
 pipelin length
 pipelin local
 pipelin local union
 pipelin may
 pipelin rout altern
 pipelin safeti act
+pipelin safeti administr
 pipelin safeti concern
 pipelin safeti issu
 pipelin safeti standard
@@ -6100,7 +6525,7 @@ plaint
 plainth
 plaintiff
 plainview
-plane
+planetari
 planner
 plaqu
 plas
@@ -6125,7 +6550,6 @@ pli
 plight
 pliocen
 plop
-plot
 plover
 plow
 ploy
@@ -6188,8 +6612,11 @@ postur
 pot
 potato
 potent
+potenti environment
+potenti environment consequ
 potenti environment impact
 potenti environment issu
+potenti impact associ
 pothol
 potoka
 potter
@@ -6201,23 +6628,24 @@ pow
 powalait
 powder
 powderi
+power line
 powerhous
 powerpl
 powerpoint
 powershift
 ppm
+practition
 pragmat
 prais
 prang
 pray
 prayer
-pre
 preach
+preambl
 preapprov
 precari
 precautionari
 precedenti
-precipit
 preclud
 preconstruct
 precursor
@@ -6240,12 +6668,11 @@ pregraz
 prehear
 prehistor
 prejudg
-preliminari
 preliminarili
 prematur
 premier
 premis
-premium
+premium fuel
 prep
 prepared
 preplan
@@ -6307,6 +6734,7 @@ probe
 problemi'm
 problemthat
 probusi
+processor
 proclaim
 procliv
 procur
@@ -6317,13 +6745,17 @@ professor gate
 professor goek
 professorsay
 proffer
-profil
 profound
 progeni
 programit
+programm
 programmat
 prograt
 project budget
+project climat
+project climat chang
+project climat chang effect
+project construct
 project purpos
 prolif
 prolifer
@@ -6348,7 +6780,6 @@ properti tax revenu
 properti taxor
 prophesi
 proponentsor
-proport
 proportion
 propos keyston
 propos keyston pipelin
@@ -6359,9 +6790,13 @@ propos keyston xl tar sand pipelin
 propos pipelin across
 propos pipelin corridor
 propos pipelin goe
+propos pipelin may
 propos pipelin project
 propos pipelin system
 propos pipelin system altern
+propos pipelinebas
+propos project area
+propos project construct
 propos project purpos
 propos project rout
 proposeand
@@ -6390,10 +6825,13 @@ provok
 prudenc
 prudent
 prudho
+pruitt
 prymet
+psd
 psi
 psig
 psis
+psu
 psychiatrist
 psycholog
 psychologist
@@ -6421,6 +6859,7 @@ pufferi
 pugliaresi
 pullen
 puls
+pumpvalv
 punctuat
 punctur
 punish
@@ -6446,6 +6885,8 @@ puzzl
 pyren
 qaeda
 qaiq
+qaqc
+quadrenni
 quadrupl
 quail
 quak
@@ -6500,6 +6941,7 @@ radio
 radioact
 radion
 radius
+raff
 rage
 rahl
 raid
@@ -6516,6 +6958,7 @@ rake
 ralli
 ralph
 ralston
+ramanathan
 rambl
 ramif
 ramm
@@ -6524,28 +6967,31 @@ ramrod
 ramshaw
 rancherlandown
 ranchland
+rand
 randi
 random
 rangeland
 rant
+rao
 rape
 rasa
 rash
 ratemak
 ratepay
 ratifi
+ratio
 rational
 rau
 rauh
 ravag
 rave
+raw bitumen
 raymond
 rea
 reachth
 reactiv
 reactor
 reader
-readili
 readjust
 reaffirm
 reagan
@@ -6582,10 +7028,12 @@ rebuilt
 reburi
 rebut
 rebutt
+rec
 recaptur
 reced
 recip
 recipi
+recircul
 recit
 reckless
 reckon
@@ -6602,7 +7050,6 @@ reconvers
 recopi
 recount
 recours
-recover
 recreationalist
 recruit
 rectifi
@@ -6610,6 +7057,7 @@ recurr
 recus
 recycl
 redact
+redefin
 redevelop
 redford
 redid
@@ -6626,9 +7074,15 @@ reestablish
 reev
 reevalu
 reexamin
+ref
+refer crude
+refer crude oil
+refer crude oil per day
+refer crude product
 refil
 reflectsthi
 reform
+reformul
 refrain
 refram
 refresh
@@ -6640,9 +7094,12 @@ refurbish
 refut
 reg
 regener
-regim
 regina
+region ghg
+region ghg reduct
+regionspolici
 registr
+registri
 regress
 regret
 regrett
@@ -6652,6 +7109,7 @@ regrowth
 regulatei
 regulatingprotect
 regulationsgov
+regulatori agenc
 regulatori process
 regulatori take
 regurgit
@@ -6661,13 +7119,13 @@ reign
 reignit
 reimburs
 rein
-reinforc
 reinject
 reinvent
 reisenau
 rejoind
 rejuven
 relationshipor
+relationshipsinteract
 relax
 relay
 reliant
@@ -6703,6 +7161,8 @@ rephras
 replant
 replenish
 replic
+report state
+report suggest
 reportc
 repow
 reprehens
@@ -6727,12 +7187,16 @@ resembl
 resent
 reservist
 residenti
-residu
+residuum
 resign
 resili
 resin
+resourcescalculatorhtml
+resourcesegrid
+respir
 respiratori
 respit
+respons manner
 responseor
 responsewel
 restabil
@@ -6744,13 +7208,14 @@ reston
 restrain
 restructur
 resum
-retail
 retard
 retent
 rethink
 retire
+retract
 retrench
 retribut
+retriev
 retroact
 retrofit
 retub
@@ -6759,6 +7224,7 @@ reus
 reuter
 rev
 rever
+reverber
 reverend
 revert
 revisit
@@ -6772,6 +7238,7 @@ reword
 rework
 rex
 rfp
+rggi
 rhizom
 ricard
 rice
@@ -6785,6 +7252,7 @@ rid
 ridden
 ride
 ridg
+ridgwel
 rie
 riedl
 riekenberg
@@ -6798,6 +7266,7 @@ rigid
 rigor
 rill
 rim
+rind
 ring
 rins
 rip
@@ -6805,18 +7274,22 @@ riparian
 ripper
 rippl
 risen
+risk assess report
 risk assessmentrisk
+risk factor
 riskand
 riski
 riskiest
 rissanen
 rival
 rive
+river cross
 rivera
 riverb
 riverbank
 riverton
 rivet
+rmrs
 rnc
 roadsid
 roadway
@@ -6825,7 +7298,6 @@ rob
 robin
 robinson
 robocal
-robust
 rochest
 rocket
 rocki
@@ -6841,14 +7313,17 @@ rodney
 roger
 rogert
 roil
+roject
 rolecan
 roller
 rollingthat
 roma
+romanou
 romero
 ronald
 ronconi
 ronni
+rooney
 roosevelt
 rootlet
 rope
@@ -6866,6 +7341,7 @@ rotarian
 rotat
 roth
 rotten
+rough percent
 roughshod
 roulett
 roundabout
@@ -6880,11 +7356,13 @@ rowl
 roy
 royal
 royalti
+rps
 rubber
 rubi
 rubin
 rude
 rudiment
+ruedi
 ruinat
 rulemak
 ruler
@@ -6927,6 +7405,7 @@ safetnequirementsproposedbyttimsalthettlierwilt
 safetyi'v
 safetyit
 safetywis
+sagd
 sage
 sagebrush
 said earlier today
@@ -6962,6 +7441,7 @@ san
 sanction
 sanctuari
 sand hiller
+sand oper
 sandbar
 sandblast
 sandbox
@@ -6988,8 +7468,8 @@ sate
 satellit
 satisfact
 satisfactori
+sato
 saturday
-saudi
 saudi arabian
 saudia
 saul
@@ -7004,6 +7484,7 @@ saymi
 saysom
 sayswher
 saywel
+scada
 scalis
 scan
 scarc
@@ -7042,11 +7523,14 @@ sci
 sciencewhat
 scientolog
 sclefkowitznrdcorg
+sco
 scofield
 scoop
 scorch
 score
+scos
 scottsbluff
+scour
 scout
 scrambl
 scrap
@@ -7054,9 +7538,9 @@ scrape
 scratch
 scream
 screech
-screen
 scribbl
 scrub
+scrubber
 scrutin
 scs
 sdei
@@ -7072,12 +7556,14 @@ seattl
 seaway
 sec
 seck
-secondari
 secreci
 secretaryi'm
 secretarytreasur
 secriti
 secureand
+securewaterreportpdf
+securityhtml
+sedimentari
 sedlacek
 see noneoh
 seeand
@@ -7088,6 +7574,7 @@ seeingoh
 seeingyeah
 seemsit
 seep
+seepag
 seesor
 seewel
 seeyeah
@@ -7122,6 +7609,8 @@ sep
 sept
 seq
 sequenc
+sequest
+sequestr
 serg
 serpent
 servant
@@ -7142,6 +7631,7 @@ sgouro
 shabbiest
 shabbili
 shackl
+shade
 shadow
 shake
 shaker
@@ -7180,6 +7670,7 @@ shia
 shield
 shill
 shimmer
+shindel
 shine
 shipley
 shipment
@@ -7195,7 +7686,6 @@ shoot
 shop
 shore
 shorebird
-shortag
 shortand
 shortcom
 shortcut
@@ -7223,7 +7713,6 @@ shrub
 shrug
 shudder
 shuffl
-shutdown
 shutoff
 shycompani
 sicangu
@@ -7254,6 +7743,7 @@ silic
 silica
 silli
 silo
+siltanen
 silti
 siltston
 silver
@@ -7267,6 +7757,7 @@ simplic
 simplifi
 simplist
 simpson
+simul
 simultan
 sin
 sinceand
@@ -7281,7 +7772,11 @@ sire
 sis
 sisseton
 sittenfeld
-situ
+situ extract
+situ extract method
+situ extract process
+situ method
+situ product
 sive
 six
 sixteen
@@ -7352,6 +7847,7 @@ snicker
 snort
 snowi
 snowmobil
+snowpack
 soak
 soand
 soapbox
@@ -7363,6 +7859,8 @@ socialist
 societ
 socio
 socioeconom
+socioeconom impact
+socioeconom impact associ
 sociolog
 sociopolit
 sod
@@ -7381,7 +7879,6 @@ solidif
 solidifi
 solubl
 solveclim
-solvent
 solyndra
 somalia
 somalian
@@ -7393,6 +7890,7 @@ somebodywel
 somei
 someoneyeah
 someplac
+somer
 somereclaim
 somethat
 somethinglik
@@ -7407,6 +7905,8 @@ songbird
 soot
 sophist
 sophomor
+sor
+sorbent
 sore
 sorenson
 soright
@@ -7415,11 +7915,10 @@ soso
 sot
 sothat
 sother
-sought
 soul
-sound scienc
 soup
-sour
+sourceact
+south dakotab
 south dakotaiowa
 southeastern
 southeastern part
@@ -7443,10 +7942,10 @@ soy
 soybean
 soylent
 spald
-span
 spare
 spark
 spars
+spatari
 spatial
 speaker number
 spear
@@ -7454,11 +7953,12 @@ spearhead
 spearvill
 spec
 specf
-special condit
 specialist
 specialti
+specif graviti
 spectacular
 spectrum
+sperl
 sperri
 speth
 spew
@@ -7507,10 +8007,12 @@ squeez
 squelch
 squirrel
 squishi
+ssrn
 stab
 stacey
 stack
 stadler
+staf
 stagger
 stagnant
 stainless
@@ -7518,8 +8020,14 @@ stall
 stamina
 stamp
 stanc
+standalon
 standpip
 stanley
+stansburi report
+stansburi report mistak
+stansburi report state
+stansburi report suggest
+stansburyfriend
 stanton
 stapl
 stare
@@ -7530,6 +8038,7 @@ startthes
 startup
 starv
 stat
+state along
 state capitol
 stateand
 stategov
@@ -7537,6 +8046,7 @@ statehood
 statei
 statelook
 statelsweit
+statementscent
 statenot
 stater
 statesi'm
@@ -7547,6 +8057,8 @@ stateth
 statewhen
 stateyou
 static
+stationari
+stationari sourc
 statment
 statur
 statuteth
@@ -7559,6 +8071,7 @@ steadfast
 steadi
 steadili
 steal
+steam inject
 steamfitt
 steamrol
 stec
@@ -7590,14 +8103,13 @@ stillat
 stillh
 stillit
 stillw
-stimul
 stint
 stipend
 stipul
 stir
 stitch
-stock
 stockhold
+stockholm
 stockman
 stockpil
 stoke
@@ -7612,7 +8124,6 @@ stoop
 stoplight
 stopoil
 stopov
-storm
 storytel
 straddl
 straighten
@@ -7629,11 +8140,12 @@ stratton
 straw
 stray
 streak
+streamb
+streamflow
 streamlin
 streamsriv
 strew
 stricken
-strict
 strict liabil
 stricter
 strictest
@@ -7652,9 +8164,14 @@ strung
 struse
 stu
 stucco
+studi design
+studi design factor
+studi review
+studiesmodel
 stuffat
 stuffi
 stumbl
+stump
 stun
 stunt
 stupid
@@ -7682,6 +8199,8 @@ submers
 submiss
 submitt
 subparagraph
+subpart
+subprocess
 subsect
 subset
 subsid
@@ -7713,6 +8232,7 @@ sugro
 suicid
 suitabl
 suld
+sulfat
 sulfid
 sulli
 sulphat
@@ -7720,6 +8240,7 @@ sulphur
 sumac
 sume
 summertim
+summitdecbarbosepdf
 sump
 suncor
 suncorp
@@ -7746,6 +8267,7 @@ supersed
 supertank
 supervis
 supervisor
+supervisori
 supper
 supplementari
 supplementi
@@ -7753,6 +8275,7 @@ supplyor
 suppress
 suprem
 supremaci
+surfac mine
 surfici
 surg
 surmis
@@ -7762,11 +8285,11 @@ surplus
 surprisingtheyv
 surrend
 surrog
+surveil
 survey divis
 surveyor
 survivor
 susansusan
-suscept
 suspend
 suspici
 suspicion
@@ -7778,12 +8301,16 @@ suzuki
 swallow
 swan
 swanson
+swart
 swath
 sway
 sweat
 sweden
 sweep
 sweeper
+sweet
+sweet crude
+sweet crude oil
 sweeten
 sweetheart
 sweitzer
@@ -7807,10 +8334,9 @@ syn
 synagogu
 synbit
 syncrud
+synergist
 synonym
 synopsi
-synthet
-synthet crude oil
 syria
 syrup
 system altern
@@ -7824,7 +8350,7 @@ tackl
 tact
 tad
 tag
-tail pond
+tailor
 tailpip
 taint
 taiwan
@@ -7852,6 +8378,7 @@ tanana
 tangent
 tangl
 tannen
+tansey
 tantamount
 tantrum
 tanya
@@ -7862,6 +8389,7 @@ tar sand expans
 tar sand extract
 tar sand industri
 tar sand oil compani
+tar sand oil extract
 tar sand oil field
 tar sand oil import
 tar sand oil industri
@@ -7869,9 +8397,11 @@ tar sand oil per day
 tar sand oil pipelin
 tar sand oil pipelin may
 tar sand oil pipelin rout
+tar sand oil produc
 tar sand oil product
 tar sand oil spill
 tar sand oilbitumen
+tar sand oper
 tar sand product
 tariff
 tarlik
@@ -7880,10 +8410,12 @@ tarri
 tarsandsactionorg
 tarsandsoilfromthekeystonexlpipelinewillcr
 tast
+tausnev
 tavern
 taxabl
 taxat
 tcp
+tcr
 tea
 teal
 teaspoon
@@ -7925,6 +8457,7 @@ terminolog
 terminus
 tern
 terrac
+terrachoic
 terrenc
 terrestri
 terrif
@@ -8073,7 +8606,6 @@ thereabout
 thereaft
 thereand
 therear
-therebi
 therecan
 theredo
 therehow
@@ -8195,7 +8727,7 @@ threata
 threaten emin domain
 threefold
 threeth
-threshold
+thresher
 threw
 thrill
 thrive
@@ -8203,7 +8735,10 @@ throat
 throb
 throughand
 throughcross
-throughput
+throughout north
+throughout north america
+throughout north american
+throughout northern
 throughth
 throughw
 throughwhat
@@ -8216,6 +8751,7 @@ thursday
 thwart
 thyroid
 tiax
+tic
 tick
 ticket
 tide
@@ -8224,7 +8760,8 @@ tier
 tiernan
 tiffani
 tiger
-tight
+tight oil
+tight oil product
 tighten
 tighter
 tillabl
@@ -8268,13 +8805,13 @@ toilet
 toin
 toit
 token
+toko
 tokyo
 toldand
 toldbecaus
 toledo
 toler
 tolik
-toll
 toluen
 tomato
 tomi
@@ -8337,10 +8874,12 @@ toxicologist
 toy
 toyou
 toyou'v
+tpi
 trace
 traci
 tractabl
 traction
+tradabl
 trademark
 tradeoff
 trader
@@ -8378,15 +8917,20 @@ transcript
 transcunada
 transfus
 transient
-translat
+transmissioncompress
 transmissivitiesar
-transmit
 transmitt
 transmut
 transnat
 transocean
 transpir
 transplant
+transport fuel produc
+transport oil sand crude
+transport oil sand crude oil
+transport sector
+transport via
+transport via pipelin
 transunion
 trap
 trapper
@@ -8403,7 +8947,6 @@ treatthat
 treed
 trek
 tremor
-trend
 trepani
 trepid
 trespass
@@ -8413,6 +8956,7 @@ tribut
 tributari
 trick
 trickl
+trifluorid
 tripl
 tripp
 trista
@@ -8454,6 +8998,7 @@ tunisia
 tunnel
 turbin
 ture
+turetski
 turf
 turkey
 turmoil
@@ -8477,9 +9022,11 @@ typifi
 typo
 tyrann
 tyson
+tzima
 ueed
 ugli
 ulterior
+ultra
 umbrag
 umi'm
 umwhi
@@ -8500,7 +9047,6 @@ unbeliev
 unbias
 unborn
 uncap
-uncertain
 unchang
 uncl
 unclaim
@@ -8509,6 +9055,7 @@ unclassifi
 unclear
 uncomfort
 uncomfortablethey
+uncommit
 uncommon
 uncompens
 unconfin
@@ -8528,7 +9075,6 @@ undercan
 undercurr
 undercut
 underemploy
-underestim
 underfoot
 undergo
 undergon
@@ -8547,6 +9093,7 @@ underpay
 underpin
 underscor
 undersecretari
+underserv
 undersign
 underst
 understat
@@ -8587,6 +9134,7 @@ unfilt
 unfit
 unfold
 unforese
+unforese futur
 unforeseen
 unfound
 unfund
@@ -8610,6 +9158,7 @@ unintend
 unintent
 uninterrupt
 unison
+unit state along
 unitarian
 uniti
 universalist
@@ -8632,6 +9181,7 @@ unnerv
 unnot
 unoexcus
 unpardon
+unplan
 unpleas
 unpopular
 unpreced
@@ -8710,17 +9260,17 @@ upheav
 upheld
 uphil
 uphold
+upland
 uplift
 upno
-uponoh
-upper
 uppermost
+uppli
 upris
 uproar
 upshot
 upsid
-upstream
 upsw
+uptak
 upton
 upward
 upwhen
@@ -8729,7 +9279,8 @@ uranium
 urban
 urgenc
 urin
-usa
+urpo
+urther
 usabl
 usag
 usand
@@ -8738,13 +9289,15 @@ usbut
 usc
 uscanada
 usda
+usdot
 useabl
 useless
 uselik
 usenergi polici
+usepa
 usera
 usew
-usg
+usgcrp
 usher
 ust
 usuallyit
@@ -8757,6 +9310,7 @@ utter
 vacant
 vacat
 vacuum
+vacuum residuum
 vados
 vagari
 vagu
@@ -8767,6 +9321,7 @@ valentin
 valiant
 valleyyou
 valuat
+valuea
 valueless
 vampir
 van
@@ -8782,7 +9337,7 @@ vannier
 vap
 vapor
 varianc
-variat
+various studi
 vault
 vector
 veer
@@ -8792,7 +9347,10 @@ vein
 veloc
 vendor
 veneer
+venezuela bachaquero
+venezuelan bachaquero
 venezuelan oil
+venezuelanc
 vent
 ventur
 venu
@@ -8803,6 +9361,7 @@ verbatim
 verbiag
 verdant
 verdict
+verdigri
 verg
 verif
 verleg
@@ -8830,6 +9389,8 @@ veterinarian
 veto
 veysey
 vfbfxcufeaturerel
+via pipelin
+via pipelin across
 viabil
 vibrant
 vibrat
@@ -8869,10 +9430,12 @@ visual
 visualin
 vivid
 vocal
+vocat
 voiceless
 voicemail
 void
 voidabl
+vol
 vole
 voleski
 volit
@@ -8916,7 +9479,6 @@ wantedto
 wantif
 wapa
 warehous
-warmer
 warmest
 warmno
 warmth
@@ -8968,8 +9530,15 @@ wave
 waver
 waxman
 wayth
+wci
 wcsb crude
-wcsb crude oil
+wcsb crude oil import
+wcsb crude oil suppli
+wcsb oil sand
+wcsb oil sand crude
+wcsb oil sand crude oil
+wcsb oil sand crude product
+wcsb oil sand deriv crude oil
 we'refor
 we'rehow
 we'rethat
@@ -8993,7 +9562,6 @@ websit
 wed
 wednesday
 wee
-weed
 weekend
 weeveryon
 wehow
@@ -9002,6 +9570,10 @@ wei'm
 weichman
 weidner
 weif
+weight averag
+weight averag annual
+weight averag mix
+weight averagea
 weighti
 weimer
 weird
@@ -9034,9 +9606,6 @@ werewhat
 wes
 wesleyan
 weso
-western canadian crude oil
-western canadian crude oil product
-western canadian oil sand
 western iowa
 westernkimbal
 westlaw
@@ -9072,6 +9641,7 @@ whatwher
 whatwith
 whatyou'v
 wheat
+wheatgrass
 wheeler
 wheelock
 whenif
@@ -9125,6 +9695,7 @@ widget
 widow
 width
 wiederand
+wielicki
 wiggl
 wightman
 wikipedia
@@ -9202,11 +9773,13 @@ witten
 wive
 wma
 woe
+woefulli
 woke
 wold
 wolv
 woman
 wonderwe'v
+wong
 wood
 wood river
 woodburi
@@ -9224,6 +9797,8 @@ worksit
 workspac
 world dirtiest
 world dirtiest oil
+world oil
+world oil suppli
 world war
 worm
 worn
@@ -9251,6 +9826,7 @@ wrack
 wreak
 wreck
 wrest
+wri
 wright
 wrist
 writer
@@ -9259,9 +9835,21 @@ wrought
 wrp
 wscb
 wti
+wtr
+wtt
+wtw
+wtw emiss
+wtw ghg
+wtw ghg emiss
+wtw ghg emiss associ
+wtw ghg emiss estim
+wtw ghg emiss per barrel
+wtw ghg intens
+wtw ghgs
 wungari
 wwii
 wwwdirtyoilsandsorg
+wwweiagovforecastsaeoerpdferpdf
 wwwgreeninfocom
 wwwkeystonepipelinestategov
 wwwnrdcorgpolici
@@ -9271,6 +9859,7 @@ wwwsustaintheglobecom
 wwwtranscanadacomkeyston
 wymor
 wynot
+xarzycki
 xlstategovclientsitekeystonexlnsfcommentfsetopenframeset
 xlstategovclientsitekeystonexlnsfmapjpgopenfileresourc
 xlstategovclientsitekeystonexlnsfopen
@@ -9278,6 +9867,7 @@ xylen
 yale
 yanke
 yankton
+yao
 yate
 yea
 year later
@@ -9286,6 +9876,7 @@ yearsh
 yearsph
 yearsth
 yearswhat
+yeh
 yell
 yellowbird
 yellowston
@@ -9343,6 +9934,7 @@ yup
 zaiko
 zellmer
 zene
+zhang
 zila
 zilch
 zimmerman

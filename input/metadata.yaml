@@ -120,6 +120,13 @@ index:
     type: report
     group: other
     date: 2010-11-18
+  - file: reports/njei_2011-10-21.txt
+    description: Nebraskans for Jobs and Energy Independence response to Professor Stansbury.
+    source: https://web.archive.org/web/20160329075400/http://jobsandenergy.org/Facts/FOEFalseClaims.html
+    title: njei_2011-10-21
+    type: report
+    group: other
+    date: 2011-10-21
   - file: reports/njei_2011-11-03_01.txt
     description: First blog post by Nebraskans for Jobs and Energy Independence on November 3, 2011.
     source: https://web.archive.org/web/20160329073456/http://jobsandenergy.org/Facts/SandhillsNativeRangeland.html
@@ -938,3 +945,97 @@ index:
     type: report
     group: other
     date: 2014-01-01
+  ## Environmental Impact Statement--full analysis of Climate change impacts
+  - file: full_cc/2011-04-15.txt
+    description: "Full analysis of climate impacts in the 2011 Executive Summary of the 2010 Draft Environmental Impact Statement for Keystone XL."
+    source: "https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/deis/index.htm"
+    title: "full_2010-04-12"
+    type: report
+    group: other
+    date: 2010-04-12
+  - file: full_cc/2011-08-26.txt
+    description: "Full analysis of climate impacts in the 2011 Executive Summary of the 2011 Final Environmental Impact Statement for Keystone XL."
+    source: "https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/feis/index.htm"
+    title: "full_2011-08-26"
+    type: report
+    group: other
+    date: 2011-08-26
+  - file: full_cc/2013-03-01.txt
+    description: "Full analysis of climate impacts in the 2013 Draft Supplemental Environmental Impact Statement."
+    source: "https://2012-keystonepipeline-xl.state.gov/draftseis/index.htm"
+    title: "full_2013-03-01"
+    type: report
+    group: other
+    date: 2013-03-01
+  - file: full_cc/2014-01-01.txt
+    description: "Full analysis of climate impacts in the 2014 Final Supplemental Environmental Impact Statement."
+    source: "https://2012-keystonepipeline-xl.state.gov/draftseis/index.htm"
+    title: "full_2014-01-01"
+    type: report
+    group: other
+    date: 2014-01-01
+  # Environmental Impact Statement--jobs
+  - file: eis_jobs/2008-01-11.txt
+    description: "Executive Summary of the 2008 Final Environmental Impact Statement for Keystone I--jobs."
+    source: "https://www.energy.gov/sites/default/files/2015/08/f25/EIS-0410-FEIS-2008-Executive_Summary.pdf"
+    title: "jobs_2008-01-11"
+    type: report
+    group: other
+    date: 2008-01-11
+  - file: eis_jobs/2010-04-12.txt
+    description: "Executive Summary of the 2010 Draft Environmental Impact Statement for Keystone XL--jobs."
+    source: "https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/deis/index.htm"
+    title: "jobs_2010-04-12"
+    type: report
+    group: other
+    date: 2010-04-12
+  - file: eis_jobs/2011-08-26.txt
+    description: "Executive Summary for the 2011 Final Environmental Impact Statement for Keystone XL--jobs."
+    source: "https://2012-keystonepipeline-xl.state.gov/archive/dos_docs/feis/index.htm"
+    title: "jobs_2011-08-26"
+    type: report
+    group: other
+    date: 2011-08-26
+  - file: eis_jobs/2013-03-01.txt
+    description: "Executive Summary for the 2013 Draft Supplemental Environmental Impact Statement--jobs."
+    source: "https://2012-keystonepipeline-xl.state.gov/draftseis/index.htm"
+    title: "jobs_2013-03-01"
+    type: report
+    group: other
+    date: 2013-03-01
+  - file: eis_jobs/2014-01-01.txt
+    description: "Executive Summary for the 2014 Final Supplemental Environmental Impact Statement--jobs."
+    source: "https://2012-keystonepipeline-xl.state.gov/draftseis/index.htm"
+    title: "jobs_2014-01-01"
+    type: report
+    group: other
+    date: 2014-01-01  
+  # Other
+  - file: eis_econ/2008-11-01.txt
+    description: "Purpose and need description from Keystone XL environmental report November 2008."
+    source: https://2012-keystonepipeline-xl.state.gov/archive/proj_docs/env/index.htm
+    title: tc_2008-11-01
+    type: report
+    group: other
+    date: 2008-11-01
+  - file: reports/njei_2011-10-21.txt
+    description: "False Claims by 'Friends of the Earth' About Keystone XL Pipeline and 91 Spills."
+    source: https://web.archive.org/web/20160329075400/http://jobsandenergy.org/Facts/FOEFalseClaims.html
+    title: njei_2011-10-21
+    type: report
+    group: other
+    date: 2011-10-21
+  - file: eis_econ/2009-03-12.txt
+    description: "Demand for Facility section of 2009 permit application submitted to South Dakota Public Utilities Commission."
+    source: https://puc.sd.gov/commission/dockets/hydrocarbonpipeline/2009/hp09-001/application.pdf
+    title: sd_econ_2009-03-12
+    type: report
+    group: other
+    date: 2009-03-12
+  - file: eis_jobs/2009-03-12.txt
+    description: "Economic Impacts section of 2009 permit application submitted to South Dakota Public Utilities Commission."
+    source: https://puc.sd.gov/commission/dockets/hydrocarbonpipeline/2009/hp09-001/application.pdf
+    title: sd_jobs_2009-03-12
+    type: report
+    group: other
+    date: 2009-03-12
