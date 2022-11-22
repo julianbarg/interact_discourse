@@ -140,7 +140,7 @@ show_terms(model_11)
 ## Final model
 
 ```{r gamma}
-final_model <- model_13
+final_model <- model_14
 
 betas <- tidytext:::tidy.LDA(final_model, matrix = "beta")
 glimpse(betas)
