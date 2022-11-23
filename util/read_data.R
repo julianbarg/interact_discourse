@@ -1,5 +1,5 @@
 read_data <- function(entry){
-  entry$document <- read_lines(here("input", entry$file))
+  entry$document <- read_lines(here("input", "topics", entry$file))
   if (entry$type == "arena"){
     entry$document <- tibble(content = entry$document) %>%
       filter(str_detect(content,

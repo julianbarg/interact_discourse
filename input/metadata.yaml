@@ -1009,7 +1009,7 @@ index:
     title: "jobs_2014-01-01"
     type: report
     group: other
-    date: 2014-01-01  
+    date: 2014-01-01
   # Other
   - file: eis_econ/2008-11-01.txt
     description: "Purpose and need description from Keystone XL environmental report November 2008."

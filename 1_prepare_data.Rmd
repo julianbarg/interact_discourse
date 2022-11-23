@@ -39,7 +39,7 @@ custom_stopwords
 ## Loader
 
 ```{r load}
-source(here(util_folder, "load_data.R"))
+source(here(util_folder, "read_data.R"))
 source(here("input", "load_fixes.R"))
 source(here("util", "clean_document.R"))
 
