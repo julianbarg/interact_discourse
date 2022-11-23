@@ -6,6 +6,7 @@ library(ggsci)
 library(yaml)
 library(tidytext)
 library(reshape2)
+library(knitr)
 
 ## Raw data
 

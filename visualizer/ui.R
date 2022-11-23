@@ -26,6 +26,7 @@ shinyUI(fluidPage(
           numericInput("row", "Select remark #:", 75, step = 1),
           numericInput("interactions", "No. interactions:", 5, step = 1),
           actionButton(inputId = "update_convo", label = "Update"),
+          downloadButton("downloadTable", "Download table"),
           tags$br(),
           tags$hr(),
           tags$em(

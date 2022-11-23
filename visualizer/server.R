@@ -39,6 +39,19 @@ shinyServer(function(input, output, session) {
       table_styling()
   })
 
+  output$downloadTable <- downloadHandler(
+    filename = function() {
+      paste("exchange.md")
+    },
+    content = function(file) {
+      convo_ls() %>%
+        pluck("document") %>%
+        table_styling() %>%
+        kable(format = "pipe") %>%
+        {writeLines(., file)}
+    }
+  )
+
   output$convoPlot <- renderPlot({
     convo_ls() %>%
       plot_topic_bars(na_to_zero = T) +

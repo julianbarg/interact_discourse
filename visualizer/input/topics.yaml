@@ -1,39 +1,42 @@
 - topic: 1
-  short: "Federal permit"
-  long: "State Department permitting process for Presidential Permit"
-- topic: 2
-  short: "Pipeline industry"
-  long: "Crude oil--logistics, benefits, and risks"
-- topic: 3
-  short: "Meeting admin."
-  long: "Calling witnesses, taking questions, and time management"
-- topic: 4
-  short: "Energy economics"
-  long: "Energy supply, demand, and prices"
-- topic: 5
-  short: "Oil sand"
-  long: "Oil sand--local and global environmental impacts"
-- topic: 6
-  short: "Climate change"
-  long: "Greenhouse gase emissions and climate change"
-- topic: 7
-  short: "Land aquisition"
-  long: "TransCanada land aquisition and use of eminent domain"
-- topic: 8
-  short: "Job creation"
-  long: "Keystone XL job creation--union jobs and local employment"
-- topic: 9
-  short: "Legal questions"
-  long: "Legal questions, especially jurisdiction state vs. federal"
-- topic: 10
-  short: "Legislative process"
-  long: "Nebraska legislative process, especially special session"
-- topic: 11
   short: "Local environment"
   long: "Impacts on the local environment--erosion, restoration, and crops"
+- topic: 2
+  short: "Legal questions"
+  long: "Legal questions, especially jurisdiction state vs. federal"
+- topic: 3
+  short: "Permitting process"
+  long: "State Department permitting process for Presidential Permit"
+- topic: 4
+  short: "Job creation"
+  long: "Keystone XL job creation--union jobs and local employment"
+- topic: 5
+  short: "Energy economics"
+  long: "Energy supply, demand, and prices"
+- topic: 6
+  short: "Witness examination"
+  long: "Witness examination, including response from witnesses"
+- topic: 7
+  short: "Project details"
+  long: "Project location, facilities, and alternatives."
+- topic: 8
+  short: "Land aquisition"
+  long: "TransCanada land aquisition and use of eminent domain"
+- topic: 9
+  short: "Climate change"
+  long: "Greenhouse gase emissions and climate change"
+- topic: 10
+  short: "Nebraska regulations"
+  long: "Regulations proposed in Nebraska, especially during special session"
+- topic: 11
+  short: "Meeting admin."
+  long: "Calling witnesses, taking questions, and time management"
 - topic: 12
-  short: "Environmentalism"
-  long: "Environmentalism or sustainability--advocacy for long-term view"
+  short: "Agriculture"
+  long: "Concerns around agriculture--advocacy for protecting farms & ranches"
 - topic: 13
+  short: "Oil sand"
+  long: "Oil sand--local and global environmental impacts"
+- topic: 14
   short: "Groundwater"
   long: "Groundwater pollution risks--Ogallala Aquifer and Sandhills"

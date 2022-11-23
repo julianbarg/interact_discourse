@@ -5,7 +5,7 @@
   short: "Legal questions"
   long: "Legal questions, especially jurisdiction state vs. federal"
 - topic: 3
-  short: "Presidential permit"
+  short: "Permitting process"
   long: "State Department permitting process for Presidential Permit"
 - topic: 4
   short: "Job creation"
@@ -26,8 +26,8 @@
   short: "Climate change"
   long: "Greenhouse gase emissions and climate change"
 - topic: 10
-  short: "Legislative process"
-  long: "Nebraska legislative process, especially special session"
+  short: "Nebraska regulations"
+  long: "Regulations proposed in Nebraska, especially during special session"
 - topic: 11
   short: "Meeting admin."
   long: "Calling witnesses, taking questions, and time management"
