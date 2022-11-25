@@ -1,0 +1,18 @@
+- file: 2008-01-11.txt
+  order: 1
+  title: "Keystone I Final Environmental Impact Statement (January 2008)"
+- file: 2010-04-12.txt
+  order: 2
+  title: "Keystone XL Draft Environmental Impact Statement (April 2010)"
+- file: 2011-04-15.txt
+  order: 3
+  title: "Keystone XL Supplemental Draft Environmental Impact Statement (April 2011)"
+- file: 2011-08-26.txt
+  order: 4
+  title: "Kestone XL Final Environmental Impact Statement (August 2011)"
+- file: 2013-03-01.txt
+  order: 5
+  title: "Keystone XL Draft Supplemental Environmental Impact Statement (March 2013)"
+- file: 2014-01-01.txt
+  order: 6
+  title: "Keystone XL Final Supplemental Environmental Impact Statement (January 2014)"

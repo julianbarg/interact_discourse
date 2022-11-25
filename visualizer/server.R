@@ -40,24 +40,34 @@ shinyServer(function(input, output, session) {
   })
 
   output$downloadTable <- downloadHandler(
-    filename = function() {
-      paste("exchange.md")
-    },
+    filename = function() {paste("exchange.csv")},
     content = function(file) {
       convo_ls() %>%
         pluck("document") %>%
         table_styling() %>%
-        kable(format = "pipe") %>%
-        {writeLines(., file)}
+        write_csv(file)
     }
   )
 
-  output$convoPlot <- renderPlot({
+  convo_plot <- reactive({
     convo_ls() %>%
-      plot_topic_bars(na_to_zero = T) +
-        facet_wrap(~ order, ncol = 1, scale = "free_x") +
-        labs(title = "Topic loadings by remark")
+      plot_topic_bars(na_to_zero = T, legend_cols = input$legend_cols) +
+      facet_wrap(~ order, ncol = 1, scale = "free_x") +
+      labs(title = "Topic loadings by remark")
+  }) %>%
+    bindEvent(input$update_convo, ignoreNULL = FALSE)
+
+  output$convoPlot <- renderPlot({
+    convo_plot()
   })
+
+  output$downloadGraph <- downloadHandler(
+    filename = function(){"convo.png"},
+    content = function(file) {
+      ggsave(file, plot = convo_plot(), device = "png",
+             width = input$width, height = input$height)
+    }
+  )
 
   output$tokenTable <- renderTable({
     tokens %>%

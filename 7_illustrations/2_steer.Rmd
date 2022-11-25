@@ -1,15 +1,19 @@
+---
+date: "2022-11-08"
+output: markdown
+---
+
+## Load
+
+```{r packages, include = F}
 library(tidyverse)
 library(here)
 library(glue)
-library(shiny)
 library(ggsci)
 library(yaml)
 library(tidytext)
 library(reshape2)
 library(knitr)
-
-## Raw data
-
 kxl_data <- read_rds(here("output", "data_betas.rds"))
 topics <- yaml::read_yaml(here("input", "topics.yaml")) %>%
   map_dfr(flatten)
@@ -17,25 +21,6 @@ topics_c <- set_names(glue("{topics$topic}: {topics$short}"),
                       topics$topic)
 betas <- read_rds(here("output", "topic_model.rds")) %>%
   tidytext:::tidy.LDA(matrix = "beta")
-
-## Useful for referncing
-
-get_tokens <- function(entry){
-  entry$tokens %>%
-    mutate(source = entry$title) %>%
-    select(source, order, person, token, n) %>%
-    mutate(order = as.integer(order))
-}
-
-arenas <- kxl_data %>%
-  keep( ~.x$type == "arena") %>%
-  map_dfr(~ keep(.x, names(.x) %in% c("description", "title"))) %>%
-  {set_names(.$title, .$description)}
-tokens <- kxl_data %>%
-  map_dfr(get_tokens)
-unique_tokens <- unique(tokens$token) %>%
-  sort()
-
 better_colnames <- c(
   "Token" = "token",
   "Topic" = "topic",
@@ -47,17 +32,14 @@ better_colnames <- c(
   "Source" = "source",
   "Count" = "n"
 )
-
-## Functions
-
 table_styling <- function(df){
   matching_colnames <- better_colnames[better_colnames %in% names(df)]
   df %>%
     rename(!!! matching_colnames)
 }
+```
 
-column <- partial(column, style = "border: 1px solid")
-
+```{r function}
 plot_topic_bars <- function(entry, na_to_zero = F, legend_cols = 3){
   if (na_to_zero == T){
     treat_na <- function(df){mutate(df, gamma = replace_na(gamma, 0))}
@@ -79,4 +61,19 @@ plot_topic_bars <- function(entry, na_to_zero = F, legend_cols = 3){
       scale_fill_d3(palette = "category20c")
 
 }
+exchange <- kxl_data %>%
+  keep(~.x$title == "ne_2011-11-07") %>%
+  flatten() %>%
+  modify_at(
+    c("document", "preprocessing", "tokens", "token_counts", "gammas"),
+     ~ filter(.x, order %in% c(613, 614, 617, 618, 624)))
+```
 
+```{r graph}
+plot <- exchange %>%
+  plot_topic_bars(na_to_zero = T, legend_cols = 3) +
+  facet_wrap(~ order, ncol = 1, scale = "free_x") +
+  labs(title = "Topic loadings by remark")
+ggsave(here("output", "steer.png"), plot, width = 6, height = 7)
+knitr::include_graphics(here("output", "steer.png"))
+```

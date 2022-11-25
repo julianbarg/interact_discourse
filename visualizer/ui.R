@@ -23,9 +23,23 @@ shinyUI(fluidPage(
                          "Select document",
                          arenas,
                          selected = "ne_2011-11-07"),
-          numericInput("row", "Select remark #:", 75, step = 1),
-          numericInput("interactions", "No. interactions:", 5, step = 1),
-          actionButton(inputId = "update_convo", label = "Update"),
+          fluidRow(
+            column(6, numericInput("row", "Select remark #:", 75, step = 1)),
+            column(6, numericInput(
+              "interactions", "No. interactions:", 5, step = 1))
+          ),
+          fluidRow(
+            column(6, numericInput(
+              "legend_cols", "Columns (Legend):", 3, step = 1)),
+            column(6, actionButton(inputId = "update_convo", label = "Update"))
+          ),
+          tags$hr(),
+          fluidRow(
+            column(6, numericInput(
+              "width", "Width for download:", 5, step = 1)),
+            column(6, numericInput(
+              "height", "Height for download:", 7, step = 1))),
+          downloadButton("downloadGraph", "Download graph"),
           downloadButton("downloadTable", "Download table"),
           tags$br(),
           tags$hr(),

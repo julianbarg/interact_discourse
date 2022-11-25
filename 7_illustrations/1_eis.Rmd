@@ -1,0 +1,60 @@
+---
+date: "2022-11-23"
+output: markdown
+---
+
+## Load
+
+```{r load, include=F}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(here)
+options(max.print = 1000)
+util_folder <- c("util")
+
+known_entities <- yaml::read_yaml(here("input", "nlp_input.yaml")) %>%
+  pluck("known_entities") %>%
+  map_dfr(flatten_dfc) %>%
+  {set_names(.$token, regex(.$regex, ignore_case = T))}
+custom_stopwords <- yaml::read_yaml(here("input", "nlp_input.yaml")) %>%
+  pluck("custom_stopwords")
+compounds <- read_lines(here("output", "compounds.txt"))
+kxl_model <- read_rds(here("output", "topic_model.rds"))
+betas <- tidytext:::tidy.LDA(kxl_model, matrix = "beta")
+topics <- yaml::read_yaml(here("input", "topics.yaml")) %>%
+  map_dfr(flatten)
+```
+
+```{r read}
+source(here("util", "get_topics.R"))
+read_file <- function(entry){
+  read_lines(here("input", "eis_es", entry$file), progress = F) %>%
+    str_c(collapse = " ") %>%
+    get_topics() %>%
+    mutate("order" = entry$order,
+           "title" = entry$title)
+}
+eis_yaml <- yaml::read_yaml(here("input", "eis_es.yaml"))
+eis_es <- map_dfr(eis_yaml, read_file)
+glimpse(eis_es)
+```
+
+```{r illustration}
+eis_plot <- eis_es %>%
+  arrange(topic_n) %>%
+  mutate(title = as_factor(title), 
+         topic = as_factor(paste0(topic_n, ": ", topic))) %>%
+  ggplot(aes(topic_n, gamma, fill = topic)) +
+    geom_col() +
+    facet_wrap(~ title, ncol = 1, scale = "free_x") +
+    scale_x_continuous(breaks = seq(1, 14, 1)) +
+    labs(x = "Topic", y = "Prevalence") +
+    theme(
+      # legend.position = "bottom",
+      legend.title = element_blank()) +
+    guides(fill=guide_legend(ncol=1)) +
+    scale_fill_d3(palette = "category20c") + 
+    labs(title = "Topic loadings of Environmental Impact Statements")
+ggsave(here("output", "eis.png"), eis_plot, width = 10, height = 6)
+knitr::include_graphics(here("output", "eis.png"))
+```
