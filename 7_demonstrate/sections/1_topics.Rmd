@@ -48,8 +48,8 @@ visualize_topic(kxl_model, 6, 10, relabel) +
 
 ```{r topics}
 include_gt_table <- function(df, file_basename){
-  html_file <- here("5_demonstrate", "resources", glue("{file_basename}.html"))
-  png_file <- here("5_demonstrate", "resources", glue("{file_basename}.png"))
+  html_file <- here("7_demonstrate", "resources", glue("{file_basename}.html"))
+  png_file <- here("7_demonstrate", "resources", glue("{file_basename}.png"))
   save_html(html(as_raw_html(gt(df))), html_file, background = "white")
   webshot2::webshot(url = html_file, 
                     file = png_file)
