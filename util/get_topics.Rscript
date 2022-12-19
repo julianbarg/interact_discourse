@@ -1,0 +1,17 @@
+#!/usr/bin/env Rscript
+
+script.dir <- this.path::this.dir()
+setwd(script.dir)
+args <- commandArgs(trailingOnly=TRUE)
+
+options(tidyverse.quiet = TRUE)
+library(tidyverse)
+library(yaml)
+suppressPackageStartupMessages(library(here))
+
+cat("Loading data\n")
+text <- clipr::read_clip(allow_non_interactive = T)
+
+source(here("util", "get_topics.R"))
+
+get_topics(text, verbose = T)
