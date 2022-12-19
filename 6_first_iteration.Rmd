@@ -51,23 +51,12 @@ convo <- kxl_data %>%
 ## Disregard sample
 
 ```{r prepare_plotting_data}
-source(here("util", "get_remark_topic.R"))
+source(here("util", "count_convo.R"))
 
 convo_sample <- convo %>%
   # filter(words >= 50) %>%
   # filter(group %in% c("anti", "science")) %>%
-  group_by(title, id) %>%
-  arrange(desc(order)) %>%
-  mutate(remaining_words = cumsum(words) - words, 
-         remaining_remarks = cumsum(n()) - 1) %>%
-  arrange(order) %>%
-  filter(words >= 50) %>%
-  filter(order == first(order)) %>%
-  ungroup() %>%
-  mutate(topic = get_remark_topic(topics)) %>%
-  filter(!topic %in% c(11, 6)) %>%
-  mutate(description = recode(topic, !!! topics_c)) %>%
-  mutate(description = fct_reorder(description, topic))
+  count_convo()
 glimpse(convo_sample)
 ```
 
@@ -133,25 +122,10 @@ knitr::include_graphics(here("output", "plot_witness_remarks.png"))
 ## Steering
 
 ```{r steering_sample_1}
-source(here("util", "euclidean.R"))
+source(here("util", "calc_steering.R"))
 
 steering_sample_1 <- convo %>%
-  filter(words >= 50) %>%
-  # filter(group %in% c("anti", "science")) %>%
-  group_by(title, id) %>%
-  filter(!is.na(get_remark_topic(topics))) %>%
-  arrange(order) %>%
-  filter(! max(n()) == 1) %>%
-  mutate(dist = euclidean(topics, list(first(topics))), 
-         topic = get_remark_topic(list(first(topics))), 
-         n = row_number() - 1) %>%
-  mutate(n = if_else(n == 0, 0, n/(n() - 1))) %>%
-  ungroup() %>%
-  filter(!topic %in% c(11, 6)) %>%
-  mutate(description = recode(topic, !!! topics_c)) %>%
-  mutate(description = fct_reorder(description, topic)) %>%
-  select(title, id, n, dist, topic, group, everything()) %>%
-  arrange(title, id, n)
+  calc_steering()
 steering_sample_1
 ```
 
@@ -266,7 +240,7 @@ steering_plot_2 <- steering_sample_2 %>%
     scale_y_continuous(position = "right", 
                        breaks = seq(0, 0.8, 0.1)) + 
     labs(title = "Steering of witness testimony by initial topic", 
-         x = "Progression of testimony", 
+         x = "Progression of testimony",  
          y = "Degree of steering from original testimony", 
          caption = paste0("Topic change measured as euclidean distance\n", 
                           "Smoothing: squareroot function")) +
@@ -297,48 +271,6 @@ steering_sample_3 <- convo %>%
   mutate(description = recode(topic, !!! topics_c)) %>%
   mutate(description = fct_reorder(description, topic))
 steering_sample_3
-```
-
-```{r steering_plot_3, warning=FALSE}
-steering_plot_3 <- steering_sample_3 %>%
-  # filter(group %in% c("anti", "science")) %>%
-  # filter(group == "anti") %>%
-  # filter(n <= 20) %>%
-  # group_by(title, id) %>%
-  # slice_min(n, n = -1) %>%
-  ggplot(aes(n, dist)) +
-    facet_wrap(~ topic, scale = "free_x") +
-    coord_cartesian(
-      ylim = c(0, NA),
-      # ylim = c(0, 1),
-      xlim = c(0, 20)
-      # xlim = c(-1, 26)
-    ) +
-    scale_x_continuous(breaks = seq(0,20, 4)) + 
-    geom_smooth(
-      method = "lm",
-      formula = y ~ sqrt(x)
-    ) +
-    geom_jitter(aes(n, dist, fill = description), 
-                size = 0.2, height = 0.015) +
-    labs(title = "Steering of witness testimony by initial topic", 
-         x = "Witness responses to examiner question #", 
-         y = "Degree of topic change from original testimony", 
-         caption = paste0("Topic change measured as euclidean distance\n", 
-                          "Smoothing: squareroot function")) +
-    theme_bw() +
-    theme(
-      plot.caption = element_text(hjust = 0),
-      legend.title = element_blank(),
-      legend.position = "bottom"
-    ) +
-    guides(fill=guide_legend(ncol=3)) +
-    ggsci::scale_fill_d3(palette = "category20c")
-ggsave(here("output", "plot_witness_steering_3.png"), steering_plot_3, 
-       width = 6.5, height = 8.5
-       # width = 10, height = 6.5
-       )
-knitr::include_graphics(here("output", "plot_witness_steering_3.png"))
 ```
 
 ## Outliers
