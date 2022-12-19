@@ -62,7 +62,7 @@ index:
     date: 2011-11-09
     analyze: yes
   - file: ne_legislature/2011-11-14.txt
-    description: Nebraska Legislature Natural Resources Committee public hearing on November 14, 2011.
+    description: Nebraska Legislature Floor Debate on November 14, 2011.
     source: https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Natural/2011-11-14.pdf
     title: ne_2011-11-14
     type: arena
