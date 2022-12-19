@@ -1,0 +1,455 @@
+---
+date: "2022-11-11"
+output: markdown
+---
+
+## Load
+
+```{r load, include=F}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(here)
+library(glue)
+library(topicmodels)
+options(max.print = 1000)
+util_folder <- c("util")
+beep <- function(){
+  system(str_c("notify-send 'Task complete.'",
+               "&& paplay /usr/share/sounds/Yaru/stereo/message.oga"))
+}
+```
+
+```{r data}
+sessions <- c("ne_2011-02-09", 
+              "ne_2011-11-07", 
+              "ne_2011-11-08", 
+              "ne_2011-11-08_judiciary", 
+              "ne_2011-11-09", 
+              "ne_2011-11-15")
+kxl_data <- read_rds(here("output", "data_convo.rds")) %>%
+  keep(~ .x$title %in% sessions)
+people <- yaml::read_yaml(here("input", "people.yaml")) %>%
+  map_dfr(flatten)
+topics <- yaml::read_yaml(here("input", "topics.yaml")) %>%
+  map_dfr(flatten)
+topics_c <- set_names(glue("{topics$topic}: {topics$short}"),
+                      topics$topic)
+glimpse(kxl_data[[1]])
+```
+
+```{r dfs}
+gammas <- kxl_data %>%
+  map(~ list_modify(.x, gammas = mutate(.x$gammas, title = .x$title))) %>%
+  map_dfr(~.x$gammas)
+
+convo <- kxl_data %>%
+  map(~ list_modify(.x, convo = mutate(.x$convo, title = .x$title))) %>%
+  map_dfr(~.x$convo) %>%
+  left_join(people, by = c("person" = "name"))
+```
+
+## Disregard sample
+
+```{r prepare_plotting_data}
+source(here("util", "get_remark_topic.R"))
+
+convo_sample <- convo %>%
+  # filter(words >= 50) %>%
+  # filter(group %in% c("anti", "science")) %>%
+  group_by(title, id) %>%
+  arrange(desc(order)) %>%
+  mutate(remaining_words = cumsum(words) - words, 
+         remaining_remarks = cumsum(n()) - 1) %>%
+  arrange(order) %>%
+  filter(words >= 50) %>%
+  filter(order == first(order)) %>%
+  ungroup() %>%
+  mutate(topic = get_remark_topic(topics)) %>%
+  filter(!topic %in% c(11, 6)) %>%
+  mutate(description = recode(topic, !!! topics_c)) %>%
+  mutate(description = fct_reorder(description, topic))
+glimpse(convo_sample)
+```
+
+### Disregard plot I
+
+```{r plot_length}
+convo_word_plot <- convo_sample %>%
+  # filter(group %in% c("anti", "science")) %>%
+  # filter(group == "anti") %>%
+  ggplot(aes(remaining_words)) +
+    coord_cartesian(
+      xlim = c(0, max(convo_sample$remaining_words)), 
+      ylim = c(0, 23)
+    ) +
+    geom_histogram(
+      binwidth = 150
+    ) +
+    facet_wrap(~ description, scale = "free", 
+               # ncol = 3,
+               # ncol = 4,
+               ncol =6,
+               labeller = label_wrap_gen(width=18)) +
+    labs(title = "Histogram: witness examination length by initial topic", 
+         x = "Number of words spoken in response to additional inquiry", 
+         y = "Observations") + 
+    theme_bw()
+ggsave(here("output", "plot_witness_words.png"), convo_word_plot, 
+       # width = 6.5, height = 5.5, # For documents
+       width = 9, height = 4, # For presentations,
+       bg = 'white')
+knitr::include_graphics(here("output", "plot_witness_words.png"))
+```
+
+### Disregard plot II
+
+```{r remarks}
+convo_remarks_plot <- convo_sample  %>%
+  # filter(group %in% c("anti", "science")) %>%
+  # filter(group == "anti") %>%
+  ggplot(aes(remaining_remarks)) +
+    coord_cartesian(
+      xlim = c(0, max(convo_sample$remaining_remarks)), 
+      ylim = c(0, 16)
+    ) +
+    geom_histogram(
+      binwidth = 4
+    ) +
+    facet_wrap(~ description, scale = "free", 
+               # ncol = 3,
+               ncol = 6,
+               labeller = label_wrap_gen(width=18)) +
+    labs(title = "Histogram: witness examination length by initial topic", 
+         x = "Number of examiner questions and witness responses", 
+         y = "Observations") + 
+    theme_bw()
+ggsave(here("output", "plot_witness_remarks.png"), 
+       # width = 6.5, height = 5.5, # For documents
+       width = 9, height = 4, # For presentations
+       convo_remarks_plot)
+knitr::include_graphics(here("output", "plot_witness_remarks.png"))
+```
+
+## Steering
+
+```{r steering_sample_1}
+source(here("util", "euclidean.R"))
+
+steering_sample_1 <- convo %>%
+  filter(words >= 50) %>%
+  # filter(group %in% c("anti", "science")) %>%
+  group_by(title, id) %>%
+  filter(!is.na(get_remark_topic(topics))) %>%
+  arrange(order) %>%
+  filter(! max(n()) == 1) %>%
+  mutate(dist = euclidean(topics, list(first(topics))), 
+         topic = get_remark_topic(list(first(topics))), 
+         n = row_number() - 1) %>%
+  mutate(n = if_else(n == 0, 0, n/(n() - 1))) %>%
+  ungroup() %>%
+  filter(!topic %in% c(11, 6)) %>%
+  mutate(description = recode(topic, !!! topics_c)) %>%
+  mutate(description = fct_reorder(description, topic)) %>%
+  select(title, id, n, dist, topic, group, everything()) %>%
+  arrange(title, id, n)
+steering_sample_1
+```
+
+```{r test}
+steering_sample_1 %>%
+  filter(topic == 9)
+
+steering_sample_1 %>%
+  slice_max(dist, n = 1)
+```
+
+### Steering plot I
+
+```{r steering, warning=FALSE}
+steering_plot <- steering_sample_1 %>%
+  ggplot(aes(n, dist)) +
+    facet_wrap(~ description, scale = "free", 
+               # ncol = 3,
+               ncol = 6,
+               labeller = label_wrap_gen(width=18)) +
+    coord_cartesian(
+      ylim = c(0, max(steering_sample_1$dist)),
+      xlim = c(0, 1),
+      expand = F
+    ) +
+    scale_x_continuous(labels = scales::percent, breaks = c(0, 0.5, 1)) +
+    scale_y_continuous(position = "right", 
+                       breaks = seq(0, 0.8, 0.1)) + 
+    geom_smooth(
+      method = "lm", 
+      # formula = y ~ sqrt(x)
+      formula = y ~ x + sqrt(x)
+    ) +
+    geom_jitter(size = 0.2, height = 0.015) +
+    labs(title = "Steering of witness testimony by initial topic", 
+         x = "Progression of testimony", 
+         y = "Degree of steering from original testimony", 
+         caption = paste0("Topic change measured as euclidean distance\n", 
+                          "Smoothing: squareroot function")) +
+    theme_bw() +
+    theme(plot.caption = element_text(hjust = 0))
+
+ggsave(here("output", "plot_witness_steering.png"), steering_plot, 
+       # width = 6.5, height = 8.5
+       width = 9, height = 4
+       )
+knitr::include_graphics(here("output", "plot_witness_steering.png"))
+```
+
+```{r zoom}
+steering_zoom <- steering_plot +
+    coord_cartesian(
+      ylim = c(0, 0.5),
+      xlim = c(0, 1),
+      expand = F
+    )
+
+ggsave(here("output", "zoom_witness_steering.png"), steering_zoom,
+       # width = 6.5, height = 8.5
+       width = 9, height = 4
+       )
+knitr::include_graphics(here("output", "zoom_witness_steering.png"))
+```
+
+### Steering plot II
+
+```{r steering_sample_2}
+initial_testimony <- steering_sample_1 %>%
+  filter(n == 0) %>%
+  select(title, order, id)
+
+steering_sample_2 <- gammas %>%
+  group_by(topic) %>%
+  filter(!is.na(gamma)) %>%
+  filter(gamma >= mean(gamma) + sd(gamma)) %>%
+  select(-gamma) %>%
+  ungroup() %>%
+  left_join(initial_testimony, by = c("title", "order")) %>%
+  select(-order) %>%
+  left_join(select(steering_sample_1, -c(topic, dist, description)), 
+            by = c("title", "id")) %>%
+  group_by(title, id) %>%
+  arrange(order) %>%
+  mutate(dist = euclidean(topics, list(first(topics))) ,
+         topic = first(topic)) %>%
+  ungroup() %>%
+  filter(!topic %in% c(11, 6)) %>%
+  mutate(description = recode(topic, !!! topics_c)) %>%
+  mutate(description = fct_reorder(description, topic)) %>%
+  arrange(title, id, n)
+
+steering_sample_2
+```
+
+```{r steering_plot_2}
+steering_plot_2 <- steering_sample_2 %>%
+  ggplot(aes(n, dist)) +
+    facet_wrap(~ description, scale = "free", 
+               # ncol = 3,
+               ncol = 6,
+               labeller = label_wrap_gen(width=18)) +
+    geom_smooth(method = "lm", 
+                # formula = y ~ sqrt(x),
+                formula = y ~ x + sqrt(x)
+                ) +
+    geom_jitter(size = 0.2, height = 0.015) +
+    coord_cartesian(ylim = c(0, max(steering_sample_2$dist)), 
+                    xlim = c(0, 1),
+                    expand = F
+                    ) +
+    scale_x_continuous(breaks = c(0, 0.5, 1), labels = scales::percent) + 
+    scale_y_continuous(position = "right", 
+                       breaks = seq(0, 0.8, 0.1)) + 
+    labs(title = "Steering of witness testimony by initial topic", 
+         x = "Progression of testimony", 
+         y = "Degree of steering from original testimony", 
+         caption = paste0("Topic change measured as euclidean distance\n", 
+                          "Smoothing: squareroot function")) +
+    theme_bw()
+
+ggsave(here("output", "plot_witness_steering_2.png"), 
+       steering_plot_2, width = 9, height = 4)
+knitr::include_graphics(here("output", "plot_witness_steering_2.png"))
+```
+
+### Steering plot III
+
+```{r steering_sample_1}
+source(here("util", "euclidean.R"))
+
+steering_sample_3 <- convo %>%
+  filter(words >= 50) %>%
+  # filter(group %in% c("anti", "science")) %>%
+  group_by(title, id) %>%
+  filter(!is.na(get_remark_topic(topics))) %>%
+  arrange(order) %>%
+  filter(! n() == 1) %>%
+  mutate(n = (row_number() -1), 
+         dist = euclidean(topics, lag(topics)), 
+         topic = get_remark_topic(list(first(topics)))) %>%
+  ungroup() %>%
+  filter(!topic %in% c(11, 6)) %>%
+  mutate(description = recode(topic, !!! topics_c)) %>%
+  mutate(description = fct_reorder(description, topic))
+steering_sample_3
+```
+
+```{r steering_plot_3, warning=FALSE}
+steering_plot_3 <- steering_sample_3 %>%
+  # filter(group %in% c("anti", "science")) %>%
+  # filter(group == "anti") %>%
+  # filter(n <= 20) %>%
+  # group_by(title, id) %>%
+  # slice_min(n, n = -1) %>%
+  ggplot(aes(n, dist)) +
+    facet_wrap(~ topic, scale = "free_x") +
+    coord_cartesian(
+      ylim = c(0, NA),
+      # ylim = c(0, 1),
+      xlim = c(0, 20)
+      # xlim = c(-1, 26)
+    ) +
+    scale_x_continuous(breaks = seq(0,20, 4)) + 
+    geom_smooth(
+      method = "lm",
+      formula = y ~ sqrt(x)
+    ) +
+    geom_jitter(aes(n, dist, fill = description), 
+                size = 0.2, height = 0.015) +
+    labs(title = "Steering of witness testimony by initial topic", 
+         x = "Witness responses to examiner question #", 
+         y = "Degree of topic change from original testimony", 
+         caption = paste0("Topic change measured as euclidean distance\n", 
+                          "Smoothing: squareroot function")) +
+    theme_bw() +
+    theme(
+      plot.caption = element_text(hjust = 0),
+      legend.title = element_blank(),
+      legend.position = "bottom"
+    ) +
+    guides(fill=guide_legend(ncol=3)) +
+    ggsci::scale_fill_d3(palette = "category20c")
+ggsave(here("output", "plot_witness_steering_3.png"), steering_plot_3, 
+       width = 6.5, height = 8.5
+       # width = 10, height = 6.5
+       )
+knitr::include_graphics(here("output", "plot_witness_steering_3.png"))
+```
+
+## Outliers
+
+Get outliers mathematically
+
+```{r outliers}
+# convo_sample
+convo_sample %>%
+  # filter(group %in% c("anti", "science")) 
+  # group_by(person) %>%
+  # slice_max(remaining_remarks) %>%
+  # ungroup() %>%
+  slice_max(remaining_remarks, prop = 0.05) %>%
+  select(person, title, remaining_remarks)
+```
+
+## Groups
+
+### Disregard by group
+
+### Disregard plot III
+
+```{r remarks}
+groups <- c("indiv" = "Individual",
+            "expert" = "Expert", 
+            "TC" = "TransCanada", 
+            "institution" = "Institutional\ninsider")
+order_groups <- c("Expert", "TransCanada", "Institutional\ninsider", "Individual")
+
+group_disregard_plot <- convo_sample %>%
+  mutate(group = if_else(group %in% c("pro", "anti"), "indiv", group)) %>%
+  # mutate(group = fct_relevel(group, c("indiv", "institution",
+                                      # "TC", "expert"))) %>%
+  filter(! group == "other") %>%
+  mutate(group = recode(group, !!! groups)) %>%
+  mutate(group = fct_relevel(group, order_groups)) %>%
+  filter(! group %in% c("other")) %>%
+  filter(topic %in% c(1,2,3,4,5,8)) %>%
+  ggplot(aes(x = remaining_remarks, y = group, fill = group)) +
+    facet_wrap(~ description, scale = "free") + 
+    geom_boxplot() +
+    scale_y_discrete(drop = F) +
+    coord_cartesian(xlim = c(0, max(convo_sample$remaining_remarks))) +
+    theme_bw() +
+    labs(
+      title = "Witness examination length by initial topic and group", 
+      x = "Number of examiner questions and witness responses", 
+      # y = "Count"
+    ) +
+    theme(axis.title.y = element_blank()) +
+    guides(fill="none")
+
+ggsave(here("output", "plot_group_disregard.png"), 
+       # width = 6.5, height = 9, # For documents
+       width = 9, height = 4, # For presentations
+       group_disregard_plot)
+knitr::include_graphics(here("output", "plot_group_disregard.png"))
+```
+
+### Steering by group
+
+```{r steering, warning=FALSE}
+groups <- c("indiv" = "Individual",
+            "expert" = "Expert", 
+            "TC" = "TransCanada", 
+            "institution" = "Institutional\ninsider")
+order_groups <- c("Individual", "Institutional\ninsider", "TransCanada", "Expert")
+
+steering_sample_group <- steering_sample_1 %>%
+  mutate(group = if_else(group %in% c("pro", "anti"), "indiv", group)) %>%
+  # mutate(group = fct_relevel(group, c("indiv", "institution",
+                                      # "TC", "expert"))) %>%
+  filter(! group == "other") %>%
+  mutate(group = recode(group, !!! groups)) %>%
+  mutate(group = fct_relevel(group, order_groups)) %>%
+  filter(! group %in% c("other")) %>%
+  # filter(topic %in% c(14))
+  filter(T)
+  # filter(topic %in% c(1,2,3,4,5,8)) %>%
+ymax <- max(steering_sample_group$dist)
+steering_group_plot <- steering_sample_group %>%
+  ggplot(aes(n, dist)) +
+    facet_wrap(~ group, scale = "free_y", nrow = 2, strip.position = "left") +
+    coord_cartesian(
+      ylim = c(0, 0.6),
+      xlim = c(0, 1),
+      expand = F
+    ) +
+    geom_jitter(size = 0.2, height = 0.015) +
+    geom_smooth(
+      method = "lm",
+      formula = y ~ sqrt(x)
+    ) +
+    labs(title = "Steering of witness testimony by group", 
+         x = "Progression of testimony", 
+         y = "Degree of steering from original testimony", 
+         caption = paste0("Topic change measured as euclidean distance\n", 
+                          "Smoothing: squareroot function")) +
+    theme_bw() +
+    scale_x_continuous(labels = scales::percent, breaks = c(0, 0.5, 1)) +
+    scale_y_continuous(position = "right", 
+                       breaks = seq(0, 0.8, 0.1)) +
+    theme(
+      plot.caption = element_text(hjust = 0)
+    )
+
+ggsave(here("output", "plot_group_steering.png"), steering_group_plot, 
+       # width = 6.5, height = 8.5
+       width = 4.74, height = 4
+       # width = 9, height = 4
+       )
+knitr::include_graphics(here("output", "plot_group_steering.png"))
+```
