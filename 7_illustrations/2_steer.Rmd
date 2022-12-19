@@ -39,41 +39,48 @@ table_styling <- function(df){
 }
 ```
 
-```{r function}
-plot_topic_bars <- function(entry, na_to_zero = F, legend_cols = 3){
-  if (na_to_zero == T){
-    treat_na <- function(df){mutate(df, gamma = replace_na(gamma, 0))}
-  } else {
-    treat_na <- function(df){df}
-  }
-  entry %>%
-    pluck("gammas") %>%
-    treat_na() %>%
-    mutate(description = recode(topic, !!! topics_c)) %>%
-    mutate(description = fct_reorder(description, topic)) %>%
-    ggplot(aes(topic, gamma, fill = description)) +
-      geom_col() +
-      scale_x_continuous(breaks = seq(1, 14, 1)) +
-      labs(x = "Topic", y = "Prevalence") +
-      theme(legend.position = "bottom",
-            legend.title = element_blank()) +
-      guides(fill=guide_legend(ncol=legend_cols)) +
-      scale_fill_d3(palette = "category20c")
-
-}
+```{r data}
 exchange <- kxl_data %>%
   keep(~.x$title == "ne_2011-11-07") %>%
   flatten() %>%
   modify_at(
     c("document", "preprocessing", "tokens", "token_counts", "gammas"),
-     ~ filter(.x, order %in% c(613, 614, 617, 618, 624)))
+     ~ filter(.x, order %in% c(613, 614, 617, 618, 624))) %>%
+    pluck("gammas") %>%
+   left_join(topics, by = "topic")
+exchange
 ```
 
 ```{r graph}
 plot <- exchange %>%
-  plot_topic_bars(na_to_zero = T, legend_cols = 3) +
-  facet_wrap(~ order, ncol = 1, scale = "free_x") +
-  labs(title = "Topic loadings by remark")
-ggsave(here("output", "steer.png"), plot, width = 6, height = 7)
+  mutate(topic_n = topic) %>%
+  arrange(topic_n) %>%
+  mutate(topic = as_factor(paste0(topic_n, ": ", short))) %>%
+  ggplot(aes(topic_n, gamma, fill = topic)) +
+    geom_col() +
+    facet_wrap(~ order, ncol = 1, scale = "free_x",
+               strip.position = "left") +
+    scale_x_continuous(breaks = seq(1, 14, 1)) +
+    scale_y_continuous(position = "right", 
+                       breaks = c(0, 0.2, 0.4, 0.6, 0.8)) +
+    labs(x = "Topics", 
+         y = "Prevalence of topic (gamma)") +
+    # theme_minimal() +
+    theme_bw() +
+    # theme(plot.background = element_rect(fill = 'white')) +
+    theme(
+      # legend.position = "bottom",
+      # axis.ticks.x = element_blank(),
+      # axis.text.x = element_blank(),
+      legend.title = element_blank(), 
+      text = element_text(size = 10),
+      legend.box.spacing = unit(0, "pt"), 
+      legend.key.width=unit(0.8,"line"),
+      legend.margin = margin(1,0,1,4, "pt"),
+      axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)
+      ) +
+    guides(fill=guide_legend(ncol=1)) +
+    ggsci::scale_fill_d3(palette = "category20c")
+ggsave(here("output", "steer.png"), plot, width = 4.75, height = 4, unit = "in")
 knitr::include_graphics(here("output", "steer.png"))
 ```

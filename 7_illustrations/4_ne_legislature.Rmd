@@ -1,5 +1,5 @@
 ---
-date: "2022-11-23"
+date: "2022-12-03"
 output: markdown
 ---
 
@@ -23,57 +23,66 @@ kxl_model <- read_rds(here("output", "topic_model.rds"))
 betas <- tidytext:::tidy.LDA(kxl_model, matrix = "beta")
 topics <- yaml::read_yaml(here("input", "topics.yaml")) %>%
   map_dfr(flatten)
+kxl_data <- yaml::read_yaml(here("input", "metadata.yaml"))
 ```
 
-```{r read}
+```{r data}
+legislature <- kxl_data$index %>%
+  keep( ~.x$group == "ne_legislature" & ! str_detect(.x$description, "Floor Debate"))
+# glimpse(legislature)
+```
+
+```{r get_topics}
 source(here("util", "get_topics.R"))
 read_file <- function(entry){
-  read_lines(here("input", "eis_es", entry$file), progress = F) %>%
+  read_lines(here("input", "topics", entry$file), progress = F) %>%
     str_c(collapse = " ") %>%
     get_topics() %>%
-    mutate("order" = entry$order,
-           "title" = entry$title)
+    mutate("title" = entry$title)
 }
-eis_yaml <- yaml::read_yaml(here("input", "eis_es.yaml"))
-eis_es <- map_dfr(eis_yaml, read_file)
-glimpse(eis_es)
+sessions <- map_dfr(legislature, read_file)
+glimpse(sessions)
 ```
 
 ```{r illustration}
-abbr_permit <- c("Keystone I Final Environmental Impact Statement (January 2008)" = "Jan\n'08", 
-          "Keystone XL Draft Environmental Impact Statement (April 2010)" = "Apr\n'10", 
-          "Keystone XL Supplemental Draft Environmental Impact Statement (April 2011)" = "Apr\n'11", 
-          "Kestone XL Final Environmental Impact Statement (August 2011)" = "Aug\n'11", 
-          "Keystone XL Draft Supplemental Environmental Impact Statement (March 2013)" = "Mar\n'13", 
-          "Keystone XL Final Supplemental Environmental Impact Statement (January 2014)" = "Jan\n'14")
-eis_plot <- eis_es %>%
+session_abbr <- c(
+  "ne_2010-02-17" = "Feb\n'10", 
+  "ne_2010-12-01" = "Dec\n'10", 
+  "ne_2011-02-09" = "Feb\n'11", 
+  "ne_2011-11-07" = "Nov 7\n'11", 
+  "ne_2011-11-08" = "Nov 8\n'11",
+  "ne_2011-11-08_judiciary" = "Nov 8*\n'11", 
+  "ne_2011-11-09" = "Nov 9\n'11",
+  "ne_2011-11-15" = "Nov 15\n'11"
+)
+
+sessions_illustration <- sessions %>%
   arrange(topic_n) %>%
-  mutate(title = recode(title, !!! abbr_permit)) %>%
+  mutate(title = recode(title, !!! session_abbr)) %>%
   mutate(title = as_factor(title), 
          topic = as_factor(paste0(topic_n, ": ", topic))) %>%
   ggplot(aes(topic_n, gamma, fill = topic)) +
     geom_col() +
-    facet_wrap(~ title, ncol = 1, scale = "free_x", 
-               strip.position = "left") +
+    facet_wrap(~ title, ncol = 2, scale = "free_x", 
+               strip.position = "left"
+               ) +
     scale_x_continuous(breaks = seq(1, 14, 1)) +
-    scale_y_continuous(position = "right", breaks = c(0, 0.15, 0.3)) +
+    scale_y_continuous(position = "right") +
     labs(x = "Topic", y = "Prevalence") +
-    theme_minimal() +
-    # theme(plot.background = element_rect(fill = 'white')) +
     theme(
       # legend.position = "bottom",
       legend.title = element_blank()) +
     guides(fill=guide_legend(ncol=1)) +
     ggsci::scale_fill_d3(palette = "category20c") + 
-    labs(title = "Topic loadings of Environmental Impact Statements")
-ggsave(here("output", "eis.png"), eis_plot, width = 6, height = 4)
-knitr::include_graphics(here("output", "eis.png"))
+    labs(title = "Topic loadings of Nebraska discourse")
+ggsave(here("output", "legislature.png"), sessions_illustration, width = 9, height = 4)
+knitr::include_graphics(here("output", "legislature.png"))
 ```
 
 ```{r stack}
-eis_stacked <- eis_es %>%
+sessions_stacked <- sessions %>%
   arrange(topic_n) %>%
-  mutate(title = recode(title, !!! abbr_permit)) %>%
+  mutate(title = recode(title, !!! session_abbr)) %>%
   mutate(title = as_factor(title), 
          topic = as_factor(paste0(topic_n, ": ", topic))) %>%
   ggplot(aes(x=title, y=gamma, fill = topic)) +
@@ -86,15 +95,15 @@ eis_stacked <- eis_es %>%
       legend.title = element_blank()) +
     guides(fill=guide_legend(ncol=1)) +
     ggsci::scale_fill_d3(palette = "category20c") + 
-    labs(title = "Topic loadings of permitting documents")
-ggsave(here("output", "eis_stacked.png"), eis_stacked, width = 4.75, height = 4, units = "in")
-knitr::include_graphics(here("output", "eis_stacked.png"))
+    labs(title = "Topic loadings of Nebraska discourse")
+ggsave(here("output", "sessions_stacked.png"), sessions_stacked, width = 6, height = 4, units = "in")
+knitr::include_graphics(here("output", "sessions_stacked.png"))
 ```
 
 ```{r save_data}
-eis_disc <- eis_es %>%
+sessions_disc <- sessions %>%
   arrange(topic_n) %>%
-  mutate(title = recode(title, !!! abbr_permit), 
-         disc = "Permitting")
-write_rds(eis_disc, here("output", "eis_disc.rds"))
+  mutate(title = recode(title, !!! session_abbr), 
+         disc = "Nebraska")
+write_rds(sessions_disc, here("output", "sessions_disc.rds"))
 ```

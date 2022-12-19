@@ -1,0 +1,125 @@
+---
+date: "2022-12-03"
+output: markdown
+---
+
+## Load
+
+```{r load, include=F}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(here)
+options(max.print = 1000)
+util_folder <- c("util")
+
+known_entities <- yaml::read_yaml(here("input", "nlp_input.yaml")) %>%
+  pluck("known_entities") %>%
+  map_dfr(flatten_dfc) %>%
+  {set_names(.$token, regex(.$regex, ignore_case = T))}
+custom_stopwords <- yaml::read_yaml(here("input", "nlp_input.yaml")) %>%
+  pluck("custom_stopwords")
+compounds <- read_lines(here("output", "compounds.txt"))
+kxl_model <- read_rds(here("output", "topic_model.rds"))
+betas <- tidytext:::tidy.LDA(kxl_model, matrix = "beta")
+topics <- yaml::read_yaml(here("input", "topics.yaml")) %>%
+  map_dfr(flatten)
+kxl_data <- read_rds(here("output", "data_betas.rds"))
+```
+
+```{r read}
+input <- tribble(
+  ~file, ~order, ~title,
+  c("input/topics/letters/dems_2010-06-22.txt"), 
+  1, "Letter June 22, 2010",
+  c("input/topics/letters/science_2011-06-03.txt"),  
+  2, "Letter June 3, 2011",
+  c("input/topics/letters/klein_2011-06-23.txt"), 
+  3, "Letter June 23, 2011",
+  c("input/topics/letters/science_2011-08-03.txt"), 
+  4, "Letter August 3, 2011",
+  c("input/other/nobel_2011-09-07.txt"),
+  5, "Letter September 7, 2011"
+) %>%
+  apply(1, as.list)
+```
+
+```{r get_topics}
+source(here("util", "get_topics.R"))
+read_file <- function(entry){
+  read_lines(here(entry$file), progress = F) %>%
+    str_c(collapse = " ") %>%
+    get_topics() %>%
+    mutate("order" = as.integer(entry$order),
+           "title" = entry$title)
+}
+letters <- map_dfr(input, read_file)
+glimpse(letters)
+```
+
+```{r illustration}
+letters_plot <- letters %>%
+  arrange(topic_n) %>%
+  mutate(title = as_factor(title), 
+         topic = as_factor(paste0(topic_n, ": ", topic))) %>%
+  ggplot(aes(topic_n, gamma, fill = topic)) +
+    geom_col() +
+    facet_wrap(~ title, ncol = 1, scale = "free_x", 
+               # strip.position = "left"
+               ) +
+    scale_x_continuous(breaks = seq(1, 14, 1)) +
+    scale_y_continuous(position = "right", breaks = c(0, 0.15, 0.3)) +
+    labs(x = "Topic", 
+         y = "Prevalence of topic (gamma)") +
+    # theme_minimal() +
+    theme_bw() +
+    # theme(plot.background = element_rect(fill = 'white')) +
+    theme(
+      # legend.position = "bottom",
+      legend.title = element_blank(),
+      text = element_text(size = 10),
+      legend.box.spacing = unit(0, "pt"), 
+      legend.key.width=unit(0.8,"line"),
+      legend.margin = margin(1,0,1,4, "pt"),
+      axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1), 
+      plot.title = element_text(hjust = 0.1)) +
+    guides(fill=guide_legend(ncol=1)) +
+    ggsci::scale_fill_d3(palette = "category20c") + 
+    labs(title = "Topic loadings of key documents--macro discourse")
+ggsave(here("output", "letters.png"), letters_plot, width = 4.75, height = 4)
+knitr::include_graphics(here("output", "letters.png"))
+```
+
+```{r stack}
+letter_abbr <- c("Letter June 22, 2010" = "Jun\n'10", 
+          "Letter June 3, 2011" = "Jun 3\n'11",
+          "Letter June 23, 2011" = "Jun 23\n'11", 
+          "Letter August 3, 2011" = "Aug\n'11", 
+          "Letter September 7, 2011" = "Sep\n'11")
+
+letters_stacked <- letters %>%
+  arrange(topic_n) %>%
+  mutate(title = recode(title, !!! letter_abbr)) %>%
+  mutate(title = as_factor(title), 
+         topic = as_factor(paste0(topic_n, ": ", topic))) %>%
+  ggplot(aes(x=title, y=gamma, fill = topic)) +
+    geom_col(position = "stack") +
+    labs(x = "Document", y = "Prevalence of topic (gamma)") +
+    theme_minimal() +
+    # theme(plot.background = element_rect(fill = 'white')) +
+    theme(
+      # legend.position = "bottom",
+      legend.title = element_blank()) +
+    guides(fill=guide_legend(ncol=1)) +
+    ggsci::scale_fill_d3(palette = "category20c") + 
+    labs(title = "Topic loadings of national discourse")
+ggsave(here("output", "letters_stacked.png"), letters_stacked, width = 4.75, height = 4, units = "in")
+knitr::include_graphics(here("output", "letters_stacked.png"))
+```
+
+```{r save_data}
+letters_disc <- letters %>%
+  arrange(topic_n) %>%
+  mutate(title = recode(title, !!! letter_abbr), 
+         disc = "National")
+write_rds(letters_disc, here("output", "letters_disc.rds"))
+```

@@ -1,0 +1,114 @@
+---
+date: "2022-12-03"
+output: markdown
+---
+
+## Load
+
+```{r library}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(here)
+library(lemon)
+options(max.print = 1000)
+util_folder <- c("util")
+```
+
+```{r load}
+letters <- read_rds(here("output", "letters_disc.rds"))
+sessions <- read_rds(here("output", "sessions_disc.rds"))
+eis <- read_rds(here("output", "eis_disc.rds"))
+
+discs <- bind_rows(letters, eis, sessions)
+discs
+```
+
+```{r shift_legend}
+shift_legend2 <- function(p) {
+  # ...
+  # to grob
+  gp <- ggplotGrob(p)
+  facet.panels <- grep("^panel", gp[["layout"]][["name"]])
+  empty.facet.panels <- sapply(facet.panels, function(i) "zeroGrob" %in% class(gp[["grobs"]][[i]]))
+  empty.facet.panels <- facet.panels[empty.facet.panels]
+
+  # establish name of empty panels
+  empty.facet.panels <- gp[["layout"]][empty.facet.panels, ]
+  names <- empty.facet.panels$name
+  # example of names:
+  #[1] "panel-3-2" "panel-3-3"
+
+# now we just need a simple call to reposition the legend
+  reposition_legend(p, 'left', panel=names, plot = F)
+}
+```
+
+```{r plot}
+recode_ne <- c(
+  # "Nebraska regulations" = "State regulations", 
+  "Witness examination" = "Witness examin.       "
+  )
+recode_datasets <- c(
+  # "Nebraska" = "Nebraska\ndiscourse",
+  # "National" = "National\ndiscourse", 
+  # "Permitting" = "Permitting\nprocess"
+  "Nebraska" = "Micro/Local",
+  "National" = "Macro/National", 
+  "Permitting" = "Meso/Permitting"
+)
+
+order <- tribble(~ title, ~ order_title,
+                 "Jan\n'08", 1, 
+                 "Feb\n'10", 2,
+                 "Apr\n'10", 3, 
+                 "Jun\n'10", 4, 
+                 "Dec\n'10", 5, 
+                 "Feb\n'11", 6, 
+                 "Apr\n'11", 7, 
+                 "Jun 3\n'11", 8, 
+                 "Jun 23\n'11", 9, 
+                 "Aug\n'11", 10, 
+                 "Sep\n'11", 11, 
+                 "Nov 7\n'11", 12,  
+                 "Nov 8\n'11", 13, 
+                 "Nov 8*\n'11", 14, 
+                 "Nov 9\n'11", 15, 
+                 "Nov 15\n'11", 16,
+                 "Mar\n'13", 17, 
+                 "Jan\n'14", 18
+           )
+
+compare_discs_plot <- discs %>%
+  left_join(order, by = "title") %>%
+  arrange(topic_n) %>%
+  mutate(topic = recode(topic, !!! recode_ne)) %>%
+  mutate(disc = recode(disc, !!! recode_datasets)) %>%
+  mutate(title = fct_reorder(title, order_title), 
+         topic = as_factor(paste0(topic_n, ": ", topic))) %>%
+  ggplot(aes(x=title, y=gamma, fill = topic)) +
+    facet_wrap(~ disc, ncol = 2, scale = "free", 
+               strip.position = "right") +
+    geom_col(position = "stack") +
+    labs(x = "Document", y = "Prevalence of topic (gamma)") +
+    theme_minimal() +
+    # theme(plot.background = element_rect(fill = 'white')) +
+    theme(
+      # legend.position = "bottom",
+      legend.title = element_blank(),
+      axis.title.x = element_blank(),
+      plot.caption = element_text(hjust = 0),
+      panel.spacing = unit(1, "lines"),
+      strip.background = element_rect(linewidth = 0.5)
+      ) +
+    # scale_y_continuous(position = "right") +
+    guides(fill=guide_legend(ncol=1)) +
+    ggsci::scale_fill_d3(palette = "category20c") + 
+    labs(title = "Topic loadings of key documents", 
+         caption = "*: Judicial Committee. Other hearings by Natural Resources Committee") +
+    guides(fill=guide_legend(ncol=2))
+compare_discs_plot <- shift_legend2(compare_discs_plot)
+
+
+ggsave(here("output", "compare_discs_plot.png"), compare_discs_plot, width = 9, height = 4, units = "in")
+knitr::include_graphics(here("output", "compare_discs_plot.png"))
+```
