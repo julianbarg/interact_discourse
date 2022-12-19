@@ -1,0 +1,70 @@
+---
+date: "2022-11-11"
+output: markdown
+---
+
+## Load
+
+```{r load, include=F}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(here)
+library(glue)
+library(topicmodels)
+options(max.print = 1000)
+util_folder <- c("util")
+beep <- function(){
+  system(str_c("notify-send 'Task complete.'",
+               "&& paplay /usr/share/sounds/Yaru/stereo/message.oga"))
+}
+```
+
+```{r data}
+sessions <- c("ne_2011-02-09", 
+              "ne_2011-11-07", 
+              "ne_2011-11-08", 
+              "ne_2011-11-08_judiciary", 
+              "ne_2011-11-09", 
+              "ne_2011-11-15")
+kxl_data <- read_rds(here("output", "data_betas.rds")) %>%
+  keep(~ .x$title %in% sessions)
+glimpse(kxl_data[[5]])
+
+people <- yaml::read_yaml(here("input", "people.yaml")) %>%
+  map_dfr(flatten)
+topics <- yaml::read_yaml(here("input", "topics.yaml")) %>%
+  map_dfr(flatten)
+glimpse(kxl_data[[1]])
+```
+
+```{r }
+get_flow <- function(entry){
+  topics <- entry$gamma %>%
+    pivot_wider(id_cols = order,
+                names_from = topic,
+                values_from = gamma,
+                names_prefix = "topic_") %>%
+    rowwise() %>%
+    nest(topics = starts_with("topic_")) %>%
+    ungroup %>%
+    select(-starts_with("topic_"))
+
+  entry$document %>%
+    filter(! str_detect(person, regex("^Senator"))) %>%
+    mutate(words = str_count(content, " ")) %>%
+    select(-content) %>%
+    arrange(order) %>%
+    mutate(change = person != lag(person),
+           change = ifelse(is.na(change), F, change),
+           id = cumsum(change)) %>%
+    select(-change) %>%
+    left_join(topics, by = "order") %>%
+    select(order, person, id, words, topics)
+}
+
+# source(here("util", "get_flow.R"))
+kxl_convo <- kxl_data %>%
+  map(~ list_modify(.x, convo = get_flow(.x)))
+glimpse(kxl_convo[[1]])
+write_rds(kxl_convo, here("output", "data_convo.rds"))
+```
