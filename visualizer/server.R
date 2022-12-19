@@ -52,7 +52,8 @@ shinyServer(function(input, output, session) {
   convo_plot <- reactive({
     convo_ls() %>%
       plot_topic_bars(na_to_zero = T, legend_cols = input$legend_cols) +
-      facet_wrap(~ order, ncol = 1, scale = "free_x") +
+      facet_wrap(~ order, ncol = 1, scale = "free_x",
+                 strip.position = "left") +
       labs(title = "Topic loadings by remark")
   }) %>%
     bindEvent(input$update_convo, ignoreNULL = FALSE)

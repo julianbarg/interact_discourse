@@ -30,7 +30,7 @@ shinyUI(fluidPage(
           ),
           fluidRow(
             column(6, numericInput(
-              "legend_cols", "Columns (Legend):", 3, step = 1)),
+              "legend_cols", "Columns (Legend):", 1, step = 1)),
             column(6, actionButton(inputId = "update_convo", label = "Update"))
           ),
           tags$hr(),

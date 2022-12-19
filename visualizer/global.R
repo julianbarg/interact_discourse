@@ -71,10 +71,14 @@ plot_topic_bars <- function(entry, na_to_zero = F, legend_cols = 3){
     mutate(description = fct_reorder(description, topic)) %>%
     ggplot(aes(topic, gamma, fill = description)) +
       geom_col() +
+      scale_y_continuous(position = "right") +
       scale_x_continuous(breaks = seq(1, 14, 1)) +
       labs(x = "Topic", y = "Prevalence") +
-      theme(legend.position = "bottom",
-            legend.title = element_blank()) +
+      theme_bw() +
+      theme(
+        # legend.position = "bottom",
+        legend.title = element_blank()
+        ) +
       guides(fill=guide_legend(ncol=legend_cols)) +
       scale_fill_d3(palette = "category20c")
 
